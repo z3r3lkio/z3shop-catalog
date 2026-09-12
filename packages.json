@@ -1,5 +1,24 @@
 {
   "name": "Z3Shop",
-  "version": 1,
-  "packages": []
+  "version": 2,
+  "packages": [
+    {
+      "id": "z3shop-catalog-selftest",
+      "name": "Z3Shop Catalog Self-Test",
+      "description": "Diagnostic catalog entry used to validate HTTPS, JSON parsing, filtering and UI rendering.",
+      "category": "homebrew",
+      "redistributable": true,
+      "installable": false,
+      "url": ""
+    },
+    {
+      "id": "filter-selftest",
+      "name": "FILTERED TEST ENTRY",
+      "description": "This entry must never appear in Z3Shop because redistributable is false.",
+      "category": "homebrew",
+      "redistributable": false,
+      "installable": false,
+      "url": ""
+    }
+  ]
 }
