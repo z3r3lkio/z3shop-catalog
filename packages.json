@@ -1,11 +1,27 @@
 {
   "name": "Z3Shop",
-  "version": 5,
+  "version": 6,
   "packages": [
+    {
+      "id": "itemzflow-game-manager",
+      "name": "Itemzflow_Game_Manager",
+      "description": "Itemzflow_Game_Manager.",
+      "type": "app",
+      "category": "apps",
+      "featured": true,
+      "redistributable": true,
+      "installable": true,
+      "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg",
+      "icon_url": "",
+      "version": "v1.14.",
+      "author": "Itemzflow",
+      "homepage": "https://github.com/LightningMods/Itemzflow",
+      "release_notes": "Discovered via nexgen-aio-pkg"
+    },
     {
       "id": "ps5-homebrew-launcher",
       "name": "PS5 Homebrew Launcher",
-      "description": "Launch and manage PS5 homebrew content from a lightweight redistributable launcher.",
+      "description": "Launch and manage PS5 homebrew content from the ps5-payload-dev websrv launcher.",
       "type": "app",
       "category": "apps",
       "featured": true,
@@ -13,10 +29,219 @@
       "installable": true,
       "url": "https://github.com/ps5-payload-dev/websrv/raw/refs/heads/master/homebrew/IV9999-FAKE00000_00-HOMEBREWLOADER01.pkg",
       "icon_url": "https://raw.githubusercontent.com/ps5-payload-dev/websrv/master/icon0.png",
-      "version": "current",
+      "version": "v0.34",
       "author": "ps5-payload-dev",
       "homepage": "https://github.com/ps5-payload-dev/websrv",
-      "release_notes": "Public redistributable launcher used by Z3Shop for native app launching."
+      "release_notes": "v0.34"
+    },
+    {
+      "id": "ps5-xplorer",
+      "name": "PS5-Xplorer",
+      "description": "PS5-Xplorer.",
+      "type": "app",
+      "category": "apps",
+      "featured": true,
+      "redistributable": true,
+      "installable": true,
+      "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5-Xplorer_v1.05.pkg",
+      "icon_url": "",
+      "version": "v1.05.",
+      "author": "Lapy",
+      "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
+      "release_notes": "Discovered via nexgen-aio-pkg"
+    },
+    {
+      "id": "prospero-light",
+      "name": "ProsperoLight",
+      "description": "PS5 Moonlight client for game streaming.",
+      "type": "ffspsc",
+      "category": "apps",
+      "featured": true,
+      "redistributable": true,
+      "installable": true,
+      "url": "https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc",
+      "icon_url": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoLight/main/sce_sys/icon0.png",
+      "version": "01.000.060",
+      "author": "blackbearreloaded",
+      "homepage": "https://github.com/blackbearreloaded/ProsperoLight",
+      "release_notes": "ProsperoLight 01.000.060"
+    },
+    {
+      "id": "prospero-radio",
+      "name": "ProsperoRadio",
+      "description": "Native PS5 internet radio player.",
+      "type": "ffspsc",
+      "category": "apps",
+      "featured": true,
+      "redistributable": true,
+      "installable": true,
+      "url": "https://github.com/blackbearreloaded/ProsperoRadio/releases/download/01.000.005/PPSA99001.ffpfsc",
+      "icon_url": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoRadio/main/sce_sys/icon0.png",
+      "version": "01.000.005",
+      "author": "blackbearreloaded",
+      "homepage": "https://github.com/blackbearreloaded/ProsperoRadio",
+      "release_notes": "ProsperoRadio 01.000.005"
+    },
+    {
+      "id": "prospero-tv",
+      "name": "ProsperoTV",
+      "description": "Native PS5 IPTV player.",
+      "type": "ffspsc",
+      "category": "apps",
+      "featured": true,
+      "redistributable": true,
+      "installable": true,
+      "url": "https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.002/PPSA99003.ffpfsc",
+      "icon_url": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoTV/main/sce_sys/icon0.png",
+      "version": "01.000.002",
+      "author": "blackbearreloaded",
+      "homepage": "https://github.com/blackbearreloaded/ProsperoTV",
+      "release_notes": "ProsperoTV 01.000.002"
+    },
+    {
+      "id": "avatar-changer",
+      "name": "Avatar-Changer",
+      "description": "Avatar-Changer.",
+      "type": "app",
+      "category": "apps",
+      "featured": false,
+      "redistributable": true,
+      "installable": true,
+      "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg",
+      "icon_url": "",
+      "version": "v1.00.",
+      "author": "Lapy",
+      "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
+      "release_notes": "Discovered via nexgen-aio-pkg"
+    },
+    {
+      "id": "fpkgi",
+      "name": "FPKGi",
+      "description": "FPKGi.",
+      "type": "app",
+      "category": "apps",
+      "featured": false,
+      "redistributable": true,
+      "installable": true,
+      "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_FPKGi_v1.10.0.pkg",
+      "icon_url": "",
+      "version": "v1.10.0.",
+      "author": "ItsJokerZz",
+      "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
+      "release_notes": "Discovered via nexgen-aio-pkg"
+    },
+    {
+      "id": "homebrew-store-installer",
+      "name": "Homebrew_Store_installer",
+      "description": "Homebrew_Store.",
+      "type": "app",
+      "category": "apps",
+      "featured": false,
+      "redistributable": true,
+      "installable": true,
+      "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Homebrew_Store_installer.pkg",
+      "icon_url": "",
+      "version": "v1.0.0",
+      "author": "pkg-zone",
+      "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
+      "release_notes": "Discovered via nexgen-aio-pkg"
+    },
+    {
+      "id": "internetbrowser-game-menu",
+      "name": "InternetBrowser-Game_Menu",
+      "description": "InternetBrowser-Game_Menu.",
+      "type": "app",
+      "category": "apps",
+      "featured": false,
+      "redistributable": true,
+      "installable": true,
+      "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg",
+      "icon_url": "",
+      "version": "v1.00.",
+      "author": "ps5xploit",
+      "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
+      "release_notes": "Discovered via nexgen-aio-pkg"
+    },
+    {
+      "id": "internetbrowser-media-menu",
+      "name": "InternetBrowser-Media_Menu",
+      "description": "InternetBrowser-Media_Menu.",
+      "type": "app",
+      "category": "apps",
+      "featured": false,
+      "redistributable": true,
+      "installable": true,
+      "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg",
+      "icon_url": "",
+      "version": "v1.00.",
+      "author": "ps5xploit",
+      "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
+      "release_notes": "Discovered via nexgen-aio-pkg"
+    },
+    {
+      "id": "ps5-shop-appkg",
+      "name": "PS5-SHOP-APPKG",
+      "description": "PS5 browser-based homebrew apps store package.",
+      "type": "app",
+      "category": "apps",
+      "featured": false,
+      "redistributable": true,
+      "installable": true,
+      "url": "https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/PS5-SHOP-APPKG.pkg",
+      "icon_url": "",
+      "version": "1.0.0",
+      "author": "ps5xploit",
+      "homepage": "https://github.com/ps5xploit/ps5shopappkg",
+      "release_notes": "Pinned to the ps5shopappkg homebrew-store release tag."
+    },
+    {
+      "id": "ps5webit-nexgen999-installer",
+      "name": "PS5Webit-Nexgen999_Installer",
+      "description": "PS5Webit-Nexgen999_Installer.",
+      "type": "app",
+      "category": "apps",
+      "featured": false,
+      "redistributable": true,
+      "installable": true,
+      "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg",
+      "icon_url": "",
+      "version": "v1.00.",
+      "author": "Master0",
+      "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
+      "release_notes": "Discovered via nexgen-aio-pkg"
     }
-  ]
+  ],
+  "_sources": [
+    {
+      "id": "nexgen-aio-pkg",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/main/PKGjson/pkg.json"
+    },
+    {
+      "id": "prospero-light",
+      "url": "https://api.github.com/repos/blackbearreloaded/ProsperoLight/releases/latest"
+    },
+    {
+      "id": "prospero-radio",
+      "url": "https://api.github.com/repos/blackbearreloaded/ProsperoRadio/releases/latest"
+    },
+    {
+      "id": "prospero-tv",
+      "url": "https://api.github.com/repos/blackbearreloaded/ProsperoTV/releases/latest"
+    },
+    {
+      "id": "ps5-payload-dev-websrv",
+      "url": "https://api.github.com/repos/ps5-payload-dev/websrv/releases/latest"
+    },
+    {
+      "id": "ps5xploit-ps5shopappkg",
+      "url": "https://api.github.com/repos/ps5xploit/ps5shopappkg/releases/tags/ps5shopappkg"
+    }
+  ],
+  "_stats": {
+    "packages": 13,
+    "featured": 6,
+    "apps": 10,
+    "ffspsc": 3
+  },
+  "_generated": "2026-09-13T19:54:00.179Z"
 }
