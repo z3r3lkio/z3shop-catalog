@@ -1,0 +1,662 @@
+{
+  "name": "Z3Shop Games",
+  "version": 1,
+  "source": "gfs-pfs-library",
+  "page": 7,
+  "page_size": 24,
+  "total": 353,
+  "pages": 15,
+  "generated": "2026-09-13T20:49:47.360Z",
+  "games": [
+    {
+      "id": "6a719519a80b138b911d68ed",
+      "title_id": "PPSA10595",
+      "title": "Tekken 8",
+      "version": "03.000.001",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 112742891520,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0312/7d3a133bb2f995b7edf9fc74961637017cf02a688228c154.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0312/c7c8d6fcc443743f7e9a704319fc2e2c7883b95673ca4a5e.jpg",
+      "updated_at": "2026-08-04T07:59:35.197Z",
+      "link_count": 3,
+      "providers": [
+        "Viki",
+        "Archive (Game + DLC)"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a4e1cb7610db3f092622ff5",
+      "title_id": "PPSA21915",
+      "title": "Undisputed",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_raw": [
+        "4.xx Backport"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 15676630630,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2409/b9934de21d70f1b4f3b56dff838901eb46c32941a36ec4e6.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2715/4d10272187b5e905494bd02d95a3fa97bfca5921a6fe7e02.jpg",
+      "updated_at": "2026-08-04T07:59:30.040Z",
+      "link_count": 3,
+      "providers": [
+        "Archive (Game + DLC)",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a7194a4a80b138b911d68ec",
+      "title_id": "PPSA14632",
+      "title": "LEGO Horizon Adventures",
+      "version": "01.004",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 15354508083,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2013/19301ff6f9bf6236c2bc6bbadbb3867fa4b0134bbd31329c.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2013/19301ff6f9bf6236c2bc6bbadbb3867fa4b0134bbd31329c.jpg",
+      "updated_at": "2026-08-04T07:58:26.258Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a719460a80b138b911d68eb",
+      "title_id": "PPSA04987",
+      "title": "Powerwash Simulator",
+      "version": "01.018",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "6.xx+"
+      ],
+      "firmware_raw": [
+        "6.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 14173392077,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1117/SMOpSU39YJQ99GX2hg8u4ZW2.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0817/mpg63ASn1HZMe7igI065R7gq.jpg",
+      "updated_at": "2026-08-04T07:58:19.543Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a719410a80b138b911d68ea",
+      "title_id": "PPSA06693",
+      "title": "Remnant II®",
+      "version": "01.039",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 90086939034,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/1420/bcc5e31622016354beab02ff7993fe1034bec9ec3995b3cf.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/1420/3e491943f563579eacc42e92a18ed8edb61b8f03ea8628d3.jpg",
+      "updated_at": "2026-08-04T07:58:07.857Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a7193cfa80b138b911d68e9",
+      "title_id": "PPSA18154",
+      "title": "Tomb Raider IV-VI Remastered",
+      "version": "01.005",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "9.xx+"
+      ],
+      "firmware_raw": [
+        "9.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 8482560410,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1221/1da4bfbbe452c4dcde6af0628c055e5b927a0a3dbed3b916.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1221/85006e3582d8b415bf4b7b2aa884c8ddf2f1a7d5d7d2083e.jpg",
+      "updated_at": "2026-08-04T07:58:00.714Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a719362a80b138b911d68e8",
+      "title_id": "PPSA04379",
+      "title": "Construction Simulator Gold Edition",
+      "version": "01.040",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 11703785882,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2416/db251ea4474837d3a127f2dbc95e282100dce2f06413886f.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2416/db251ea4474837d3a127f2dbc95e282100dce2f06413886f.jpg",
+      "updated_at": "2026-08-04T07:57:52.109Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a70800da80b138b911d68e3",
+      "title_id": "PPSA04933",
+      "title": "Who Wants To Be A Millionaire New Edition",
+      "version": "01.008",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx and beyond"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 2340757176,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2310/xsATBZXPfletz5w0ojvJo1QO.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2310/xsATBZXPfletz5w0ojvJo1QO.jpg",
+      "updated_at": "2026-08-03T11:48:29.407Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a706a56a80b138b911d68e2",
+      "title_id": "PPSA17221",
+      "title": "Minecraft",
+      "version": "01.044",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_raw": [
+        "4.xx Backport"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 891205714,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1020/91fe046f742042e3b31e57f7731dbe2226e1fd1e02a36223.jpg",
+      "updated_at": "2026-08-03T10:15:50.562Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a706074a80b138b911d68e1",
+      "title_id": "PPSA05849",
+      "title": "Redout 2 Deluxe Edition",
+      "version": "01.107",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx and beyond"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 19327352832,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1510/OOGRaIGamHEiRQVmZ9bbwUZN.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1510/OOGRaIGamHEiRQVmZ9bbwUZN.jpg",
+      "updated_at": "2026-08-03T09:33:40.197Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a70603ca80b138b911d68e0",
+      "title_id": "PPSA01289",
+      "title": "Sackboy A Big Adventure",
+      "version": "01.024",
+      "pack": "unknown",
+      "region": "USA to EUR Languages",
+      "firmware": [
+        "1.xx+"
+      ],
+      "firmware_raw": [
+        "1.xx beyond"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 34681860915,
+      "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVtmTA6aubIjV6VlwR09DJY_lQmHca7UQlTU2IFaGPie1lyzHbF4X3NYpsHTVL87DMTedwvA&s=10",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/1614/F3WT1i11qaAoJjAErwUywN4x.jpg",
+      "updated_at": "2026-08-03T09:32:44.984Z",
+      "link_count": 3,
+      "providers": [
+        "Archive (Game + DLC)",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a705fbaa80b138b911d68df",
+      "title_id": "PPSA07905",
+      "title": "Still Wakes The Deep",
+      "version": "01.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 9298604196,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0715/a399fdf00e0556080e172379da5f138f905e59d9e75e4248.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2309/e57731020194669f06357c3ce8752a423fa5848142044c7d.jpg",
+      "updated_at": "2026-08-03T09:30:34.431Z",
+      "link_count": 2,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a705f91a80b138b911d68de",
+      "title_id": "PPSA09664",
+      "title": "Dragons Dogma 2",
+      "version": "03.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_raw": [
+        "4.xx backport"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 80208514253,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1309/916b7de8938fa4ff658296086312a6cc386e5fb8c9d17275.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1309/11cc96ad365cb9644d52030ae69d615a651170647ec10bdd.jpg",
+      "updated_at": "2026-08-03T09:29:53.209Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a6f6bd4a80b138b911d68da",
+      "title_id": "PPSA16387",
+      "title": "Hitman World of Assassination Deluxe Edition",
+      "version": "01.038",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 76128295322,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1212/6bdf3ed74af51798340eee836753c2cc296851cbc5db6c05.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1212/6bdf3ed74af51798340eee836753c2cc296851cbc5db6c05.jpg",
+      "updated_at": "2026-08-03T00:56:38.035Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a6f6b85a80b138b911d68d9",
+      "title_id": "PPSA08592",
+      "title": "Monster Energy Supercross The Official Videogame 6",
+      "version": "01.008",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 22333829939,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1716/mA2rn88VjcO0d03VdM1GIISs.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1716/QrvBx8ipchNxk4Ih9qGeMzY3.jpg",
+      "updated_at": "2026-08-03T00:56:10.193Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a6f6b2ea80b138b911d68d8",
+      "title_id": "PPSA03603",
+      "title": "Marvels Midnight Suns Enhanced Edition",
+      "version": "01.013",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 47459388621,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2701/tkBDNWRxMZB46GumvEFzBShn.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2701/NFReCCutPJloM2CUiuHlqapM.jpg",
+      "updated_at": "2026-08-03T00:55:56.408Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a6f6c74a80b138b911d68dc",
+      "title_id": "PPSA02213",
+      "title": "The King of Fighters XV",
+      "version": "02.004.002",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx and beyond"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 92019674317,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2809/JxRQ1lD90Sk5e7LeFdawS37i.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2809/JxRQ1lD90Sk5e7LeFdawS37i.jpg",
+      "updated_at": "2026-08-02T16:12:36.940Z",
+      "link_count": 3,
+      "providers": [
+        "Viki",
+        "Archive (Game + DLC)"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a6f6c21a80b138b911d68db",
+      "title_id": "PPSA03098",
+      "title": "Dead Island 2 Ultimate Edition",
+      "version": "01.000.011",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 79456894976,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1809/dfe459173f82a0a52ab4b0f7f2d9d8ef4efe92ef1fdd19c3.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1809/07e91e101529a48cdf8c0771f79aa603e2a26a016aba91f2.jpg",
+      "updated_at": "2026-08-02T16:11:13.651Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3a5da0671735371f2c24c5",
+      "title_id": "PPSA34299",
+      "title": "WWE 2K26",
+      "version": "01.006",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 142807662592,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1209/f0440827160fa1f2f757f957b32b09d8ca7bd02311f43146.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1209/a247b6822c435aa171ba98ff1855c36ceaf8ece5918094b5.jpg",
+      "updated_at": "2026-07-31T14:33:14.960Z",
+      "link_count": 3,
+      "providers": [
+        "Archive",
+        "Viki",
+        "Filekeeper"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a6c906ea80b138b911d68d2",
+      "title_id": "PPSA17313",
+      "title": "Choo-Choo Charles",
+      "version": "02.000",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_raw": [
+        "7.xx beyond"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 1760936591,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0516/fb54118fae8a00c60d09937ad357c60d1c023abf5862b9ba.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0516/b72557c9c8aeb20d2d047ae7ddae688bd9de8f742d6e1035.jpg",
+      "updated_at": "2026-07-31T12:09:28.495Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a6b6ba4a80b138b911d68cf",
+      "title_id": "PPSA01552",
+      "title": "Dirt 5",
+      "version": "06.005",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "2.xx+"
+      ],
+      "firmware_raw": [
+        "2.xx above"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 59914793779,
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202107/2009/0UhqjqNJBVttiM1xzQOVlyl9.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0412/wHEKIQNTOV9f8GX7szFwckWJ.jpg",
+      "updated_at": "2026-07-30T15:22:02.095Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a4b21062860efac54e4aa97",
+      "title_id": "PPSA25153",
+      "title": "Jurassic World Evolution 3",
+      "version": "01.002.006",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "11.xx+"
+      ],
+      "firmware_raw": [
+        "11.xx beyond"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 17501991731,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0909/b19494d1e6f2af9c591ac042d0fbcb415f44f61dc34e89f2.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0909/b19494d1e6f2af9c591ac042d0fbcb415f44f61dc34e89f2.jpg",
+      "updated_at": "2026-07-30T15:21:55.993Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028ae",
+      "title_id": "PPSA07580",
+      "title": "WRC Generations",
+      "version": "1.004",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6",
+      "dlcs_merged": false,
+      "size_bytes": 40480066765,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1809/wIEeUy8bB3FC8DMPMHnCxulJ.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1908/CDQPp8NFWSXF19DdDjrOzfEh.jpg",
+      "updated_at": "2026-07-30T14:12:09.609Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028b6",
+      "title_id": "PPSA26344",
+      "title": "Ghost of Yotei: Deluxe Edition",
+      "version": "1.008.000",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "4.xx+",
+        "11.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx+",
+        "11.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 102961103503,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/49934c62a922417e86bd3fc61a59b116cf7ae51e91d9a9de.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/49934c62a922417e86bd3fc61a59b116cf7ae51e91d9a9de.jpg",
+      "updated_at": "2026-07-30T05:44:03.383Z",
+      "link_count": 4,
+      "providers": [
+        "Viki",
+        "Akira",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    }
+  ]
+}

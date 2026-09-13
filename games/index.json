@@ -1,0 +1,112 @@
+{
+  "name": "Z3Shop Games",
+  "version": 1,
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages",
+    "mode": "metadata-only"
+  },
+  "generated": "2026-09-13T20:49:47.360Z",
+  "total": 353,
+  "page_size": 24,
+  "pages": 15,
+  "pack_counts": {
+    "unknown": 299,
+    "pfs": 44,
+    "lz4": 6,
+    "fpkg": 4
+  },
+  "region_counts": {
+    "USA": 170,
+    "EUR": 143,
+    "JPN": 22,
+    "ASIA": 5,
+    "USA to EUR Languages": 4,
+    "USA to EUR Langs": 3,
+    "HK": 2,
+    "JPN to EUR Languages": 2,
+    "ASIA to EUR Languages": 1,
+    "ASIA to JPN Langs": 1
+  },
+  "apr_enabled": 141,
+  "dlcs_merged": 69,
+  "search_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/search.json",
+  "pages_index": [
+    {
+      "page": 1,
+      "count": 24,
+      "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-001.json"
+    },
+    {
+      "page": 2,
+      "count": 24,
+      "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-002.json"
+    },
+    {
+      "page": 3,
+      "count": 24,
+      "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-003.json"
+    },
+    {
+      "page": 4,
+      "count": 24,
+      "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-004.json"
+    },
+    {
+      "page": 5,
+      "count": 24,
+      "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-005.json"
+    },
+    {
+      "page": 6,
+      "count": 24,
+      "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-006.json"
+    },
+    {
+      "page": 7,
+      "count": 24,
+      "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-007.json"
+    },
+    {
+      "page": 8,
+      "count": 24,
+      "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-008.json"
+    },
+    {
+      "page": 9,
+      "count": 24,
+      "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-009.json"
+    },
+    {
+      "page": 10,
+      "count": 24,
+      "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-010.json"
+    },
+    {
+      "page": 11,
+      "count": 24,
+      "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-011.json"
+    },
+    {
+      "page": 12,
+      "count": 24,
+      "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-012.json"
+    },
+    {
+      "page": 13,
+      "count": 24,
+      "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-013.json"
+    },
+    {
+      "page": 14,
+      "count": 24,
+      "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-014.json"
+    },
+    {
+      "page": 15,
+      "count": 17,
+      "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-015.json"
+    }
+  ],
+  "note": "Metadata feed only. Provider download URLs are intentionally not mirrored in this catalog."
+}

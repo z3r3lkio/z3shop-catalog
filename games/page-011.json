@@ -1,0 +1,649 @@
+{
+  "name": "Z3Shop Games",
+  "version": 1,
+  "source": "gfs-pfs-library",
+  "page": 11,
+  "page_size": 24,
+  "total": 353,
+  "pages": 15,
+  "generated": "2026-09-13T20:49:47.360Z",
+  "games": [
+    {
+      "id": "6a59ff59664b52645fefe0aa",
+      "title_id": "PPSA09165",
+      "title": "Rez Infinite",
+      "version": "01.008.000",
+      "pack": "pfs",
+      "region": "ASIA",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_raw": [
+        "5.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 730144440,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2019/UUGRUNpeTSKdk3IJC6ES5E5R.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1507/9c81cb48e634ad6359111f50b462dceb6985df2173e940c0.png",
+      "updated_at": "2026-07-17T10:09:29.897Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a424c2da3a3301e1ecd7b75",
+      "title_id": "PPSA24096",
+      "title": "Cronos The New Dawn",
+      "version": "01.010",
+      "pack": "pfs",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 21904333210,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1511/b60b574c32546f9b5d263b1b38a541abe35e250797f18bde.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1513/6fd0970db121f173f887058a1c1d35f6bbd64f5540c1a10a.jpg",
+      "updated_at": "2026-07-17T06:39:52.443Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a59c07f664b52645fefe0a4",
+      "title_id": "PPSA01628",
+      "title": "Call of Duty Black Ops Cold War",
+      "version": "01.040",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "2.xx+"
+      ],
+      "firmware_raw": [
+        "2.xx"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 296578229207,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/0618/epqD0ZAsuCMkSYVBRMUp5bYk.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1101/kG7wVsECFlr1lWXHbO7LZ0Nt.png",
+      "updated_at": "2026-07-17T05:41:19.930Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a412ed6d73bf7de7d8ab9a5",
+      "title_id": "PPSA24478",
+      "title": "Like A Dragon: Pirate Yakuza in Hawaii",
+      "version": "01.014",
+      "pack": "pfs",
+      "region": "JPN",
+      "firmware": [
+        "10.xx+"
+      ],
+      "firmware_raw": [
+        "10.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.7.6",
+      "dlcs_merged": true,
+      "size_bytes": 47459388621,
+      "poster_url": "https://myhotposters.com/cdn/shop/files/mL7636_grande.jpg?v=1748530801",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1401/6191979186d9d577d49feaf368f836317a5b486a079778bb.jpg",
+      "updated_at": "2026-07-17T04:27:13.627Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a59a35f664b52645fefe0a3",
+      "title_id": "PPSA24191",
+      "title": "Monster Hunter Wilds Premium Edition",
+      "version": "01.041.040",
+      "pack": "pfs",
+      "region": "ASIA",
+      "firmware": [
+        "9.xx-backport"
+      ],
+      "firmware_raw": [
+        "9.xx, 4.xx Backport"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 71296457114,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0506/ad5fa6b96324ad533229a4efa620e84b5c9935a35e8ee3f0.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0506/22b81c7c1b280be4d2586529fc086646fd5d3912c95f74f8.png",
+      "updated_at": "2026-07-17T03:37:03.419Z",
+      "link_count": 3,
+      "providers": [
+        "Archive - 9.xx",
+        "Archive - 4.xx Backport",
+        "Data"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a599aac664b52645fefe0a1",
+      "title_id": "PPSA02279",
+      "title": "Nickelodeon All Star Brawl",
+      "version": "01.000",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "3.xx+"
+      ],
+      "firmware_raw": [
+        "3.xx and beyond"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 4617089843,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202109/0723/42Slbcf7n1COrGwiiRbJSOkb.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202109/0723/qH0clwiyuBzDHyggaNOfLBs0.jpg",
+      "updated_at": "2026-07-17T02:59:56.806Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a599460664b52645fefe0a0",
+      "title_id": "PPSA01494",
+      "title": "Borderlands 4",
+      "version": "01.003.001",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "10.xx+"
+      ],
+      "firmware_raw": [
+        "10.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 46815143526,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2900/529bf68c85665e9306b0b3a94c06edde4c0ce39a4007cfff.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2900/5a17b60084c4c343d37ffa86de5e701f5283146282eabf58.jpg",
+      "updated_at": "2026-07-17T02:33:04.817Z",
+      "link_count": 1,
+      "providers": [
+        "Archive (Game + DLC)"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a58f2f6664b52645fefe09d",
+      "title_id": "PPSA26528",
+      "title": "Code Violet",
+      "version": "01.028",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "11.xx+"
+      ],
+      "firmware_raw": [
+        "11.x"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 41446434406,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2720/a2d0480d83404e993a64590952a10161dab990aa2fdd9c24.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0221/42c2475b07478c644249d6fb02079cb2323e14ab880661f1.jpg",
+      "updated_at": "2026-07-16T15:04:22.168Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a4515a0e703eacbc3d2368d",
+      "title_id": "PPSA28068",
+      "title": "Mortal Kombat Legacy Kollection",
+      "version": "01.000",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 12133282611,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0417/0fc158a8c5f68e9119c7a8e1011ca86bd18a214536c8c7df.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0417/d4cd983e76a00d2526ce4844089d3a59d4652acd30eab51b.jpg",
+      "updated_at": "2026-07-16T14:49:42.292Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a5886f2664b52645fefe099",
+      "title_id": "PPSA24662",
+      "title": "F1 25",
+      "version": "01.018",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "10.xx+"
+      ],
+      "firmware_raw": [
+        "10.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 75054553498,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2009/ffb302a93b80b00487c680187bc959557d32fbaa39e51238.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1521/80e6788c8f7efd41b3ad8ea2369ae05a451e75ab291ab357.png",
+      "updated_at": "2026-07-16T07:23:30.262Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a588640664b52645fefe098",
+      "title_id": "PPSA03174",
+      "title": "Astria Ascending",
+      "version": "01.000",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "3.xx+"
+      ],
+      "firmware_raw": [
+        "3.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 9771050598,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202108/2014/9bbqd8YFQ5sl9uJEJwriy4hF.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202108/2014/XSQb10aVv525CssxXLdk7Rvj.jpg",
+      "updated_at": "2026-07-16T07:20:32.047Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a39365196b0daf7f6fdaa9a",
+      "title_id": "PPSA04339",
+      "title": "Nickelodeon Kart Racers 3 Slime Speedway",
+      "version": "1.000.000",
+      "pack": "pfs",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 8697308774,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1211/cI5ANf9yBpZIiN6uaAfNXgMF.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1211/9cUD66DJOOaUydKiL0Uzg2lu.png",
+      "updated_at": "2026-07-16T06:13:29.587Z",
+      "link_count": 3,
+      "providers": [
+        "Viki",
+        "Archive + DLC"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a586e12664b52645fefe096",
+      "title_id": "PPSA13794",
+      "title": "Phantom Breaker Battle Grounds Ultimate",
+      "version": "1.000",
+      "pack": "pfs",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 1717986918,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0809/53b9bca2d48c18e8224fa901950a612fbe58a8894eeba048.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2016/76e2b0047650104190ee96ec8794b2784c0a1a210c039f6f.png",
+      "updated_at": "2026-07-16T05:37:22.843Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a586de0664b52645fefe095",
+      "title_id": "PPSA02259",
+      "title": "Oddworld Soulstorm",
+      "version": "1.160",
+      "pack": "pfs",
+      "region": "EUR",
+      "firmware": [
+        "1.xx+"
+      ],
+      "firmware_raw": [
+        "1.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 17931488461,
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202111/1114/wH6ptHYzoqx9yE4Q3nazja6n.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202111/1114/wQfv0SAiwFs6sv14MHOAZkri.png",
+      "updated_at": "2026-07-16T05:36:32.052Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a586db1664b52645fefe094",
+      "title_id": "PPSA03952",
+      "title": "Resident Evil 3",
+      "version": "1.004",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "3.xx+"
+      ],
+      "firmware_raw": [
+        "3.xx and beyond"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 23085449216,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0307/CFAf8koMK6B49DCY5Zk6xFYj.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0307/CFAf8koMK6B49DCY5Zk6xFYj.jpg",
+      "updated_at": "2026-07-16T05:35:45.726Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a586d77664b52645fefe093",
+      "title_id": "PPSA06084",
+      "title": "Superliminal",
+      "version": "1.010",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 5798205850,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2820/u1qVkRJLj5rtl3ZkqevW2gwj.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1617/Y44Rmv9vqbkBu9rRCKyNQHqF.jpg",
+      "updated_at": "2026-07-16T05:34:47.238Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028a7",
+      "title_id": "PPSA01716",
+      "title": "Need for Speed Unbound",
+      "version": "1.029",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 33554432000,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0911/cd35845bda1b06d4277a906a4db0352dd0c4f51ae63dc223.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0911/99c9488ad3c47e6972bc55c56d18cea105e608a5bb4f9bc1.png",
+      "updated_at": "2026-07-16T03:29:07.446Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3e722c9ed762de5f291cd7",
+      "title_id": "PPSA06255",
+      "title": "Biomutant",
+      "version": "01.003",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 13207024435,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202102/0418/1YJdN9Vveu7Eyo7q2jg3Vui8.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202102/0418/PUORZ4vlyiiMU86Ok6Bzc0YC.jpg",
+      "updated_at": "2026-07-16T01:24:11.696Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3caded138661f6c610d4b9",
+      "title_id": "PPSA30568",
+      "title": "Invincible VS",
+      "version": "01.000",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "10.xx+"
+      ],
+      "firmware_raw": [
+        "10.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 8912057139,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0223/e7827d96c3892955c8dd7804ef3ef2e9e5df82425062aabf.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0620/6862524cbc214a991229f3ec4246ab951f0e2514dfbb292f.png",
+      "updated_at": "2026-07-16T01:01:19.866Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a57b8f0664b52645fefe08c",
+      "title_id": "PPSA01462",
+      "title": "Borderlands 3",
+      "version": "01.900",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "1.xx+"
+      ],
+      "firmware_raw": [
+        "1.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 55190329754,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0516/ubPBv50OK9zQuoHeScCfDjHY.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0516/gmVdkbu11gMKG5qum1oBgdi1.jpg",
+      "updated_at": "2026-07-15T23:51:57.629Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a57ace8664b52645fefe08a",
+      "title_id": "PPSA01687",
+      "title": "Call of Duty Vanguard",
+      "version": "01.026",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "3.xx+"
+      ],
+      "firmware_raw": [
+        "3.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 89872190669,
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202109/2219/iT6LT2yhyHzVq7qGoKnceGny.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1102/d06thp8SsrzKRpcxgI9A8IWp.jpg",
+      "updated_at": "2026-07-15T23:51:13.762Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "1fichier"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a57b921664b52645fefe08d",
+      "title_id": "PPSA05991",
+      "title": "Cygni All Guns Blazing",
+      "version": "01.002",
+      "pack": "unknown",
+      "region": "USA to EUR Languages",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 23407571763,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0214/5f220dd8ce5b63d3eaac6376607dd09926b3a128e6a49dbb.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0214/8acbcb2d3b97ee56371f4b0f99b228ebe0d812a6df3a47cf.png",
+      "updated_at": "2026-07-15T16:45:21.908Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "1fichier"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a57b8b3664b52645fefe08b",
+      "title_id": "PPSA06568",
+      "title": "Sword Art Online Fractured Daydream",
+      "version": "01.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 52183852646,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1622/eba0016a085eeb25ca810d040cb0cebfd3f0113eaf700847.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1622/2b3adaf38d3e649e8e4f194ea87a58f61d7317f950fcca7a.png",
+      "updated_at": "2026-07-15T16:43:31.324Z",
+      "link_count": 2,
+      "providers": [
+        "Data",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a57ac54664b52645fefe089",
+      "title_id": "PPSA07421",
+      "title": "Fate/Samurai Remnant",
+      "version": "01.302",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "6.xx+"
+      ],
+      "firmware_raw": [
+        "6.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 31890132173,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1001/e52fe635f4280276845944ebdfc812dbaceedadf99ac66ee.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1001/302907087fcb64c32b77539de17630e7855945184b94a0be.png",
+      "updated_at": "2026-07-15T15:50:44.210Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "1fichier"
+      ],
+      "source": "gfs-pfs-library"
+    }
+  ]
+}

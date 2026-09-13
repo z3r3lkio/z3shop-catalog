@@ -1,0 +1,659 @@
+{
+  "name": "Z3Shop Games",
+  "version": 1,
+  "source": "gfs-pfs-library",
+  "page": 3,
+  "page_size": 24,
+  "total": 353,
+  "pages": 15,
+  "generated": "2026-09-13T20:49:47.360Z",
+  "games": [
+    {
+      "id": "6a887890b0a31dad5b0fe8f7",
+      "title_id": "PPSA01695",
+      "title": "Back 4 Blood Ultimate Edition",
+      "version": "01.011",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "3.xx+"
+      ],
+      "firmware_raw": [
+        "3.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.6.2",
+      "dlcs_merged": false,
+      "size_bytes": 72048076390,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/2021/58BKTw3ML5irvAsS8uPmM2XJ.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/2021/UiJId9D1RClF7iUebezMa97O.jpg",
+      "updated_at": "2026-08-21T16:10:56.930Z",
+      "link_count": 5,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a880187b0a31dad5b0fe8f4",
+      "title_id": "PPSA03351",
+      "title": "The Callisto Protocol™",
+      "version": "01.033",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 59055800320,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0222/a8y4xUnw4oThZxHuEBZvDzpz.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0400/NahZPZuHBjZddMIrR200McSk.jpg",
+      "updated_at": "2026-08-21T07:43:03.183Z",
+      "link_count": 8,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a87fefeb0a31dad5b0fe8f3",
+      "title_id": "PPSA02846",
+      "title": "Spacebase Startopia Extended Edition",
+      "version": "01.004.002",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "2.xx+"
+      ],
+      "firmware_raw": [
+        "2xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.6.2",
+      "dlcs_merged": true,
+      "size_bytes": 7376606331,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1912/NNhAom7zBypiII6MZ7oDZF3o.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1912/JmkWMDJAP7ouRYl7vgpUBMxt.jpg",
+      "updated_at": "2026-08-21T07:32:14.597Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a87fe4fb0a31dad5b0fe8f2",
+      "title_id": "PPSA15319",
+      "title": "The Plucky Squire",
+      "version": "PPSA15319",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 18253611008,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0523/8d9d4d34bcb6bc003ae3bd63f1e5cd990779c67a1295a20a.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2420/1175c5a67d28f3171067da5f33b5b01bd4655ac489240c9a.jpg",
+      "updated_at": "2026-08-21T07:29:19.401Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a87fdbab0a31dad5b0fe8f1",
+      "title_id": "PPSA14708",
+      "title": "Commandos: Origins",
+      "version": "01.004",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 14710262989,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/0515/3cd78793bf442dc5396e9bddc0a147e63659dda6a88122a5.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/0515/301101aa2cd90488551035a2fee5aa8c5c6182eb563ed6bd.png",
+      "updated_at": "2026-08-21T07:26:50.869Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a87148eb0a31dad5b0fe8ec",
+      "title_id": "PPSA28420",
+      "title": "NBA 2K26",
+      "version": "01.017",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 124983548314,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2509/bf1813f28484e002f2bc779c6b19c0995cf384d5e1c4688d.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2509/ed1c4096b6adfd4814e5ae5db686cdb7d27cd07993753ed7.png",
+      "updated_at": "2026-08-20T14:51:58.204Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a86b662b0a31dad5b0fe8eb",
+      "title_id": "PPSA25859",
+      "title": "EA SPORTS™ College Football 26",
+      "version": "01.020",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.5.1",
+      "dlcs_merged": false,
+      "size_bytes": 46493020979,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0314/8360c417d4cc561f48cab5b51adefaad38eb88c25a93fa99.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1417/ceb581c4680ad4ed480d73b91cd746025f19f94be62142f0.png",
+      "updated_at": "2026-08-20T08:10:10.406Z",
+      "link_count": 6,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a86b1c9b0a31dad5b0fe8ea",
+      "title_id": "PPSA15190",
+      "title": "RIDE 5",
+      "version": "01.025",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 50680614093,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202303/3115/5803ac45883772a5e3000a7b52b250d27795151046397481.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1115/47aa3a77f046d9bbea7adc500c870698d9d91d7fa47c20a4.jpg",
+      "updated_at": "2026-08-20T07:50:33.686Z",
+      "link_count": 6,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a86b034b0a31dad5b0fe8e9",
+      "title_id": "PPSA03026",
+      "title": "The Forgotten City",
+      "version": "01.005",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "2.xx+"
+      ],
+      "firmware_raw": [
+        "2.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.5.1",
+      "dlcs_merged": false,
+      "size_bytes": 13958643712,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/3010/d9mDtIQcdjeqaTcKbk35SY0a.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/3010/GrOdceTY7iphyvLMSxnwqAma.jpg",
+      "updated_at": "2026-08-20T07:43:48.094Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a86af9db0a31dad5b0fe8e8",
+      "title_id": "PPSA10887",
+      "title": "Weird West Definitive Edition",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 4402341478,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0517/0546f63215b63939f652f16a04987a55838de2bc00bc4ebb.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2123/wx9qCU7kfLexalcgJa2J2g7Z.png",
+      "updated_at": "2026-08-20T07:41:17.092Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a85c39fb0a31dad5b0fe8e6",
+      "title_id": "PPSA22946",
+      "title": "LEGO® Harry Potter™ Collection",
+      "version": "01.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 13851269530,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/3018/d0b4fb01f0490402de6cd17d24e97d1539a9cec0115c8697.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/3018/538204565d33af5a5a98b18cdfb4ce59cb568e5db75c9a2b.png",
+      "updated_at": "2026-08-19T14:54:23.294Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a854a12b0a31dad5b0fe8e3",
+      "title_id": "PPSA05027",
+      "title": "Gear.Club Unlimited 2 - Ultimate Edition",
+      "version": "01.001",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "3.xx+"
+      ],
+      "firmware_raw": [
+        "3.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 11950746501,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2613/H5x1DN1Fusa3Wr4rsYlAJgYi.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2613/2WMCqXEr3SVUvDJUBPx1xpfo.png",
+      "updated_at": "2026-08-19T06:15:46.002Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a854894b0a31dad5b0fe8e2",
+      "title_id": "PPSA05595",
+      "title": "Kao The Kangaroo",
+      "version": "01.007",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 10307921510,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2810/U8yZW1cvVtprfcpT70B04aOK.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202201/1711/ckV6vwwHYNKsHoKd0NqIeMQB.png",
+      "updated_at": "2026-08-19T06:09:24.243Z",
+      "link_count": 3,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a854066b0a31dad5b0fe8e1",
+      "title_id": "PPSA16810",
+      "title": "ARK: Survival Ascended",
+      "version": "01.084.021",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 236223201280,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3119/d8c73becbc6f630fd1f7be670ef86f8b7ca723613b326973.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2502/1751043f9999ae22f2e6293fcf355e596f4183de063619da.png",
+      "updated_at": "2026-08-19T05:34:30.159Z",
+      "link_count": 25,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3bf4265ac7b07181b5844c",
+      "title_id": "PPSA05060",
+      "title": "RoboCop: Rogue City",
+      "version": "01.006",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 44452911514,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2712/6UAdMRqRpbS6J6f6VIBI2kMD.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2712/kf2FLok3XYWxOiCOXdbAbzPg.jpg",
+      "updated_at": "2026-08-19T05:22:36.216Z",
+      "link_count": 8,
+      "providers": [
+        "Viki",
+        "Akirabox",
+        "Data"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a853cc1b0a31dad5b0fe8e0",
+      "title_id": "PPSA04995",
+      "title": "One Piece Odyssey",
+      "version": "01.002.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 33285996544,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1913/kYYtcJWbEglqdCXUGYk2UcMz.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1913/PIrhwmFXFo6ZMyovHmLnKB3e.jpg",
+      "updated_at": "2026-08-19T05:18:57.274Z",
+      "link_count": 6,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a853b37b0a31dad5b0fe8df",
+      "title_id": "PPSA13790",
+      "title": "NASCAR Arcade Rush",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 5422396211,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0911/80e84b1922296ad6369d0eab20d5a2077323b46f5c7f4aef.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0911/de2160151d82a0bd33e83db1dbcd81ff4db7db6edc7cda69.jpg",
+      "updated_at": "2026-08-19T05:12:23.742Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a853a8eb0a31dad5b0fe8de",
+      "title_id": "PPSA09149",
+      "title": "The Crown of Wu",
+      "version": "01.008",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 10619306639,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0712/7adda17dc94b2ddce73d6112b7496fa7765b685eb5c4487c.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0211/13be71973a48e8edbb272d47d164398ba3abc869b17deed9.jpg",
+      "updated_at": "2026-08-19T05:09:34.346Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a8539c8b0a31dad5b0fe8dd",
+      "title_id": "PPSA26311",
+      "title": "Blades of Fire Deluxe Edition",
+      "version": "01.004.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 47566762803,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1110/fd7f5439a94fbfc2b742fda7026dc03e7d887e9e5ea016c0.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1110/c4dd707dce55f9e59fbdfd0090933c68df0983dcf6575138.jpg",
+      "updated_at": "2026-08-19T05:06:16.860Z",
+      "link_count": 6,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a85373ab0a31dad5b0fe8dc",
+      "title_id": "PPSA05591",
+      "title": "Q.U.B.E. 10th Anniversary",
+      "version": "01.000.000",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_raw": [
+        "5.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 7902739825,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/gRBCddkAdvtrlsSyMKT9X6SR.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1316/3sa6M0ESuwbhfXHGZqUnAdBf.png",
+      "updated_at": "2026-08-19T04:55:22.530Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a853612b0a31dad5b0fe8db",
+      "title_id": "PPSA17942",
+      "title": "Dragon Quest VII Reimagined",
+      "version": "01.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 8568459756,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1808/3815dee3e2e5617493b54fc5da1405c1d187b91a05bbaeca.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2805/4714767d402d7d9562d18b90284aae3b833509b264331b5e.png",
+      "updated_at": "2026-08-19T04:50:26.992Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a8534eab0a31dad5b0fe8da",
+      "title_id": "PPSA09850",
+      "title": "Overpass 2",
+      "version": "01.004",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 24803436134,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2508/7ffda51d23f63a3185ab7ea82b2ebb001fac430565b12d48.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2508/8405a3a4989b147ed4052b3b7abe198ef4453750909a6ac0.jpg",
+      "updated_at": "2026-08-19T04:45:30.838Z",
+      "link_count": 5,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a84634eb0a31dad5b0fe8d8",
+      "title_id": "PPSA10595",
+      "title": "Tekken 8",
+      "version": "03.000.001",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 112742891520,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0312/7d3a133bb2f995b7edf9fc74961637017cf02a688228c154.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0312/c7c8d6fcc443743f7e9a704319fc2e2c7883b95673ca4a5e.jpg",
+      "updated_at": "2026-08-18T13:51:10.817Z",
+      "link_count": 2,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028a5",
+      "title_id": "PPSA07809",
+      "title": "Crisis Core Final Fantasy VII Reunion",
+      "version": "1.004",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.3.1-test",
+      "dlcs_merged": false,
+      "size_bytes": 23407571763,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2505/7GhpNUWSPdoNFdMLroXaPXm8.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2505/Cv2pVnIqJwmosTYRmjsxgQbV.jpg",
+      "updated_at": "2026-08-17T23:35:15.423Z",
+      "link_count": 4,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    }
+  ]
+}

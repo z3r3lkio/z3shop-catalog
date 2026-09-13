@@ -1,0 +1,662 @@
+{
+  "name": "Z3Shop Games",
+  "version": 1,
+  "source": "gfs-pfs-library",
+  "page": 12,
+  "page_size": 24,
+  "total": 353,
+  "pages": 15,
+  "generated": "2026-09-13T20:49:47.360Z",
+  "games": [
+    {
+      "id": "6a57ab95664b52645fefe088",
+      "title_id": "PPSA15209",
+      "title": "SPY X ANYA Operation Memories Deluxe Edition",
+      "version": "01.001",
+      "pack": "unknown",
+      "region": "ASIA to JPN Langs",
+      "firmware": [
+        "6.xx+"
+      ],
+      "firmware_raw": [
+        "6.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 9878424781,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1918/55ed0d762dbe49d8e2841cdc2b269cd653c954580e89b4b2.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1918/ab4b88255f5fa24988caf304adfc83fc97509c81dc6ac3a6.png",
+      "updated_at": "2026-07-15T15:47:33.271Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "1fichier"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a564e29664b52645fefe086",
+      "title_id": "PPSA17597",
+      "title": "Sonic X Shadow Generations Deluxe Edition",
+      "version": "01.012",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "9.xx+"
+      ],
+      "firmware_raw": [
+        "9.xx and beyond"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 31353261261,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2708/3956cc20615cb1718ca01f70698107468003cc4193a56bb6.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2106/ba75eba8a60d3ad60c53ed3cb2e54e0b44f21cc0854c12f7.png",
+      "updated_at": "2026-07-14T14:56:41.057Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028c0",
+      "title_id": "PPSA07631",
+      "title": "SAROS",
+      "version": "1.000.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "5.xx-backport"
+      ],
+      "firmware_raw": [
+        "5.xx +, 4.xx BackPort"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 88293790188,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2318/89c3538003fb34870e745493412408eeeed5f02b32c55d23.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2318/ca19e7b6909c03a0d64a84981109c0cdaa98e7fdb8820e36.png",
+      "updated_at": "2026-07-14T13:52:20.820Z",
+      "link_count": 3,
+      "providers": [
+        "1fichier - 5.xx",
+        "FileKeeper - 5.xx",
+        "Archive - 4.xx BackPort"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a562818664b52645fefe085",
+      "title_id": "PPSA21704",
+      "title": "Kingdom Come Deliverance 2 Royal Edition",
+      "version": "01.052",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "9.xx+"
+      ],
+      "firmware_raw": [
+        "9.xx"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 150323855360,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1208/64318c72f8ee8197b057e027c8bb8edbe459ed05126851e1.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1209/1ccd8c6eb043c9c80a49c871ca64891055651141b55324c2.jpg",
+      "updated_at": "2026-07-14T12:14:16.855Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "1fichier"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a562660664b52645fefe082",
+      "title_id": "PPSA18010",
+      "title": "Tony Hawks Pro Skater 3 + 4",
+      "version": "01.003",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 55512452301,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2101/322f386a7ffa30527e27e60a04e80016fa6c692dd339962a.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2100/5a082446577b5f38ca04bf9bac67726fcbe0bc61baf6de7b.png",
+      "updated_at": "2026-07-14T12:06:56.219Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "1fichier"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a5625eb664b52645fefe081",
+      "title_id": "PPSA16738",
+      "title": "Transformer Galactic Trails",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 4187593114,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0808/66b34f040681df81e699dbe06ef16ea28293867dae4eba2c.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0808/8769a18ae0c94464f80b241adbba171c488fdf564e62bd36.png",
+      "updated_at": "2026-07-14T12:04:59.338Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a562596664b52645fefe080",
+      "title_id": "PPSA22102",
+      "title": "Squirrel With A Gun",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 3414499000,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0621/147539c5727b2ea03f910ceeac00d201b4ac641eefd2a86a.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0621/4a03117b549b3c536046a9ec03d21a150cc54b418733eb36.jpg",
+      "updated_at": "2026-07-14T12:03:34.294Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "1fichier"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a5624ed664b52645fefe07f",
+      "title_id": "PPSA09259",
+      "title": "Hell Is Us",
+      "version": "01.006",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 24588687770,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1909/3e387e59545ff37d4312cef4c0d25d6eee3156e003b3eded.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1909/52572774943ea3ca312959d17abf127eef87ec6548cde92f.jpg",
+      "updated_at": "2026-07-14T12:00:45.675Z",
+      "link_count": 2,
+      "providers": [
+        "1fichier",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a549a97664b52645fefe07e",
+      "title_id": "PPSA06955",
+      "title": "Granblue Fantasy Relink",
+      "version": "01.003.002",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 73014444032,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0411/d00d5e76883b89b7d56344d4cf650bd02b4c7b879f94b14d.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0411/1d57aaaac896cd92f6b488ee9c5f1af372a6fc4a4695dfd7.png",
+      "updated_at": "2026-07-13T07:58:15.154Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a509118664b52645fefe06e",
+      "title_id": "PPSA14299",
+      "title": "Mafia The Old Country: Deluxe Edition",
+      "version": "01.006",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 43057047142,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2416/044c29ea5623bbb31fc1b2db8577621ba7f035b4c679cfdc.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2416/a625fb3c2a502faa490d2ab220fdbdd41f33a77dc41d328c.jpg",
+      "updated_at": "2026-07-13T05:59:27.028Z",
+      "link_count": 3,
+      "providers": [
+        "Akirabox",
+        "Archive (Game + DLC)",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028d5",
+      "title_id": "PPSA02530",
+      "title": "PRAGMATA Deluxe Edition",
+      "version": "1.200",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_raw": [
+        "5.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 38504381809,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2605/b7ec5836e23affe26c8ad00124a1eddddab5e1bad456c03e.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2605/903271eb79de107c27515fd04ee6f9e9cfdf2d6028a48673.png",
+      "updated_at": "2026-07-12T12:51:51.149Z",
+      "link_count": 3,
+      "providers": [
+        "Viki",
+        "FileKeeper",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a526204664b52645fefe07a",
+      "title_id": "PPSA07411",
+      "title": "Resident Evil 4 Gold Edition",
+      "version": "01.590",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 87402584474,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2708/ympJiu4PTXE1CtMHfLoHoK3E.png",
+      "updated_at": "2026-07-12T03:23:29.791Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a526095664b52645fefe079",
+      "title_id": "PPSA32785",
+      "title": "Nioh 3 Deluxe Edition",
+      "version": "01.040.020",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_raw": [
+        "5.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 87939455386,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2102/87b721c5b7abc54f1c6f2cdf907066d8d00c9b8d73359754.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2304/fcfc13cd93d861454433fcaf8b9a727cb24258783175100e.png",
+      "updated_at": "2026-07-12T03:23:25.335Z",
+      "link_count": 2,
+      "providers": [
+        "1fichier",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a525f0e664b52645fefe078",
+      "title_id": "PPSA09706",
+      "title": "Persona 5 Tactica Deluxe Edition",
+      "version": "01.000.300",
+      "pack": "unknown",
+      "region": "JPN to EUR Languages",
+      "firmware": [
+        "6.xx+"
+      ],
+      "firmware_raw": [
+        "6.xx +"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 24266565222,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2807/f02fd98c805c78ff1c56aec62054d04fbecf1fc5ba9eeee5.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0516/996f36ddaec3215095425ca966f46a1990540f36f61069c8.png",
+      "updated_at": "2026-07-11T15:32:41.062Z",
+      "link_count": 3,
+      "providers": [
+        "Gofile",
+        "Buzzheavier",
+        "1fichier"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a525d7e664b52645fefe077",
+      "title_id": "PPSA09911",
+      "title": "Ghostrunner 2",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 14710262989,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0121/23971a265ea7bb4dbdbfd05bc97694494f17ef0acf320702.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0121/b8c685da41fe9e1573879c83ede4b2e15eca3c20d407fe22.jpg",
+      "updated_at": "2026-07-11T15:13:02.686Z",
+      "link_count": 2,
+      "providers": [
+        "1fichier",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a40adc041d4f7b0f7bf92c9",
+      "title_id": "PPSA08597",
+      "title": "Scars Above",
+      "version": "01.003",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 14173392077,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0207/01Slmbo3uyEiyiomq7TxBBLl.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0911/nps4KsXSulAMlTEsleylGkTM.jpg",
+      "updated_at": "2026-07-11T13:41:32.289Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a51ab15664b52645fefe076",
+      "title_id": "PPSA01342",
+      "title": "Demon's Souls",
+      "version": "01.005",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_raw": [
+        "4.xx Backport"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 58411555226,
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1717/qHFrrJINxIfsvIyudYAyjfDq.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1717/brIXKBE5BqYgBSrsDn6Wo18O.png",
+      "updated_at": "2026-07-11T06:55:49.421Z",
+      "link_count": 4,
+      "providers": [
+        "Gofile",
+        "Akirabox",
+        "1fichier",
+        "Archive (Game + DLC)"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a51aacc664b52645fefe075",
+      "title_id": "PPSA05132",
+      "title": "SIFU",
+      "version": "01.024",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "3.xx+"
+      ],
+      "firmware_raw": [
+        "3.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 10844792422,
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202201/1616/THJbARAq2YiRVUv5abCQ8GYQ.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202201/1716/GjKNa6S5Y1kQ2PXlrzitZOj0.png",
+      "updated_at": "2026-07-11T06:55:45.513Z",
+      "link_count": 2,
+      "providers": [
+        "1fichier",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a38ec5b42def9b2bc43f90e",
+      "title_id": "PPSA01619",
+      "title": "Mortal Kombat 11 Ultimate",
+      "version": "1.000.004",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 90602335109,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0123/bF1qmEL5RM6aMfL0oLcxRe8B.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2000/aPVbncDz3LjjQpNQW6LhzNSK.jpg",
+      "updated_at": "2026-07-11T06:54:57.806Z",
+      "link_count": 2,
+      "providers": [
+        "1fichier",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a511ee4664b52645fefe072",
+      "title_id": "PPSA15657",
+      "title": "Disney Epic Mickey Rebrushed",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 23407571763,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0507/8f003c35d3efd3f4d124b483e6efcf50d51fab23b01dc888.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0507/2a04ca0b5ea1a4ea1d446a4f84a347129491745b9c4dd704.jpg",
+      "updated_at": "2026-07-10T16:33:40.148Z",
+      "link_count": 4,
+      "providers": [
+        "Data - DLC by Psykzhack",
+        "Viki",
+        "1fichier",
+        "Archive (Game + DLC)"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a51107d664b52645fefe071",
+      "title_id": "PPSA16388",
+      "title": "Hitman World of Assassination",
+      "version": "01.017",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "1.xx+"
+      ],
+      "firmware_raw": [
+        "1.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 67001489818,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2013/45afd93d4a7c78d0ebfa3a4b441ce1f9ccbf59ec8b79c9fa.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2013/45afd93d4a7c78d0ebfa3a4b441ce1f9ccbf59ec8b79c9fa.jpg",
+      "updated_at": "2026-07-10T15:32:13.624Z",
+      "link_count": 1,
+      "providers": [
+        "Archive (Game + DLC)"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a503aa6664b52645fefe06a",
+      "title_id": "PPSA02225",
+      "title": "Ghost of Tsushima Director's Cut",
+      "version": "02.024",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_raw": [
+        "5.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 72713796321,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0222/9h423wCC1FFb8tknYFAU4NC9.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/0222/NMwFZ00J50ctQEHdRGGg7IBg.png",
+      "updated_at": "2026-07-10T09:30:40.862Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a38c27c6e92a31626525cc9",
+      "title_id": "PPSA01500",
+      "title": "Watch Dogs Legion",
+      "version": "1.190",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "2.xx+"
+      ],
+      "firmware_raw": [
+        "2.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 85147726643,
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0302/eK0TNeaxIR1ajS2iaoH29hwh.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/3002/5yRvEJERrFUHQKoyISq3ezo1.jpg",
+      "updated_at": "2026-07-10T07:22:12.367Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028a1",
+      "title_id": "PPSA05366",
+      "title": "A Plague Tale Requiem",
+      "version": "1.005",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 51421495951,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1717/5fJ3kW3Q3iEfNP9NpJybaKsq.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1717/KJvdh38WMEDQQJFEUnmqwSt0.jpg",
+      "updated_at": "2026-07-10T06:24:23.739Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    }
+  ]
+}

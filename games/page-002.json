@@ -1,0 +1,660 @@
+{
+  "name": "Z3Shop Games",
+  "version": 1,
+  "source": "gfs-pfs-library",
+  "page": 2,
+  "page_size": 24,
+  "total": 353,
+  "pages": 15,
+  "generated": "2026-09-13T20:49:47.360Z",
+  "games": [
+    {
+      "id": "6a967c26b0a31dad5b0fe921",
+      "title_id": "PPSA05975",
+      "title": "BloodRayne 2: Revamped",
+      "version": "01.001.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.6.6",
+      "dlcs_merged": false,
+      "size_bytes": 8890582303,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2619/pel1o6DcTzBf7VGyL6IOf43s.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2619/B4LpaegqGhRs9zNOLvN8jX8j.jpg",
+      "updated_at": "2026-09-01T07:17:58.722Z",
+      "link_count": 3,
+      "providers": [
+        "Viki",
+        "Akirabox",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a967aa9b0a31dad5b0fe920",
+      "title_id": "PPSA11142",
+      "title": "Killzone: Liberation",
+      "version": "01.000.004",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "11.xx+"
+      ],
+      "firmware_raw": [
+        "11.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 1728724337,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2417/d0399217d9d02ae08e76585581f6647097d73a29a43e191d.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2417/5d5a2307eb76c536831f49fe7fbafb784c46c6091debadf8.png",
+      "updated_at": "2026-09-01T07:11:37.491Z",
+      "link_count": 3,
+      "providers": [
+        "Akirabox",
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a967a07b0a31dad5b0fe91f",
+      "title_id": "PPSA01913",
+      "title": "The Persistence Enhanced",
+      "version": "01.600.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 2491081032,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1111/rNLrlrFAiHyoFwAN8Kpy0ysc.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1111/qM56rS2rdFuGljXTT2UpVkF5.jpg",
+      "updated_at": "2026-09-01T07:08:55.979Z",
+      "link_count": 3,
+      "providers": [
+        "Akirabox",
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a965e11b0a31dad5b0fe91e",
+      "title_id": "PPSA29141",
+      "title": "LEGO® Party!",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 6947109601,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0821/ade7404425c20a8c9dfddb1f6fec66f3fa1596046a450efa.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2217/9fc3bf3631e98ff7b5cc9c443f07d9a6c5ea6014e2dd3dc5.jpg",
+      "updated_at": "2026-09-01T05:09:37.333Z",
+      "link_count": 2,
+      "providers": [
+        "Akirabox",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a965d95b0a31dad5b0fe91d",
+      "title_id": "PPSA32239",
+      "title": "Mega Man Star Force Legacy Collection",
+      "version": "01.001",
+      "pack": "unknown",
+      "region": "JPN",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 4090956349,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2104/27af46b79a25c509364fbbdf12a9cba453e6dadd4ea4988b.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2104/83dbb77e5797a456f3f3ee4bc4f5a89ba6ca7f2881cb5713.png",
+      "updated_at": "2026-09-01T05:07:33.953Z",
+      "link_count": 2,
+      "providers": [
+        "Akirabox",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a92e1f4b0a31dad5b0fe918",
+      "title_id": "PPSA06406",
+      "title": "LEGO® Brawls",
+      "version": "01.009",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.6.6",
+      "dlcs_merged": false,
+      "size_bytes": 2909840343,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1904/8Keu3vwZnBCmKySvCtRp7vBI.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1904/8g8gq8OkLhgO7CsqwCNzIE9T.png",
+      "updated_at": "2026-08-31T16:58:41.826Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a953180b0a31dad5b0fe91a",
+      "title_id": "PPSA26344",
+      "title": "Ghost of Yotei: Deluxe Edition",
+      "version": "01.512",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.6.6",
+      "dlcs_merged": false,
+      "size_bytes": 125627793408,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/49934c62a922417e86bd3fc61a59b116cf7ae51e91d9a9de.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/49934c62a922417e86bd3fc61a59b116cf7ae51e91d9a9de.jpg",
+      "updated_at": "2026-08-31T14:02:00.491Z",
+      "link_count": 9,
+      "providers": [
+        "Akirabox",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a958952b0a31dad5b0fe91b",
+      "title_id": "PPSA01325",
+      "title": "Astros Playroom",
+      "version": "01.905",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.6.6",
+      "dlcs_merged": false,
+      "size_bytes": 13207024435,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1908/5c3f6eb25719d364f490736453e9dc420ed6b92761b8248b.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1908/2aaf69d013904134c1ad9eeba2680e8421ebb411b00da2a3.png",
+      "updated_at": "2026-08-31T14:01:54.819Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a913009b0a31dad5b0fe917",
+      "title_id": "PPSA09232",
+      "title": "Ghost Song",
+      "version": "01.005",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.6.6",
+      "dlcs_merged": false,
+      "size_bytes": 1342177280,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1818/5XAaI7OuicEWv4WVlsqDot2L.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1818/aWbw79ZDNe2aBrmwFIS7NCQn.png",
+      "updated_at": "2026-08-28T06:51:53.300Z",
+      "link_count": 2,
+      "providers": [
+        "Akirabox",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a905d22b0a31dad5b0fe916",
+      "title_id": "PPSA01528",
+      "title": "Overcooked! All You Can Eat",
+      "version": "01.015",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "1.xx+"
+      ],
+      "firmware_raw": [
+        "1.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.6.6",
+      "dlcs_merged": true,
+      "size_bytes": 8997956485,
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202109/2814/bfvnnwjTevj8vse2EVDssPOz.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202109/2814/KBjM7tWNPQIy2nca7OhRRwlf.jpg",
+      "updated_at": "2026-08-27T15:52:02.093Z",
+      "link_count": 2,
+      "providers": [
+        "Akirabox",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a902294b0a31dad5b0fe914",
+      "title_id": "PPSA26893",
+      "title": "SpongeBob SquarePants: Titans of the Tide",
+      "version": "01.400",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 10007273800,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/3014/18450f420e722d733a90787ab1ac41605fc08562e4972cd1.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/3014/373125106ed12e9aed89af2125e4b4a67c588ee21d7506ab.jpg",
+      "updated_at": "2026-08-27T15:47:50.669Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a904a65b0a31dad5b0fe915",
+      "title_id": "PPSA13715",
+      "title": "Star Ocean The Second Story R",
+      "version": "01.00",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 15891378995,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1311/e667f9c71cf948a6f5eb886f978b768018fa642746c752ef.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1311/fbe4dcb172073bdab8512e5d762497c33bbbf56ffa8fb7e5.jpg",
+      "updated_at": "2026-08-27T15:46:41.040Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a8fc4ddb0a31dad5b0fe912",
+      "title_id": "PPSA07587",
+      "title": "Sea of Stars",
+      "version": "01.013",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.6.6",
+      "dlcs_merged": false,
+      "size_bytes": 4756676280,
+      "poster_url": "https://i.ytimg.com/vi/BMComOd9qP4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAL25TRMQZwKv1HUnRCYUF2JuL3WQ",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/0713/mLhzj6jDgkBfopd5KgotsoQt.png",
+      "updated_at": "2026-08-27T15:45:55.059Z",
+      "link_count": 2,
+      "providers": [
+        "Akirabox",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a8fd882b0a31dad5b0fe913",
+      "title_id": "PPSA10664",
+      "title": "FINAL FANTASY XVI",
+      "version": "01.003.004",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 118884694753,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0912/PTlrcDu9P5F1Lzh9QRc8jkZb.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1007/M1j1kwGXMhbfA8OQo3r7wrMw.jpg",
+      "updated_at": "2026-08-27T07:23:23.292Z",
+      "link_count": 1,
+      "providers": [
+        "Download"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a8fc47fb0a31dad5b0fe911",
+      "title_id": "PPSA30279",
+      "title": "Taxi Chaos 2",
+      "version": "01.007",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_raw": [
+        "5.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 4874787881,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2608/d52427f187d595cad3cc859d77ebe143eb2c9e4f20b96b6c.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2608/c0e3d35a241c73f8b0ce7e783591d7af764246f7c46fd2a8.png",
+      "updated_at": "2026-08-27T07:19:47.090Z",
+      "link_count": 2,
+      "providers": [
+        "Akirabox",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a8db9cdb0a31dad5b0fe90e",
+      "title_id": "PPSA09809",
+      "title": "Octopath Traveler 2",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 6721623818,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0201/jQdEZnhahIiSTzMAG1T0lvQ0.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/3005/71h0GsGzaJteaHHuyCEQY1pK.png",
+      "updated_at": "2026-08-27T03:18:26.542Z",
+      "link_count": 2,
+      "providers": [
+        "Download",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a8dc1c8b0a31dad5b0fe90f",
+      "title_id": "PPSA26354",
+      "title": "Triangle Strategy",
+      "version": "01.001",
+      "pack": "unknown",
+      "region": "HK",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 9030168740,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2602/e266c188dc081c80596cffaa6101376629ff2dea30cc8625.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2602/b6e1dbf745138d345cc68d8265832edeeb2454c927be53db.png",
+      "updated_at": "2026-08-27T03:17:40.236Z",
+      "link_count": 2,
+      "providers": [
+        "Download",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a8f876cb0a31dad5b0fe910",
+      "title_id": "PPSA04159",
+      "title": "Goat Simulator 3",
+      "version": "01.002.100",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "9.xx+"
+      ],
+      "firmware_raw": [
+        "9.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 8192650117,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/3012/d1431363859fd7ca2d3a6ed9c215bf7f7d55959589f94123.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0511/vKDWxTmitAyX87vp8BAFcZct.jpg",
+      "updated_at": "2026-08-27T03:16:33.897Z",
+      "link_count": 3,
+      "providers": [
+        "vikingfile.com",
+        "Akirabox",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a8db850b0a31dad5b0fe90c",
+      "title_id": "PPSA22826",
+      "title": "Tales of Berseria Remastered",
+      "version": "01.002",
+      "pack": "unknown",
+      "region": "ASIA",
+      "firmware": [
+        "11.xx+"
+      ],
+      "firmware_raw": [
+        "11.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 11703785882,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2321/ca263fa31c75bf7eb241fa0a2ae82422795cd7dbd7c63039.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2321/dae88de4fc1a43769439f874cdc1548cddd3b92e6903e7f9.png",
+      "updated_at": "2026-08-25T15:46:06.803Z",
+      "link_count": 1,
+      "providers": [
+        "Download"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a8d9cf1b0a31dad5b0fe90a",
+      "title_id": "PPSA15716",
+      "title": "Shin Megami Tensei V: Vengeance",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 27702539059,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0600/bfb144b4171cfd61bea1da47c7f5bc62ea8712c1be357f0f.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0600/27f5ad360040bd3eee7134711cd6649cca4e8ac696b86e15.jpg",
+      "updated_at": "2026-08-25T13:47:29.208Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a8d6387b0a31dad5b0fe909",
+      "title_id": "PPSA13197",
+      "title": "Stellar Blade™ Complete Edition",
+      "version": "01.014.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 44130788966,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/b06dff4ff09b4bd891adb354e9ca8562d1af31c6508334ad.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/e06c268b7f64c3f9760aba716211b24b01fb74783b5eda0e.jpg",
+      "updated_at": "2026-08-25T09:42:31.704Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a8c6548b0a31dad5b0fe904",
+      "title_id": "PPSA07837",
+      "title": "WILD HEARTS Karakuri Edition",
+      "version": "01.033",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.6.4",
+      "dlcs_merged": true,
+      "size_bytes": 74088185856,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2615/d63XyzzX4sIeOfjVUMLjOuYZ.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2615/IpKwfW9rvJCCIxZs3pdNzl6g.png",
+      "updated_at": "2026-08-24T15:37:44.146Z",
+      "link_count": 6,
+      "providers": [
+        "Archive",
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a8c6324b0a31dad5b0fe903",
+      "title_id": "PPSA07191",
+      "title": "Super Bomberman R 2",
+      "version": "01.003.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 11059540787,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2214/247844ef3fae2e9dfc8479bc93fc5c78e50535ec8b68e085.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2214/d5b614087dc3aad8b539af8ece357aaa335d61919d7c0735.png",
+      "updated_at": "2026-08-24T15:28:36.088Z",
+      "link_count": 3,
+      "providers": [
+        "Archive",
+        "Akirabox",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a8bfa73b0a31dad5b0fe901",
+      "title_id": "PPSA22520",
+      "title": "Animal Well",
+      "version": "01.000.011",
+      "pack": "unknown",
+      "region": "JPN",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 101275329,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0222/ifoK4Np4B75vGqJnPUoBTkmQ.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0222/NGRSvX4mKD1NvZpCwudRrqGJ.png",
+      "updated_at": "2026-08-24T08:01:55.288Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library"
+    }
+  ]
+}

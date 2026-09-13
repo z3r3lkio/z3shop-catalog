@@ -1,0 +1,476 @@
+{
+  "name": "Z3Shop Games",
+  "version": 1,
+  "source": "gfs-pfs-library",
+  "page": 15,
+  "page_size": 24,
+  "total": 353,
+  "pages": 15,
+  "generated": "2026-09-13T20:49:47.360Z",
+  "games": [
+    {
+      "id": "6a3655f056e5f49eefa028a8",
+      "title_id": "PPSA01285",
+      "title": "Returnal",
+      "version": "3.005",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 66453881487,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0415/FlDoLAOQRrIR6On9aIwBu3it.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0415/ICa83AzAlyjElV2O14PPMYrE.jpg",
+      "updated_at": "2026-06-20T10:10:22.625Z",
+      "link_count": 3,
+      "providers": [
+        "Viki",
+        "1fichier",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028bb",
+      "title_id": "PPSA07230",
+      "title": "Assassin's Creed® Mirage",
+      "version": "1.012",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "9.xx+"
+      ],
+      "firmware_raw": [
+        "9.xx +"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 70330089472,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1718/NFf86jgU4AeVYgJBEoEKBpxW.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1718/1YHRDsi3voapHSwJfDMneZXV.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028b9",
+      "title_id": "PPSA21564",
+      "title": "ASTRO BOT",
+      "version": "1.007",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 48865990410,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/0d05cb43413f28a641ac0c40fc272c70bbe194f6ade4b175.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/80ecf657918558eeef8da3ee4cef326e4517d34e6c69d950.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 4,
+      "providers": [
+        "Viki",
+        "Viki (Backport 4.xx)",
+        "FileKeeper (Backport 4.xx)",
+        "1fichier (Backport 4.xx)"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028cb",
+      "title_id": "PPSA13579",
+      "title": "Blasphemous 2",
+      "version": "1.007.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 2673617142,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1714/1cf876354773c8b7b1aa710ebf69f7dd739769839beebf16.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1714/3c5f2ba6b4dd7de7ff8ce7eb77754bc74744fa1550c4b2b0.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028bc",
+      "title_id": "PPSA28180",
+      "title": "Days Gone Remastered",
+      "version": "1.036.178",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 38386270208,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1302/a2fa690381bb625c8efca0bbd5210811b9e044ed6f116ab8.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1302/cdf6431ee3f30fde3c13b42857d41edc42142da11e1bdc61.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 4,
+      "providers": [
+        "Viki",
+        "FileKeeper",
+        "1fichier",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028d1",
+      "title_id": "PPSA02015",
+      "title": "Death Stranding 2 On The Beach",
+      "version": "1.013",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "12.xx+"
+      ],
+      "firmware_raw": [
+        "12.xx to 11.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.0b",
+      "dlcs_merged": false,
+      "size_bytes": 101436390113,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2115/1296d5a398d07e92de46e35e0131931c536b02b3793a4c41.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2115/de9f11555daa455139d109c07b854880740167e531c376ab.png",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028c2",
+      "title_id": "PPSA24701",
+      "title": "Digimon Story Time Stranger",
+      "version": "1.011",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "10.xx+"
+      ],
+      "firmware_raw": [
+        "10.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.0b",
+      "dlcs_merged": false,
+      "size_bytes": 23418309181,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1318/4b7994e18a27cf87e3ca8c79ed3fc5f5fa32bece7032c8c0.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1318/739c6ecb03d64bac001000cdca0ece5f0016788694104488.png",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 3,
+      "providers": [
+        "Viki",
+        "1fichier",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028d3",
+      "title_id": "PPSA16384",
+      "title": "Directive 8020 Deluxe Edition",
+      "version": "1.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 38386270208,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0819/2ca4f48b9b35d36dbbd6d7da4be0aec5dc5f04be6b9418f1.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2610/25477a1a4c1cd9c5bd8bb3e8fa574e64fda67aa6cb525294.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Data"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028be",
+      "title_id": "PPSA03524",
+      "title": "Grand Theft Auto San Andreas The Definitive Edition",
+      "version": "1.003",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "3.xx+"
+      ],
+      "firmware_raw": [
+        "3.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 22505628631,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2814/4adJ0gjnFRysR59iJSZJFQ1J.png",
+      "banner_url": "https://i.ytimg.com/vi/nKl9q2FrWPo/maxresdefault.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 3,
+      "providers": [
+        "Viki",
+        "1fichier",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028d4",
+      "title_id": "PPSA03016",
+      "title": "Marvels Spider Man 2 Deluxe Edition",
+      "version": "1.004.003",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.0b",
+      "dlcs_merged": false,
+      "size_bytes": 123952756163,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/97e9f5fa6e50c185d249956c6f198a2652a9217e69a59ecd.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028ca",
+      "title_id": "PPSA03500",
+      "title": "New Tales from the Borderlands®",
+      "version": "1.002",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 30086245908,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0923/7WwYUpjZvCQIMJjVDMwG5VD8.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0923/Q3lIGDQzxcEg1iVfv3X12R3e.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028d6",
+      "title_id": "PPSA05521",
+      "title": "PAW Patrol Grand Prix",
+      "version": "1.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_raw": [
+        "5.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 2168958484,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0308/6rarIXeFEnJ8BKeL5vLJmojC.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0308/WSCdnloPYuN6AVRgho0MRA1u.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028ba",
+      "title_id": "PPSA01474",
+      "title": "Ratchet & Clank Rift Apart",
+      "version": "1.005.003",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.0b",
+      "dlcs_merged": false,
+      "size_bytes": 47040629309,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/CrGbGyUFNdkZKbg9DM2qPTE1.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/x64hEmgvhgxpXc9z9hpyLAyQ.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "1fichier"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028d0",
+      "title_id": "PPSA23372",
+      "title": "REANIMAL",
+      "version": "1.06",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 12906376724,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2010/3d02d3ec10d248f4dc6c1cc5bd9327008d1a4071270bda62.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2010/ad79733a4addc34d9122c077b7782a55de4ede59ade470da.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028bf",
+      "title_id": "PPSA13195",
+      "title": "Stellar Blade",
+      "version": "1.014.001",
+      "pack": "unknown",
+      "region": "JPN",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.0b",
+      "dlcs_merged": false,
+      "size_bytes": 44409961841,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2211/a66e399e454256181c758f156c1bdeeb7dae40e21fb92504.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2211/2937cd4563d2dc50f0632a1bcfbac1f1f7dee3d2984ea02c.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 4,
+      "providers": [
+        "Viki (9.xx)",
+        "Viki (Backport 4.xx)",
+        "FileKeeper (Backport 4.xx)",
+        "1fichier (Backport 4.xx)"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028cd",
+      "title_id": "PPSA07274",
+      "title": "Tales of Arise",
+      "version": "1.04",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "1.xx+"
+      ],
+      "firmware_raw": [
+        "1.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 40265318400,
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202107/2321/PNyon7H1cCjFSHuKJXuWb3wq.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202107/2321/iGnyvrEWk0jO09cDS9MXo1CP.png",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Data"
+      ],
+      "source": "gfs-pfs-library"
+    },
+    {
+      "id": "6a3655f056e5f49eefa028cf",
+      "title_id": "PPSA0724",
+      "title": "Valkyrie Elysium",
+      "version": "1.00",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 15784004813,
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1509/4lE1NY7aN3y1hSWjgjEwfw5k.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0406/AiGtpzAtguXcaEjQjpf88s6Q.png",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library"
+    }
+  ]
+}
