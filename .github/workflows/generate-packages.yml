@@ -8,7 +8,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/generate-packages.mjs'
-      - 'scripts/probe-pfs-library.mjs'
+      - 'scripts/sync-pfs-library.mjs'
       - 'scripts/sync-icons.py'
       - 'scripts/extract-pkg-icons.py'
       - 'scripts/sanitize-icons.py'
@@ -35,13 +35,13 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Probe PFS Library source
-        run: node ./scripts/probe-pfs-library.mjs
-
       - name: Generate merged catalog
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: node ./scripts/generate-packages.mjs
+
+      - name: Parse GFS PFS Library discovery source
+        run: node ./scripts/sync-pfs-library.mjs
 
       - name: Set up icon optimizer
         shell: bash
@@ -67,7 +67,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          node -e 'const fs=require("fs");const c=JSON.parse(fs.readFileSync("packages.json","utf8"));if(!Array.isArray(c.packages)||!c.packages.length)process.exit(1);const ids=new Set();for(const p of c.packages){if(!p.id||ids.has(p.id)||!p.name||!p.redistributable)process.exit(2);ids.add(p.id);if(p.installable&&!/^https:\/\//i.test(p.url||""))process.exit(3);if(p.icon_url&&!/^https:\/\/raw\.githubusercontent\.com\/z3r3lkio\/z3shop-catalog\/main\/icons\//i.test(p.icon_url))process.exit(4);if(p.icon_bytes&&p.icon_bytes>225280)process.exit(5);if((p.icon_source_url||"").toLowerCase()==="cached")process.exit(6);if(/\/storage\/users\/.*\/avatar\./i.test(p.icon_source_url||""))process.exit(7)};console.log(`validated ${c.packages.length} packages, ${c._stats?.icons||0} trusted optimized icons, ${c._stats?.icons_unresolved||0} unresolved, ${c._stats?.pkg_icons_extracted||0} extracted from PKG`)'
+          node -e 'const fs=require("fs");const c=JSON.parse(fs.readFileSync("packages.json","utf8"));if(!Array.isArray(c.packages)||!c.packages.length)process.exit(1);const ids=new Set();for(const p of c.packages){if(!p.id||ids.has(p.id)||!p.name||!p.redistributable)process.exit(2);ids.add(p.id);if(p.installable&&!/^https:\/\//i.test(p.url||""))process.exit(3);if(p.icon_url&&!/^https:\/\/raw\.githubusercontent\.com\/z3r3lkio\/z3shop-catalog\/main\/icons\//i.test(p.icon_url))process.exit(4);if(p.icon_bytes&&p.icon_bytes>225280)process.exit(5);if((p.icon_source_url||"").toLowerCase()==="cached")process.exit(6);if(/\/storage\/users\/.*\/avatar\./i.test(p.icon_source_url||""))process.exit(7)};const d=c._discovery?.pfs_library;if(d&&(!(d.packages>0)||!d.pack_counts||d.download_links<0))process.exit(8);console.log(`validated ${c.packages.length} installable packages, ${c._stats?.icons||0} trusted optimized icons, ${c._stats?.icons_unresolved||0} unresolved, ${c._stats?.pkg_icons_extracted||0} extracted from PKG, ${d?.packages||0} GFS discovery records`)'
           test $(wc -c < packages.json) -lt 64000
 
       - name: Commit catalog changes
