@@ -1,12 +1,12 @@
 {
   "name": "Z3Shop Games",
-  "version": 1,
+  "version": 2,
   "source": "gfs-pfs-library",
   "page": 8,
   "page_size": 24,
   "total": 353,
   "pages": 15,
-  "generated": "2026-09-13T21:22:38.789Z",
+  "generated": "2026-09-13T21:46:15.189Z",
   "games": [
     {
       "id": "6a511f34664b52645fefe073",
@@ -18,6 +18,7 @@
       "firmware": [
         "4.xx-backport"
       ],
+      "firmware_label": "4.xx-backport",
       "firmware_raw": [
         "4.xx BackPort"
       ],
@@ -25,6 +26,7 @@
       "apr_version": "apr-emu-v0.2.6.3",
       "dlcs_merged": false,
       "size_bytes": 69685844378,
+      "size_label": "64.9 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2815/wQEe1u0VwuBPArynFWFpEHqZ.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2815/ghdxLSLpUl24o2Q1eq3yTaji.jpg",
       "updated_at": "2026-07-29T15:24:22.751Z",
@@ -34,7 +36,9 @@
         "Viki",
         "Filekeeper"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a511f34664b52645fefe073-ca38ab37ac08.png",
+      "icon_bytes": 74242
     },
     {
       "id": "6a40dfa9a714e5ef72994a5d",
@@ -46,6 +50,7 @@
       "firmware": [
         "4.xx+"
       ],
+      "firmware_label": "4.xx+",
       "firmware_raw": [
         "4.xx and beyond"
       ],
@@ -53,6 +58,7 @@
       "apr_version": "",
       "dlcs_merged": false,
       "size_bytes": 14925011354,
+      "size_label": "13.9 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202105/0415/Shg6j0vaSbRMS2UqfyzlWXmF.png",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202105/0415/1B2rCHYyyw2oKFKolfqouf5u.jpg",
       "updated_at": "2026-07-29T15:14:45.025Z",
@@ -60,7 +66,9 @@
       "providers": [
         "Archive"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a40dfa9a714e5ef72994a5d-c5aa37c48b4c.png",
+      "icon_bytes": 69003
     },
     {
       "id": "6a69d5263d4889f7e22e8b74",
@@ -72,6 +80,7 @@
       "firmware": [
         "10.xx+"
       ],
+      "firmware_label": "10.xx+",
       "firmware_raw": [
         "10.xx"
       ],
@@ -79,6 +88,7 @@
       "apr_version": "",
       "dlcs_merged": false,
       "size_bytes": 21689584845,
+      "size_label": "20.2 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1416/fda6cce8681141fcb9230e27ce1c50816073ff342434805b.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1416/fda6cce8681141fcb9230e27ce1c50816073ff342434805b.jpg",
       "updated_at": "2026-07-29T10:25:42.964Z",
@@ -87,7 +97,9 @@
         "Archive",
         "Viki"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a69d5263d4889f7e22e8b74-de858cc4e3db.png",
+      "icon_bytes": 42690
     },
     {
       "id": "6a4a79912860efac54e4aa82",
@@ -99,6 +111,7 @@
       "firmware": [
         "4.xx+"
       ],
+      "firmware_label": "4.xx+",
       "firmware_raw": [
         "4.xx"
       ],
@@ -106,6 +119,7 @@
       "apr_version": "",
       "dlcs_merged": false,
       "size_bytes": 29420525978,
+      "size_label": "27.4 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0215/09dacbee60ad49d3c1b0857f6e682e9465aa530958fde2a6.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0215/09dacbee60ad49d3c1b0857f6e682e9465aa530958fde2a6.jpg",
       "updated_at": "2026-07-29T06:19:35.170Z",
@@ -113,7 +127,9 @@
       "providers": [
         "Archive"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a79912860efac54e4aa82-50cb79b026b7.png",
+      "icon_bytes": 43075
     },
     {
       "id": "6a3cff2c87fd481f2572b1a0",
@@ -125,6 +141,7 @@
       "firmware": [
         "4.xx+"
       ],
+      "firmware_label": "4.xx+",
       "firmware_raw": [
         "4.xx +"
       ],
@@ -132,6 +149,7 @@
       "apr_version": "",
       "dlcs_merged": false,
       "size_bytes": 55941949030,
+      "size_label": "52.1 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2000/WJd8SY87zp3xUnCctOrulr5F.png",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2005/FloxTznrCZNUfqT60AEKxToM.png",
       "updated_at": "2026-07-29T05:13:12.805Z",
@@ -139,7 +157,9 @@
       "providers": [
         "Archive"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3cff2c87fd481f2572b1a0-c51537f7e4f4.png",
+      "icon_bytes": 45531
     },
     {
       "id": "6a408b3d9e5b943a9a6dc5d2",
@@ -151,6 +171,7 @@
       "firmware": [
         "4.xx+"
       ],
+      "firmware_label": "4.xx+",
       "firmware_raw": [
         "4.xx +"
       ],
@@ -158,6 +179,7 @@
       "apr_version": "",
       "dlcs_merged": false,
       "size_bytes": 5046586573,
+      "size_label": "4.7 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1609/zGz3NtvtEwQY6Kg2MydyMADA.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1609/eF55PgjfR2Z5clEt67c5HhAO.jpg",
       "updated_at": "2026-07-29T05:10:47.900Z",
@@ -165,7 +187,9 @@
       "providers": [
         "Archive"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a408b3d9e5b943a9a6dc5d2-30958186c383.png",
+      "icon_bytes": 71984
     },
     {
       "id": "6a5f4d1420ce6441f5b9a12a",
@@ -177,6 +201,7 @@
       "firmware": [
         "4.xx-backport"
       ],
+      "firmware_label": "4.xx-backport",
       "firmware_raw": [
         "4.xx BackPort"
       ],
@@ -184,6 +209,7 @@
       "apr_version": "",
       "dlcs_merged": false,
       "size_bytes": 104797202022,
+      "size_label": "97.6 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
       "updated_at": "2026-07-29T00:39:27.992Z",
@@ -193,7 +219,9 @@
         "Archive",
         "Filekeeper"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f4d1420ce6441f5b9a12a-df3f1e0149fa.png",
+      "icon_bytes": 58884
     },
     {
       "id": "6a3dfaa1306952b3155f30e1",
@@ -205,6 +233,7 @@
       "firmware": [
         "4.xx-backport"
       ],
+      "firmware_label": "4.xx-backport",
       "firmware_raw": [
         "4.xx backport"
       ],
@@ -212,6 +241,7 @@
       "apr_version": "apr-emu-v0.2.6.3",
       "dlcs_merged": true,
       "size_bytes": 105656195482,
+      "size_label": "98.4 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2420/fbd0dcc88b31805fc7d49f59b8e0e5d0276403cde7fb8cc8.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2420/2b117db6108244a85769f8009df39f8006b226d8a2831b3a.jpg",
       "updated_at": "2026-07-28T23:49:36.313Z",
@@ -219,7 +249,9 @@
       "providers": [
         "Archive"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3dfaa1306952b3155f30e1-67d5a9db2e90.png",
+      "icon_bytes": 65462
     },
     {
       "id": "6a68ca6e3d4889f7e22e8b71",
@@ -231,6 +263,7 @@
       "firmware": [
         "4.xx-backport"
       ],
+      "firmware_label": "4.xx-backport",
       "firmware_raw": [
         "4.xx BackPort"
       ],
@@ -238,6 +271,7 @@
       "apr_version": "",
       "dlcs_merged": true,
       "size_bytes": 16642998272,
+      "size_label": "15.5 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1323/fc7f4ab5ccec702fe17d1c6ce00ee5a2aec91ac07cbd874c.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1323/fc7f4ab5ccec702fe17d1c6ce00ee5a2aec91ac07cbd874c.jpg",
       "updated_at": "2026-07-28T15:41:48.390Z",
@@ -246,7 +280,9 @@
         "Viki",
         "Archive"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a68ca6e3d4889f7e22e8b71-c3ba98487efa.png",
+      "icon_bytes": 44937
     },
     {
       "id": "6a408c889e5b943a9a6dc5d3",
@@ -258,6 +294,7 @@
       "firmware": [
         "4.xx+"
       ],
+      "firmware_label": "4.xx+",
       "firmware_raw": [
         "4.xx +"
       ],
@@ -265,6 +302,7 @@
       "apr_version": "",
       "dlcs_merged": false,
       "size_bytes": 5261334938,
+      "size_label": "4.9 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2517/O1AUkt0kzCELCP3x5b8aMKvA.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202105/1801/AAp9ALrDTBmgUut3DiIe8xvn.jpg",
       "updated_at": "2026-07-28T15:28:19.292Z",
@@ -273,7 +311,9 @@
         "Viki",
         "Archive"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a408c889e5b943a9a6dc5d3-f4c9c7e41fea.png",
+      "icon_bytes": 78436
     },
     {
       "id": "6a4b190a2860efac54e4aa96",
@@ -285,6 +325,7 @@
       "firmware": [
         "4.xx+"
       ],
+      "firmware_label": "4.xx+",
       "firmware_raw": [
         "4.xx"
       ],
@@ -292,6 +333,7 @@
       "apr_version": "",
       "dlcs_merged": false,
       "size_bytes": 37151467110,
+      "size_label": "34.6 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0619/b9cfd4a50d5a87a891c05be6f3e2f107f066d76e8a88dcb6.png",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0619/a8cd5db9b6c19c3ae8159f4248de9ccc729bc9255f0bd885.jpg",
       "updated_at": "2026-07-28T10:29:35.802Z",
@@ -299,7 +341,9 @@
       "providers": [
         "Archive"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4b190a2860efac54e4aa96-f746e55563aa.png",
+      "icon_bytes": 91959
     },
     {
       "id": "6a686e283d4889f7e22e8b6d",
@@ -311,6 +355,7 @@
       "firmware": [
         "7.xx+"
       ],
+      "firmware_label": "7.xx+",
       "firmware_raw": [
         "7.xx"
       ],
@@ -318,6 +363,7 @@
       "apr_version": "",
       "dlcs_merged": false,
       "size_bytes": 601295421,
+      "size_label": "0.6 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2318/ce47b007bc985f46d59efc2a6243f883fc22012b0627309d.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2318/c81b9bd076029e52f6e5b3e135f850edbd7aa908e30e781a.jpg",
       "updated_at": "2026-07-28T08:54:00.951Z",
@@ -326,7 +372,9 @@
         "Viki",
         "Archive"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a686e283d4889f7e22e8b6d-94ad629431db.png",
+      "icon_bytes": 66638
     },
     {
       "id": "6a686da43d4889f7e22e8b6c",
@@ -338,6 +386,7 @@
       "firmware": [
         "5.xx+"
       ],
+      "firmware_label": "5.xx+",
       "firmware_raw": [
         "5.xx"
       ],
@@ -345,6 +394,7 @@
       "apr_version": "",
       "dlcs_merged": false,
       "size_bytes": 34037615821,
+      "size_label": "31.7 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2517/b6J2W8a2PjpZZdmCZ2nSdJh4.png",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1812/b845d9c546e7ff63f1a82ed783cf5a2a2f3f9fd26667c1c3.jpg",
       "updated_at": "2026-07-28T08:51:48.578Z",
@@ -353,7 +403,9 @@
         "Viki",
         "Archive"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a686da43d4889f7e22e8b6c-debdf856a258.png",
+      "icon_bytes": 93975
     },
     {
       "id": "6a686cdc3d4889f7e22e8b6b",
@@ -365,6 +417,7 @@
       "firmware": [
         "9.xx+"
       ],
+      "firmware_label": "9.xx+",
       "firmware_raw": [
         "9.xx"
       ],
@@ -372,6 +425,7 @@
       "apr_version": "",
       "dlcs_merged": false,
       "size_bytes": 36399847834,
+      "size_label": "33.9 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2307/f65f7b1bda267c6e7620d68dce0e31fd356ab5eb7fa6a8d0.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1011/a6884ee108283bc62ec6e7d5bd889691bafb389e3808b86c.jpg",
       "updated_at": "2026-07-28T08:48:28.019Z",
@@ -380,7 +434,9 @@
         "Viki",
         "Archive (Game + DLC)"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a686cdc3d4889f7e22e8b6b-78b9aa7408d8.png",
+      "icon_bytes": 79720
     },
     {
       "id": "6a67342b3d4889f7e22e8b67",
@@ -392,6 +448,7 @@
       "firmware": [
         "4.xx-backport"
       ],
+      "firmware_label": "4.xx-backport",
       "firmware_raw": [
         "4.xx BackPort"
       ],
@@ -399,6 +456,7 @@
       "apr_version": "apr-emu-v0.2.6.3",
       "dlcs_merged": false,
       "size_bytes": 25877177958,
+      "size_label": "24.1 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2714/c5ed026fcd195871688178db5c8c447c0afb75dfef3cd06b.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2714/c5ed026fcd195871688178db5c8c447c0afb75dfef3cd06b.jpg",
       "updated_at": "2026-07-27T10:34:19.183Z",
@@ -406,7 +464,9 @@
       "providers": [
         "Viki"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a67342b3d4889f7e22e8b67-ac2a3e4d058d.png",
+      "icon_bytes": 58586
     },
     {
       "id": "6a6733d33d4889f7e22e8b66",
@@ -418,6 +478,7 @@
       "firmware": [
         "4.xx-backport"
       ],
+      "firmware_label": "4.xx-backport",
       "firmware_raw": [
         "4.xx BackPort"
       ],
@@ -425,6 +486,7 @@
       "apr_version": "",
       "dlcs_merged": false,
       "size_bytes": 14817637171,
+      "size_label": "13.8 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0911/c6fbda075c75c4bdd75823f054ec9342fe3e3d02ce6a862a.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0911/c6fbda075c75c4bdd75823f054ec9342fe3e3d02ce6a862a.jpg",
       "updated_at": "2026-07-27T10:32:51.357Z",
@@ -433,7 +495,9 @@
         "Viki",
         "Archive"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6733d33d4889f7e22e8b66-0d8d95eeb40c.png",
+      "icon_bytes": 69390
     },
     {
       "id": "6a6733823d4889f7e22e8b65",
@@ -445,6 +509,7 @@
       "firmware": [
         "4.xx-backport"
       ],
+      "firmware_label": "4.xx-backport",
       "firmware_raw": [
         "4.xx BackPort"
       ],
@@ -452,6 +517,7 @@
       "apr_version": "apr-emu-v0.2.6.3",
       "dlcs_merged": false,
       "size_bytes": 18360985190,
+      "size_label": "17.1 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1003/d226886ef3aded4ebd98cbea281b8792e4c3efaf0ae54e43.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1003/d226886ef3aded4ebd98cbea281b8792e4c3efaf0ae54e43.jpg",
       "updated_at": "2026-07-27T10:31:30.403Z",
@@ -460,7 +526,9 @@
         "Viki",
         "Archive"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6733823d4889f7e22e8b65-c98cbc2ffb8d.png",
+      "icon_bytes": 52343
     },
     {
       "id": "6a6733373d4889f7e22e8b64",
@@ -472,6 +540,7 @@
       "firmware": [
         "4.xx-backport"
       ],
+      "firmware_label": "4.xx-backport",
       "firmware_raw": [
         "4.xx BackPort"
       ],
@@ -479,6 +548,7 @@
       "apr_version": "apr-emu-v0.2.6.3",
       "dlcs_merged": false,
       "size_bytes": 40480066765,
+      "size_label": "37.7 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/0609/ff5c11d1d6ae705e23e7db7039f90882925d13e4f242f777.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/0609/ff5c11d1d6ae705e23e7db7039f90882925d13e4f242f777.jpg",
       "updated_at": "2026-07-27T10:30:15.127Z",
@@ -487,7 +557,9 @@
         "Viki",
         "Data"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6733373d4889f7e22e8b64-c66fccf911aa.png",
+      "icon_bytes": 38930
     },
     {
       "id": "6a41daba943e0bf514569235",
@@ -499,6 +571,7 @@
       "firmware": [
         "4.xx+"
       ],
+      "firmware_label": "4.xx+",
       "firmware_raw": [
         "4.xx"
       ],
@@ -506,6 +579,7 @@
       "apr_version": "",
       "dlcs_merged": false,
       "size_bytes": 81604378624,
+      "size_label": "76.0 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/3020/bca42b94af09b7a7ffd27fcb76a7bb1e46b60ed0c5f99322.png",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/3020/1916ec71f4af6c3e583a816988c41d54bafea762e02a39b2.jpg",
       "updated_at": "2026-07-27T10:29:23.194Z",
@@ -515,7 +589,9 @@
         "Viki",
         "Archive (Game + DLC)"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a41daba943e0bf514569235-359468150813.png",
+      "icon_bytes": 98894
     },
     {
       "id": "6a3655f056e5f49eefa028c9",
@@ -527,6 +603,7 @@
       "firmware": [
         "4.xx+"
       ],
+      "firmware_label": "4.xx+",
       "firmware_raw": [
         "4.xx +"
       ],
@@ -534,6 +611,7 @@
       "apr_version": "",
       "dlcs_merged": false,
       "size_bytes": 8504035246,
+      "size_label": "7.9 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0300/VdyFw6rwpTdZS2UioHYBbvre.png",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0300/mdLNPfAntEpIxfdzEVMUReJj.jpg",
       "updated_at": "2026-07-27T06:24:38.656Z",
@@ -542,7 +620,9 @@
         "Viki",
         "Archive"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028c9-ce25f15e2803.png",
+      "icon_bytes": 59440
     },
     {
       "id": "6a64db0c3d4889f7e22e8b5d",
@@ -554,6 +634,7 @@
       "firmware": [
         "4.xx-backport"
       ],
+      "firmware_label": "4.xx-backport",
       "firmware_raw": [
         "4.xx Backport"
       ],
@@ -561,6 +642,7 @@
       "apr_version": "apr-emu-v0.2.6.3",
       "dlcs_merged": true,
       "size_bytes": 165012643512,
+      "size_label": "154 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/3009/3945b0d7edc8b58357c929e095547bd21ea756327f097384.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/3009/3945b0d7edc8b58357c929e095547bd21ea756327f097384.jpg",
       "updated_at": "2026-07-25T15:49:32.113Z",
@@ -569,7 +651,9 @@
         "Viki",
         "Archive"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a64db0c3d4889f7e22e8b5d-fd7c093efae7.png",
+      "icon_bytes": 57801
     },
     {
       "id": "6a6394ba3d4889f7e22e8b59",
@@ -581,6 +665,7 @@
       "firmware": [
         "2.xx+"
       ],
+      "firmware_label": "2.xx+",
       "firmware_raw": [
         "2.xx and beyond"
       ],
@@ -588,6 +673,7 @@
       "apr_version": "apr-emu-v0.2.6.3",
       "dlcs_merged": true,
       "size_bytes": 166429982720,
+      "size_label": "155 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202111/1814/n7UmKNPcZKKZNb8J1PxPWgsa.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202111/1814/n7UmKNPcZKKZNb8J1PxPWgsa.jpg",
       "updated_at": "2026-07-24T16:37:14.101Z",
@@ -597,7 +683,9 @@
         "Viki",
         "Akirabox"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6394ba3d4889f7e22e8b59-489c017b177c.png",
+      "icon_bytes": 61939
     },
     {
       "id": "6a3655f056e5f49eefa028a4",
@@ -609,6 +697,7 @@
       "firmware": [
         "5.xx+"
       ],
+      "firmware_label": "5.xx+",
       "firmware_raw": [
         "5.xx +"
       ],
@@ -616,6 +705,7 @@
       "apr_version": "apr-emu-v0.2.7.6",
       "dlcs_merged": false,
       "size_bytes": 49123688448,
+      "size_label": "45.8 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2800/08aa0e3d6a5cd2e283f9c96da6ecd9d7433e751235183f5d.png",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2800/d8239a77b57e74c4608ed0cbe4b70471d9f9637b5c9c7d39.jpg",
       "updated_at": "2026-07-24T05:27:33.563Z",
@@ -624,7 +714,9 @@
         "Viki",
         "1fichier"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028a4-32f6dd3da730.png",
+      "icon_bytes": 84219
     },
     {
       "id": "6a622d4f3d4889f7e22e8b52",
@@ -636,6 +728,7 @@
       "firmware": [
         "7.xx-backport"
       ],
+      "firmware_label": "7.xx-backport",
       "firmware_raw": [
         "7.xx BackPort"
       ],
@@ -643,6 +736,7 @@
       "apr_version": "",
       "dlcs_merged": false,
       "size_bytes": 19971597926,
+      "size_label": "18.6 GiB",
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1012/61e94ce1eca97d5c684887bff9eb34ca25c2900fd9ff5c06.png",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1104/d934be605c0042ddbc8a8f5e199c62a17c398dec563090d8.jpg",
       "updated_at": "2026-07-23T15:03:43.427Z",
@@ -651,7 +745,9 @@
         "Viki",
         "Archive"
       ],
-      "source": "gfs-pfs-library"
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a622d4f3d4889f7e22e8b52-3318ca701e99.png",
+      "icon_bytes": 64979
     }
   ]
 }

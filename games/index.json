@@ -1,12 +1,12 @@
 {
   "name": "Z3Shop Games",
-  "version": 1,
+  "version": 2,
   "source": {
     "id": "gfs-pfs-library",
     "api": "https://pfs-library.xetdy-am.workers.dev/api/packages",
     "mode": "metadata-only"
   },
-  "generated": "2026-09-13T21:22:38.789Z",
+  "generated": "2026-09-13T21:46:15.189Z",
   "total": 353,
   "page_size": 24,
   "pages": 15,
@@ -110,5 +110,13 @@
       "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-015.json"
     }
   ],
+  "artwork": {
+    "mode": "optimized-local-thumbnails",
+    "directory": "game-art",
+    "target_px": 256,
+    "ready": 353,
+    "unresolved": 0,
+    "bytes": 24092746
+  },
   "note": "Metadata feed only. Provider download URLs are intentionally not mirrored in this catalog."
 }
