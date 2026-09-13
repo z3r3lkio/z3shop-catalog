@@ -50,11 +50,15 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5-Xplorer_v1.05.pkg",
-      "icon_url": "",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons/ps5-xplorer.png?v=cfb8556bdf6b",
       "version": "v1.05.",
       "author": "Lapy",
       "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
-      "release_notes": "Discovered via nexgen-aio-pkg"
+      "release_notes": "Discovered via nexgen-aio-pkg",
+      "icon_source_url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5-Xplorer_v1.05.pkg#entry-0x1200",
+      "icon_origin": "pkg-entry:0x1200",
+      "icon_bytes": 99958,
+      "icon_pkg_entry_size": 202093
     },
     {
       "id": "prospero-light",
@@ -123,11 +127,15 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg",
-      "icon_url": "",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons/avatar-changer.png?v=5b2ba239116f",
       "version": "v1.00.",
       "author": "Lapy",
       "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
-      "release_notes": "Discovered via nexgen-aio-pkg"
+      "release_notes": "Discovered via nexgen-aio-pkg",
+      "icon_source_url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg#entry-0x1200",
+      "icon_origin": "pkg-entry:0x1200",
+      "icon_bytes": 88138,
+      "icon_pkg_entry_size": 157840
     },
     {
       "id": "fpkgi",
@@ -158,11 +166,15 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Homebrew_Store_installer.pkg",
-      "icon_url": "",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons/homebrew-store-installer.png?v=4dc148453cfc",
       "version": "v1.0.0",
       "author": "pkg-zone",
       "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
-      "release_notes": "Discovered via nexgen-aio-pkg"
+      "release_notes": "Discovered via nexgen-aio-pkg",
+      "icon_source_url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Homebrew_Store_installer.pkg#entry-0x1200",
+      "icon_origin": "pkg-entry:0x1200",
+      "icon_bytes": 54243,
+      "icon_pkg_entry_size": 218511
     },
     {
       "id": "internetbrowser-game-menu",
@@ -263,9 +275,11 @@
     "featured": 6,
     "apps": 10,
     "ffspsc": 3,
-    "icons": 7,
-    "icon_bytes": 359942,
-    "icons_unresolved": 6
+    "icons": 10,
+    "icon_bytes": 602281,
+    "pkg_icon_attempts": 6,
+    "pkg_icons_extracted": 3,
+    "icons_unresolved": 3
   },
-  "_generated": "2026-09-13T20:12:51.542Z"
+  "_generated": "2026-09-13T20:20:35.182Z"
 }
