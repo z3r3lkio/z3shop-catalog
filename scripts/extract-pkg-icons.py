@@ -21,7 +21,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CATALOG = ROOT / "packages.json"
 ICONS = ROOT / "icons"
 RAW_BASE = "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons"
-USER_AGENT = "Z3Shop-Catalog-PKGIcon/1.0"
+USER_AGENT = "Z3Shop-Catalog-PKGIcon/1.1"
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 
 PKG_MAGIC = 0x7F434E54
@@ -55,8 +55,6 @@ def range_fetch(url: str, start: int, length: int) -> tuple[bytes, str]:
     with urllib.request.urlopen(request, timeout=30) as response:
         status = getattr(response, "status", response.getcode())
         if status != 206:
-            # Refuse a 200 response: an origin that ignores Range could otherwise make
-            # the catalog job download an entire multi-gigabyte package.
             raise ValueError(f"server did not honor Range (HTTP {status})")
         content_range = response.headers.get("Content-Range", "")
         expected_prefix = f"bytes {start}-{end}/"
@@ -79,8 +77,9 @@ def u32be(buf: bytes, offset: int) -> int:
 
 def extract_icon(url: str) -> tuple[bytes, dict]:
     header, final_url = range_fetch(url, 0, HEADER_BYTES)
-    if u32be(header, 0) != PKG_MAGIC:
-        raise ValueError("bad PKG magic")
+    magic = u32be(header, 0)
+    if magic != PKG_MAGIC:
+        raise ValueError(f"bad PKG magic 0x{magic:08X}; first16={header[:16].hex()}")
 
     entry_count = u32be(header, 0x10)
     table_offset = u32be(header, 0x18)
@@ -90,7 +89,6 @@ def extract_icon(url: str) -> tuple[bytes, dict]:
     if table_size <= 0 or table_size > MAX_TABLE_BYTES:
         raise ValueError(f"entry table too large: {table_size}")
 
-    # Reuse header bytes when the complete table is already in the first 4 KiB.
     if table_offset >= 0 and table_offset + table_size <= len(header):
         table = header[table_offset:table_offset + table_size]
     else:
@@ -148,8 +146,6 @@ def should_extract(pkg: dict) -> bool:
         return False
     origin = str(pkg.get("icon_origin") or "").lower()
     source = str(pkg.get("icon_source_url") or "").lower()
-    # Preserve exact/direct upstream artwork. Replace page avatars, legacy cache and
-    # missing artwork with the package's own embedded ICON0.
     if origin == "direct" and source:
         return False
     return True
