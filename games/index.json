@@ -6,10 +6,12 @@
     "api": "https://pfs-library.xetdy-am.workers.dev/api/packages",
     "mode": "metadata-only"
   },
-  "generated": "2026-09-13T20:49:47.360Z",
+  "generated": "2026-09-13T21:22:38.789Z",
   "total": 353,
   "page_size": 24,
   "pages": 15,
+  "duplicates_dropped": 0,
+  "search_bytes": 55159,
   "pack_counts": {
     "unknown": 299,
     "pfs": 44,
