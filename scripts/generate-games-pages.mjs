@@ -5,6 +5,7 @@ import { mkdir, rm, writeFile } from 'node:fs/promises';
 const SOURCE_API = 'https://pfs-library.xetdy-am.workers.dev/api/packages';
 const OUTPUT_DIR = 'games';
 const PAGE_SIZE = 24;
+const MAX_NATIVE_JSON_BYTES = 64000;
 const USER_AGENT = 'Z3Shop-Games-Catalog/1.0';
 const RAW_BASE = 'https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games';
 
@@ -99,14 +100,32 @@ function counts(values) {
   return Object.fromEntries(Object.entries(out).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])));
 }
 
+function dedupeById(items) {
+  const seen = new Set();
+  const unique = [];
+  let duplicates = 0;
+  for (const item of items) {
+    if (seen.has(item.id)) {
+      duplicates += 1;
+      continue;
+    }
+    seen.add(item.id);
+    unique.push(item);
+  }
+  return { unique, duplicates };
+}
+
 async function main() {
   const source = await fetchJson(SOURCE_API);
   if (!source || !Array.isArray(source.packages)) throw new Error('packages array missing');
 
-  const games = source.packages
+  const normalized = source.packages
     .map(normalizeGame)
     .filter((g) => g.id && g.title)
     .sort((a, b) => b.updated_at.localeCompare(a.updated_at) || a.title.localeCompare(b.title, 'en', { sensitivity: 'base' }));
+
+  const { unique: games, duplicates: duplicatesDropped } = dedupeById(normalized);
+  if (!games.length) throw new Error('no valid games after normalization');
 
   await rm(OUTPUT_DIR, { recursive: true, force: true });
   await mkdir(OUTPUT_DIR, { recursive: true });
@@ -130,7 +149,11 @@ async function main() {
       generated,
       games: chunk,
     };
-    await writeFile(`${OUTPUT_DIR}/${filename}`, `${JSON.stringify(body, null, 2)}\n`, 'utf8');
+    const pageBody = `${JSON.stringify(body, null, 2)}\n`;
+    if (Buffer.byteLength(pageBody, 'utf8') >= MAX_NATIVE_JSON_BYTES) {
+      throw new Error(`${filename} exceeds native JSON budget`);
+    }
+    await writeFile(`${OUTPUT_DIR}/${filename}`, pageBody, 'utf8');
     pages.push({
       page: pageNumber,
       count: chunk.length,
@@ -138,16 +161,21 @@ async function main() {
     });
   }
 
-  const search = games.map((g) => ({
+  const search = games.map((g, index) => ({
     id: g.id,
     title_id: g.title_id,
     title: g.title,
     pack: g.pack,
     region: g.region,
     firmware: g.firmware,
-    page: Math.floor(games.indexOf(g) / PAGE_SIZE) + 1,
+    page: Math.floor(index / PAGE_SIZE) + 1,
   }));
-  await writeFile(`${OUTPUT_DIR}/search.json`, `${JSON.stringify({ version: 1, generated, total: games.length, games: search }, null, 2)}\n`, 'utf8');
+  const searchBody = `${JSON.stringify({ version: 1, generated, total: games.length, games: search })}\n`;
+  const searchBytes = Buffer.byteLength(searchBody, 'utf8');
+  if (searchBytes >= MAX_NATIVE_JSON_BYTES) {
+    throw new Error(`games/search.json is ${searchBytes} bytes; native budget is ${MAX_NATIVE_JSON_BYTES - 1}`);
+  }
+  await writeFile(`${OUTPUT_DIR}/search.json`, searchBody, 'utf8');
 
   const index = {
     name: 'Z3Shop Games',
@@ -161,6 +189,8 @@ async function main() {
     total: games.length,
     page_size: PAGE_SIZE,
     pages: pageCount,
+    duplicates_dropped: duplicatesDropped,
+    search_bytes: searchBytes,
     pack_counts: counts(games.map((g) => g.pack)),
     region_counts: counts(games.map((g) => g.region || 'unspecified')),
     apr_enabled: games.filter((g) => g.apr).length,
@@ -171,7 +201,7 @@ async function main() {
   };
   await writeFile(`${OUTPUT_DIR}/index.json`, `${JSON.stringify(index, null, 2)}\n`, 'utf8');
 
-  console.log(`Generated ${games.length} games across ${pageCount} pages (${PAGE_SIZE}/page).`);
+  console.log(`Generated ${games.length} unique games across ${pageCount} pages (${PAGE_SIZE}/page); dropped ${duplicatesDropped} duplicate IDs; search index ${searchBytes} bytes.`);
 }
 
 main().catch((error) => {
