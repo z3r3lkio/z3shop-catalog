@@ -9,6 +9,7 @@ on:
     paths:
       - 'scripts/generate-packages.mjs'
       - 'scripts/sync-pfs-library.mjs'
+      - 'scripts/generate-games-pages.mjs'
       - 'scripts/sync-icons.py'
       - 'scripts/extract-pkg-icons.py'
       - 'scripts/sanitize-icons.py'
@@ -43,6 +44,9 @@ jobs:
       - name: Parse GFS PFS Library discovery source
         run: node ./scripts/sync-pfs-library.mjs
 
+      - name: Generate paginated games metadata
+        run: node ./scripts/generate-games-pages.mjs
+
       - name: Set up icon optimizer
         shell: bash
         run: |
@@ -69,17 +73,18 @@ jobs:
           set -euo pipefail
           node -e 'const fs=require("fs");const c=JSON.parse(fs.readFileSync("packages.json","utf8"));if(!Array.isArray(c.packages)||!c.packages.length)process.exit(1);const ids=new Set();for(const p of c.packages){if(!p.id||ids.has(p.id)||!p.name||!p.redistributable)process.exit(2);ids.add(p.id);if(p.installable&&!/^https:\/\//i.test(p.url||""))process.exit(3);if(p.icon_url&&!/^https:\/\/raw\.githubusercontent\.com\/z3r3lkio\/z3shop-catalog\/main\/icons\//i.test(p.icon_url))process.exit(4);if(p.icon_bytes&&p.icon_bytes>225280)process.exit(5);if((p.icon_source_url||"").toLowerCase()==="cached")process.exit(6);if(/\/storage\/users\/.*\/avatar\./i.test(p.icon_source_url||""))process.exit(7)};const d=c._discovery?.pfs_library;if(d&&(!(d.packages>0)||!d.pack_counts||d.download_links<0))process.exit(8);console.log(`validated ${c.packages.length} installable packages, ${c._stats?.icons||0} trusted optimized icons, ${c._stats?.icons_unresolved||0} unresolved, ${c._stats?.pkg_icons_extracted||0} extracted from PKG, ${d?.packages||0} GFS discovery records`)'
           test $(wc -c < packages.json) -lt 64000
+          node -e 'const fs=require("fs");const i=JSON.parse(fs.readFileSync("games/index.json","utf8"));if(!(i.total>0)||!(i.pages>0)||!(i.page_size>0))process.exit(20);if(!Array.isArray(i.pages_index)||i.pages_index.length!==i.pages)process.exit(21);for(const p of i.pages_index){const f=`games/page-${String(p.page).padStart(3,"0")}.json`;const j=JSON.parse(fs.readFileSync(f,"utf8"));if(!Array.isArray(j.games)||j.games.length>i.page_size)process.exit(22);for(const g of j.games){if(!g.id||!g.title||!g.source)process.exit(23);if("downloadLinks" in g||"download_url" in g||"url" in g)process.exit(24)}if(fs.statSync(f).size>=64000)process.exit(25)};console.log(`validated ${i.total} games in ${i.pages} metadata pages`)'
 
       - name: Commit catalog changes
         shell: bash
         run: |
           set -euo pipefail
-          if git diff --quiet -- packages.json icons/ 2>/dev/null; then
-            echo 'packages.json and icons are already current'
+          if git diff --quiet -- packages.json icons/ games/ 2>/dev/null; then
+            echo 'packages.json, icons and games metadata are already current'
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A packages.json icons/
-          git commit -m 'chore(catalog): refresh packages and verified icons'
+          git add -A packages.json icons/ games/
+          git commit -m 'chore(catalog): refresh packages, icons and games metadata'
           git push origin HEAD:main
