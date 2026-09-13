@@ -1,12 +1,14 @@
 {
   "name": "Z3Shop",
-  "version": 4,
+  "version": 5,
   "packages": [
     {
       "id": "ps5-homebrew-launcher",
       "name": "PS5 Homebrew Launcher",
       "description": "Launch and manage PS5 homebrew content from a lightweight redistributable launcher.",
-      "category": "homebrew",
+      "type": "app",
+      "category": "apps",
+      "featured": true,
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/ps5-payload-dev/websrv/raw/refs/heads/master/homebrew/IV9999-FAKE00000_00-HOMEBREWLOADER01.pkg",
@@ -14,7 +16,7 @@
       "version": "current",
       "author": "ps5-payload-dev",
       "homepage": "https://github.com/ps5-payload-dev/websrv",
-      "release_notes": "Public redistributable launcher used by Z3Shop for native homebrew launching."
+      "release_notes": "Public redistributable launcher used by Z3Shop for native app launching."
     }
   ]
 }
