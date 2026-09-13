@@ -58,7 +58,8 @@
       "icon_source_url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5-Xplorer_v1.05.pkg#entry-0x1200",
       "icon_origin": "pkg-entry:0x1200",
       "icon_bytes": 99958,
-      "icon_pkg_entry_size": 202093
+      "icon_pkg_entry_size": 202093,
+      "icon_pkg_container": "CNT"
     },
     {
       "id": "prospero-light",
@@ -135,7 +136,8 @@
       "icon_source_url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg#entry-0x1200",
       "icon_origin": "pkg-entry:0x1200",
       "icon_bytes": 88138,
-      "icon_pkg_entry_size": 157840
+      "icon_pkg_entry_size": 157840,
+      "icon_pkg_container": "CNT"
     },
     {
       "id": "fpkgi",
@@ -174,7 +176,8 @@
       "icon_source_url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Homebrew_Store_installer.pkg#entry-0x1200",
       "icon_origin": "pkg-entry:0x1200",
       "icon_bytes": 54243,
-      "icon_pkg_entry_size": 218511
+      "icon_pkg_entry_size": 218511,
+      "icon_pkg_container": "CNT"
     },
     {
       "id": "internetbrowser-game-menu",
@@ -190,7 +193,9 @@
       "version": "v1.00.",
       "author": "ps5xploit",
       "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
-      "release_notes": "Discovered via nexgen-aio-pkg"
+      "release_notes": "Discovered via nexgen-aio-pkg",
+      "icon_pkg_entry_size": 9732,
+      "icon_pkg_container": "FIH+CNT"
     },
     {
       "id": "internetbrowser-media-menu",
@@ -206,7 +211,9 @@
       "version": "v1.00.",
       "author": "ps5xploit",
       "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
-      "release_notes": "Discovered via nexgen-aio-pkg"
+      "release_notes": "Discovered via nexgen-aio-pkg",
+      "icon_pkg_entry_size": 9732,
+      "icon_pkg_container": "FIH+CNT"
     },
     {
       "id": "ps5-shop-appkg",
@@ -237,11 +244,16 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg",
-      "icon_url": "",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons/ps5webit-nexgen999-installer.png?v=6b04a88ea7d7",
       "version": "v1.00.",
       "author": "Master0",
       "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
-      "release_notes": "Discovered via nexgen-aio-pkg"
+      "release_notes": "Discovered via nexgen-aio-pkg",
+      "icon_source_url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg#entry-0x1200",
+      "icon_origin": "pkg-entry:0x1200",
+      "icon_bytes": 77106,
+      "icon_pkg_entry_size": 399848,
+      "icon_pkg_container": "FIH+CNT"
     }
   ],
   "_sources": [
@@ -275,11 +287,13 @@
     "featured": 6,
     "apps": 10,
     "ffspsc": 3,
-    "icons": 10,
-    "icon_bytes": 602281,
+    "icons": 11,
+    "icon_bytes": 679387,
     "pkg_icon_attempts": 6,
-    "pkg_icons_extracted": 3,
-    "icons_unresolved": 3
+    "pkg_icons_extracted": 6,
+    "pkg_icons_cnt": 3,
+    "pkg_icons_fih": 3,
+    "icons_unresolved": 2
   },
-  "_generated": "2026-09-13T20:22:30.593Z"
+  "_generated": "2026-09-13T20:24:09.454Z"
 }
