@@ -12,11 +12,14 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg",
-      "icon_url": "",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons/itemzflow-game-manager.png?v=3f899d9f9d16",
       "version": "v1.14.",
       "author": "Itemzflow",
       "homepage": "https://github.com/LightningMods/Itemzflow",
-      "release_notes": "Discovered via nexgen-aio-pkg"
+      "release_notes": "Discovered via nexgen-aio-pkg",
+      "icon_source_url": "https://raw.githubusercontent.com/LightningMods/Itemzflow/main/App-Media-Assets/sce_sys/icon0.png",
+      "icon_origin": "direct",
+      "icon_bytes": 64569
     },
     {
       "id": "ps5-homebrew-launcher",
@@ -28,11 +31,14 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/ps5-payload-dev/websrv/raw/refs/heads/master/homebrew/IV9999-FAKE00000_00-HOMEBREWLOADER01.pkg",
-      "icon_url": "https://raw.githubusercontent.com/ps5-payload-dev/websrv/master/icon0.png",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons/ps5-homebrew-launcher.png?v=1fabb6facadb",
       "version": "v0.34",
       "author": "ps5-payload-dev",
       "homepage": "https://github.com/ps5-payload-dev/websrv",
-      "release_notes": "v0.34"
+      "release_notes": "v0.34",
+      "icon_source_url": "https://raw.githubusercontent.com/ps5-payload-dev/websrv/master/icon0.png",
+      "icon_origin": "direct",
+      "icon_bytes": 26391
     },
     {
       "id": "ps5-xplorer",
@@ -44,11 +50,14 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5-Xplorer_v1.05.pkg",
-      "icon_url": "",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons/ps5-xplorer.png?v=2dc0aa0b46f1",
       "version": "v1.05.",
       "author": "Lapy",
       "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
-      "release_notes": "Discovered via nexgen-aio-pkg"
+      "release_notes": "Discovered via nexgen-aio-pkg",
+      "icon_source_url": "https://raw.githubusercontent.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/main/payloads/ps5_hen_loader/Kura/v1.6.31/kura-hero.png",
+      "icon_origin": "github:nexgen999/PS5-Super-PLDMGR-Auto-Updater",
+      "icon_bytes": 15146
     },
     {
       "id": "prospero-light",
@@ -60,11 +69,14 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc",
-      "icon_url": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoLight/main/sce_sys/icon0.png",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons/prospero-light.png?v=8c258d0b9645",
       "version": "01.000.060",
       "author": "blackbearreloaded",
       "homepage": "https://github.com/blackbearreloaded/ProsperoLight",
-      "release_notes": "ProsperoLight 01.000.060"
+      "release_notes": "ProsperoLight 01.000.060",
+      "icon_source_url": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoLight/main/sce_sys/icon0.png",
+      "icon_origin": "direct",
+      "icon_bytes": 24319
     },
     {
       "id": "prospero-radio",
@@ -76,11 +88,14 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/blackbearreloaded/ProsperoRadio/releases/download/01.000.005/PPSA99001.ffpfsc",
-      "icon_url": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoRadio/main/sce_sys/icon0.png",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons/prospero-radio.png?v=ddbe49012065",
       "version": "01.000.005",
       "author": "blackbearreloaded",
       "homepage": "https://github.com/blackbearreloaded/ProsperoRadio",
-      "release_notes": "ProsperoRadio 01.000.005"
+      "release_notes": "ProsperoRadio 01.000.005",
+      "icon_source_url": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoRadio/main/sce_sys/icon0.png",
+      "icon_origin": "direct",
+      "icon_bytes": 111027
     },
     {
       "id": "prospero-tv",
@@ -92,11 +107,14 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.002/PPSA99003.ffpfsc",
-      "icon_url": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoTV/main/sce_sys/icon0.png",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons/prospero-tv.png?v=847fdb56850f",
       "version": "01.000.002",
       "author": "blackbearreloaded",
       "homepage": "https://github.com/blackbearreloaded/ProsperoTV",
-      "release_notes": "ProsperoTV 01.000.002"
+      "release_notes": "ProsperoTV 01.000.002",
+      "icon_source_url": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoTV/main/sce_sys/icon0.png",
+      "icon_origin": "direct",
+      "icon_bytes": 22104
     },
     {
       "id": "avatar-changer",
@@ -108,11 +126,14 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg",
-      "icon_url": "",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons/avatar-changer.png?v=2dc0aa0b46f1",
       "version": "v1.00.",
       "author": "Lapy",
       "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
-      "release_notes": "Discovered via nexgen-aio-pkg"
+      "release_notes": "Discovered via nexgen-aio-pkg",
+      "icon_source_url": "https://raw.githubusercontent.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/main/payloads/ps5_hen_loader/Kura/v1.6.31/kura-hero.png",
+      "icon_origin": "github:nexgen999/PS5-Super-PLDMGR-Auto-Updater",
+      "icon_bytes": 15146
     },
     {
       "id": "fpkgi",
@@ -124,11 +145,14 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_FPKGi_v1.10.0.pkg",
-      "icon_url": "",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons/fpkgi.png?v=e0269ed23b2f",
       "version": "v1.10.0.",
       "author": "ItsJokerZz",
       "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
-      "release_notes": "Discovered via nexgen-aio-pkg"
+      "release_notes": "Discovered via nexgen-aio-pkg",
+      "icon_source_url": "https://raw.githubusercontent.com/ItsJokerZz/FPKGi/release/source/Assets/Images/App/Icon.png",
+      "icon_origin": "direct",
+      "icon_bytes": 37759
     },
     {
       "id": "homebrew-store-installer",
@@ -140,11 +164,14 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Homebrew_Store_installer.pkg",
-      "icon_url": "",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons/homebrew-store-installer.png?v=2dc0aa0b46f1",
       "version": "v1.0.0",
       "author": "pkg-zone",
       "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
-      "release_notes": "Discovered via nexgen-aio-pkg"
+      "release_notes": "Discovered via nexgen-aio-pkg",
+      "icon_source_url": "https://raw.githubusercontent.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/main/payloads/ps5_hen_loader/Kura/v1.6.31/kura-hero.png",
+      "icon_origin": "github:nexgen999/PS5-Super-PLDMGR-Auto-Updater",
+      "icon_bytes": 15146
     },
     {
       "id": "internetbrowser-game-menu",
@@ -156,11 +183,14 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg",
-      "icon_url": "",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons/internetbrowser-game-menu.png?v=2dc0aa0b46f1",
       "version": "v1.00.",
       "author": "ps5xploit",
       "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
-      "release_notes": "Discovered via nexgen-aio-pkg"
+      "release_notes": "Discovered via nexgen-aio-pkg",
+      "icon_source_url": "https://raw.githubusercontent.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/main/payloads/ps5_hen_loader/Kura/v1.6.31/kura-hero.png",
+      "icon_origin": "github:nexgen999/PS5-Super-PLDMGR-Auto-Updater",
+      "icon_bytes": 15146
     },
     {
       "id": "internetbrowser-media-menu",
@@ -172,11 +202,14 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg",
-      "icon_url": "",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons/internetbrowser-media-menu.png?v=2dc0aa0b46f1",
       "version": "v1.00.",
       "author": "ps5xploit",
       "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
-      "release_notes": "Discovered via nexgen-aio-pkg"
+      "release_notes": "Discovered via nexgen-aio-pkg",
+      "icon_source_url": "https://raw.githubusercontent.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/main/payloads/ps5_hen_loader/Kura/v1.6.31/kura-hero.png",
+      "icon_origin": "github:nexgen999/PS5-Super-PLDMGR-Auto-Updater",
+      "icon_bytes": 15146
     },
     {
       "id": "ps5-shop-appkg",
@@ -188,11 +221,14 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/PS5-SHOP-APPKG.pkg",
-      "icon_url": "",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons/ps5-shop-appkg.png?v=02250e4eec84",
       "version": "1.0.0",
       "author": "ps5xploit",
       "homepage": "https://github.com/ps5xploit/ps5shopappkg",
-      "release_notes": "Pinned to the ps5shopappkg homebrew-store release tag."
+      "release_notes": "Pinned to the ps5shopappkg homebrew-store release tag.",
+      "icon_source_url": "https://raw.githubusercontent.com/ps5xploit/ps5shopappkg/main/PS5SHOPAPPKG-icon0.jpg",
+      "icon_origin": "direct",
+      "icon_bytes": 73773
     },
     {
       "id": "ps5webit-nexgen999-installer",
@@ -204,11 +240,14 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg",
-      "icon_url": "",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons/ps5webit-nexgen999-installer.png?v=2dc0aa0b46f1",
       "version": "v1.00.",
       "author": "Master0",
       "homepage": "https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater",
-      "release_notes": "Discovered via nexgen-aio-pkg"
+      "release_notes": "Discovered via nexgen-aio-pkg",
+      "icon_source_url": "https://raw.githubusercontent.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/main/payloads/ps5_hen_loader/Kura/v1.6.31/kura-hero.png",
+      "icon_origin": "github:nexgen999/PS5-Super-PLDMGR-Auto-Updater",
+      "icon_bytes": 15146
     }
   ],
   "_sources": [
@@ -241,7 +280,9 @@
     "packages": 13,
     "featured": 6,
     "apps": 10,
-    "ffspsc": 3
+    "ffspsc": 3,
+    "icons": 13,
+    "icon_bytes": 450818
   },
   "_generated": "2026-09-13T19:54:00.179Z"
 }
