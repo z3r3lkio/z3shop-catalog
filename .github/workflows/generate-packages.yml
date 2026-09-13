@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/generate-packages.mjs'
+      - 'scripts/sync-icons.py'
       - '.github/workflows/generate-packages.yml'
 
 permissions:
@@ -36,23 +37,35 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         run: node ./scripts/generate-packages.mjs
 
-      - name: Validate generated JSON
+      - name: Set up icon optimizer
         shell: bash
         run: |
           set -euo pipefail
-          node -e 'const fs=require("fs");const c=JSON.parse(fs.readFileSync("packages.json","utf8"));if(!Array.isArray(c.packages)||!c.packages.length)process.exit(1);const ids=new Set();for(const p of c.packages){if(!p.id||ids.has(p.id)||!p.name||!p.redistributable)process.exit(2);ids.add(p.id);if(p.installable&&!/^https:\/\//i.test(p.url||""))process.exit(3)};console.log(`validated ${c.packages.length} packages from ${(c._sources||[]).length} sources`)'
+          python3 -m venv .icon-venv
+          .icon-venv/bin/python -m pip install --disable-pip-version-check --quiet pillow
+
+      - name: Resolve and optimize upstream icons
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: .icon-venv/bin/python ./scripts/sync-icons.py
+
+      - name: Validate generated catalog
+        shell: bash
+        run: |
+          set -euo pipefail
+          node -e 'const fs=require("fs");const c=JSON.parse(fs.readFileSync("packages.json","utf8"));if(!Array.isArray(c.packages)||!c.packages.length)process.exit(1);const ids=new Set();for(const p of c.packages){if(!p.id||ids.has(p.id)||!p.name||!p.redistributable)process.exit(2);ids.add(p.id);if(p.installable&&!/^https:\/\//i.test(p.url||""))process.exit(3);if(p.icon_url&&!/^https:\/\/raw\.githubusercontent\.com\/z3r3lkio\/z3shop-catalog\/main\/icons\//i.test(p.icon_url))process.exit(4);if(p.icon_bytes&&p.icon_bytes>225280)process.exit(5)};console.log(`validated ${c.packages.length} packages, ${c._stats?.icons||0} optimized icons`)'
           test $(wc -c < packages.json) -lt 64000
 
       - name: Commit catalog changes
         shell: bash
         run: |
           set -euo pipefail
-          if git diff --quiet -- packages.json; then
-            echo 'packages.json is already current'
+          if git diff --quiet -- packages.json icons/ 2>/dev/null; then
+            echo 'packages.json and icons are already current'
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add packages.json
-          git commit -m 'chore(catalog): refresh packages from upstream sources'
+          git add packages.json icons/
+          git commit -m 'chore(catalog): refresh packages and optimized icons'
           git push origin HEAD:main
