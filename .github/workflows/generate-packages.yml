@@ -9,6 +9,7 @@ on:
     paths:
       - 'scripts/generate-packages.mjs'
       - 'scripts/sync-icons.py'
+      - 'scripts/extract-pkg-icons.py'
       - 'scripts/sanitize-icons.py'
       - '.github/workflows/generate-packages.yml'
 
@@ -50,6 +51,11 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         run: .icon-venv/bin/python ./scripts/sync-icons.py
 
+      - name: Extract missing ICON0 directly from remote PKGs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: .icon-venv/bin/python ./scripts/extract-pkg-icons.py
+
       - name: Reject generic or unverified artwork
         run: .icon-venv/bin/python ./scripts/sanitize-icons.py
 
@@ -57,7 +63,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          node -e 'const fs=require("fs");const c=JSON.parse(fs.readFileSync("packages.json","utf8"));if(!Array.isArray(c.packages)||!c.packages.length)process.exit(1);const ids=new Set();for(const p of c.packages){if(!p.id||ids.has(p.id)||!p.name||!p.redistributable)process.exit(2);ids.add(p.id);if(p.installable&&!/^https:\/\//i.test(p.url||""))process.exit(3);if(p.icon_url&&!/^https:\/\/raw\.githubusercontent\.com\/z3r3lkio\/z3shop-catalog\/main\/icons\//i.test(p.icon_url))process.exit(4);if(p.icon_bytes&&p.icon_bytes>225280)process.exit(5);if((p.icon_source_url||"").toLowerCase()==="cached")process.exit(6);if(/\/storage\/users\/.*\/avatar\./i.test(p.icon_source_url||""))process.exit(7)};console.log(`validated ${c.packages.length} packages, ${c._stats?.icons||0} trusted optimized icons, ${c._stats?.icons_unresolved||0} unresolved`)'
+          node -e 'const fs=require("fs");const c=JSON.parse(fs.readFileSync("packages.json","utf8"));if(!Array.isArray(c.packages)||!c.packages.length)process.exit(1);const ids=new Set();for(const p of c.packages){if(!p.id||ids.has(p.id)||!p.name||!p.redistributable)process.exit(2);ids.add(p.id);if(p.installable&&!/^https:\/\//i.test(p.url||""))process.exit(3);if(p.icon_url&&!/^https:\/\/raw\.githubusercontent\.com\/z3r3lkio\/z3shop-catalog\/main\/icons\//i.test(p.icon_url))process.exit(4);if(p.icon_bytes&&p.icon_bytes>225280)process.exit(5);if((p.icon_source_url||"").toLowerCase()==="cached")process.exit(6);if(/\/storage\/users\/.*\/avatar\./i.test(p.icon_source_url||""))process.exit(7)};console.log(`validated ${c.packages.length} packages, ${c._stats?.icons||0} trusted optimized icons, ${c._stats?.icons_unresolved||0} unresolved, ${c._stats?.pkg_icons_extracted||0} extracted from PKG`)'
           test $(wc -c < packages.json) -lt 64000
 
       - name: Commit catalog changes
