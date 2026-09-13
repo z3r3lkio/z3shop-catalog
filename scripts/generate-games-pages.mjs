@@ -6,7 +6,7 @@ const SOURCE_API = 'https://pfs-library.xetdy-am.workers.dev/api/packages';
 const OUTPUT_DIR = 'games';
 const PAGE_SIZE = 24;
 const MAX_NATIVE_JSON_BYTES = 64000;
-const USER_AGENT = 'Z3Shop-Games-Catalog/1.0';
+const USER_AGENT = 'Z3Shop-Games-Catalog/1.1';
 const RAW_BASE = 'https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games';
 
 async function fetchJson(url) {
@@ -69,9 +69,18 @@ function providerNames(pkg) {
   return names;
 }
 
+function sizeLabel(value) {
+  const bytes = Number(value);
+  if (!Number.isFinite(bytes) || bytes <= 0) return 'Unknown size';
+  const gib = bytes / 1073741824;
+  return `${gib >= 100 ? gib.toFixed(0) : gib.toFixed(1)} GiB`;
+}
+
 function normalizeGame(pkg) {
   const rawFirmware = firmwareList(pkg?.firmware);
+  const firmware = normalizedFirmwareList(pkg?.firmware);
   const providers = providerNames(pkg);
+  const bytes = Number.isFinite(Number(pkg?.sizeBytes)) ? Number(pkg.sizeBytes) : 0;
   return {
     id: clean(pkg?.id, 48),
     title_id: clean(pkg?.titleId, 24),
@@ -79,12 +88,14 @@ function normalizeGame(pkg) {
     version: clean(pkg?.version, 32),
     pack: normalizePack(pkg?.pack),
     region: clean(pkg?.region, 48),
-    firmware: normalizedFirmwareList(pkg?.firmware),
+    firmware,
+    firmware_label: firmware.length ? firmware.join(', ') : 'Unknown',
     firmware_raw: rawFirmware.slice(0, 6),
     apr: pkg?.apr === true,
     apr_version: clean(pkg?.aprVersion, 32),
     dlcs_merged: pkg?.dlcsMerged === true,
-    size_bytes: Number.isFinite(Number(pkg?.sizeBytes)) ? Number(pkg.sizeBytes) : 0,
+    size_bytes: bytes,
+    size_label: sizeLabel(bytes),
     poster_url: clean(pkg?.posterUrl, 420),
     banner_url: clean(pkg?.bannerUrl, 420),
     updated_at: clean(pkg?.updatedAt || pkg?.createdAt, 40),
@@ -140,7 +151,7 @@ async function main() {
     const chunk = games.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE);
     const body = {
       name: 'Z3Shop Games',
-      version: 1,
+      version: 2,
       source: 'gfs-pfs-library',
       page: pageNumber,
       page_size: PAGE_SIZE,
@@ -170,7 +181,7 @@ async function main() {
     firmware: g.firmware,
     page: Math.floor(index / PAGE_SIZE) + 1,
   }));
-  const searchBody = `${JSON.stringify({ version: 1, generated, total: games.length, games: search })}\n`;
+  const searchBody = `${JSON.stringify({ version: 2, generated, total: games.length, games: search })}\n`;
   const searchBytes = Buffer.byteLength(searchBody, 'utf8');
   if (searchBytes >= MAX_NATIVE_JSON_BYTES) {
     throw new Error(`games/search.json is ${searchBytes} bytes; native budget is ${MAX_NATIVE_JSON_BYTES - 1}`);
@@ -179,7 +190,7 @@ async function main() {
 
   const index = {
     name: 'Z3Shop Games',
-    version: 1,
+    version: 2,
     source: {
       id: 'gfs-pfs-library',
       api: SOURCE_API,
@@ -197,6 +208,11 @@ async function main() {
     dlcs_merged: games.filter((g) => g.dlcs_merged).length,
     search_url: `${RAW_BASE}/search.json`,
     pages_index: pages,
+    artwork: {
+      mode: 'optimized-local-thumbnails',
+      size: 256,
+      directory: 'game-art',
+    },
     note: 'Metadata feed only. Provider download URLs are intentionally not mirrored in this catalog.',
   };
   await writeFile(`${OUTPUT_DIR}/index.json`, `${JSON.stringify(index, null, 2)}\n`, 'utf8');
