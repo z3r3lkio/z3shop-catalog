@@ -2,7 +2,9 @@
 """Remove icon mappings that are not proven to be app-specific artwork.
 
 The resolver may encounter generic author avatars or legacy cache files from an older
-heuristic. A missing icon is preferable to displaying the wrong app artwork.
+heuristic. A missing icon is preferable to displaying the wrong app artwork. Artwork
+extracted from each package's own ICON0 entry is authoritative even when two package
+variants intentionally use the same icon.
 """
 
 from __future__ import annotations
@@ -29,15 +31,25 @@ def untrusted(pkg: dict) -> bool:
     return False
 
 
+def authoritative_origin(pkg: dict) -> bool:
+    origin = str(pkg.get("icon_origin") or "").lower()
+    return origin == "direct" or origin.startswith("pkg-entry:")
+
+
 def clear_icon(pkg: dict, reason: str) -> None:
     pkg_id = str(pkg.get("id") or "")
     path = ICONS / f"{pkg_id}.png"
     if path.exists():
         path.unlink()
     pkg["icon_url"] = ""
-    pkg.pop("icon_source_url", None)
-    pkg.pop("icon_origin", None)
-    pkg.pop("icon_bytes", None)
+    for key in (
+        "icon_source_url",
+        "icon_origin",
+        "icon_bytes",
+        "icon_pkg_entry_size",
+        "icon_pkg_container",
+    ):
+        pkg.pop(key, None)
     print(f"[icon:drop] {pkg_id}: {reason}")
 
 
@@ -49,9 +61,9 @@ def main() -> int:
         if untrusted(pkg):
             clear_icon(pkg, "generic/legacy source")
 
-    # Duplicate image bytes from different apps are suspicious unless every member of
-    # the group has a direct, app-specific upstream source. This catches future generic
-    # site avatars/placeholders without hard-coding their digest.
+    # Duplicate bytes are suspicious only for heuristic/scraped sources. Two package
+    # variants can legitimately embed the exact same ICON0 (for example Game Menu and
+    # Media Menu browser variants), so package-extracted artwork is authoritative.
     by_hash: dict[str, list[dict]] = defaultdict(list)
     for pkg in packages:
         pkg_id = str(pkg.get("id") or "")
@@ -62,10 +74,10 @@ def main() -> int:
     for digest, group in by_hash.items():
         if len(group) < 2:
             continue
-        if all(str(p.get("icon_origin") or "").lower() == "direct" for p in group):
+        if all(authoritative_origin(p) for p in group):
             continue
         for pkg in group:
-            clear_icon(pkg, f"duplicate artwork {digest[:12]}")
+            clear_icon(pkg, f"duplicate heuristic artwork {digest[:12]}")
 
     valid = []
     total = 0
