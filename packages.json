@@ -10,7 +10,11 @@
       "redistributable": true,
       "installable": true,
       "url": "https://github.com/ps5-payload-dev/websrv/raw/refs/heads/master/homebrew/IV9999-FAKE00000_00-HOMEBREWLOADER01.pkg",
-      "icon_url": ""
+      "icon_url": "https://raw.githubusercontent.com/ps5-payload-dev/websrv/master/icon0.png",
+      "version": "current",
+      "author": "ps5-payload-dev",
+      "homepage": "https://github.com/ps5-payload-dev/websrv",
+      "release_notes": "Public redistributable launcher used by Z3Shop for native homebrew launching."
     }
   ]
 }
