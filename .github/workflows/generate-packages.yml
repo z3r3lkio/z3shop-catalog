@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/generate-packages.mjs'
+      - 'scripts/probe-pfs-library.mjs'
       - 'scripts/sync-icons.py'
       - 'scripts/extract-pkg-icons.py'
       - 'scripts/sanitize-icons.py'
@@ -33,6 +34,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
+
+      - name: Probe PFS Library source
+        run: node ./scripts/probe-pfs-library.mjs
 
       - name: Generate merged catalog
         env:
