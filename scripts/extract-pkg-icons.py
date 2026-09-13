@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Extract app-specific ICON0.PNG directly from remote PKG files using HTTP ranges.
+"""Extract app-specific ICON0.PNG directly from remote PS4/PS5 PKG files.
 
-Only the PKG header, entry table and ICON0 entry are fetched. Full packages are never
- downloaded. This is used when an upstream repository does not publish standalone art.
+Only HTTP byte ranges for the header, embedded CNT entry table and ICON0 entry are
+fetched. Full packages are never downloaded. Both standalone CNT packages (0x7FCNT)
+and native PS5 FIH packages (0x7FFIH wrapping an embedded CNT) are supported.
 """
 
 from __future__ import annotations
@@ -21,10 +22,11 @@ ROOT = Path(__file__).resolve().parents[1]
 CATALOG = ROOT / "packages.json"
 ICONS = ROOT / "icons"
 RAW_BASE = "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons"
-USER_AGENT = "Z3Shop-Catalog-PKGIcon/1.1"
+USER_AGENT = "Z3Shop-Catalog-PKGIcon/1.2"
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 
-PKG_MAGIC = 0x7F434E54
+PKG_MAGIC_CNT = 0x7F434E54  # \x7fCNT
+PKG_MAGIC_FIH = 0x7F464948  # \x7fFIH, native PS5 finalized-image wrapper
 ENTRY_ICON0_PNG = 0x1200
 ENTRY_SIZE = 0x20
 HEADER_BYTES = 0x1000
@@ -55,6 +57,7 @@ def range_fetch(url: str, start: int, length: int) -> tuple[bytes, str]:
     with urllib.request.urlopen(request, timeout=30) as response:
         status = getattr(response, "status", response.getcode())
         if status != 206:
+            # Refuse origins that ignore Range. This prevents accidental full-PKG downloads.
             raise ValueError(f"server did not honor Range (HTTP {status})")
         content_range = response.headers.get("Content-Range", "")
         expected_prefix = f"bytes {start}-{end}/"
@@ -75,49 +78,84 @@ def u32be(buf: bytes, offset: int) -> int:
     return struct.unpack_from(">I", buf, offset)[0]
 
 
-def extract_icon(url: str) -> tuple[bytes, dict]:
-    header, final_url = range_fetch(url, 0, HEADER_BYTES)
-    magic = u32be(header, 0)
-    if magic != PKG_MAGIC:
-        raise ValueError(f"bad PKG magic 0x{magic:08X}; first16={header[:16].hex()}")
+def u64le(buf: bytes, offset: int) -> int:
+    if offset < 0 or offset + 8 > len(buf):
+        raise ValueError("u64 outside buffer")
+    return struct.unpack_from("<Q", buf, offset)[0]
 
-    entry_count = u32be(header, 0x10)
-    table_offset = u32be(header, 0x18)
+
+def extract_icon(url: str) -> tuple[bytes, dict]:
+    outer, final_url = range_fetch(url, 0, HEADER_BYTES)
+    magic = u32be(outer, 0)
+
+    if magic == PKG_MAGIC_CNT:
+        sc_offset = 0
+        cnt_header = outer
+        container = "CNT"
+    elif magic == PKG_MAGIC_FIH:
+        # PS5 FIH is little-endian. FIH+0x58 points at the embedded big-endian CNT
+        # metadata container; system media such as icon0.png live in that CNT.
+        sc_offset = u64le(outer, 0x58)
+        if sc_offset < 0x10000:
+            raise ValueError(f"invalid FIH embedded CNT offset: 0x{sc_offset:X}")
+        cnt_header, _ = range_fetch(url, sc_offset, HEADER_BYTES)
+        if u32be(cnt_header, 0) != PKG_MAGIC_CNT:
+            raise ValueError(
+                f"FIH embedded CNT has bad magic 0x{u32be(cnt_header, 0):08X} at 0x{sc_offset:X}"
+            )
+        container = "FIH+CNT"
+    else:
+        raise ValueError(f"unsupported PKG magic 0x{magic:08X}; first16={outer[:16].hex()}")
+
+    entry_count = u32be(cnt_header, 0x10)
+    table_relative = u32be(cnt_header, 0x18)
     if entry_count <= 0 or entry_count > MAX_ENTRIES:
-        raise ValueError(f"unexpected entry count: {entry_count}")
+        raise ValueError(f"unexpected CNT entry count: {entry_count}")
     table_size = entry_count * ENTRY_SIZE
     if table_size <= 0 or table_size > MAX_TABLE_BYTES:
-        raise ValueError(f"entry table too large: {table_size}")
+        raise ValueError(f"CNT entry table too large: {table_size}")
+    if table_relative < 0x20:
+        raise ValueError(f"invalid CNT table offset: 0x{table_relative:X}")
 
-    if table_offset >= 0 and table_offset + table_size <= len(header):
-        table = header[table_offset:table_offset + table_size]
+    table_absolute = sc_offset + table_relative
+    relative_end = table_relative + table_size
+    if relative_end <= len(cnt_header):
+        table = cnt_header[table_relative:relative_end]
     else:
-        table, _ = range_fetch(url, table_offset, table_size)
+        table, _ = range_fetch(url, table_absolute, table_size)
 
-    icon_offset = None
+    icon_relative = None
     icon_size = None
     for index in range(entry_count):
         off = index * ENTRY_SIZE
         entry_id = u32be(table, off)
         if entry_id != ENTRY_ICON0_PNG:
             continue
-        icon_offset = u32be(table, off + 0x10)
+        # CNT entry layout is >6I8x: id, name-offset, flags1, flags2,
+        # relative-data-offset, data-size.
+        icon_relative = u32be(table, off + 0x10)
         icon_size = u32be(table, off + 0x14)
         break
 
-    if icon_offset is None or icon_size is None:
-        raise ValueError("ICON0 entry 0x1200 not present")
+    if icon_relative is None or icon_size is None:
+        raise ValueError("ICON0 entry 0x1200 not present in CNT")
     if icon_size <= 8 or icon_size > MAX_ICON_BYTES:
         raise ValueError(f"invalid ICON0 size: {icon_size}")
 
-    icon, _ = range_fetch(url, icon_offset, icon_size)
+    icon_absolute = sc_offset + icon_relative
+    icon, _ = range_fetch(url, icon_absolute, icon_size)
     if not icon.startswith(b"\x89PNG\r\n\x1a\n"):
-        raise ValueError("ICON0 entry is not PNG")
+        raise ValueError(
+            f"ICON0 entry is not PNG: first8={icon[:8].hex()} offset=0x{icon_absolute:X}"
+        )
 
     return icon, {
+        "container": container,
         "entry_id": "0x1200",
-        "entry_offset": icon_offset,
+        "entry_offset": icon_absolute,
+        "entry_relative_offset": icon_relative,
         "entry_size": icon_size,
+        "cnt_offset": sc_offset,
         "package_final_url": final_url,
     }
 
@@ -146,6 +184,7 @@ def should_extract(pkg: dict) -> bool:
         return False
     origin = str(pkg.get("icon_origin") or "").lower()
     source = str(pkg.get("icon_source_url") or "").lower()
+    # Exact upstream standalone art is already authoritative and cheaper to refresh.
     if origin == "direct" and source:
         return False
     return True
@@ -158,6 +197,8 @@ def main() -> int:
 
     attempted = 0
     extracted = 0
+    cnt_extracted = 0
+    fih_extracted = 0
     for pkg in packages:
         if not should_extract(pkg):
             continue
@@ -179,10 +220,15 @@ def main() -> int:
             pkg["icon_origin"] = "pkg-entry:0x1200"
             pkg["icon_bytes"] = len(data)
             pkg["icon_pkg_entry_size"] = meta["entry_size"]
+            pkg["icon_pkg_container"] = meta["container"]
             extracted += 1
+            if meta["container"] == "FIH+CNT":
+                fih_extracted += 1
+            else:
+                cnt_extracted += 1
             print(
-                f"[pkg-icon:ok] {pkg_id}: embedded={meta['entry_size']} optimized={len(data)} "
-                f"offset={meta['entry_offset']}"
+                f"[pkg-icon:ok] {pkg_id}: {meta['container']} embedded={meta['entry_size']} "
+                f"optimized={len(data)} offset=0x{meta['entry_offset']:X}"
             )
         except Exception as exc:
             print(f"[pkg-icon:warn] {pkg_id}: {type(exc).__name__}: {exc}")
@@ -190,8 +236,10 @@ def main() -> int:
     stats = catalog.setdefault("_stats", {})
     stats["pkg_icon_attempts"] = attempted
     stats["pkg_icons_extracted"] = extracted
+    stats["pkg_icons_cnt"] = cnt_extracted
+    stats["pkg_icons_fih"] = fih_extracted
     CATALOG.write_text(json.dumps(catalog, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    print(f"PKG ICON0 extraction: {extracted}/{attempted}")
+    print(f"PKG ICON0 extraction: {extracted}/{attempted} (CNT={cnt_extracted}, FIH={fih_extracted})")
     return 0
 
 
