@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
-"""Resolve upstream artwork, normalize it to compact PNGs and rewrite catalog icon URLs.
-
-The PS5 client only has to talk to one host (this catalog repository) and decode small
-256x256 PNGs. The original upstream URL is retained in icon_source_url for provenance.
-"""
+"""Resolve true upstream artwork, optimize it and self-host compact PNGs for Z3Shop."""
 
 from __future__ import annotations
 
@@ -13,7 +9,6 @@ import json
 import os
 import re
 import subprocess
-import sys
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -25,13 +20,23 @@ CATALOG_PATH = ROOT / "packages.json"
 ICONS_DIR = ROOT / "icons"
 RAW_BASE = "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/icons"
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
-USER_AGENT = "Z3Shop-Catalog-IconSync/1.0"
+USER_AGENT = "Z3Shop-Catalog-IconSync/1.1"
 MAX_DOWNLOAD = 8 * 1024 * 1024
 ICON_SIDE = 256
 TARGET_MAX_BYTES = 120 * 1024
 
-# Exact upstream sources win. Everything else falls back to repository discovery or
-# a project/detail page resolver. These are source locations, never copies of icons.
+# Aggregators are valid metadata/download sources but are not valid artwork sources for
+# an individual app. Using their repository icon would make many unrelated apps share
+# the same image, which is worse than leaving the icon unresolved.
+AGGREGATOR_REPOS = {
+    "nexgen999/ps5-super-pldmgr-auto-updater",
+    "z3r3lkio/z3shop-catalog",
+}
+AGGREGATOR_URL_PARTS = (
+    "/nexgen999/PS5-Super-PLDMGR-Auto-Updater/",
+    "/z3r3lkio/z3shop-catalog/",
+)
+
 DIRECT_SOURCES = {
     "ps5-homebrew-launcher": "https://raw.githubusercontent.com/ps5-payload-dev/websrv/master/icon0.png",
     "prospero-light": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoLight/main/sce_sys/icon0.png",
@@ -52,6 +57,8 @@ UPSTREAM_REPOS = {
     "ps5-shop-appkg": "ps5xploit/ps5shopappkg",
 }
 
+# When source code is not public, use the app's own PKG-Zone detail page as the next
+# authoritative source. The resolver extracts the page's app image dynamically.
 DETAIL_PAGES = {
     "ps5-xplorer": "https://pkg-zone.com/details/LAPY20011",
     "avatar-changer": "https://pkg-zone.com/details/LAPY20016",
@@ -85,7 +92,7 @@ def fetch_json(url: str):
     return json.loads(data.decode("utf-8"))
 
 
-def github_repo_from_homepage(homepage: str) -> str | None:
+def repo_from_homepage(homepage: str) -> str | None:
     try:
         parsed = urllib.parse.urlparse(homepage)
     except Exception:
@@ -95,15 +102,14 @@ def github_repo_from_homepage(homepage: str) -> str | None:
     parts = [p for p in parsed.path.split("/") if p]
     if len(parts) < 2:
         return None
-    return f"{parts[0]}/{parts[1].removesuffix('.git')}"
+    repo = f"{parts[0]}/{parts[1].removesuffix('.git')}"
+    return None if repo.lower() in AGGREGATOR_REPOS else repo
 
 
 def image_score(path: str, size: int) -> int:
     lower = path.lower()
     name = lower.rsplit("/", 1)[-1]
-    if not lower.endswith((".png", ".jpg", ".jpeg", ".webp")):
-        return -10_000
-    if size <= 0 or size > MAX_DOWNLOAD:
+    if not lower.endswith((".png", ".jpg", ".jpeg", ".webp")) or size <= 0 or size > MAX_DOWNLOAD:
         return -10_000
     score = 0
     if lower.endswith("/sce_sys/icon0.png") or lower == "sce_sys/icon0.png":
@@ -126,6 +132,8 @@ def image_score(path: str, size: int) -> int:
 
 
 def discover_repo_icon(repo: str) -> str | None:
+    if repo.lower() in AGGREGATOR_REPOS:
+        return None
     meta = fetch_json(f"https://api.github.com/repos/{repo}")
     branch = meta.get("default_branch") or "main"
     tree = fetch_json(f"https://api.github.com/repos/{repo}/git/trees/{urllib.parse.quote(branch, safe='')}?recursive=1")
@@ -156,17 +164,37 @@ def detail_page_icon(url: str) -> str | None:
     for pattern in patterns:
         match = re.search(pattern, html, flags=re.I)
         if match:
-            return urllib.parse.urljoin(final_url, match.group(1).replace("&amp;", "&"))
+            candidate = urllib.parse.urljoin(final_url, match.group(1).replace("&amp;", "&"))
+            if candidate.startswith("https://"):
+                return candidate
 
-    # Last-resort heuristic for app pages that omit social metadata. Avoid common site chrome.
-    for match in re.finditer(r'<img[^>]+src=["\']([^"\']+)["\'][^>]*>', html, flags=re.I):
-        src = match.group(1).replace("&amp;", "&")
+    # Fallback for pages without social metadata. Prefer image URLs near app/detail markup
+    # and reject obvious site chrome.
+    ranked: list[tuple[int, str]] = []
+    for match in re.finditer(r'<img([^>]+)src=["\']([^"\']+)["\']([^>]*)>', html, flags=re.I):
+        attrs = (match.group(1) + " " + match.group(3)).lower()
+        src = urllib.parse.urljoin(final_url, match.group(2).replace("&amp;", "&"))
         low = src.lower()
-        if any(skip in low for skip in ("logo", "avatar", "discord", "github", "banner")):
+        if not src.startswith("https://") or not any(ext in low for ext in (".png", ".jpg", ".jpeg", ".webp")):
             continue
-        if any(ext in low for ext in (".png", ".jpg", ".jpeg", ".webp")):
-            return urllib.parse.urljoin(final_url, src)
+        if any(skip in low for skip in ("logo", "discord", "github", "banner")):
+            continue
+        score = 20
+        if any(word in attrs for word in ("app", "cover", "package", "detail", "card")):
+            score += 40
+        if any(word in low for word in ("app", "cover", "package", "icon")):
+            score += 30
+        ranked.append((score, src))
+    if ranked:
+        ranked.sort(key=lambda x: -x[0])
+        return ranked[0][1]
     return None
+
+
+def trusted_catalog_source(value: str) -> bool:
+    if not value.startswith("https://") or value.startswith(RAW_BASE + "/"):
+        return False
+    return not any(part.lower() in value.lower() for part in AGGREGATOR_URL_PARTS)
 
 
 def candidate_sources(pkg: dict) -> list[tuple[str, str]]:
@@ -175,25 +203,16 @@ def candidate_sources(pkg: dict) -> list[tuple[str, str]]:
     seen: set[str] = set()
 
     def add(origin: str, value: str | None):
-        if not value or value in seen:
-            return
-        if not value.startswith("https://"):
+        if not value or value in seen or not value.startswith("https://"):
             return
         if value.startswith(RAW_BASE + "/"):
             return
         seen.add(value)
         candidates.append((origin, value))
 
+    # 1) exact upstream source; 2) authoritative detail page; 3) trusted previous source;
+    # 4) source-repository discovery. Aggregator repositories are deliberately excluded.
     add("direct", DIRECT_SOURCES.get(pkg_id))
-    add("catalog-upstream", str(pkg.get("icon_source_url") or ""))
-    add("catalog-upstream", str(pkg.get("icon_url") or ""))
-
-    repo = UPSTREAM_REPOS.get(pkg_id) or github_repo_from_homepage(str(pkg.get("homepage") or ""))
-    if repo:
-        try:
-            add(f"github:{repo}", discover_repo_icon(repo))
-        except Exception as exc:
-            print(f"[icon:repo-warn] {pkg_id}: {repo}: {exc}")
 
     page = DETAIL_PAGES.get(pkg_id)
     if page:
@@ -201,6 +220,17 @@ def candidate_sources(pkg: dict) -> list[tuple[str, str]]:
             add(f"page:{page}", detail_page_icon(page))
         except Exception as exc:
             print(f"[icon:page-warn] {pkg_id}: {page}: {exc}")
+
+    for value in (str(pkg.get("icon_source_url") or ""), str(pkg.get("icon_url") or "")):
+        if trusted_catalog_source(value):
+            add("catalog-upstream", value)
+
+    repo = UPSTREAM_REPOS.get(pkg_id) or repo_from_homepage(str(pkg.get("homepage") or ""))
+    if repo:
+        try:
+            add(f"github:{repo}", discover_repo_icon(repo))
+        except Exception as exc:
+            print(f"[icon:repo-warn] {pkg_id}: {repo}: {exc}")
     return candidates
 
 
@@ -211,14 +241,11 @@ def optimized_png(source: bytes) -> bytes:
         image.thumbnail((ICON_SIDE, ICON_SIDE), Image.Resampling.LANCZOS)
         canvas = Image.new("RGBA", (ICON_SIDE, ICON_SIDE), (0, 0, 0, 0))
         canvas.alpha_composite(image, ((ICON_SIDE - image.width) // 2, (ICON_SIDE - image.height) // 2))
-
         out = io.BytesIO()
         canvas.save(out, "PNG", optimize=True, compress_level=9)
         data = out.getvalue()
         if len(data) <= TARGET_MAX_BYTES:
             return data
-
-        # Palette PNGs are much smaller and are fully supported by stb_image.
         pal = canvas.quantize(colors=192, method=Image.Quantize.FASTOCTREE, dither=Image.Dither.FLOYDSTEINBERG)
         out = io.BytesIO()
         pal.save(out, "PNG", optimize=True, compress_level=9)
@@ -227,9 +254,7 @@ def optimized_png(source: bytes) -> bytes:
 
 def git_head_catalog() -> dict | None:
     try:
-        text = subprocess.check_output(
-            ["git", "show", "HEAD:packages.json"], cwd=ROOT, text=True, stderr=subprocess.DEVNULL
-        )
+        text = subprocess.check_output(["git", "show", "HEAD:packages.json"], cwd=ROOT, text=True, stderr=subprocess.DEVNULL)
         return json.loads(text)
     except Exception:
         return None
@@ -239,6 +264,12 @@ def comparable(catalog: dict) -> str:
     clone = json.loads(json.dumps(catalog))
     clone.pop("_generated", None)
     return json.dumps(clone, sort_keys=True, separators=(",", ":"))
+
+
+def bad_cached_source(pkg: dict) -> bool:
+    origin = str(pkg.get("icon_origin") or "").lower()
+    source = str(pkg.get("icon_source_url") or "").lower()
+    return "nexgen999/ps5-super-pldmgr-auto-updater" in origin or "/nexgen999/ps5-super-pldmgr-auto-updater/" in source
 
 
 def main() -> int:
@@ -277,9 +308,9 @@ def main() -> int:
             except Exception as exc:
                 last_error = f"{type(exc).__name__}: {exc}"
 
-        if not source_used and dest.exists():
-            # Never regress an already-resolved icon because an upstream site is temporarily down.
-            source_used = str(pkg.get("icon_source_url") or pkg.get("icon_url") or "cached")
+        if not source_used and dest.exists() and not bad_cached_source(pkg):
+            # Preserve a previously verified icon across a transient upstream outage.
+            source_used = str(pkg.get("icon_source_url") or "cached")
             origin_used = "cached"
 
         if source_used and dest.exists():
@@ -292,11 +323,13 @@ def main() -> int:
             total_saved += dest.stat().st_size
             print(f"[icon:ok] {pkg_id}: {dest.stat().st_size} bytes <- {origin_used}")
         else:
+            if dest.exists():
+                dest.unlink()
             pkg["icon_url"] = ""
             pkg.pop("icon_source_url", None)
             pkg.pop("icon_origin", None)
             pkg.pop("icon_bytes", None)
-            print(f"[icon:missing] {pkg_id}: {last_error or 'no upstream artwork found'}")
+            print(f"[icon:missing] {pkg_id}: {last_error or 'no trustworthy upstream artwork found'}")
 
     for orphan in ICONS_DIR.glob("*.png"):
         if orphan.name not in active_files:
@@ -311,7 +344,7 @@ def main() -> int:
         catalog["_generated"] = previous.get("_generated", catalog.get("_generated"))
 
     CATALOG_PATH.write_text(json.dumps(catalog, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    print(f"Resolved {resolved}/{len(packages)} icons; optimized payload {total_saved} bytes")
+    print(f"Resolved {resolved}/{len(packages)} trustworthy icons; optimized payload {total_saved} bytes")
     return 0
 
 
