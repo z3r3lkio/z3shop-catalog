@@ -1,33 +1,16 @@
 {
   "name": "Z3Shop",
-  "version": 3,
+  "version": 4,
   "packages": [
     {
       "id": "ps5-homebrew-launcher",
       "name": "PS5 Homebrew Launcher",
-      "description": "Redistributable PS5 homebrew launcher package used to validate end-to-end installation through Z3DPI.",
+      "description": "Launch and manage PS5 homebrew content from a lightweight redistributable launcher.",
       "category": "homebrew",
       "redistributable": true,
       "installable": true,
-      "url": "https://github.com/ps5-payload-dev/websrv/raw/refs/heads/master/homebrew/IV9999-FAKE00000_00-HOMEBREWLOADER01.pkg"
-    },
-    {
-      "id": "z3shop-catalog-selftest",
-      "name": "Z3Shop Catalog Self-Test",
-      "description": "Diagnostic catalog entry used to validate HTTPS, JSON parsing, filtering and UI rendering.",
-      "category": "homebrew",
-      "redistributable": true,
-      "installable": false,
-      "url": ""
-    },
-    {
-      "id": "filter-selftest",
-      "name": "FILTERED TEST ENTRY",
-      "description": "This entry must never appear in Z3Shop because redistributable is false.",
-      "category": "homebrew",
-      "redistributable": false,
-      "installable": false,
-      "url": ""
+      "url": "https://github.com/ps5-payload-dev/websrv/raw/refs/heads/master/homebrew/IV9999-FAKE00000_00-HOMEBREWLOADER01.pkg",
+      "icon_url": ""
     }
   ]
 }
