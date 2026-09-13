@@ -6,7 +6,7 @@ const CATALOG_PATH = process.env.CATALOG_OUTPUT || 'packages.json';
 const SOURCE_ID = 'gfs-pfs-library';
 const SOURCE_HOME = 'https://pfs-library.xetdy-am.workers.dev/';
 const SOURCE_API = 'https://pfs-library.xetdy-am.workers.dev/api/packages';
-const USER_AGENT = 'Z3Shop-Catalog-PFS-Library/1.0';
+const USER_AGENT = 'Z3Shop-Catalog-PFS-Library/1.1';
 const FETCH_TIMEOUT_MS = 25000;
 const LATEST_SAMPLE = 12;
 
@@ -114,6 +114,8 @@ function analyze(data) {
     apr_enabled: aprEnabled,
     latest_apr_version: String(data.latestAprVersion || '').slice(0, 40),
     apr_versions: Array.isArray(data.aprVersions) ? data.aprVersions.map(String).slice(0, 40) : [],
+    packs_hidden: data.packsHidden && typeof data.packsHidden === 'object' ? data.packsHidden : {},
+    packs_coming_soon: data.packsComingSoon && typeof data.packsComingSoon === 'object' ? data.packsComingSoon : {},
     dlcs_merged: dlcsMerged,
     download_links: totalLinks,
     link_provider_counts: compactCounts(linkProviders),
