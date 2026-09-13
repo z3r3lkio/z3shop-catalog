@@ -1,0 +1,58 @@
+name: Generate Z3Shop packages.json
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/generate-packages.mjs'
+      - '.github/workflows/generate-packages.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: z3shop-catalog-generator
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout catalog
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Generate merged catalog
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node ./scripts/generate-packages.mjs
+
+      - name: Validate generated JSON
+        shell: bash
+        run: |
+          set -euo pipefail
+          node -e 'const fs=require("fs");const c=JSON.parse(fs.readFileSync("packages.json","utf8"));if(!Array.isArray(c.packages)||!c.packages.length)process.exit(1);const ids=new Set();for(const p of c.packages){if(!p.id||ids.has(p.id)||!p.name||!p.redistributable)process.exit(2);ids.add(p.id);if(p.installable&&!/^https:\/\//i.test(p.url||""))process.exit(3)};console.log(`validated ${c.packages.length} packages from ${(c._sources||[]).length} sources`)'
+          test $(wc -c < packages.json) -lt 64000
+
+      - name: Commit catalog changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- packages.json; then
+            echo 'packages.json is already current'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add packages.json
+          git commit -m 'chore(catalog): refresh packages from upstream sources'
+          git push origin HEAD:main
