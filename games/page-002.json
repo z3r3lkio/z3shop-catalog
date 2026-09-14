@@ -4,10 +4,42 @@
   "source": "gfs-pfs-library",
   "page": 2,
   "page_size": 24,
-  "total": 353,
+  "total": 354,
   "pages": 15,
-  "generated": "2026-09-13T21:56:09.090Z",
+  "generated": "2026-09-14T00:34:39.522Z",
   "games": [
+    {
+      "id": "6a967c99b0a31dad5b0fe922",
+      "title_id": "PPSA05916",
+      "title": "BloodRayne: Revamped",
+      "version": "01.001.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.6.6",
+      "dlcs_merged": false,
+      "size_bytes": 4681514353,
+      "size_label": "4.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2619/L7XHOsnDiAXRX6UNLPWSNMH3.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2619/nlnY9BT1MXAOwEyqIx9I9Rtu.jpg",
+      "updated_at": "2026-09-01T07:19:53.515Z",
+      "link_count": 3,
+      "providers": [
+        "Akirabox",
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a967c99b0a31dad5b0fe922-dec64e5ef070.png",
+      "icon_bytes": 74501
+    },
     {
       "id": "6a967c26b0a31dad5b0fe921",
       "title_id": "PPSA05975",
@@ -720,37 +752,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8c6324b0a31dad5b0fe903-03288e550473.png",
       "icon_bytes": 86394
-    },
-    {
-      "id": "6a8bfa73b0a31dad5b0fe901",
-      "title_id": "PPSA22520",
-      "title": "Animal Well",
-      "version": "01.000.011",
-      "pack": "unknown",
-      "region": "JPN",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": false,
-      "size_bytes": 101275329,
-      "size_label": "0.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0222/ifoK4Np4B75vGqJnPUoBTkmQ.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0222/NGRSvX4mKD1NvZpCwudRrqGJ.png",
-      "updated_at": "2026-08-24T08:01:55.288Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8bfa73b0a31dad5b0fe901-1886043d9daa.png",
-      "icon_bytes": 65352
     }
   ]
 }

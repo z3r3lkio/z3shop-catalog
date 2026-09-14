@@ -4,10 +4,41 @@
   "source": "gfs-pfs-library",
   "page": 7,
   "page_size": 24,
-  "total": 353,
+  "total": 354,
   "pages": 15,
-  "generated": "2026-09-13T21:56:09.090Z",
+  "generated": "2026-09-14T00:34:39.522Z",
   "games": [
+    {
+      "id": "6a3cfddd87fd481f2572b19f",
+      "title_id": "PPSA10112",
+      "title": "SILENT HILL The Short Message",
+      "version": "01.001",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 13099650253,
+      "size_label": "12.2 GiB",
+      "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS9_TupZQHOsGB-pUdLXZbA-_8HXQFpAYMIFafDLpjwdxWAQReZ-dBAC48osDOxEL5EpWdcg&s=10",
+      "banner_url": "https://static.wikia.nocookie.net/silent/images/4/4e/Silent_Hill-_The_Short_Message_banner.jpg/revision/latest?cb=20240131235421",
+      "updated_at": "2026-08-05T08:08:31.184Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3cfddd87fd481f2572b19f-1ece0b94460c.png",
+      "icon_bytes": 71562
+    },
     {
       "id": "6a719519a80b138b911d68ed",
       "title_id": "PPSA10595",
@@ -719,40 +750,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028ae-c41e295aa428.png",
       "icon_bytes": 50794
-    },
-    {
-      "id": "6a3655f056e5f49eefa028b6",
-      "title_id": "PPSA26344",
-      "title": "Ghost of Yotei: Deluxe Edition",
-      "version": "1.008.000",
-      "pack": "pfs",
-      "region": "USA",
-      "firmware": [
-        "4.xx+",
-        "11.xx+"
-      ],
-      "firmware_label": "4.xx+, 11.xx+",
-      "firmware_raw": [
-        "4.xx+",
-        "11.xx+"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 102961103503,
-      "size_label": "95.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/49934c62a922417e86bd3fc61a59b116cf7ae51e91d9a9de.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/49934c62a922417e86bd3fc61a59b116cf7ae51e91d9a9de.jpg",
-      "updated_at": "2026-07-30T05:44:03.383Z",
-      "link_count": 4,
-      "providers": [
-        "Viki",
-        "Akira",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028b6-357d1cf7b7fa.png",
-      "icon_bytes": 54128
     }
   ]
 }

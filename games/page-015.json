@@ -4,10 +4,40 @@
   "source": "gfs-pfs-library",
   "page": 15,
   "page_size": 24,
-  "total": 353,
+  "total": 354,
   "pages": 15,
-  "generated": "2026-09-13T21:56:09.090Z",
+  "generated": "2026-09-14T00:34:39.522Z",
   "games": [
+    {
+      "id": "6a3655f056e5f49eefa028ad",
+      "title_id": "PPSA01417",
+      "title": "Marvel's Spider-Man Miles Morales",
+      "version": "1.013.002",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 56371445760,
+      "size_label": "52.5 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1420/HcLcfeQBXd2RiQaCeWQDCIFN.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2417/tnCutdREPv6Pa7atqb8MTxGW.png",
+      "updated_at": "2026-06-20T10:10:40.809Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028ad-1fafd54fe007.png",
+      "icon_bytes": 35592
+    },
     {
       "id": "6a3655f056e5f49eefa028a8",
       "title_id": "PPSA01285",

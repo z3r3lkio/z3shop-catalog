@@ -4,10 +4,41 @@
   "source": "gfs-pfs-library",
   "page": 4,
   "page_size": 24,
-  "total": 353,
+  "total": 354,
   "pages": 15,
-  "generated": "2026-09-13T21:56:09.090Z",
+  "generated": "2026-09-14T00:34:39.522Z",
   "games": [
+    {
+      "id": "6a3655f056e5f49eefa028a5",
+      "title_id": "PPSA07809",
+      "title": "Crisis Core Final Fantasy VII Reunion",
+      "version": "1.004",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.3.1-test",
+      "dlcs_merged": false,
+      "size_bytes": 23407571763,
+      "size_label": "21.8 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2505/7GhpNUWSPdoNFdMLroXaPXm8.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2505/Cv2pVnIqJwmosTYRmjsxgQbV.jpg",
+      "updated_at": "2026-08-17T23:35:15.423Z",
+      "link_count": 4,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028a5-0c21adc9e80d.png",
+      "icon_bytes": 71388
+    },
     {
       "id": "6a833657b0a31dad5b0fe8d5",
       "title_id": "PPSA01903",
@@ -735,37 +766,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a451ed34ea9a2c0cb1af504-27b41522ee4e.png",
       "icon_bytes": 68909
-    },
-    {
-      "id": "6a7c9fabfe3be883510b9a35",
-      "title_id": "PPSA21904",
-      "title": "Once Upon A Katamari",
-      "version": "01.000",
-      "pack": "unknown",
-      "region": "HK",
-      "firmware": [
-        "10.xx+"
-      ],
-      "firmware_label": "10.xx+",
-      "firmware_raw": [
-        "10.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": false,
-      "size_bytes": 2630667469,
-      "size_label": "2.5 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1417/6cc934baee0c52887f8a17dd3d18b3a0871ef56452dd34da.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1417/9912d120c5d0a94046e8a0dc374af7632c4b8b3c98fabb64.png",
-      "updated_at": "2026-08-13T07:41:51.490Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7c9fabfe3be883510b9a35-7630c09ff008.png",
-      "icon_bytes": 62855
     }
   ]
 }

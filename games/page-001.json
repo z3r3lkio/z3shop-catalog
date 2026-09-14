@@ -4,10 +4,38 @@
   "source": "gfs-pfs-library",
   "page": 1,
   "page_size": 24,
-  "total": 353,
+  "total": 354,
   "pages": 15,
-  "generated": "2026-09-13T21:56:09.090Z",
+  "generated": "2026-09-14T00:34:39.522Z",
   "games": [
+    {
+      "id": "6aa740ed792e471937d0b018",
+      "title_id": "PPSA29141",
+      "title": "LEGO® Party!",
+      "version": "01.000",
+      "pack": "fpkg",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 6947109601,
+      "size_label": "6.5 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0821/ade7404425c20a8c9dfddb1f6fec66f3fa1596046a450efa.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2217/9fc3bf3631e98ff7b5cc9c443f07d9a6c5ea6014e2dd3dc5.jpg",
+      "updated_at": "2026-09-14T00:33:49.089Z",
+      "link_count": 0,
+      "providers": [],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa740ed792e471937d0b018-864c74e06c22.png",
+      "icon_bytes": 99647
+    },
     {
       "id": "6aa6d246792e471937d0b017",
       "title_id": "PPSA15508",
@@ -152,9 +180,10 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/97e9f5fa6e50c185d249956c6f198a2652a9217e69a59ecd.jpg",
       "updated_at": "2026-09-13T14:15:53.184Z",
-      "link_count": 1,
+      "link_count": 2,
       "providers": [
-        "Viki"
+        "Viki",
+        "Archive"
       ],
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa6b019792e471937d0b013-a4f6f6a3b0fc.png",
@@ -716,38 +745,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a967d51b0a31dad5b0fe923-368c98208c6a.png",
       "icon_bytes": 64331
-    },
-    {
-      "id": "6a967c99b0a31dad5b0fe922",
-      "title_id": "PPSA05916",
-      "title": "BloodRayne: Revamped",
-      "version": "01.001.000",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.3.6.6",
-      "dlcs_merged": false,
-      "size_bytes": 4681514353,
-      "size_label": "4.4 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2619/L7XHOsnDiAXRX6UNLPWSNMH3.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2619/nlnY9BT1MXAOwEyqIx9I9Rtu.jpg",
-      "updated_at": "2026-09-01T07:19:53.515Z",
-      "link_count": 3,
-      "providers": [
-        "Akirabox",
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a967c99b0a31dad5b0fe922-dec64e5ef070.png",
-      "icon_bytes": 74501
     }
   ]
 }

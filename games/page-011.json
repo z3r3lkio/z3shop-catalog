@@ -4,10 +4,40 @@
   "source": "gfs-pfs-library",
   "page": 11,
   "page_size": 24,
-  "total": 353,
+  "total": 354,
   "pages": 15,
-  "generated": "2026-09-13T21:56:09.090Z",
+  "generated": "2026-09-14T00:34:39.522Z",
   "games": [
+    {
+      "id": "6a59f675664b52645fefe0a6",
+      "title_id": "PPSA15368",
+      "title": "Contra Operation Galuga",
+      "version": "01.003",
+      "pack": "pfs",
+      "region": "EUR",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_label": "7.xx+",
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 9631464161,
+      "size_label": "9.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2809/285844cbe09f0e435f48cd346b915dafad613d4d6b6416d3.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2809/285844cbe09f0e435f48cd346b915dafad613d4d6b6416d3.jpg",
+      "updated_at": "2026-07-17T10:13:26.447Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a59f675664b52645fefe0a6-ce24c266079e.png",
+      "icon_bytes": 65205
+    },
     {
       "id": "6a59ff59664b52645fefe0aa",
       "title_id": "PPSA09165",
@@ -709,37 +739,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a57b8b3664b52645fefe08b-2873d62f54de.png",
       "icon_bytes": 75166
-    },
-    {
-      "id": "6a57ac54664b52645fefe089",
-      "title_id": "PPSA07421",
-      "title": "Fate/Samurai Remnant",
-      "version": "01.302",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "6.xx+"
-      ],
-      "firmware_label": "6.xx+",
-      "firmware_raw": [
-        "6.xx +"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": false,
-      "size_bytes": 31890132173,
-      "size_label": "29.7 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1001/e52fe635f4280276845944ebdfc812dbaceedadf99ac66ee.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1001/302907087fcb64c32b77539de17630e7855945184b94a0be.png",
-      "updated_at": "2026-07-15T15:50:44.210Z",
-      "link_count": 2,
-      "providers": [
-        "Archive",
-        "1fichier"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a57ac54664b52645fefe089-f5b7e6212e96.png",
-      "icon_bytes": 65713
     }
   ]
 }

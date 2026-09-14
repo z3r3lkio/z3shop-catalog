@@ -4,10 +4,41 @@
   "source": "gfs-pfs-library",
   "page": 6,
   "page_size": 24,
-  "total": 353,
+  "total": 354,
   "pages": 15,
-  "generated": "2026-09-13T21:56:09.090Z",
+  "generated": "2026-09-14T00:34:39.522Z",
   "games": [
+    {
+      "id": "6a78176ee7c8326e373b5177",
+      "title_id": "PPSA17732",
+      "title": "The Precinct",
+      "version": "01.011",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 5390183956,
+      "size_label": "5.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2521/af922cd72b1cffee63044989b872ba24f5d2979be32d03f4.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0113/0cf0be690b74678e902a7beed589c0daf3b5da409947531b.jpg",
+      "updated_at": "2026-08-09T06:00:14.600Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a78176ee7c8326e373b5177-2fedcb1a2ed0.png",
+      "icon_bytes": 67175
+    },
     {
       "id": "6a7697c5e76beadd88604bfb",
       "title_id": "PPSA01746",
@@ -723,37 +754,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028ab-83148d4cafd8.png",
       "icon_bytes": 76517
-    },
-    {
-      "id": "6a3cfddd87fd481f2572b19f",
-      "title_id": "PPSA10112",
-      "title": "SILENT HILL The Short Message",
-      "version": "01.001",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 13099650253,
-      "size_label": "12.2 GiB",
-      "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS9_TupZQHOsGB-pUdLXZbA-_8HXQFpAYMIFafDLpjwdxWAQReZ-dBAC48osDOxEL5EpWdcg&s=10",
-      "banner_url": "https://static.wikia.nocookie.net/silent/images/4/4e/Silent_Hill-_The_Short_Message_banner.jpg/revision/latest?cb=20240131235421",
-      "updated_at": "2026-08-05T08:08:31.184Z",
-      "link_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3cfddd87fd481f2572b19f-1ece0b94460c.png",
-      "icon_bytes": 71562
     }
   ]
 }

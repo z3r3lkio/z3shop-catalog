@@ -4,10 +4,41 @@
   "source": "gfs-pfs-library",
   "page": 5,
   "page_size": 24,
-  "total": 353,
+  "total": 354,
   "pages": 15,
-  "generated": "2026-09-13T21:56:09.090Z",
+  "generated": "2026-09-14T00:34:39.522Z",
   "games": [
+    {
+      "id": "6a7c9fabfe3be883510b9a35",
+      "title_id": "PPSA21904",
+      "title": "Once Upon A Katamari",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "HK",
+      "firmware": [
+        "10.xx+"
+      ],
+      "firmware_label": "10.xx+",
+      "firmware_raw": [
+        "10.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 2630667469,
+      "size_label": "2.5 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1417/6cc934baee0c52887f8a17dd3d18b3a0871ef56452dd34da.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1417/9912d120c5d0a94046e8a0dc374af7632c4b8b3c98fabb64.png",
+      "updated_at": "2026-08-13T07:41:51.490Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7c9fabfe3be883510b9a35-7630c09ff008.png",
+      "icon_bytes": 62855
+    },
     {
       "id": "6a5ba198664b52645fefe0be",
       "title_id": "PPSA21733",
@@ -720,37 +751,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7817b0e7c8326e373b5178-d3db62fd5cb6.png",
       "icon_bytes": 76088
-    },
-    {
-      "id": "6a78176ee7c8326e373b5177",
-      "title_id": "PPSA17732",
-      "title": "The Precinct",
-      "version": "01.011",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx+"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 5390183956,
-      "size_label": "5.0 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2521/af922cd72b1cffee63044989b872ba24f5d2979be32d03f4.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0113/0cf0be690b74678e902a7beed589c0daf3b5da409947531b.jpg",
-      "updated_at": "2026-08-09T06:00:14.600Z",
-      "link_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a78176ee7c8326e373b5177-2fedcb1a2ed0.png",
-      "icon_bytes": 67175
     }
   ]
 }
