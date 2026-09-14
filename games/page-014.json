@@ -4,10 +4,103 @@
   "source": "gfs-pfs-library",
   "page": 14,
   "page_size": 24,
-  "total": 354,
+  "total": 357,
   "pages": 15,
-  "generated": "2026-09-14T06:34:38.488Z",
+  "generated": "2026-09-14T12:34:01.233Z",
   "games": [
+    {
+      "id": "6a3655f056e5f49eefa028cc",
+      "title_id": "PPSA17905",
+      "title": "Horizon Forbidden West",
+      "version": "1.030",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_label": "7.xx+",
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.0b",
+      "dlcs_merged": false,
+      "size_bytes": 128902705971,
+      "size_label": "120 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2915/f2jH2HOP0yYYQtDPd8LjqErv.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2915/SqRcyLjZbpK26ej6TnWf43xp.jpg",
+      "updated_at": "2026-07-03T15:15:05.593Z",
+      "link_count": 3,
+      "providers": [
+        "Viki",
+        "1fichier",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028cc-88b57970f1c8.png",
+      "icon_bytes": 83243
+    },
+    {
+      "id": "6a3655f056e5f49eefa028aa",
+      "title_id": "PPSA17232",
+      "title": "Sniper Elite Resistance",
+      "version": "1.010",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6",
+      "dlcs_merged": false,
+      "size_bytes": 56049323213,
+      "size_label": "52.2 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1309/3d97b646894fd99af3f2013455b6d5e591be5bd9abd0eba7.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1309/b026676dfa9d7639fef041a9f0ed4c6d076e2ad3647eae1c.png",
+      "updated_at": "2026-07-03T07:16:20.520Z",
+      "link_count": 2,
+      "providers": [
+        "1fichier",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028aa-2755a653a731.png",
+      "icon_bytes": 66931
+    },
+    {
+      "id": "6a3655f056e5f49eefa028ac",
+      "title_id": "PPSA01532",
+      "title": "Assassins Creed Valhalla Complete Edition",
+      "version": "01.070",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.7.6",
+      "dlcs_merged": true,
+      "size_bytes": 175019917312,
+      "size_label": "163 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0302/8jomNsyMYDoJnzFkBrr9Rit2.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2006/8rN9I1guvYHln0ClWUsHiFLL.jpg",
+      "updated_at": "2026-07-02T22:35:50.566Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028ac-72e904b0f967.png",
+      "icon_bytes": 76634
+    },
     {
       "id": "6a40005564f9bbe84b1fc58e",
       "title_id": "PPSA23226",
@@ -658,97 +751,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028c3-58e1ba95eaa2.png",
       "icon_bytes": 78450
-    },
-    {
-      "id": "6a3655f056e5f49eefa028ce",
-      "title_id": "PPSA07570",
-      "title": "Mortal Kombat 1",
-      "version": "1.010.001",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 174193136108,
-      "size_label": "162 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1515/93797636f47b37b74e9d3740e17ae1306aaf539c7952a703.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1515/c8388641302e1fd8f8f1044f13b398027f188eb695a0d652.jpg",
-      "updated_at": "2026-06-20T15:37:13.793Z",
-      "link_count": 1,
-      "providers": [
-        "Archive (Game + DLC)"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028ce-6c3175458fce.png",
-      "icon_bytes": 53884
-    },
-    {
-      "id": "6a3655f056e5f49eefa028b2",
-      "title_id": "PPSA22327",
-      "title": "Forza Horizon 5",
-      "version": "1.685.672",
-      "pack": "pfs",
-      "region": "USA",
-      "firmware": [
-        "12.xx+"
-      ],
-      "firmware_label": "12.xx+",
-      "firmware_raw": [
-        "12.xx – 10.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 175191716004,
-      "size_label": "163 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1221/1cdbb2177cc3c6302027f05796073b27ca7f7ccf091c3127.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2717/0c5df2b67b23263d055f3b78aeb77a6ce4668bb078fced77.jpg",
-      "updated_at": "2026-06-20T10:11:48.100Z",
-      "link_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028b2-d2f042b3ed80.png",
-      "icon_bytes": 69086
-    },
-    {
-      "id": "6a3655f056e5f49eefa028af",
-      "title_id": "PPSA05347",
-      "title": "Record of Lodoss War Deedlit in Wonder Labyrinth",
-      "version": "1.001",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 193273528,
-      "size_label": "0.2 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2908/Ue3eoMcByWr8TI4NpQ057Fjp.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2908/akeJVZku3HsabfzPYPlRGx3K.png",
-      "updated_at": "2026-06-20T10:10:47.189Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028af-8a00b1ce4c83.png",
-      "icon_bytes": 75346
     }
   ]
 }

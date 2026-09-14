@@ -4,10 +4,104 @@
   "source": "gfs-pfs-library",
   "page": 9,
   "page_size": 24,
-  "total": 354,
+  "total": 357,
   "pages": 15,
-  "generated": "2026-09-14T06:34:38.488Z",
+  "generated": "2026-09-14T12:34:01.233Z",
   "games": [
+    {
+      "id": "6a64db0c3d4889f7e22e8b5d",
+      "title_id": "PPSA01575",
+      "title": "Avatar Frontiers of Pandora Complete Edition",
+      "version": "01.020",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx Backport"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 165012643512,
+      "size_label": "154 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/3009/3945b0d7edc8b58357c929e095547bd21ea756327f097384.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/3009/3945b0d7edc8b58357c929e095547bd21ea756327f097384.jpg",
+      "updated_at": "2026-07-25T15:49:32.113Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a64db0c3d4889f7e22e8b5d-fd7c093efae7.png",
+      "icon_bytes": 57801
+    },
+    {
+      "id": "6a6394ba3d4889f7e22e8b59",
+      "title_id": "PPSA01631",
+      "title": "Marvels Avengers Definitive Edition",
+      "version": "01.055",
+      "pack": "unknown",
+      "region": "USA to EUR Langs",
+      "firmware": [
+        "2.xx+"
+      ],
+      "firmware_label": "2.xx+",
+      "firmware_raw": [
+        "2.xx and beyond"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 166429982720,
+      "size_label": "155 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202111/1814/n7UmKNPcZKKZNb8J1PxPWgsa.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202111/1814/n7UmKNPcZKKZNb8J1PxPWgsa.jpg",
+      "updated_at": "2026-07-24T16:37:14.101Z",
+      "link_count": 10,
+      "providers": [
+        "Archive",
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6394ba3d4889f7e22e8b59-489c017b177c.png",
+      "icon_bytes": 61939
+    },
+    {
+      "id": "6a3655f056e5f49eefa028a4",
+      "title_id": "PPSA06774",
+      "title": "Armored Core 6 Fires of Rubicon",
+      "version": "1.009",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_label": "5.xx+",
+      "firmware_raw": [
+        "5.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.7.6",
+      "dlcs_merged": false,
+      "size_bytes": 49123688448,
+      "size_label": "45.8 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2800/08aa0e3d6a5cd2e283f9c96da6ecd9d7433e751235183f5d.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2800/d8239a77b57e74c4608ed0cbe4b70471d9f9637b5c9c7d39.jpg",
+      "updated_at": "2026-07-24T05:27:33.563Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "1fichier"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028a4-32f6dd3da730.png",
+      "icon_bytes": 84219
+    },
     {
       "id": "6a622d4f3d4889f7e22e8b52",
       "title_id": "PPSA22999",
@@ -662,99 +756,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3797554db0baeee04f4ed3-a5e96eb0a679.png",
       "icon_bytes": 68751
-    },
-    {
-      "id": "6a5f4be720ce6441f5b9a127",
-      "title_id": "PPSA01507",
-      "title": "Immortals Fenyx Rising",
-      "version": "04.040",
-      "pack": "unknown",
-      "region": "USA to EUR Languages",
-      "firmware": [
-        "2.xx+"
-      ],
-      "firmware_label": "2.xx+",
-      "firmware_raw": [
-        "2.xx and beyond"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 34789235098,
-      "size_label": "32.4 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0300/MqOjOCxySqOaAa1NAms5Gx6C.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0300/MqOjOCxySqOaAa1NAms5Gx6C.jpg",
-      "updated_at": "2026-07-21T13:44:47.408Z",
-      "link_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f4be720ce6441f5b9a127-7fef7bcdd8ea.png",
-      "icon_bytes": 62326
-    },
-    {
-      "id": "6a5f4c1d20ce6441f5b9a128",
-      "title_id": "PPSA02721",
-      "title": "Neptunia Reverse",
-      "version": "01.000",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "2.xx+"
-      ],
-      "firmware_label": "2.xx+",
-      "firmware_raw": [
-        "2.xx and beyond"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 11703785882,
-      "size_label": "10.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1319/73vyg51C1KDlggiSmkCJtI88.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1319/8SO9D15YafaDqF75zJZJC1Ia.jpg",
-      "updated_at": "2026-07-21T13:44:43.712Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f4c1d20ce6441f5b9a128-0faf5888ac60.png",
-      "icon_bytes": 90015
-    },
-    {
-      "id": "6a5f4c4c20ce6441f5b9a129",
-      "title_id": "PPSA20289",
-      "title": "Kong Survivor Instinct",
-      "version": "01.004",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "9.xx+"
-      ],
-      "firmware_label": "9.xx+",
-      "firmware_raw": [
-        "9.xx and beyond"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 8987219067,
-      "size_label": "8.4 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1009/4f515e2df8ef5b11ba20f68d56a30bc3311c73dd06b15c33.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1009/3b0e234294fd7917fa35b5dd9fe8d5d7eda0d2471fb8f7b7.png",
-      "updated_at": "2026-07-21T13:11:43.990Z",
-      "link_count": 2,
-      "providers": [
-        "Vikingfile",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f4c4c20ce6441f5b9a129-02ee20986481.png",
-      "icon_bytes": 58382
     }
   ]
 }

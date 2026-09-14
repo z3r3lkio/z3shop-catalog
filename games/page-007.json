@@ -4,10 +4,104 @@
   "source": "gfs-pfs-library",
   "page": 7,
   "page_size": 24,
-  "total": 354,
+  "total": 357,
   "pages": 15,
-  "generated": "2026-09-14T06:34:38.488Z",
+  "generated": "2026-09-14T12:34:01.233Z",
   "games": [
+    {
+      "id": "6a72febafbb0034d1467caae",
+      "title_id": "PPSA04057",
+      "title": "Ghostbusters Spirits Unleashed Ecto Edition",
+      "version": "01.028",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 19327352832,
+      "size_label": "18.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1023/3009a6de39a1dc77bbb624b242274457f0c58d913401c2b1.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0116/40752dc05e38f9b201f848fabd1e9c06b5a1644201b95a06.png",
+      "updated_at": "2026-08-05T09:55:01.551Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a72febafbb0034d1467caae-580eb0287c8f.png",
+      "icon_bytes": 76166
+    },
+    {
+      "id": "6a72fa33fbb0034d1467caad",
+      "title_id": "PPSA29343",
+      "title": "Beast of Reincarnation Digital Deluxe Edition",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "11.xx+"
+      ],
+      "firmware_label": "11.xx+",
+      "firmware_raw": [
+        "11.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 34252364186,
+      "size_label": "31.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2203/db91bba6d10ccd925e1d33832a949659e81a1ac90d672cf8.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2203/db91bba6d10ccd925e1d33832a949659e81a1ac90d672cf8.jpg",
+      "updated_at": "2026-08-05T09:24:18.240Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a72fa33fbb0034d1467caad-ee7dddf32870.png",
+      "icon_bytes": 53753
+    },
+    {
+      "id": "6a3655f056e5f49eefa028ab",
+      "title_id": "PPSA27360",
+      "title": "EA SPORTS FC 26",
+      "version": "01.000.018",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx Backport"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 86973087744,
+      "size_label": "81.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0422/30afecf5deecc449b0290aa843cfe179b3977b388e8e4e9b.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0422/2e51eaaa9a3b716aa4404108955104a2aae5b68176e17f47.jpg",
+      "updated_at": "2026-08-05T09:10:49.934Z",
+      "link_count": 3,
+      "providers": [
+        "Archive (Game + DLC)",
+        "Viki",
+        "Data"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028ab-83148d4cafd8.png",
+      "icon_bytes": 76517
+    },
     {
       "id": "6a3cfddd87fd481f2572b19f",
       "title_id": "PPSA10112",
@@ -658,98 +752,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6c906ea80b138b911d68d2-ee5a5b7ee1d7.png",
       "icon_bytes": 73503
-    },
-    {
-      "id": "6a6b6ba4a80b138b911d68cf",
-      "title_id": "PPSA01552",
-      "title": "Dirt 5",
-      "version": "06.005",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "2.xx+"
-      ],
-      "firmware_label": "2.xx+",
-      "firmware_raw": [
-        "2.xx above"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 59914793779,
-      "size_label": "55.8 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202107/2009/0UhqjqNJBVttiM1xzQOVlyl9.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0412/wHEKIQNTOV9f8GX7szFwckWJ.jpg",
-      "updated_at": "2026-07-30T15:22:02.095Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6b6ba4a80b138b911d68cf-a2382fc37aea.png",
-      "icon_bytes": 88721
-    },
-    {
-      "id": "6a4b21062860efac54e4aa97",
-      "title_id": "PPSA25153",
-      "title": "Jurassic World Evolution 3",
-      "version": "01.002.006",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "11.xx+"
-      ],
-      "firmware_label": "11.xx+",
-      "firmware_raw": [
-        "11.xx beyond"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": false,
-      "size_bytes": 17501991731,
-      "size_label": "16.3 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0909/b19494d1e6f2af9c591ac042d0fbcb415f44f61dc34e89f2.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0909/b19494d1e6f2af9c591ac042d0fbcb415f44f61dc34e89f2.jpg",
-      "updated_at": "2026-07-30T15:21:55.993Z",
-      "link_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4b21062860efac54e4aa97-ad0bf3ba7d8e.png",
-      "icon_bytes": 50300
-    },
-    {
-      "id": "6a3655f056e5f49eefa028ae",
-      "title_id": "PPSA07580",
-      "title": "WRC Generations",
-      "version": "1.004",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6",
-      "dlcs_merged": false,
-      "size_bytes": 40480066765,
-      "size_label": "37.7 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1809/wIEeUy8bB3FC8DMPMHnCxulJ.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1908/CDQPp8NFWSXF19DdDjrOzfEh.jpg",
-      "updated_at": "2026-07-30T14:12:09.609Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028ae-c41e295aa428.png",
-      "icon_bytes": 50794
     }
   ]
 }

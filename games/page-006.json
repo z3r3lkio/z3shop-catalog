@@ -4,10 +4,103 @@
   "source": "gfs-pfs-library",
   "page": 6,
   "page_size": 24,
-  "total": 354,
+  "total": 357,
   "pages": 15,
-  "generated": "2026-09-14T06:34:38.488Z",
+  "generated": "2026-09-14T12:34:01.233Z",
   "games": [
+    {
+      "id": "6a3655f056e5f49eefa028b1",
+      "title_id": "PPSA01443",
+      "title": "Devil May Cry 5 Special Edition",
+      "version": "1.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 46600395162,
+      "size_label": "43.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1710/86flTX6TLYP7MABrMUt3An6m.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/0808/MK7HOr9c2PcBZBIFYxUY7H8Z.jpg",
+      "updated_at": "2026-08-10T06:44:13.383Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028b1-5125f3a76a7c.png",
+      "icon_bytes": 83592
+    },
+    {
+      "id": "6a782550e7c8326e373b5179",
+      "title_id": "PPSA03977",
+      "title": "The Witcher 3: Wild Hunt - Complete Edition",
+      "version": "04.040.100",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 87402584474,
+      "size_label": "81.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/qezXTVn1ExqBjVjR5Ipm97IK.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/IW5r8hLVZzf0ApOyiOuRnKUe.png",
+      "updated_at": "2026-08-09T06:59:28.595Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a782550e7c8326e373b5179-b0d1bbfa7ed2.png",
+      "icon_bytes": 78932
+    },
+    {
+      "id": "6a7817b0e7c8326e373b5178",
+      "title_id": "PPSA02211",
+      "title": "Scarlet Nexus",
+      "version": "01.008",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "2.xx+"
+      ],
+      "firmware_label": "2.xx+",
+      "firmware_raw": [
+        "2.xx +"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 21260088115,
+      "size_label": "19.8 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1100/w4eIRj66rLwSxyvI9SlvWmuh.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1100/zidgrWpnTju9PlOZgefehHuf.png",
+      "updated_at": "2026-08-09T06:01:20.810Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7817b0e7c8326e373b5178-d3db62fd5cb6.png",
+      "icon_bytes": 76088
+    },
     {
       "id": "6a78176ee7c8326e373b5177",
       "title_id": "PPSA17732",
@@ -660,100 +753,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028b7-d97e64b805d6.png",
       "icon_bytes": 73635
-    },
-    {
-      "id": "6a72febafbb0034d1467caae",
-      "title_id": "PPSA04057",
-      "title": "Ghostbusters Spirits Unleashed Ecto Edition",
-      "version": "01.028",
-      "pack": "pfs",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx+"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 19327352832,
-      "size_label": "18.0 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1023/3009a6de39a1dc77bbb624b242274457f0c58d913401c2b1.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0116/40752dc05e38f9b201f848fabd1e9c06b5a1644201b95a06.png",
-      "updated_at": "2026-08-05T09:55:01.551Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a72febafbb0034d1467caae-580eb0287c8f.png",
-      "icon_bytes": 76166
-    },
-    {
-      "id": "6a72fa33fbb0034d1467caad",
-      "title_id": "PPSA29343",
-      "title": "Beast of Reincarnation Digital Deluxe Edition",
-      "version": "01.000",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "11.xx+"
-      ],
-      "firmware_label": "11.xx+",
-      "firmware_raw": [
-        "11.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": false,
-      "size_bytes": 34252364186,
-      "size_label": "31.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2203/db91bba6d10ccd925e1d33832a949659e81a1ac90d672cf8.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2203/db91bba6d10ccd925e1d33832a949659e81a1ac90d672cf8.jpg",
-      "updated_at": "2026-08-05T09:24:18.240Z",
-      "link_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a72fa33fbb0034d1467caad-ee7dddf32870.png",
-      "icon_bytes": 53753
-    },
-    {
-      "id": "6a3655f056e5f49eefa028ab",
-      "title_id": "PPSA27360",
-      "title": "EA SPORTS FC 26",
-      "version": "01.000.018",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx Backport"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 86973087744,
-      "size_label": "81.0 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0422/30afecf5deecc449b0290aa843cfe179b3977b388e8e4e9b.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0422/2e51eaaa9a3b716aa4404108955104a2aae5b68176e17f47.jpg",
-      "updated_at": "2026-08-05T09:10:49.934Z",
-      "link_count": 3,
-      "providers": [
-        "Archive (Game + DLC)",
-        "Viki",
-        "Data"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028ab-83148d4cafd8.png",
-      "icon_bytes": 76517
     }
   ]
 }

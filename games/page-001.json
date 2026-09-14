@@ -4,10 +4,100 @@
   "source": "gfs-pfs-library",
   "page": 1,
   "page_size": 24,
-  "total": 354,
+  "total": 357,
   "pages": 15,
-  "generated": "2026-09-14T06:34:38.488Z",
+  "generated": "2026-09-14T12:34:01.233Z",
   "games": [
+    {
+      "id": "6aa7b26b792e471937d0b01c",
+      "title_id": "PPSA01746",
+      "title": "Kena Bridge of Spirits",
+      "version": "02.008",
+      "pack": "fpkg",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 20712479785,
+      "size_label": "19.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2307/5DwFII1MYsBn48HjmvUu0TEd.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2619/aEqpsWKWYe1dxn9zKs7HgLai.jpg",
+      "updated_at": "2026-09-14T08:38:03.193Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa7b26b792e471937d0b01c-7e0fd617197f.png",
+      "icon_bytes": 72304
+    },
+    {
+      "id": "6aa7add5792e471937d0b01b",
+      "title_id": "PPSA01411",
+      "title": "Marvel's Spider-Man Miles Morales",
+      "version": "01.015.001",
+      "pack": "fpkg",
+      "region": "EUR",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_label": "5.xx+",
+      "firmware_raw": [
+        "5.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 56371445760,
+      "size_label": "52.5 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1420/HcLcfeQBXd2RiQaCeWQDCIFN.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2417/tnCutdREPv6Pa7atqb8MTxGW.png",
+      "updated_at": "2026-09-14T08:18:29.454Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa7add5792e471937d0b01b-1fafd54fe007.png",
+      "icon_bytes": 35592
+    },
+    {
+      "id": "6aa7963e792e471937d0b01a",
+      "title_id": "PPSA19446",
+      "title": "Boti Byteland: Overclocked",
+      "version": "01.004",
+      "pack": "pfs",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 3113851290,
+      "size_label": "2.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0411/cd9b3667cf2a27dac2727218d6eac0209716a081cd241684.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2511/9839e6ff0f58194f28d5b3594953e539f01e6cb60b97ec19.jpg",
+      "updated_at": "2026-09-14T06:37:50.933Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa7963e792e471937d0b01a-dd1f9857673a.png",
+      "icon_bytes": 70506
+    },
     {
       "id": "6aa78dd0792e471937d0b019",
       "title_id": "PPSA13197",
@@ -30,9 +120,10 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/b06dff4ff09b4bd891adb354e9ca8562d1af31c6508334ad.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/e06c268b7f64c3f9760aba716211b24b01fb74783b5eda0e.jpg",
       "updated_at": "2026-09-14T06:01:52.602Z",
-      "link_count": 1,
+      "link_count": 2,
       "providers": [
-        "Viki"
+        "Viki",
+        "Archive"
       ],
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa78dd0792e471937d0b019-a982e409275d.png",
@@ -652,102 +743,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a99965c2b5ffe3a179eba43-dfb1ca956885.png",
       "icon_bytes": 59171
-    },
-    {
-      "id": "6a9916cdb0a31dad5b0fe927",
-      "title_id": "PPSA02633",
-      "title": "Street Fighter 6 Years 1-3 Fighters Edition",
-      "version": "01.000.028",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 109521666048,
-      "size_label": "102 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2004/52dee5ca51eb8d80ef0b6eca48f6f5af44b668c246847e92.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2004/c0f03d2dac6dfe541210920708ed0dc9296e7c4ec435952b.png",
-      "updated_at": "2026-09-03T06:42:21.232Z",
-      "link_count": 3,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a9916cdb0a31dad5b0fe927-adef31dbba5b.png",
-      "icon_bytes": 92938
-    },
-    {
-      "id": "6a9914afb0a31dad5b0fe926",
-      "title_id": "PPSA29629",
-      "title": "Marvel Cosmic Invasion",
-      "version": "02.002",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": false,
-      "size_bytes": 569083167,
-      "size_label": "0.5 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2212/e6a9a53d42e4fb14f48f7464c8a00cd906be3699f4719f7a.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2212/28046b53e0fb82d04eb46fa094268c0efabc406efc876104.jpg",
-      "updated_at": "2026-09-03T06:33:19.698Z",
-      "link_count": 5,
-      "providers": [
-        "Data",
-        "Archive",
-        "Viki",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a9914afb0a31dad5b0fe926-f022a880abd5.png",
-      "icon_bytes": 87552
-    },
-    {
-      "id": "6a967d51b0a31dad5b0fe923",
-      "title_id": "PPSA26525",
-      "title": "Heretic + Hexen",
-      "version": "01.003.000",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "10.xx+"
-      ],
-      "firmware_label": "10.xx+",
-      "firmware_raw": [
-        "10.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.3.6.6",
-      "dlcs_merged": false,
-      "size_bytes": 1073741824,
-      "size_label": "1.0 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2420/a0e9600bc9c2bc08ceb297334294ce62e3296e452699b5d6.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2420/f1dcae6d6b870acd57dcebb5c7ed22842a03ac6235aa702c.jpg",
-      "updated_at": "2026-09-01T07:22:57.750Z",
-      "link_count": 3,
-      "providers": [
-        "Akirabox",
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a967d51b0a31dad5b0fe923-368c98208c6a.png",
-      "icon_bytes": 64331
     }
   ]
 }

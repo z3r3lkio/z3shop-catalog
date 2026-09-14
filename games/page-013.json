@@ -4,10 +4,102 @@
   "source": "gfs-pfs-library",
   "page": 13,
   "page_size": 24,
-  "total": 354,
+  "total": 357,
   "pages": 15,
-  "generated": "2026-09-14T06:34:38.488Z",
+  "generated": "2026-09-14T12:34:01.233Z",
   "games": [
+    {
+      "id": "6a51107d664b52645fefe071",
+      "title_id": "PPSA16388",
+      "title": "Hitman World of Assassination",
+      "version": "01.017",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "1.xx+"
+      ],
+      "firmware_label": "1.xx+",
+      "firmware_raw": [
+        "1.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 67001489818,
+      "size_label": "62.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2013/45afd93d4a7c78d0ebfa3a4b441ce1f9ccbf59ec8b79c9fa.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2013/45afd93d4a7c78d0ebfa3a4b441ce1f9ccbf59ec8b79c9fa.jpg",
+      "updated_at": "2026-07-10T15:32:13.624Z",
+      "link_count": 1,
+      "providers": [
+        "Archive (Game + DLC)"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a51107d664b52645fefe071-07452b2bf145.png",
+      "icon_bytes": 34144
+    },
+    {
+      "id": "6a503aa6664b52645fefe06a",
+      "title_id": "PPSA02225",
+      "title": "Ghost of Tsushima Director's Cut",
+      "version": "02.024",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_label": "5.xx+",
+      "firmware_raw": [
+        "5.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 72713796321,
+      "size_label": "67.7 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0222/9h423wCC1FFb8tknYFAU4NC9.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/0222/NMwFZ00J50ctQEHdRGGg7IBg.png",
+      "updated_at": "2026-07-10T09:30:40.862Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a503aa6664b52645fefe06a-3dbf68caf113.png",
+      "icon_bytes": 80422
+    },
+    {
+      "id": "6a38c27c6e92a31626525cc9",
+      "title_id": "PPSA01500",
+      "title": "Watch Dogs Legion",
+      "version": "1.190",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "2.xx+"
+      ],
+      "firmware_label": "2.xx+",
+      "firmware_raw": [
+        "2.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 85147726643,
+      "size_label": "79.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0302/eK0TNeaxIR1ajS2iaoH29hwh.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/3002/5yRvEJERrFUHQKoyISq3ezo1.jpg",
+      "updated_at": "2026-07-10T07:22:12.367Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a38c27c6e92a31626525cc9-819839eb87c6.png",
+      "icon_bytes": 62440
+    },
     {
       "id": "6a3655f056e5f49eefa028a1",
       "title_id": "PPSA05366",
@@ -658,99 +750,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a490ec72860efac54e4aa72-24faebcc07b7.png",
       "icon_bytes": 72392
-    },
-    {
-      "id": "6a3655f056e5f49eefa028cc",
-      "title_id": "PPSA17905",
-      "title": "Horizon Forbidden West",
-      "version": "1.030",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "7.xx+"
-      ],
-      "firmware_label": "7.xx+",
-      "firmware_raw": [
-        "7.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.0b",
-      "dlcs_merged": false,
-      "size_bytes": 128902705971,
-      "size_label": "120 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2915/f2jH2HOP0yYYQtDPd8LjqErv.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2915/SqRcyLjZbpK26ej6TnWf43xp.jpg",
-      "updated_at": "2026-07-03T15:15:05.593Z",
-      "link_count": 3,
-      "providers": [
-        "Viki",
-        "1fichier",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028cc-88b57970f1c8.png",
-      "icon_bytes": 83243
-    },
-    {
-      "id": "6a3655f056e5f49eefa028aa",
-      "title_id": "PPSA17232",
-      "title": "Sniper Elite Resistance",
-      "version": "1.010",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6",
-      "dlcs_merged": false,
-      "size_bytes": 56049323213,
-      "size_label": "52.2 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1309/3d97b646894fd99af3f2013455b6d5e591be5bd9abd0eba7.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1309/b026676dfa9d7639fef041a9f0ed4c6d076e2ad3647eae1c.png",
-      "updated_at": "2026-07-03T07:16:20.520Z",
-      "link_count": 2,
-      "providers": [
-        "1fichier",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028aa-2755a653a731.png",
-      "icon_bytes": 66931
-    },
-    {
-      "id": "6a3655f056e5f49eefa028ac",
-      "title_id": "PPSA01532",
-      "title": "Assassins Creed Valhalla Complete Edition",
-      "version": "01.070",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.7.6",
-      "dlcs_merged": true,
-      "size_bytes": 175019917312,
-      "size_label": "163 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0302/8jomNsyMYDoJnzFkBrr9Rit2.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2006/8rN9I1guvYHln0ClWUsHiFLL.jpg",
-      "updated_at": "2026-07-02T22:35:50.566Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028ac-72e904b0f967.png",
-      "icon_bytes": 76634
     }
   ]
 }

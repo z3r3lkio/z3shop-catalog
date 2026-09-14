@@ -4,10 +4,102 @@
   "source": "gfs-pfs-library",
   "page": 8,
   "page_size": 24,
-  "total": 354,
+  "total": 357,
   "pages": 15,
-  "generated": "2026-09-14T06:34:38.488Z",
+  "generated": "2026-09-14T12:34:01.233Z",
   "games": [
+    {
+      "id": "6a6b6ba4a80b138b911d68cf",
+      "title_id": "PPSA01552",
+      "title": "Dirt 5",
+      "version": "06.005",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "2.xx+"
+      ],
+      "firmware_label": "2.xx+",
+      "firmware_raw": [
+        "2.xx above"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 59914793779,
+      "size_label": "55.8 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202107/2009/0UhqjqNJBVttiM1xzQOVlyl9.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0412/wHEKIQNTOV9f8GX7szFwckWJ.jpg",
+      "updated_at": "2026-07-30T15:22:02.095Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6b6ba4a80b138b911d68cf-a2382fc37aea.png",
+      "icon_bytes": 88721
+    },
+    {
+      "id": "6a4b21062860efac54e4aa97",
+      "title_id": "PPSA25153",
+      "title": "Jurassic World Evolution 3",
+      "version": "01.002.006",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "11.xx+"
+      ],
+      "firmware_label": "11.xx+",
+      "firmware_raw": [
+        "11.xx beyond"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 17501991731,
+      "size_label": "16.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0909/b19494d1e6f2af9c591ac042d0fbcb415f44f61dc34e89f2.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0909/b19494d1e6f2af9c591ac042d0fbcb415f44f61dc34e89f2.jpg",
+      "updated_at": "2026-07-30T15:21:55.993Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4b21062860efac54e4aa97-ad0bf3ba7d8e.png",
+      "icon_bytes": 50300
+    },
+    {
+      "id": "6a3655f056e5f49eefa028ae",
+      "title_id": "PPSA07580",
+      "title": "WRC Generations",
+      "version": "1.004",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6",
+      "dlcs_merged": false,
+      "size_bytes": 40480066765,
+      "size_label": "37.7 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1809/wIEeUy8bB3FC8DMPMHnCxulJ.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1908/CDQPp8NFWSXF19DdDjrOzfEh.jpg",
+      "updated_at": "2026-07-30T14:12:09.609Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028ae-c41e295aa428.png",
+      "icon_bytes": 50794
+    },
     {
       "id": "6a3655f056e5f49eefa028b6",
       "title_id": "PPSA26344",
@@ -657,100 +749,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028c9-ce25f15e2803.png",
       "icon_bytes": 59440
-    },
-    {
-      "id": "6a64db0c3d4889f7e22e8b5d",
-      "title_id": "PPSA01575",
-      "title": "Avatar Frontiers of Pandora Complete Edition",
-      "version": "01.020",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx Backport"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": true,
-      "size_bytes": 165012643512,
-      "size_label": "154 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/3009/3945b0d7edc8b58357c929e095547bd21ea756327f097384.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/3009/3945b0d7edc8b58357c929e095547bd21ea756327f097384.jpg",
-      "updated_at": "2026-07-25T15:49:32.113Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a64db0c3d4889f7e22e8b5d-fd7c093efae7.png",
-      "icon_bytes": 57801
-    },
-    {
-      "id": "6a6394ba3d4889f7e22e8b59",
-      "title_id": "PPSA01631",
-      "title": "Marvels Avengers Definitive Edition",
-      "version": "01.055",
-      "pack": "unknown",
-      "region": "USA to EUR Langs",
-      "firmware": [
-        "2.xx+"
-      ],
-      "firmware_label": "2.xx+",
-      "firmware_raw": [
-        "2.xx and beyond"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": true,
-      "size_bytes": 166429982720,
-      "size_label": "155 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202111/1814/n7UmKNPcZKKZNb8J1PxPWgsa.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202111/1814/n7UmKNPcZKKZNb8J1PxPWgsa.jpg",
-      "updated_at": "2026-07-24T16:37:14.101Z",
-      "link_count": 10,
-      "providers": [
-        "Archive",
-        "Viki",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6394ba3d4889f7e22e8b59-489c017b177c.png",
-      "icon_bytes": 61939
-    },
-    {
-      "id": "6a3655f056e5f49eefa028a4",
-      "title_id": "PPSA06774",
-      "title": "Armored Core 6 Fires of Rubicon",
-      "version": "1.009",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "5.xx+"
-      ],
-      "firmware_label": "5.xx+",
-      "firmware_raw": [
-        "5.xx +"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.7.6",
-      "dlcs_merged": false,
-      "size_bytes": 49123688448,
-      "size_label": "45.8 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2800/08aa0e3d6a5cd2e283f9c96da6ecd9d7433e751235183f5d.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2800/d8239a77b57e74c4608ed0cbe4b70471d9f9637b5c9c7d39.jpg",
-      "updated_at": "2026-07-24T05:27:33.563Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "1fichier"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028a4-32f6dd3da730.png",
-      "icon_bytes": 84219
     }
   ]
 }

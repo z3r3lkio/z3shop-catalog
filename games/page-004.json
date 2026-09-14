@@ -4,10 +4,102 @@
   "source": "gfs-pfs-library",
   "page": 4,
   "page_size": 24,
-  "total": 354,
+  "total": 357,
   "pages": 15,
-  "generated": "2026-09-14T06:34:38.488Z",
+  "generated": "2026-09-14T12:34:01.233Z",
   "games": [
+    {
+      "id": "6a853612b0a31dad5b0fe8db",
+      "title_id": "PPSA17942",
+      "title": "Dragon Quest VII Reimagined",
+      "version": "01.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 8568459756,
+      "size_label": "8.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1808/3815dee3e2e5617493b54fc5da1405c1d187b91a05bbaeca.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2805/4714767d402d7d9562d18b90284aae3b833509b264331b5e.png",
+      "updated_at": "2026-08-19T04:50:26.992Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a853612b0a31dad5b0fe8db-8df06986a64d.png",
+      "icon_bytes": 89460
+    },
+    {
+      "id": "6a8534eab0a31dad5b0fe8da",
+      "title_id": "PPSA09850",
+      "title": "Overpass 2",
+      "version": "01.004",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 24803436134,
+      "size_label": "23.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2508/7ffda51d23f63a3185ab7ea82b2ebb001fac430565b12d48.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2508/8405a3a4989b147ed4052b3b7abe198ef4453750909a6ac0.jpg",
+      "updated_at": "2026-08-19T04:45:30.838Z",
+      "link_count": 5,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8534eab0a31dad5b0fe8da-d1a3dbe3f722.png",
+      "icon_bytes": 68730
+    },
+    {
+      "id": "6a84634eb0a31dad5b0fe8d8",
+      "title_id": "PPSA10595",
+      "title": "Tekken 8",
+      "version": "03.000.001",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 112742891520,
+      "size_label": "105 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0312/7d3a133bb2f995b7edf9fc74961637017cf02a688228c154.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0312/c7c8d6fcc443743f7e9a704319fc2e2c7883b95673ca4a5e.jpg",
+      "updated_at": "2026-08-18T13:51:10.817Z",
+      "link_count": 2,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a84634eb0a31dad5b0fe8d8-e5b61bb5fc0e.png",
+      "icon_bytes": 59677
+    },
     {
       "id": "6a3655f056e5f49eefa028a5",
       "title_id": "PPSA07809",
@@ -672,100 +764,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7dedf238ed9f06d55a6aff-d768cbd39e8e.png",
       "icon_bytes": 92602
-    },
-    {
-      "id": "6a7dec8238ed9f06d55a6afe",
-      "title_id": "PPSA27366",
-      "title": "AI LIMIT",
-      "version": "01.025",
-      "pack": "unknown",
-      "region": "ASIA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 15139759718,
-      "size_label": "14.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1308/5277c555dcfb3906945fe754c85e088816d44879f564d162.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1806/f3a7bbf296d308a1a2120201fec1dc549a2285758c16ff5f.jpg",
-      "updated_at": "2026-08-13T16:10:42.376Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7dec8238ed9f06d55a6afe-c6a1dbdad818.png",
-      "icon_bytes": 85998
-    },
-    {
-      "id": "6a452a5410be3d68c4b8013c",
-      "title_id": "PPSA15645",
-      "title": "Castlevania Dominus Collection",
-      "version": "01.003",
-      "pack": "unknown",
-      "region": "JPN",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 1148903752,
-      "size_label": "1.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0910/b79bdf925e3d8b377fca239e2b6ec2df9f2787cda3bc7c3a.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0910/f0ae09db0e5154476ca544861f668f5601885b0a639d388e.png",
-      "updated_at": "2026-08-13T07:42:00.071Z",
-      "link_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a452a5410be3d68c4b8013c-f61c98cccf76.png",
-      "icon_bytes": 83596
-    },
-    {
-      "id": "6a451ed34ea9a2c0cb1af504",
-      "title_id": "PPSA02113",
-      "title": "Werewolf The Apocalypse Earthblood",
-      "version": "01.005",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "2.xx+"
-      ],
-      "firmware_label": "2.xx+",
-      "firmware_raw": [
-        "2.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 9814000271,
-      "size_label": "9.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1916/v1zp2APvblCKi9CpJgcKnLqM.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1916/kdzlpjHjoV6VE25mpO6WN7fD.jpg",
-      "updated_at": "2026-08-13T07:41:55.412Z",
-      "link_count": 3,
-      "providers": [
-        "Viki",
-        "Akirabox",
-        "Archive (Game + DLC)"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a451ed34ea9a2c0cb1af504-27b41522ee4e.png",
-      "icon_bytes": 68909
     }
   ]
 }

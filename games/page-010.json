@@ -4,10 +4,103 @@
   "source": "gfs-pfs-library",
   "page": 10,
   "page_size": 24,
-  "total": 354,
+  "total": 357,
   "pages": 15,
-  "generated": "2026-09-14T06:34:38.488Z",
+  "generated": "2026-09-14T12:34:01.233Z",
   "games": [
+    {
+      "id": "6a5f4be720ce6441f5b9a127",
+      "title_id": "PPSA01507",
+      "title": "Immortals Fenyx Rising",
+      "version": "04.040",
+      "pack": "unknown",
+      "region": "USA to EUR Languages",
+      "firmware": [
+        "2.xx+"
+      ],
+      "firmware_label": "2.xx+",
+      "firmware_raw": [
+        "2.xx and beyond"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 34789235098,
+      "size_label": "32.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0300/MqOjOCxySqOaAa1NAms5Gx6C.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0300/MqOjOCxySqOaAa1NAms5Gx6C.jpg",
+      "updated_at": "2026-07-21T13:44:47.408Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f4be720ce6441f5b9a127-7fef7bcdd8ea.png",
+      "icon_bytes": 62326
+    },
+    {
+      "id": "6a5f4c1d20ce6441f5b9a128",
+      "title_id": "PPSA02721",
+      "title": "Neptunia Reverse",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "2.xx+"
+      ],
+      "firmware_label": "2.xx+",
+      "firmware_raw": [
+        "2.xx and beyond"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 11703785882,
+      "size_label": "10.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1319/73vyg51C1KDlggiSmkCJtI88.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1319/8SO9D15YafaDqF75zJZJC1Ia.jpg",
+      "updated_at": "2026-07-21T13:44:43.712Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f4c1d20ce6441f5b9a128-0faf5888ac60.png",
+      "icon_bytes": 90015
+    },
+    {
+      "id": "6a5f4c4c20ce6441f5b9a129",
+      "title_id": "PPSA20289",
+      "title": "Kong Survivor Instinct",
+      "version": "01.004",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "9.xx+"
+      ],
+      "firmware_label": "9.xx+",
+      "firmware_raw": [
+        "9.xx and beyond"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 8987219067,
+      "size_label": "8.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1009/4f515e2df8ef5b11ba20f68d56a30bc3311c73dd06b15c33.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1009/3b0e234294fd7917fa35b5dd9fe8d5d7eda0d2471fb8f7b7.png",
+      "updated_at": "2026-07-21T13:11:43.990Z",
+      "link_count": 2,
+      "providers": [
+        "Vikingfile",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f4c4c20ce6441f5b9a129-02ee20986481.png",
+      "icon_bytes": 58382
+    },
     {
       "id": "6a3655f056e5f49eefa028b3",
       "title_id": "PPSA25286",
@@ -651,96 +744,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a59f6c3664b52645fefe0a7-c16d0724e01c.png",
       "icon_bytes": 75311
-    },
-    {
-      "id": "6a5a0350664b52645fefe0ac",
-      "title_id": "PPSA12507",
-      "title": "Synapse®",
-      "version": "01.002.000",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "8.xx+"
-      ],
-      "firmware_label": "8.xx+",
-      "firmware_raw": [
-        "8.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 20078972109,
-      "size_label": "18.7 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2316/0b1ab2beea508e768823b757a576bc4c155c8d187a26e8b7.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2209/471c5a53b5325a70e4b84fcf0ab221bccb11b9ff2cc8b469.jpg",
-      "updated_at": "2026-07-17T12:17:14.113Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5a0350664b52645fefe0ac-8e71c0f830d7.png",
-      "icon_bytes": 60558
-    },
-    {
-      "id": "6a59f78e664b52645fefe0a9",
-      "title_id": "PPSA31977",
-      "title": "Darksiders Warmastered Edition",
-      "version": "01.000",
-      "pack": "pfs",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 28561532518,
-      "size_label": "26.6 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/3112/c9ab5a7e8f779034b9cc73bbc00cf9c6df95fed7bfb52ff5.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/3112/735376886d7917be33b23f62bb3f00fa1544c73828502399.jpg",
-      "updated_at": "2026-07-17T11:16:06.936Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a59f78e664b52645fefe0a9-a9add92f8812.png",
-      "icon_bytes": 80539
-    },
-    {
-      "id": "6a59f72b664b52645fefe0a8",
-      "title_id": "PPSA09519",
-      "title": "WUCHANG Fallen Feathers",
-      "version": "01.011",
-      "pack": "pfs",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 18038862643,
-      "size_label": "16.8 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2515/c8b1e1fa6a4acecfda00d666dcd6737fa439ebdabb43be7a.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/3020/a7e7f41f857e7443976229d04e6b406a7a541771be858b94.jpg",
-      "updated_at": "2026-07-17T10:30:56.049Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a59f72b664b52645fefe0a8-d4fe8a20d088.png",
-      "icon_bytes": 79019
     }
   ]
 }

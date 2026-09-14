@@ -268,7 +268,7 @@
       "url": "https://pfs-library.xetdy-am.workers.dev/api/packages",
       "homepage": "https://pfs-library.xetdy-am.workers.dev/",
       "mode": "discovery",
-      "entries": 354
+      "entries": 357
     },
     {
       "id": "nexgen-aio-pkg",
@@ -300,7 +300,7 @@
     "featured": 6,
     "apps": 10,
     "ffspsc": 3,
-    "discovered_games": 354,
+    "discovered_games": 357,
     "icons": 13,
     "icon_bytes": 701117,
     "pkg_icon_attempts": 6,
@@ -309,26 +309,26 @@
     "pkg_icons_fih": 3,
     "icons_unresolved": 0
   },
-  "_generated": "2026-09-14T06:34:37.550Z",
+  "_generated": "2026-09-14T12:34:00.501Z",
   "_discovery": {
     "pfs_library": {
       "source_name": "GFS Catalog",
       "homepage": "https://pfs-library.xetdy-am.workers.dev/",
       "api": "https://pfs-library.xetdy-am.workers.dev/api/packages",
       "mode": "discovery-metadata-only",
-      "packages": 354,
-      "unique_title_ids": 333,
-      "explicit_pack_entries": 55,
+      "packages": 357,
+      "unique_title_ids": 335,
+      "explicit_pack_entries": 58,
       "unspecified_pack_entries": 299,
       "pack_counts": {
         "unspecified": 299,
-        "pfs": 44,
+        "pfs": 45,
         "lz4": 7,
-        "fpkg": 4
+        "fpkg": 6
       },
       "region_counts": {
-        "USA": 170,
-        "EUR": 144,
+        "USA": 171,
+        "EUR": 146,
         "JPN": 22,
         "ASIA": 5,
         "USA to EUR Languages": 4,
@@ -342,7 +342,7 @@
         "4.xx": 87,
         "4.xx +": 50,
         "4.xx BackPort": 28,
-        "4.xx+": 18,
+        "4.xx+": 20,
         "7.xx": 17,
         "4.xx Backport": 12,
         "4.xx BackPork": 9,
@@ -385,6 +385,7 @@
         "5.xx +, 4.xx BackPort": 1,
         "5.xx and beyond": 1,
         "5.xx Backport, 4.xx Backport": 1,
+        "5.xx+": 1,
         "6.xx+": 1,
         "6.xxx": 1,
         "7.xx BackPort": 1,
@@ -426,10 +427,10 @@
         "fpkg": false
       },
       "dlcs_merged": 69,
-      "download_links": 863,
+      "download_links": 867,
       "link_provider_counts": {
-        "Viki": 287,
-        "Archive": 240,
+        "Viki": 290,
+        "Archive": 241,
         "Akirabox": 197,
         "1fichier": 40,
         "Archive (Game + DLC)": 25,
@@ -471,9 +472,60 @@
         "Vikingfile - 4.xx Backport": 1,
         "vikingfile.com": 1
       },
-      "posters": 354,
-      "banners": 354,
+      "posters": 357,
+      "banners": 357,
       "latest": [
+        {
+          "id": "6aa7b26b792e471937d0b01c",
+          "title_id": "PPSA01746",
+          "title": "Kena Bridge of Spirits",
+          "version": "02.008",
+          "pack": "fpkg",
+          "region": "USA",
+          "firmware": [
+            "4.xx+"
+          ],
+          "apr": false,
+          "apr_version": "",
+          "dlcs_merged": false,
+          "size_bytes": 20712479785,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2307/5DwFII1MYsBn48HjmvUu0TEd.jpg",
+          "updated_at": "2026-09-14T08:38:03.193Z"
+        },
+        {
+          "id": "6aa7add5792e471937d0b01b",
+          "title_id": "PPSA01411",
+          "title": "Marvel's Spider-Man Miles Morales",
+          "version": "01.015.001",
+          "pack": "fpkg",
+          "region": "EUR",
+          "firmware": [
+            "5.xx+"
+          ],
+          "apr": false,
+          "apr_version": "",
+          "dlcs_merged": false,
+          "size_bytes": 56371445760,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1420/HcLcfeQBXd2RiQaCeWQDCIFN.jpg",
+          "updated_at": "2026-09-14T08:18:29.454Z"
+        },
+        {
+          "id": "6aa7963e792e471937d0b01a",
+          "title_id": "PPSA19446",
+          "title": "Boti Byteland: Overclocked",
+          "version": "01.004",
+          "pack": "pfs",
+          "region": "EUR",
+          "firmware": [
+            "4.xx+"
+          ],
+          "apr": false,
+          "apr_version": "",
+          "dlcs_merged": false,
+          "size_bytes": 3113851290,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0411/cd9b3667cf2a27dac2727218d6eac0209716a081cd241684.jpg",
+          "updated_at": "2026-09-14T06:37:50.933Z"
+        },
         {
           "id": "6aa78dd0792e471937d0b019",
           "title_id": "PPSA13197",
@@ -626,57 +678,6 @@
           "size_bytes": 163208757248,
           "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
           "updated_at": "2026-09-12T10:53:16.771Z"
-        },
-        {
-          "id": "6aa52c80b67d2ea2148cd775",
-          "title_id": "PPSA21567",
-          "title": "Astro Bot",
-          "version": "01.018.000",
-          "pack": "lz4",
-          "region": "EUR",
-          "firmware": [
-            "9.xx+"
-          ],
-          "apr": true,
-          "apr_version": "apr-emu-v0.4.2.1",
-          "dlcs_merged": false,
-          "size_bytes": 73014444032,
-          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/0d05cb43413f28a641ac0c40fc272c70bbe194f6ade4b175.png",
-          "updated_at": "2026-09-12T10:42:08.978Z"
-        },
-        {
-          "id": "6aa52b60b67d2ea2148cd774",
-          "title_id": "PPSA24884",
-          "title": "Startfield Premium Edition",
-          "version": "01.000.002",
-          "pack": "lz4",
-          "region": "EUR",
-          "firmware": [
-            "11.xx+"
-          ],
-          "apr": true,
-          "apr_version": "apr-emu-v0.4.2.1",
-          "dlcs_merged": false,
-          "size_bytes": 186831077376,
-          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/0401/684c5b80f300383037e55dc15bf2ad90f1753bed86e519ee.jpg",
-          "updated_at": "2026-09-12T10:37:20.299Z"
-        },
-        {
-          "id": "6a3655f056e5f49eefa028b4",
-          "title_id": "PPSA20396",
-          "title": "Assassins Creed Shadows",
-          "version": "1.019.076",
-          "pack": "pfs",
-          "region": "USA",
-          "firmware": [
-            "4.xx+"
-          ],
-          "apr": true,
-          "apr_version": "apr-emu-v0.4.2.1",
-          "dlcs_merged": false,
-          "size_bytes": 170724950016,
-          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1815/33f39cad34ac468a040ffed5a43149fb4329ec6c73326838.jpg",
-          "updated_at": "2026-09-10T14:03:09.267Z"
         }
       ]
     }
