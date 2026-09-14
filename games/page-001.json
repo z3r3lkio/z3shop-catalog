@@ -4,10 +4,130 @@
   "source": "gfs-pfs-library",
   "page": 1,
   "page_size": 24,
-  "total": 357,
-  "pages": 15,
-  "generated": "2026-09-14T12:34:01.233Z",
+  "total": 361,
+  "pages": 16,
+  "generated": "2026-09-14T18:30:19.073Z",
   "games": [
+    {
+      "id": "6aa8321e3f728aecb6a169e7",
+      "title_id": "PPSA09091",
+      "title": "Fairy Fencer F: Refrain Chord",
+      "version": "01.000.001",
+      "pack": "lz4",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.4.2.1",
+      "dlcs_merged": false,
+      "size_bytes": 3221225472,
+      "size_label": "3.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1801/b2c9d79c5803dff9e1c3daa04dfaceff9f0581d540a0a8a6.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2201/d91f14bc373369bf6e7ae7635a67495f676acd3e363393ec.jpg",
+      "updated_at": "2026-09-14T17:42:54.787Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa8321e3f728aecb6a169e7-14e048909bc4.png",
+      "icon_bytes": 93178
+    },
+    {
+      "id": "6aa81d6b3f728aecb6a169e6",
+      "title_id": "PPSA03190",
+      "title": "MultiVersus",
+      "version": "01.055",
+      "pack": "pfs",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 19971597926,
+      "size_label": "18.6 GiB",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/fi/9/98/MultiVersus.jpg?utm_source=fi.wikipedia.org&utm_campaign=index&utm_content=original",
+      "banner_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2024/05/multiversus-official-launch-key-artwork.jpg",
+      "updated_at": "2026-09-14T16:14:35.563Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa81d6b3f728aecb6a169e6-5332d607a9db.png",
+      "icon_bytes": 79912
+    },
+    {
+      "id": "6aa81cc73f728aecb6a169e5",
+      "title_id": "PPSA09518",
+      "title": "WUCHANG Fallen Feathers Deluxe Edition",
+      "version": "01.013",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 18253611008,
+      "size_label": "17.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0311/9ae422106574a80dc231d257d458c2a967fe7f0bac58c9e7.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0311/efd35fc8c145d0d3a216aef8f2f0ebd6ae096fa2cd845a90.jpg",
+      "updated_at": "2026-09-14T16:11:51.709Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa81cc73f728aecb6a169e5-406a11be0b8c.png",
+      "icon_bytes": 71151
+    },
+    {
+      "id": "6aa811f9e8c33db6afb892db",
+      "title_id": "PPSA01473",
+      "title": "Ratchet & Clank Rift Apart",
+      "version": "1.005.003",
+      "pack": "lz4",
+      "region": "USA",
+      "firmware": [
+        "10.xx+"
+      ],
+      "firmware_label": "10.xx+",
+      "firmware_raw": [
+        "10.xx+"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.4.2.1",
+      "dlcs_merged": false,
+      "size_bytes": 59055800320,
+      "size_label": "55.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/CrGbGyUFNdkZKbg9DM2qPTE1.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/x64hEmgvhgxpXc9z9hpyLAyQ.jpg",
+      "updated_at": "2026-09-14T15:25:45.534Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa811f9e8c33db6afb892db-1e7fa4d250bd.png",
+      "icon_bytes": 79176
+    },
     {
       "id": "6aa7b26b792e471937d0b01c",
       "title_id": "PPSA01746",
@@ -60,9 +180,10 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1420/HcLcfeQBXd2RiQaCeWQDCIFN.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2417/tnCutdREPv6Pa7atqb8MTxGW.png",
       "updated_at": "2026-09-14T08:18:29.454Z",
-      "link_count": 1,
+      "link_count": 2,
       "providers": [
-        "Viki"
+        "Viki",
+        "Archive"
       ],
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa7add5792e471937d0b01b-1fafd54fe007.png",
@@ -618,131 +739,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa00073235811081ee44c4a-c484f2f50236.png",
       "icon_bytes": 83963
-    },
-    {
-      "id": "6a9d249bc6d57704779e003f",
-      "title_id": "PPSA13927",
-      "title": "Tintin Reporter - Cigars of the Pharaoh",
-      "version": "01.010",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "7.xx+"
-      ],
-      "firmware_label": "7.xx+",
-      "firmware_raw": [
-        "7.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 28239409971,
-      "size_label": "26.3 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1413/7d2527365ffa9f8d092a2d167de822ab915c28bd00b4ceb1.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1413/2d0defec587fcb795783769094fcb91eeaac354ae697fc8b.png",
-      "updated_at": "2026-09-06T08:30:19.069Z",
-      "link_count": 1,
-      "providers": [
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a9d249bc6d57704779e003f-f47121797755.png",
-      "icon_bytes": 77050
-    },
-    {
-      "id": "6a9cef41c6d57704779e003d",
-      "title_id": "PPSA04539",
-      "title": "Rise of The Ronin",
-      "version": "01.009",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.3.6.6",
-      "dlcs_merged": false,
-      "size_bytes": 120259084288,
-      "size_label": "112 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2201/HVGaSUgC1tFjZxeXER055twO.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2201/Lh6Tm4AQu5yqLYt6aSPIkrOk.jpg",
-      "updated_at": "2026-09-06T04:42:41.452Z",
-      "link_count": 4,
-      "providers": [
-        "Data",
-        "Viki",
-        "Buzzheavier"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a9cef41c6d57704779e003d-dfb1ca956885.png",
-      "icon_bytes": 59171
-    },
-    {
-      "id": "6a422fea3c7af76ce7f5ac9a",
-      "title_id": "PPSA16265",
-      "title": "Like A Dragon Gaiden: The Man Who Erased His Name Deluxe Edition",
-      "version": "01.022",
-      "pack": "unknown",
-      "region": "JPN",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.3.6.6",
-      "dlcs_merged": true,
-      "size_bytes": 59195386757,
-      "size_label": "55.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2313/2c49d79afc2fb48f510ae8730f6bf46e060e05bb25b3cae6.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2313/c936412ee0a6246c09cb3068377fdc7f8fdaac5d15ba4c01.png",
-      "updated_at": "2026-09-05T06:46:17.150Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a422fea3c7af76ce7f5ac9a-d1dd58932846.png",
-      "icon_bytes": 34608
-    },
-    {
-      "id": "6a99965c2b5ffe3a179eba43",
-      "title_id": "PPSA04539",
-      "title": "Rise of The Ronin",
-      "version": "01.009",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "9.xx+"
-      ],
-      "firmware_label": "9.xx+",
-      "firmware_raw": [
-        "9.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.3.6.6",
-      "dlcs_merged": false,
-      "size_bytes": 120259084288,
-      "size_label": "112 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2201/HVGaSUgC1tFjZxeXER055twO.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2201/Lh6Tm4AQu5yqLYt6aSPIkrOk.jpg",
-      "updated_at": "2026-09-03T15:46:36.560Z",
-      "link_count": 5,
-      "providers": [
-        "Viki",
-        "Data",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a99965c2b5ffe3a179eba43-dfb1ca956885.png",
-      "icon_bytes": 59171
     }
   ]
 }

@@ -4,10 +4,135 @@
   "source": "gfs-pfs-library",
   "page": 9,
   "page_size": 24,
-  "total": 357,
-  "pages": 15,
-  "generated": "2026-09-14T12:34:01.233Z",
+  "total": 361,
+  "pages": 16,
+  "generated": "2026-09-14T18:30:19.073Z",
   "games": [
+    {
+      "id": "6a6733823d4889f7e22e8b65",
+      "title_id": "PPSA32802",
+      "title": "Fatal Frame 2 Crimson Butterfly Remake Deluxe Edition",
+      "version": "01.002.002",
+      "pack": "unknown",
+      "region": "JPN",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 18360985190,
+      "size_label": "17.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1003/d226886ef3aded4ebd98cbea281b8792e4c3efaf0ae54e43.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1003/d226886ef3aded4ebd98cbea281b8792e4c3efaf0ae54e43.jpg",
+      "updated_at": "2026-07-27T10:31:30.403Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6733823d4889f7e22e8b65-c98cbc2ffb8d.png",
+      "icon_bytes": 52343
+    },
+    {
+      "id": "6a6733373d4889f7e22e8b64",
+      "title_id": "PPSA21840",
+      "title": "GreedFall The Dying World",
+      "version": "01.004",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 40480066765,
+      "size_label": "37.7 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/0609/ff5c11d1d6ae705e23e7db7039f90882925d13e4f242f777.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/0609/ff5c11d1d6ae705e23e7db7039f90882925d13e4f242f777.jpg",
+      "updated_at": "2026-07-27T10:30:15.127Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Data"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6733373d4889f7e22e8b64-c66fccf911aa.png",
+      "icon_bytes": 38930
+    },
+    {
+      "id": "6a41daba943e0bf514569235",
+      "title_id": "PPSA08260",
+      "title": "Star Wars Outlaws",
+      "version": "01.007",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 81604378624,
+      "size_label": "76.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/3020/bca42b94af09b7a7ffd27fcb76a7bb1e46b60ed0c5f99322.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/3020/1916ec71f4af6c3e583a816988c41d54bafea762e02a39b2.jpg",
+      "updated_at": "2026-07-27T10:29:23.194Z",
+      "link_count": 3,
+      "providers": [
+        "Akirabox - DLC (DUPLEX )",
+        "Viki",
+        "Archive (Game + DLC)"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a41daba943e0bf514569235-359468150813.png",
+      "icon_bytes": 98894
+    },
+    {
+      "id": "6a3655f056e5f49eefa028c9",
+      "title_id": "PPSA02100",
+      "title": "Stray",
+      "version": "1.005.000",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 8504035246,
+      "size_label": "7.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0300/VdyFw6rwpTdZS2UioHYBbvre.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0300/mdLNPfAntEpIxfdzEVMUReJj.jpg",
+      "updated_at": "2026-07-27T06:24:38.656Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028c9-ce25f15e2803.png",
+      "icon_bytes": 59440
+    },
     {
       "id": "6a64db0c3d4889f7e22e8b5d",
       "title_id": "PPSA01575",
@@ -632,130 +757,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3e246230a44e5ee17d6681-ac776225cfc3.png",
       "icon_bytes": 44704
-    },
-    {
-      "id": "6a5f964c20ce6441f5b9a12f",
-      "title_id": "PPSA14376",
-      "title": "UFO Robot Grendizer The Feast of The Wolves Deluxe Edition",
-      "version": "01.007",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx BackPork"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 4842575626,
-      "size_label": "4.5 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0815/9c3d16547468d5dbe614e77e5bed8160155b8bfbaa131571.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0815/436bae6a27eaf83d921ab59a6e26c1f43f66d0438764feea.png",
-      "updated_at": "2026-07-21T15:54:52.431Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f964c20ce6441f5b9a12f-88dca566756f.png",
-      "icon_bytes": 88857
-    },
-    {
-      "id": "6a39f3ebb0190048cae6f145",
-      "title_id": "PPSA08804",
-      "title": "Sonic Racing CrossWorlds Deluxe Edition",
-      "version": "1.012",
-      "pack": "unknown",
-      "region": "JPN",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx Backport"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 13851269530,
-      "size_label": "12.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1222/dfe7c3bfa439e256815690260ffed8b04fa3347371ea6f0b.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2420/bccdbba86a2531b06bae4608e0a5fb1812e210e5818beb29.jpg",
-      "updated_at": "2026-07-21T15:52:00.720Z",
-      "link_count": 3,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a39f3ebb0190048cae6f145-a655f9396886.png",
-      "icon_bytes": 86925
-    },
-    {
-      "id": "6a5f4da420ce6441f5b9a12c",
-      "title_id": "PPSA23012",
-      "title": "Yooka Replaylee",
-      "version": "02.000",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx BackPort"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 11703785882,
-      "size_label": "10.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/0614/b7e6907ade4e0ac048046e35c720725542e5055252e31224.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/0614/ed6aa2d253edfeef5b947f915ac7049905276042a5d1789e.jpg",
-      "updated_at": "2026-07-21T15:10:00.627Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f4da420ce6441f5b9a12c-b0df5f8423d5.png",
-      "icon_bytes": 81412
-    },
-    {
-      "id": "6a3797554db0baeee04f4ed3",
-      "title_id": "PPSA16306",
-      "title": "WWE 2K24 Forty Years of WrestleMania Edition",
-      "version": "1.023",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx BackPort"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 90698971873,
-      "size_label": "84.5 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/0902/78cd23038921f6fc9a2935aaf4989b64fbf6f1bfce94bfae.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/0902/58608bd68beb3f3ba5451f53ff9950c75c399cd2b78f8521.png",
-      "updated_at": "2026-07-21T14:07:53.429Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3797554db0baeee04f4ed3-a5e96eb0a679.png",
-      "icon_bytes": 68751
     }
   ]
 }

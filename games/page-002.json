@@ -4,10 +4,135 @@
   "source": "gfs-pfs-library",
   "page": 2,
   "page_size": 24,
-  "total": 357,
-  "pages": 15,
-  "generated": "2026-09-14T12:34:01.233Z",
+  "total": 361,
+  "pages": 16,
+  "generated": "2026-09-14T18:30:19.073Z",
   "games": [
+    {
+      "id": "6a9d249bc6d57704779e003f",
+      "title_id": "PPSA13927",
+      "title": "Tintin Reporter - Cigars of the Pharaoh",
+      "version": "01.010",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_label": "7.xx+",
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 28239409971,
+      "size_label": "26.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1413/7d2527365ffa9f8d092a2d167de822ab915c28bd00b4ceb1.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1413/2d0defec587fcb795783769094fcb91eeaac354ae697fc8b.png",
+      "updated_at": "2026-09-06T08:30:19.069Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a9d249bc6d57704779e003f-f47121797755.png",
+      "icon_bytes": 77050
+    },
+    {
+      "id": "6a9cef41c6d57704779e003d",
+      "title_id": "PPSA04539",
+      "title": "Rise of The Ronin",
+      "version": "01.009",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.6.6",
+      "dlcs_merged": false,
+      "size_bytes": 120259084288,
+      "size_label": "112 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2201/HVGaSUgC1tFjZxeXER055twO.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2201/Lh6Tm4AQu5yqLYt6aSPIkrOk.jpg",
+      "updated_at": "2026-09-06T04:42:41.452Z",
+      "link_count": 4,
+      "providers": [
+        "Data",
+        "Viki",
+        "Buzzheavier"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a9cef41c6d57704779e003d-dfb1ca956885.png",
+      "icon_bytes": 59171
+    },
+    {
+      "id": "6a422fea3c7af76ce7f5ac9a",
+      "title_id": "PPSA16265",
+      "title": "Like A Dragon Gaiden: The Man Who Erased His Name Deluxe Edition",
+      "version": "01.022",
+      "pack": "unknown",
+      "region": "JPN",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.6.6",
+      "dlcs_merged": true,
+      "size_bytes": 59195386757,
+      "size_label": "55.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2313/2c49d79afc2fb48f510ae8730f6bf46e060e05bb25b3cae6.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2313/c936412ee0a6246c09cb3068377fdc7f8fdaac5d15ba4c01.png",
+      "updated_at": "2026-09-05T06:46:17.150Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a422fea3c7af76ce7f5ac9a-d1dd58932846.png",
+      "icon_bytes": 34608
+    },
+    {
+      "id": "6a99965c2b5ffe3a179eba43",
+      "title_id": "PPSA04539",
+      "title": "Rise of The Ronin",
+      "version": "01.009",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "9.xx+"
+      ],
+      "firmware_label": "9.xx+",
+      "firmware_raw": [
+        "9.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.6.6",
+      "dlcs_merged": false,
+      "size_bytes": 120259084288,
+      "size_label": "112 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2201/HVGaSUgC1tFjZxeXER055twO.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2201/Lh6Tm4AQu5yqLYt6aSPIkrOk.jpg",
+      "updated_at": "2026-09-03T15:46:36.560Z",
+      "link_count": 5,
+      "providers": [
+        "Viki",
+        "Data",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a99965c2b5ffe3a179eba43-dfb1ca956885.png",
+      "icon_bytes": 59171
+    },
     {
       "id": "6a9916cdb0a31dad5b0fe927",
       "title_id": "PPSA02633",
@@ -630,130 +755,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8db9cdb0a31dad5b0fe90e-2adf048da6a7.png",
       "icon_bytes": 86879
-    },
-    {
-      "id": "6a8dc1c8b0a31dad5b0fe90f",
-      "title_id": "PPSA26354",
-      "title": "Triangle Strategy",
-      "version": "01.001",
-      "pack": "unknown",
-      "region": "HK",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 9030168740,
-      "size_label": "8.4 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2602/e266c188dc081c80596cffaa6101376629ff2dea30cc8625.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2602/b6e1dbf745138d345cc68d8265832edeeb2454c927be53db.png",
-      "updated_at": "2026-08-27T03:17:40.236Z",
-      "link_count": 2,
-      "providers": [
-        "Download",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8dc1c8b0a31dad5b0fe90f-c9b5c6afe4e5.png",
-      "icon_bytes": 82630
-    },
-    {
-      "id": "6a8f876cb0a31dad5b0fe910",
-      "title_id": "PPSA04159",
-      "title": "Goat Simulator 3",
-      "version": "01.002.100",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "9.xx+"
-      ],
-      "firmware_label": "9.xx+",
-      "firmware_raw": [
-        "9.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 8192650117,
-      "size_label": "7.6 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/3012/d1431363859fd7ca2d3a6ed9c215bf7f7d55959589f94123.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0511/vKDWxTmitAyX87vp8BAFcZct.jpg",
-      "updated_at": "2026-08-27T03:16:33.897Z",
-      "link_count": 3,
-      "providers": [
-        "vikingfile.com",
-        "Akirabox",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8f876cb0a31dad5b0fe910-4f9b79cd2d92.png",
-      "icon_bytes": 68816
-    },
-    {
-      "id": "6a8db850b0a31dad5b0fe90c",
-      "title_id": "PPSA22826",
-      "title": "Tales of Berseria Remastered",
-      "version": "01.002",
-      "pack": "unknown",
-      "region": "ASIA",
-      "firmware": [
-        "11.xx+"
-      ],
-      "firmware_label": "11.xx+",
-      "firmware_raw": [
-        "11.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 11703785882,
-      "size_label": "10.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2321/ca263fa31c75bf7eb241fa0a2ae82422795cd7dbd7c63039.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2321/dae88de4fc1a43769439f874cdc1548cddd3b92e6903e7f9.png",
-      "updated_at": "2026-08-25T15:46:06.803Z",
-      "link_count": 1,
-      "providers": [
-        "Download"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8db850b0a31dad5b0fe90c-fa47e204b830.png",
-      "icon_bytes": 63497
-    },
-    {
-      "id": "6a8d9cf1b0a31dad5b0fe90a",
-      "title_id": "PPSA15716",
-      "title": "Shin Megami Tensei V: Vengeance",
-      "version": "01.000",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 27702539059,
-      "size_label": "25.8 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0600/bfb144b4171cfd61bea1da47c7f5bc62ea8712c1be357f0f.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0600/27f5ad360040bd3eee7134711cd6649cca4e8ac696b86e15.jpg",
-      "updated_at": "2026-08-25T13:47:29.208Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8d9cf1b0a31dad5b0fe90a-b791fe54f6fc.png",
-      "icon_bytes": 87005
     }
   ]
 }

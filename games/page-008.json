@@ -4,10 +4,135 @@
   "source": "gfs-pfs-library",
   "page": 8,
   "page_size": 24,
-  "total": 357,
-  "pages": 15,
-  "generated": "2026-09-14T12:34:01.233Z",
+  "total": 361,
+  "pages": 16,
+  "generated": "2026-09-14T18:30:19.073Z",
   "games": [
+    {
+      "id": "6a6f6c74a80b138b911d68dc",
+      "title_id": "PPSA02213",
+      "title": "The King of Fighters XV",
+      "version": "02.004.002",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx and beyond"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 92019674317,
+      "size_label": "85.7 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2809/JxRQ1lD90Sk5e7LeFdawS37i.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2809/JxRQ1lD90Sk5e7LeFdawS37i.jpg",
+      "updated_at": "2026-08-02T16:12:36.940Z",
+      "link_count": 3,
+      "providers": [
+        "Viki",
+        "Archive (Game + DLC)"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6f6c74a80b138b911d68dc-344ec0602a2f.png",
+      "icon_bytes": 64434
+    },
+    {
+      "id": "6a6f6c21a80b138b911d68db",
+      "title_id": "PPSA03098",
+      "title": "Dead Island 2 Ultimate Edition",
+      "version": "01.000.011",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 79456894976,
+      "size_label": "74.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1809/dfe459173f82a0a52ab4b0f7f2d9d8ef4efe92ef1fdd19c3.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1809/07e91e101529a48cdf8c0771f79aa603e2a26a016aba91f2.jpg",
+      "updated_at": "2026-08-02T16:11:13.651Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6f6c21a80b138b911d68db-3d76c7c27535.png",
+      "icon_bytes": 85356
+    },
+    {
+      "id": "6a3a5da0671735371f2c24c5",
+      "title_id": "PPSA34299",
+      "title": "WWE 2K26",
+      "version": "01.006",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 142807662592,
+      "size_label": "133 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1209/f0440827160fa1f2f757f957b32b09d8ca7bd02311f43146.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1209/a247b6822c435aa171ba98ff1855c36ceaf8ece5918094b5.jpg",
+      "updated_at": "2026-07-31T14:33:14.960Z",
+      "link_count": 3,
+      "providers": [
+        "Archive",
+        "Viki",
+        "Filekeeper"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3a5da0671735371f2c24c5-3282862ae508.png",
+      "icon_bytes": 79419
+    },
+    {
+      "id": "6a6c906ea80b138b911d68d2",
+      "title_id": "PPSA17313",
+      "title": "Choo-Choo Charles",
+      "version": "02.000",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_label": "7.xx+",
+      "firmware_raw": [
+        "7.xx beyond"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 1760936591,
+      "size_label": "1.6 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0516/fb54118fae8a00c60d09937ad357c60d1c023abf5862b9ba.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0516/b72557c9c8aeb20d2d047ae7ddae688bd9de8f742d6e1035.jpg",
+      "updated_at": "2026-07-31T12:09:28.495Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6c906ea80b138b911d68d2-ee5a5b7ee1d7.png",
+      "icon_bytes": 73503
+    },
     {
       "id": "6a6b6ba4a80b138b911d68cf",
       "title_id": "PPSA01552",
@@ -624,131 +749,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6733d33d4889f7e22e8b66-0d8d95eeb40c.png",
       "icon_bytes": 69390
-    },
-    {
-      "id": "6a6733823d4889f7e22e8b65",
-      "title_id": "PPSA32802",
-      "title": "Fatal Frame 2 Crimson Butterfly Remake Deluxe Edition",
-      "version": "01.002.002",
-      "pack": "unknown",
-      "region": "JPN",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx BackPort"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": false,
-      "size_bytes": 18360985190,
-      "size_label": "17.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1003/d226886ef3aded4ebd98cbea281b8792e4c3efaf0ae54e43.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1003/d226886ef3aded4ebd98cbea281b8792e4c3efaf0ae54e43.jpg",
-      "updated_at": "2026-07-27T10:31:30.403Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6733823d4889f7e22e8b65-c98cbc2ffb8d.png",
-      "icon_bytes": 52343
-    },
-    {
-      "id": "6a6733373d4889f7e22e8b64",
-      "title_id": "PPSA21840",
-      "title": "GreedFall The Dying World",
-      "version": "01.004",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx BackPort"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": false,
-      "size_bytes": 40480066765,
-      "size_label": "37.7 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/0609/ff5c11d1d6ae705e23e7db7039f90882925d13e4f242f777.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/0609/ff5c11d1d6ae705e23e7db7039f90882925d13e4f242f777.jpg",
-      "updated_at": "2026-07-27T10:30:15.127Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Data"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6733373d4889f7e22e8b64-c66fccf911aa.png",
-      "icon_bytes": 38930
-    },
-    {
-      "id": "6a41daba943e0bf514569235",
-      "title_id": "PPSA08260",
-      "title": "Star Wars Outlaws",
-      "version": "01.007",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 81604378624,
-      "size_label": "76.0 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/3020/bca42b94af09b7a7ffd27fcb76a7bb1e46b60ed0c5f99322.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/3020/1916ec71f4af6c3e583a816988c41d54bafea762e02a39b2.jpg",
-      "updated_at": "2026-07-27T10:29:23.194Z",
-      "link_count": 3,
-      "providers": [
-        "Akirabox - DLC (DUPLEX )",
-        "Viki",
-        "Archive (Game + DLC)"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a41daba943e0bf514569235-359468150813.png",
-      "icon_bytes": 98894
-    },
-    {
-      "id": "6a3655f056e5f49eefa028c9",
-      "title_id": "PPSA02100",
-      "title": "Stray",
-      "version": "1.005.000",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 8504035246,
-      "size_label": "7.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0300/VdyFw6rwpTdZS2UioHYBbvre.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0300/mdLNPfAntEpIxfdzEVMUReJj.jpg",
-      "updated_at": "2026-07-27T06:24:38.656Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028c9-ce25f15e2803.png",
-      "icon_bytes": 59440
     }
   ]
 }

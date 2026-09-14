@@ -4,10 +4,134 @@
   "source": "gfs-pfs-library",
   "page": 4,
   "page_size": 24,
-  "total": 357,
-  "pages": 15,
-  "generated": "2026-09-14T12:34:01.233Z",
+  "total": 361,
+  "pages": 16,
+  "generated": "2026-09-14T18:30:19.073Z",
   "games": [
+    {
+      "id": "6a853b37b0a31dad5b0fe8df",
+      "title_id": "PPSA13790",
+      "title": "NASCAR Arcade Rush",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 5422396211,
+      "size_label": "5.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0911/80e84b1922296ad6369d0eab20d5a2077323b46f5c7f4aef.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0911/de2160151d82a0bd33e83db1dbcd81ff4db7db6edc7cda69.jpg",
+      "updated_at": "2026-08-19T05:12:23.742Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a853b37b0a31dad5b0fe8df-dd463d483028.png",
+      "icon_bytes": 80346
+    },
+    {
+      "id": "6a853a8eb0a31dad5b0fe8de",
+      "title_id": "PPSA09149",
+      "title": "The Crown of Wu",
+      "version": "01.008",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 10619306639,
+      "size_label": "9.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0712/7adda17dc94b2ddce73d6112b7496fa7765b685eb5c4487c.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/0211/13be71973a48e8edbb272d47d164398ba3abc869b17deed9.jpg",
+      "updated_at": "2026-08-19T05:09:34.346Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a853a8eb0a31dad5b0fe8de-bd056f97680d.png",
+      "icon_bytes": 81467
+    },
+    {
+      "id": "6a8539c8b0a31dad5b0fe8dd",
+      "title_id": "PPSA26311",
+      "title": "Blades of Fire Deluxe Edition",
+      "version": "01.004.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 47566762803,
+      "size_label": "44.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1110/fd7f5439a94fbfc2b742fda7026dc03e7d887e9e5ea016c0.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1110/c4dd707dce55f9e59fbdfd0090933c68df0983dcf6575138.jpg",
+      "updated_at": "2026-08-19T05:06:16.860Z",
+      "link_count": 6,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8539c8b0a31dad5b0fe8dd-c32ab9c42918.png",
+      "icon_bytes": 58956
+    },
+    {
+      "id": "6a85373ab0a31dad5b0fe8dc",
+      "title_id": "PPSA05591",
+      "title": "Q.U.B.E. 10th Anniversary",
+      "version": "01.000.000",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_label": "5.xx+",
+      "firmware_raw": [
+        "5.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 7902739825,
+      "size_label": "7.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/gRBCddkAdvtrlsSyMKT9X6SR.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1316/3sa6M0ESuwbhfXHGZqUnAdBf.png",
+      "updated_at": "2026-08-19T04:55:22.530Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a85373ab0a31dad5b0fe8dc-612e6b10b81f.png",
+      "icon_bytes": 40744
+    },
     {
       "id": "6a853612b0a31dad5b0fe8db",
       "title_id": "PPSA17942",
@@ -638,132 +762,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7f1568b0a31dad5b0fe8ba-b6c803dbfe99.png",
       "icon_bytes": 87721
-    },
-    {
-      "id": "6a7f146eb0a31dad5b0fe8b9",
-      "title_id": "PPSA02395",
-      "title": "Metro Exodus Complete Edition",
-      "version": "01.001",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "2.xx+"
-      ],
-      "firmware_label": "2.xx+",
-      "firmware_raw": [
-        "2.xx"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 79671643341,
-      "size_label": "74.2 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0916/Tp7yY8e2dekBr4ETY8ZmSSJb.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0414/g33sqSWPtRPmejWlhC6hjYoU.png",
-      "updated_at": "2026-08-14T13:13:18.510Z",
-      "link_count": 6,
-      "providers": [
-        "Archive",
-        "Viki",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7f146eb0a31dad5b0fe8b9-6ebafb790bfc.png",
-      "icon_bytes": 81459
-    },
-    {
-      "id": "6a7f13c2b0a31dad5b0fe8b8",
-      "title_id": "PPSA04220",
-      "title": "JoJos Bizarre Adventure All Star Battle R",
-      "version": "02.330",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.7.6",
-      "dlcs_merged": true,
-      "size_bytes": 5121748500,
-      "size_label": "4.8 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0804/ppzendU4CtnBu8bGKNV1Dt6x.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202203/3108/GP3voD0Lnl8q9QbKIUYyXKKe.jpg",
-      "updated_at": "2026-08-14T13:10:26.757Z",
-      "link_count": 3,
-      "providers": [
-        "Archive",
-        "Viki",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7f13c2b0a31dad5b0fe8b8-101fb5b95b73.png",
-      "icon_bytes": 66679
-    },
-    {
-      "id": "6a7deeaa38ed9f06d55a6b00",
-      "title_id": "PPSA14002",
-      "title": "Baldurs Gate 3 Deluxe Edition",
-      "version": "01.800.700",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 127775277056,
-      "size_label": "119 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2413/25fea10cc309bc24be7c9efe7526d40a03c281a01ea7020a.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2413/413362d3e50b2a819906bd9e2eb1c7a2b5c49ea184087c1d.png",
-      "updated_at": "2026-08-13T16:19:54.396Z",
-      "link_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7deeaa38ed9f06d55a6b00-ad9ed04a17e3.png",
-      "icon_bytes": 73358
-    },
-    {
-      "id": "6a7dedf238ed9f06d55a6aff",
-      "title_id": "PPSA04132",
-      "title": "Samurai Maiden Deluxe Edition",
-      "version": "01.060",
-      "pack": "unknown",
-      "region": "JPN",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": true,
-      "size_bytes": 9803262853,
-      "size_label": "9.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1008/HQ0gAc9TvGSVUPROGupjdgBh.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1008/bBOdQDeDkrKM86mXvRVusFm7.jpg",
-      "updated_at": "2026-08-13T16:16:50.396Z",
-      "link_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7dedf238ed9f06d55a6aff-d768cbd39e8e.png",
-      "icon_bytes": 92602
     }
   ]
 }

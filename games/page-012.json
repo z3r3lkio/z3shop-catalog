@@ -4,10 +4,131 @@
   "source": "gfs-pfs-library",
   "page": 12,
   "page_size": 24,
-  "total": 357,
-  "pages": 15,
-  "generated": "2026-09-14T12:34:01.233Z",
+  "total": 361,
+  "pages": 16,
+  "generated": "2026-09-14T18:30:19.073Z",
   "games": [
+    {
+      "id": "6a3655f056e5f49eefa028a7",
+      "title_id": "PPSA01716",
+      "title": "Need for Speed Unbound",
+      "version": "1.029",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 33554432000,
+      "size_label": "31.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0911/cd35845bda1b06d4277a906a4db0352dd0c4f51ae63dc223.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0911/99c9488ad3c47e6972bc55c56d18cea105e608a5bb4f9bc1.png",
+      "updated_at": "2026-07-16T03:29:07.446Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028a7-ad92cf5617b7.png",
+      "icon_bytes": 62857
+    },
+    {
+      "id": "6a3e722c9ed762de5f291cd7",
+      "title_id": "PPSA06255",
+      "title": "Biomutant",
+      "version": "01.003",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 13207024435,
+      "size_label": "12.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202102/0418/1YJdN9Vveu7Eyo7q2jg3Vui8.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202102/0418/PUORZ4vlyiiMU86Ok6Bzc0YC.jpg",
+      "updated_at": "2026-07-16T01:24:11.696Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3e722c9ed762de5f291cd7-60f0327ad3b6.png",
+      "icon_bytes": 67537
+    },
+    {
+      "id": "6a3caded138661f6c610d4b9",
+      "title_id": "PPSA30568",
+      "title": "Invincible VS",
+      "version": "01.000",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "10.xx+"
+      ],
+      "firmware_label": "10.xx+",
+      "firmware_raw": [
+        "10.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 8912057139,
+      "size_label": "8.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0223/e7827d96c3892955c8dd7804ef3ef2e9e5df82425062aabf.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0620/6862524cbc214a991229f3ec4246ab951f0e2514dfbb292f.png",
+      "updated_at": "2026-07-16T01:01:19.866Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3caded138661f6c610d4b9-1377b2115744.png",
+      "icon_bytes": 60351
+    },
+    {
+      "id": "6a57b8f0664b52645fefe08c",
+      "title_id": "PPSA01462",
+      "title": "Borderlands 3",
+      "version": "01.900",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "1.xx+"
+      ],
+      "firmware_label": "1.xx+",
+      "firmware_raw": [
+        "1.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 55190329754,
+      "size_label": "51.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0516/ubPBv50OK9zQuoHeScCfDjHY.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0516/gmVdkbu11gMKG5qum1oBgdi1.jpg",
+      "updated_at": "2026-07-15T23:51:57.629Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a57b8f0664b52645fefe08c-57c8a20b490d.png",
+      "icon_bytes": 89463
+    },
     {
       "id": "6a57ace8664b52645fefe08a",
       "title_id": "PPSA01687",
@@ -626,134 +747,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a40adc041d4f7b0f7bf92c9-4cd10bda1d5e.png",
       "icon_bytes": 74206
-    },
-    {
-      "id": "6a51ab15664b52645fefe076",
-      "title_id": "PPSA01342",
-      "title": "Demon's Souls",
-      "version": "01.005",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx Backport"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 58411555226,
-      "size_label": "54.4 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1717/qHFrrJINxIfsvIyudYAyjfDq.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1717/brIXKBE5BqYgBSrsDn6Wo18O.png",
-      "updated_at": "2026-07-11T06:55:49.421Z",
-      "link_count": 4,
-      "providers": [
-        "Gofile",
-        "Akirabox",
-        "1fichier",
-        "Archive (Game + DLC)"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a51ab15664b52645fefe076-599a1b6b8022.png",
-      "icon_bytes": 79982
-    },
-    {
-      "id": "6a51aacc664b52645fefe075",
-      "title_id": "PPSA05132",
-      "title": "SIFU",
-      "version": "01.024",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "3.xx+"
-      ],
-      "firmware_label": "3.xx+",
-      "firmware_raw": [
-        "3.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 10844792422,
-      "size_label": "10.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202201/1616/THJbARAq2YiRVUv5abCQ8GYQ.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202201/1716/GjKNa6S5Y1kQ2PXlrzitZOj0.png",
-      "updated_at": "2026-07-11T06:55:45.513Z",
-      "link_count": 2,
-      "providers": [
-        "1fichier",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a51aacc664b52645fefe075-e8dfe1d7caa2.png",
-      "icon_bytes": 58321
-    },
-    {
-      "id": "6a38ec5b42def9b2bc43f90e",
-      "title_id": "PPSA01619",
-      "title": "Mortal Kombat 11 Ultimate",
-      "version": "1.000.004",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 90602335109,
-      "size_label": "84.4 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0123/bF1qmEL5RM6aMfL0oLcxRe8B.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2000/aPVbncDz3LjjQpNQW6LhzNSK.jpg",
-      "updated_at": "2026-07-11T06:54:57.806Z",
-      "link_count": 2,
-      "providers": [
-        "1fichier",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a38ec5b42def9b2bc43f90e-1c7ffa94959e.png",
-      "icon_bytes": 84185
-    },
-    {
-      "id": "6a511ee4664b52645fefe072",
-      "title_id": "PPSA15657",
-      "title": "Disney Epic Mickey Rebrushed",
-      "version": "01.000",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 23407571763,
-      "size_label": "21.8 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0507/8f003c35d3efd3f4d124b483e6efcf50d51fab23b01dc888.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0507/2a04ca0b5ea1a4ea1d446a4f84a347129491745b9c4dd704.jpg",
-      "updated_at": "2026-07-10T16:33:40.148Z",
-      "link_count": 4,
-      "providers": [
-        "Data - DLC by Psykzhack",
-        "Viki",
-        "1fichier",
-        "Archive (Game + DLC)"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a511ee4664b52645fefe072-8b66dfd778b2.png",
-      "icon_bytes": 44048
     }
   ]
 }

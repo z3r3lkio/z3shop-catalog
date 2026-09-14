@@ -4,10 +4,134 @@
   "source": "gfs-pfs-library",
   "page": 7,
   "page_size": 24,
-  "total": 357,
-  "pages": 15,
-  "generated": "2026-09-14T12:34:01.233Z",
+  "total": 361,
+  "pages": 16,
+  "generated": "2026-09-14T18:30:19.073Z",
   "games": [
+    {
+      "id": "6a735aa9ad740911cff8917b",
+      "title_id": "PPSA28465",
+      "title": "Trails in The Sky 1st Chapter",
+      "version": "01.006",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "11.xx+"
+      ],
+      "firmware_label": "11.xx+",
+      "firmware_raw": [
+        "11.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 13174812180,
+      "size_label": "12.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2002/e99b45be8bb20858c45f4af61d156d86aa48493774bcb4d0.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2002/71bc9a51af8ea27464aff7bb2225e8716fac4955d6c1dff2.png",
+      "updated_at": "2026-08-05T15:45:45.781Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a735aa9ad740911cff8917b-14d7483de3c2.png",
+      "icon_bytes": 89556
+    },
+    {
+      "id": "6a735174ad740911cff8917a",
+      "title_id": "PPSA29343",
+      "title": "Beast of Reincarnation Digital Deluxe Edition",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx Backport"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 34252364186,
+      "size_label": "31.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2203/db91bba6d10ccd925e1d33832a949659e81a1ac90d672cf8.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2203/db91bba6d10ccd925e1d33832a949659e81a1ac90d672cf8.jpg",
+      "updated_at": "2026-08-05T15:06:28.036Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a735174ad740911cff8917a-ee7dddf32870.png",
+      "icon_bytes": 53753
+    },
+    {
+      "id": "6a735122ad740911cff89179",
+      "title_id": "PPSA01390",
+      "title": "Dragon Age The Veilguard",
+      "version": "01.006",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 98032628531,
+      "size_label": "91.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2418/1905cbe5a5f1bf5fbc272e9aae8292c7a40a449e2c37f8d8.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2418/1905cbe5a5f1bf5fbc272e9aae8292c7a40a449e2c37f8d8.jpg",
+      "updated_at": "2026-08-05T15:05:06.061Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Data"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a735122ad740911cff89179-12cb41a71066.png",
+      "icon_bytes": 62091
+    },
+    {
+      "id": "6a3655f056e5f49eefa028b7",
+      "title_id": "PPSA02384",
+      "title": "Yakuza Like A Dragon Hero Edition",
+      "version": "1.003",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "2.xx+"
+      ],
+      "firmware_label": "2.xx+",
+      "firmware_raw": [
+        "2.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6",
+      "dlcs_merged": false,
+      "size_bytes": 45634027520,
+      "size_label": "42.5 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0917/IQ99uXjO9u8NcIYaVFtW6xq1.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0917/qvIUCwdA2ecuvtNct9Na0UpK.jpg",
+      "updated_at": "2026-08-05T15:02:07.652Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028b7-d97e64b805d6.png",
+      "icon_bytes": 73635
+    },
     {
       "id": "6a72febafbb0034d1467caae",
       "title_id": "PPSA04057",
@@ -627,131 +751,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6f6b2ea80b138b911d68d8-6a398818f658.png",
       "icon_bytes": 57296
-    },
-    {
-      "id": "6a6f6c74a80b138b911d68dc",
-      "title_id": "PPSA02213",
-      "title": "The King of Fighters XV",
-      "version": "02.004.002",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx and beyond"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 92019674317,
-      "size_label": "85.7 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2809/JxRQ1lD90Sk5e7LeFdawS37i.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2809/JxRQ1lD90Sk5e7LeFdawS37i.jpg",
-      "updated_at": "2026-08-02T16:12:36.940Z",
-      "link_count": 3,
-      "providers": [
-        "Viki",
-        "Archive (Game + DLC)"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6f6c74a80b138b911d68dc-344ec0602a2f.png",
-      "icon_bytes": 64434
-    },
-    {
-      "id": "6a6f6c21a80b138b911d68db",
-      "title_id": "PPSA03098",
-      "title": "Dead Island 2 Ultimate Edition",
-      "version": "01.000.011",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx BackPort"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 79456894976,
-      "size_label": "74.0 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1809/dfe459173f82a0a52ab4b0f7f2d9d8ef4efe92ef1fdd19c3.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1809/07e91e101529a48cdf8c0771f79aa603e2a26a016aba91f2.jpg",
-      "updated_at": "2026-08-02T16:11:13.651Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6f6c21a80b138b911d68db-3d76c7c27535.png",
-      "icon_bytes": 85356
-    },
-    {
-      "id": "6a3a5da0671735371f2c24c5",
-      "title_id": "PPSA34299",
-      "title": "WWE 2K26",
-      "version": "01.006",
-      "pack": "pfs",
-      "region": "USA",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx BackPort"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": true,
-      "size_bytes": 142807662592,
-      "size_label": "133 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1209/f0440827160fa1f2f757f957b32b09d8ca7bd02311f43146.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1209/a247b6822c435aa171ba98ff1855c36ceaf8ece5918094b5.jpg",
-      "updated_at": "2026-07-31T14:33:14.960Z",
-      "link_count": 3,
-      "providers": [
-        "Archive",
-        "Viki",
-        "Filekeeper"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3a5da0671735371f2c24c5-3282862ae508.png",
-      "icon_bytes": 79419
-    },
-    {
-      "id": "6a6c906ea80b138b911d68d2",
-      "title_id": "PPSA17313",
-      "title": "Choo-Choo Charles",
-      "version": "02.000",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "7.xx+"
-      ],
-      "firmware_label": "7.xx+",
-      "firmware_raw": [
-        "7.xx beyond"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 1760936591,
-      "size_label": "1.6 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0516/fb54118fae8a00c60d09937ad357c60d1c023abf5862b9ba.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0516/b72557c9c8aeb20d2d047ae7ddae688bd9de8f742d6e1035.jpg",
-      "updated_at": "2026-07-31T12:09:28.495Z",
-      "link_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6c906ea80b138b911d68d2-ee5a5b7ee1d7.png",
-      "icon_bytes": 73503
     }
   ]
 }

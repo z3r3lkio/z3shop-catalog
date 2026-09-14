@@ -4,10 +4,134 @@
   "source": "gfs-pfs-library",
   "page": 15,
   "page_size": 24,
-  "total": 357,
-  "pages": 15,
-  "generated": "2026-09-14T12:34:01.233Z",
+  "total": 361,
+  "pages": 16,
+  "generated": "2026-09-14T18:30:19.073Z",
   "games": [
+    {
+      "id": "6a3b9fbfb1fb2bb0ceadd014",
+      "title_id": "PPSA28420",
+      "title": "NBA 2K26",
+      "version": "01.017",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_label": "5.xx+",
+      "firmware_raw": [
+        "5.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.7.6",
+      "dlcs_merged": false,
+      "size_bytes": 124940598641,
+      "size_label": "116 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2509/bf1813f28484e002f2bc779c6b19c0995cf384d5e1c4688d.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2509/ed1c4096b6adfd4814e5ae5db686cdb7d27cd07993753ed7.png",
+      "updated_at": "2026-06-25T04:27:30.481Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "1fichier- 5.xx Backport"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3b9fbfb1fb2bb0ceadd014-c3c6b3874d7d.png",
+      "icon_bytes": 69761
+    },
+    {
+      "id": "6a3c61cc84cdb9e48a39c84e",
+      "title_id": "PPSA26873",
+      "title": "Monster Hunter Stories 3 Twisted Reflection",
+      "version": "01.002",
+      "pack": "unknown",
+      "region": "JPN",
+      "firmware": [
+        "11.xx+"
+      ],
+      "firmware_label": "11.xx+",
+      "firmware_raw": [
+        "11.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 40587440947,
+      "size_label": "37.8 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1005/a09a71be0ef59273817c8f816a71cbdd1a417e169ec87719.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1005/16297e83b692b5d96f8a85d8900e33db655324632ab1d3f8.png",
+      "updated_at": "2026-06-24T23:01:59.369Z",
+      "link_count": 2,
+      "providers": [
+        "1fichier",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3c61cc84cdb9e48a39c84e-05a14b78efe6.png",
+      "icon_bytes": 88898
+    },
+    {
+      "id": "6a3655f056e5f49eefa028b5",
+      "title_id": "PPSA01870",
+      "title": "FarCry 6",
+      "version": "1.000.013",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.7.6",
+      "dlcs_merged": false,
+      "size_bytes": 124221191619,
+      "size_label": "116 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202106/0722/4MxzDZKZwtEWyMWZghvwd7bQ.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/3022/c2nYHjnBwBI44M9TVFRMZkb3.jpg",
+      "updated_at": "2026-06-24T03:02:16.469Z",
+      "link_count": 2,
+      "providers": [
+        "1fichier",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028b5-652762b626dd.png",
+      "icon_bytes": 71005
+    },
+    {
+      "id": "6a3655f056e5f49eefa028c3",
+      "title_id": "PPSA01576",
+      "title": "Avatar: Frontiers of Pandora",
+      "version": "1.020",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_label": "7.xx+",
+      "firmware_raw": [
+        "7.xx+"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.0b",
+      "dlcs_merged": false,
+      "size_bytes": 110187385979,
+      "size_label": "103 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/7141ae9ab351ca51110680ccc8284cb0568d713c76b8d322.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/c4b769b8aebe583d5972b22ea923fde2ddc7e696b0f794d5.jpg",
+      "updated_at": "2026-06-21T05:45:13.978Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028c3-58e1ba95eaa2.png",
+      "icon_bytes": 78450
+    },
     {
       "id": "6a3655f056e5f49eefa028ce",
       "title_id": "PPSA07570",
@@ -630,36 +754,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028cd-c085c8624838.png",
       "icon_bytes": 72049
-    },
-    {
-      "id": "6a3655f056e5f49eefa028cf",
-      "title_id": "PPSA0724",
-      "title": "Valkyrie Elysium",
-      "version": "1.00",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 15784004813,
-      "size_label": "14.7 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1509/4lE1NY7aN3y1hSWjgjEwfw5k.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0406/AiGtpzAtguXcaEjQjpf88s6Q.png",
-      "updated_at": "2026-06-20T08:57:20.000Z",
-      "link_count": 1,
-      "providers": [
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028cf-2deebeb7be3f.png",
-      "icon_bytes": 72120
     }
   ]
 }

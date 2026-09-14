@@ -4,10 +4,138 @@
   "source": "gfs-pfs-library",
   "page": 13,
   "page_size": 24,
-  "total": 357,
-  "pages": 15,
-  "generated": "2026-09-14T12:34:01.233Z",
+  "total": 361,
+  "pages": 16,
+  "generated": "2026-09-14T18:30:19.073Z",
   "games": [
+    {
+      "id": "6a51ab15664b52645fefe076",
+      "title_id": "PPSA01342",
+      "title": "Demon's Souls",
+      "version": "01.005",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx Backport"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 58411555226,
+      "size_label": "54.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1717/qHFrrJINxIfsvIyudYAyjfDq.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1717/brIXKBE5BqYgBSrsDn6Wo18O.png",
+      "updated_at": "2026-07-11T06:55:49.421Z",
+      "link_count": 4,
+      "providers": [
+        "Gofile",
+        "Akirabox",
+        "1fichier",
+        "Archive (Game + DLC)"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a51ab15664b52645fefe076-599a1b6b8022.png",
+      "icon_bytes": 79982
+    },
+    {
+      "id": "6a51aacc664b52645fefe075",
+      "title_id": "PPSA05132",
+      "title": "SIFU",
+      "version": "01.024",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "3.xx+"
+      ],
+      "firmware_label": "3.xx+",
+      "firmware_raw": [
+        "3.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 10844792422,
+      "size_label": "10.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202201/1616/THJbARAq2YiRVUv5abCQ8GYQ.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202201/1716/GjKNa6S5Y1kQ2PXlrzitZOj0.png",
+      "updated_at": "2026-07-11T06:55:45.513Z",
+      "link_count": 2,
+      "providers": [
+        "1fichier",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a51aacc664b52645fefe075-e8dfe1d7caa2.png",
+      "icon_bytes": 58321
+    },
+    {
+      "id": "6a38ec5b42def9b2bc43f90e",
+      "title_id": "PPSA01619",
+      "title": "Mortal Kombat 11 Ultimate",
+      "version": "1.000.004",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 90602335109,
+      "size_label": "84.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0123/bF1qmEL5RM6aMfL0oLcxRe8B.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2000/aPVbncDz3LjjQpNQW6LhzNSK.jpg",
+      "updated_at": "2026-07-11T06:54:57.806Z",
+      "link_count": 2,
+      "providers": [
+        "1fichier",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a38ec5b42def9b2bc43f90e-1c7ffa94959e.png",
+      "icon_bytes": 84185
+    },
+    {
+      "id": "6a511ee4664b52645fefe072",
+      "title_id": "PPSA15657",
+      "title": "Disney Epic Mickey Rebrushed",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 23407571763,
+      "size_label": "21.8 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0507/8f003c35d3efd3f4d124b483e6efcf50d51fab23b01dc888.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0507/2a04ca0b5ea1a4ea1d446a4f84a347129491745b9c4dd704.jpg",
+      "updated_at": "2026-07-10T16:33:40.148Z",
+      "link_count": 4,
+      "providers": [
+        "Data - DLC by Psykzhack",
+        "Viki",
+        "1fichier",
+        "Archive (Game + DLC)"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a511ee4664b52645fefe072-8b66dfd778b2.png",
+      "icon_bytes": 44048
+    },
     {
       "id": "6a51107d664b52645fefe071",
       "title_id": "PPSA16388",
@@ -628,128 +756,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a77372860efac54e4aa7d-b4d75ad8831b.png",
       "icon_bytes": 73967
-    },
-    {
-      "id": "6a4a76cf2860efac54e4aa7c",
-      "title_id": "PPSA01467",
-      "title": "Marvels Spider Man Remastered",
-      "version": "01.008.001",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "5.xx+"
-      ],
-      "firmware_label": "5.xx+",
-      "firmware_raw": [
-        "5.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.7.6",
-      "dlcs_merged": false,
-      "size_bytes": 75709536010,
-      "size_label": "70.5 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3021/QeJWAaLcYNOpCv7yCVZZEOY5.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2122/19xis9VT5XfnXsLSMkxUjvVd.png",
-      "updated_at": "2026-07-05T15:22:55.259Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a76cf2860efac54e4aa7c-bba69e6b135d.png",
-      "icon_bytes": 31236
-    },
-    {
-      "id": "6a4a76792860efac54e4aa7b",
-      "title_id": "PPSA04288",
-      "title": "RESIDENT EVIL 2",
-      "version": "01.003",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "3.xx+"
-      ],
-      "firmware_label": "3.xx+",
-      "firmware_raw": [
-        "3.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 25877177958,
-      "size_label": "24.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0204/22MNn4z9dJnDmEAtmV4rw3Zq.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0204/LHCbcu3PEOdWPN3htTlo9M43.png",
-      "updated_at": "2026-07-05T15:21:29.912Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a76792860efac54e4aa7b-4214be2c327f.png",
-      "icon_bytes": 50903
-    },
-    {
-      "id": "6a4a71bf2860efac54e4aa7a",
-      "title_id": "PPSA02015",
-      "title": "Death Stranding 2 On The Beach Deluxe Edition",
-      "version": "01.013",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx Backport"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 101468602368,
-      "size_label": "94.5 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2114/99a635712c24abd2e1de07ec73a9737bc87685477f47f96d.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2115/de9f11555daa455139d109c07b854880740167e531c376ab.png",
-      "updated_at": "2026-07-05T15:01:19.915Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a71bf2860efac54e4aa7a-a0ca90325a1e.png",
-      "icon_bytes": 67855
-    },
-    {
-      "id": "6a490ec72860efac54e4aa72",
-      "title_id": "PPSA15508",
-      "title": "The Last of Us Part II Remastered",
-      "version": "02.001.010",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 120473832653,
-      "size_label": "112 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/7f1d9478fabee95562ace660b90e89b0d87a620e1950874a.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/0b68ebf352db559cb45a75bd32fed3381f34dc52c5480192.png",
-      "updated_at": "2026-07-04T13:46:47.353Z",
-      "link_count": 1,
-      "providers": [
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a490ec72860efac54e4aa72-24faebcc07b7.png",
-      "icon_bytes": 72392
     }
   ]
 }
