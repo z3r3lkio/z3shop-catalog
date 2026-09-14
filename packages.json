@@ -309,7 +309,7 @@
     "pkg_icons_fih": 3,
     "icons_unresolved": 0
   },
-  "_generated": "2026-09-14T00:34:38.812Z",
+  "_generated": "2026-09-14T06:34:37.550Z",
   "_discovery": {
     "pfs_library": {
       "source_name": "GFS Catalog",
@@ -323,8 +323,8 @@
       "pack_counts": {
         "unspecified": 299,
         "pfs": 44,
-        "lz4": 6,
-        "fpkg": 5
+        "lz4": 7,
+        "fpkg": 4
       },
       "region_counts": {
         "USA": 170,
@@ -398,7 +398,7 @@
         "9.xx+": 1,
         "9.xx+, 4.xx Backport": 1
       },
-      "apr_enabled": 141,
+      "apr_enabled": 142,
       "latest_apr_version": "apr-emu-v0.4.2.1",
       "apr_versions": [
         "apr-emu-v0.2.6.3",
@@ -426,9 +426,9 @@
         "fpkg": false
       },
       "dlcs_merged": 69,
-      "download_links": 861,
+      "download_links": 863,
       "link_provider_counts": {
-        "Viki": 286,
+        "Viki": 287,
         "Archive": 240,
         "Akirabox": 197,
         "1fichier": 40,
@@ -464,6 +464,7 @@
         "DLCs (PKG – DUPLEX)": 1,
         "FileKeeper - 5.xx": 1,
         "FULL GAME UNLOCK (DUPLEX – PKG)": 1,
+        "Rootz": 1,
         "Viki - 4.xx": 1,
         "Viki - 4.xx Backport": 1,
         "Viki (9.xx)": 1,
@@ -473,6 +474,23 @@
       "posters": 354,
       "banners": 354,
       "latest": [
+        {
+          "id": "6aa78dd0792e471937d0b019",
+          "title_id": "PPSA13197",
+          "title": "Stellar Blade™ Complete Edition",
+          "version": "01.014.001",
+          "pack": "lz4",
+          "region": "EUR",
+          "firmware": [
+            "4.xx+"
+          ],
+          "apr": true,
+          "apr_version": "apr-emu-v0.4.2.1",
+          "dlcs_merged": true,
+          "size_bytes": 64854006170,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/b06dff4ff09b4bd891adb354e9ca8562d1af31c6508334ad.jpg",
+          "updated_at": "2026-09-14T06:01:52.602Z"
+        },
         {
           "id": "6aa740ed792e471937d0b018",
           "title_id": "PPSA29141",
@@ -523,23 +541,6 @@
           "size_bytes": 10737418240,
           "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202201/3114/KT3ytardSkj94Qf89W2FSu0s.jpg",
           "updated_at": "2026-09-13T15:02:44.221Z"
-        },
-        {
-          "id": "6aa6b4d3792e471937d0b015",
-          "title_id": "PPSA13197",
-          "title": "Stellar Blade™ Complete Edition",
-          "version": "01.014.001",
-          "pack": "fpkg",
-          "region": "EUR",
-          "firmware": [
-            "4.xx+"
-          ],
-          "apr": false,
-          "apr_version": "",
-          "dlcs_merged": true,
-          "size_bytes": 38933878538,
-          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/b06dff4ff09b4bd891adb354e9ca8562d1af31c6508334ad.jpg",
-          "updated_at": "2026-09-13T14:36:03.111Z"
         },
         {
           "id": "6aa6b424792e471937d0b014",

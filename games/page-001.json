@@ -6,8 +6,38 @@
   "page_size": 24,
   "total": 354,
   "pages": 15,
-  "generated": "2026-09-14T00:34:39.522Z",
+  "generated": "2026-09-14T06:34:38.488Z",
   "games": [
+    {
+      "id": "6aa78dd0792e471937d0b019",
+      "title_id": "PPSA13197",
+      "title": "Stellar Blade™ Complete Edition",
+      "version": "01.014.001",
+      "pack": "lz4",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.4.2.1",
+      "dlcs_merged": true,
+      "size_bytes": 64854006170,
+      "size_label": "60.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/b06dff4ff09b4bd891adb354e9ca8562d1af31c6508334ad.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/e06c268b7f64c3f9760aba716211b24b01fb74783b5eda0e.jpg",
+      "updated_at": "2026-09-14T06:01:52.602Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa78dd0792e471937d0b019-a982e409275d.png",
+      "icon_bytes": 40165
+    },
     {
       "id": "6aa740ed792e471937d0b018",
       "title_id": "PPSA29141",
@@ -30,8 +60,11 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0821/ade7404425c20a8c9dfddb1f6fec66f3fa1596046a450efa.png",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2217/9fc3bf3631e98ff7b5cc9c443f07d9a6c5ea6014e2dd3dc5.jpg",
       "updated_at": "2026-09-14T00:33:49.089Z",
-      "link_count": 0,
-      "providers": [],
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Rootz"
+      ],
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa740ed792e471937d0b018-864c74e06c22.png",
       "icon_bytes": 99647
@@ -97,36 +130,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa6bb14792e471937d0b016-51404f57c248.png",
       "icon_bytes": 69452
-    },
-    {
-      "id": "6aa6b4d3792e471937d0b015",
-      "title_id": "PPSA13197",
-      "title": "Stellar Blade™ Complete Edition",
-      "version": "01.014.001",
-      "pack": "fpkg",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx+"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 38933878538,
-      "size_label": "36.3 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/b06dff4ff09b4bd891adb354e9ca8562d1af31c6508334ad.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/e06c268b7f64c3f9760aba716211b24b01fb74783b5eda0e.jpg",
-      "updated_at": "2026-09-13T14:36:03.111Z",
-      "link_count": 1,
-      "providers": [
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa6b4d3792e471937d0b015-a982e409275d.png",
-      "icon_bytes": 40165
     },
     {
       "id": "6aa6b424792e471937d0b014",

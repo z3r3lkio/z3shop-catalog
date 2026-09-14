@@ -6,17 +6,17 @@
     "api": "https://pfs-library.xetdy-am.workers.dev/api/packages",
     "mode": "metadata-only"
   },
-  "generated": "2026-09-14T00:34:39.522Z",
+  "generated": "2026-09-14T06:34:38.488Z",
   "total": 354,
   "page_size": 24,
   "pages": 15,
   "duplicates_dropped": 0,
-  "search_bytes": 55300,
+  "search_bytes": 55299,
   "pack_counts": {
     "unknown": 299,
     "pfs": 44,
-    "lz4": 6,
-    "fpkg": 5
+    "lz4": 7,
+    "fpkg": 4
   },
   "region_counts": {
     "USA": 170,
@@ -30,7 +30,7 @@
     "ASIA to EUR Languages": 1,
     "ASIA to JPN Langs": 1
   },
-  "apr_enabled": 141,
+  "apr_enabled": 142,
   "dlcs_merged": 69,
   "search_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/search.json",
   "pages_index": [
