@@ -24,12 +24,16 @@ jobs:
           if (!r.ok) throw new Error(`HTTP ${r.status}`);
           const data = await r.json();
           const pkgs = Array.isArray(data.packages) ? data.packages : [];
+          console.log('topLevelKeys=', Object.keys(data).sort().join(','));
           console.log('packages=', pkgs.length);
+          const pkgKeysets = new Map();
           let totalLinks=0;
           const providers = new Map();
           const keysets = new Map();
           const samples=[];
           for (const p of pkgs) {
+            const pkeys=Object.keys(p||{}).sort().join(',');
+            pkgKeysets.set(pkeys,(pkgKeysets.get(pkeys)||0)+1);
             const links = Array.isArray(p.downloadLinks) ? p.downloadLinks : [];
             totalLinks += links.length;
             for (const l of links) {
@@ -37,16 +41,14 @@ jobs:
               providers.set(name,(providers.get(name)||0)+1);
               const keys=Object.keys(l||{}).sort().join(',');
               keysets.set(keys,(keysets.get(keys)||0)+1);
-              if (samples.length<20) samples.push({
-                game:p.title,
-                id:p.id,
-                pack:p.pack,
-                link:l,
-              });
+            }
+            if (samples.length<10 || ['lz4','fpkg','pfs'].includes(String(p.pack||'').toLowerCase())) {
+              if (samples.length<20) samples.push(p);
             }
           }
+          console.log('packageKeysets=', JSON.stringify(Object.fromEntries([...pkgKeysets].sort((a,b)=>b[1]-a[1])), null, 2));
           console.log('totalLinks=', totalLinks);
           console.log('providers=', JSON.stringify(Object.fromEntries([...providers].sort((a,b)=>b[1]-a[1])), null, 2));
           console.log('linkKeysets=', JSON.stringify(Object.fromEntries([...keysets].sort((a,b)=>b[1]-a[1])), null, 2));
-          console.log('samples=', JSON.stringify(samples, null, 2));
+          console.log('packageSamples=', JSON.stringify(samples.slice(0,20), null, 2));
           JS
