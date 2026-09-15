@@ -310,14 +310,13 @@ async function main() {
     pages.push({ page: pageNumber, count: chunk.length, url: `${RAW_BASE}/${filename}` });
   }
 
+  // Keep the global search index intentionally compact. Full source/provider data lives in
+  // per-game manifests, and firmware/region are already available on the paginated records.
   const search = games.map((g, index) => ({
     id: g.id,
     title_id: g.title_id,
     title: g.title,
     pack: g.pack,
-    region: g.region,
-    firmware: g.firmware,
-    source_count: g.source_count,
     page: Math.floor(index / PAGE_SIZE) + 1,
   }));
   const searchBody = `${JSON.stringify({ version: 3, generated, total: games.length, games: search })}\n`;
