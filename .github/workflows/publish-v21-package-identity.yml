@@ -1,0 +1,68 @@
+name: Publish V21 package identity
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [v21-package-state]
+    paths:
+      - '.github/workflows/publish-v21-package-identity.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  enrich-and-publish:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout V21 package-state branch
+        uses: actions/checkout@v5
+        with:
+          ref: v21-package-state
+          fetch-depth: 0
+
+      - name: Set up Pillow
+        run: |
+          python3 -m venv .venv
+          .venv/bin/python -m pip install --disable-pip-version-check --quiet pillow
+
+      - name: Extract package identity metadata
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: .venv/bin/python ./scripts/extract-pkg-icons.py
+
+      - name: Validate enriched catalog
+        run: |
+          python3 - <<'PY'
+          import json, re
+          from pathlib import Path
+          p = Path('packages.json')
+          data = json.loads(p.read_text())
+          data['version'] = max(int(data.get('version') or 0), 7)
+          packages = data.get('packages') or []
+          resolved = [x for x in packages if x.get('title_id')]
+          if len(resolved) < 9:
+              raise SystemExit(f'expected at least 9 resolved title IDs, got {len(resolved)}')
+          for x in resolved:
+              tid = str(x.get('title_id') or '')
+              if not re.fullmatch(r'[A-Z0-9]{4,24}', tid):
+                  raise SystemExit(f'invalid title_id {tid!r} for {x.get("id")}')
+          p.write_text(json.dumps(data, indent=2, ensure_ascii=False) + '\n')
+          print(f'validated {len(resolved)}/{len(packages)} package identities; catalog schema v{data["version"]}')
+          PY
+          cp packages.json /tmp/packages-v21.json
+
+      - name: Publish enriched packages.json to main
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git checkout -B main origin/main
+          cp /tmp/packages-v21.json packages.json
+          if git diff --quiet -- packages.json; then
+            echo 'main already contains the enriched package identities.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add packages.json
+          git commit -m 'catalog: publish V21 package identity metadata'
+          git push origin HEAD:main
