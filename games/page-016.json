@@ -4,10 +4,105 @@
   "source": "gfs-pfs-library",
   "page": 16,
   "page_size": 24,
-  "total": 362,
+  "total": 365,
   "pages": 16,
-  "generated": "2026-09-15T00:35:26.396Z",
+  "generated": "2026-09-15T06:33:59.359Z",
   "games": [
+    {
+      "id": "6a3655f056e5f49eefa028ba",
+      "title_id": "PPSA01474",
+      "title": "Ratchet & Clank Rift Apart",
+      "version": "1.005.003",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.0b",
+      "dlcs_merged": false,
+      "size_bytes": 47040629309,
+      "size_label": "43.8 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/CrGbGyUFNdkZKbg9DM2qPTE1.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/x64hEmgvhgxpXc9z9hpyLAyQ.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "1fichier"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028ba-1e7fa4d250bd.png",
+      "icon_bytes": 79176
+    },
+    {
+      "id": "6a3655f056e5f49eefa028d0",
+      "title_id": "PPSA23372",
+      "title": "REANIMAL",
+      "version": "1.06",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 12906376724,
+      "size_label": "12.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2010/3d02d3ec10d248f4dc6c1cc5bd9327008d1a4071270bda62.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2010/ad79733a4addc34d9122c077b7782a55de4ede59ade470da.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028d0-d49d532b4ac4.png",
+      "icon_bytes": 50956
+    },
+    {
+      "id": "6a3655f056e5f49eefa028bf",
+      "title_id": "PPSA13195",
+      "title": "Stellar Blade",
+      "version": "1.014.001",
+      "pack": "unknown",
+      "region": "JPN",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.0b",
+      "dlcs_merged": false,
+      "size_bytes": 44409961841,
+      "size_label": "41.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2211/a66e399e454256181c758f156c1bdeeb7dae40e21fb92504.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2211/2937cd4563d2dc50f0632a1bcfbac1f1f7dee3d2984ea02c.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 4,
+      "providers": [
+        "Viki (9.xx)",
+        "Viki (Backport 4.xx)",
+        "FileKeeper (Backport 4.xx)",
+        "1fichier (Backport 4.xx)"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028bf-7fb369c1cffa.png",
+      "icon_bytes": 67169
+    },
     {
       "id": "6a3655f056e5f49eefa028cd",
       "title_id": "PPSA07274",

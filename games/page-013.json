@@ -4,10 +4,104 @@
   "source": "gfs-pfs-library",
   "page": 13,
   "page_size": 24,
-  "total": 362,
+  "total": 365,
   "pages": 16,
-  "generated": "2026-09-15T00:35:26.396Z",
+  "generated": "2026-09-15T06:33:59.359Z",
   "games": [
+    {
+      "id": "6a526095664b52645fefe079",
+      "title_id": "PPSA32785",
+      "title": "Nioh 3 Deluxe Edition",
+      "version": "01.040.020",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_label": "5.xx+",
+      "firmware_raw": [
+        "5.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 87939455386,
+      "size_label": "81.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2102/87b721c5b7abc54f1c6f2cdf907066d8d00c9b8d73359754.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2304/fcfc13cd93d861454433fcaf8b9a727cb24258783175100e.png",
+      "updated_at": "2026-07-12T03:23:25.335Z",
+      "link_count": 2,
+      "providers": [
+        "1fichier",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a526095664b52645fefe079-f7b0fcc41969.png",
+      "icon_bytes": 57629
+    },
+    {
+      "id": "6a525f0e664b52645fefe078",
+      "title_id": "PPSA09706",
+      "title": "Persona 5 Tactica Deluxe Edition",
+      "version": "01.000.300",
+      "pack": "unknown",
+      "region": "JPN to EUR Languages",
+      "firmware": [
+        "6.xx+"
+      ],
+      "firmware_label": "6.xx+",
+      "firmware_raw": [
+        "6.xx +"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 24266565222,
+      "size_label": "22.6 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2807/f02fd98c805c78ff1c56aec62054d04fbecf1fc5ba9eeee5.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0516/996f36ddaec3215095425ca966f46a1990540f36f61069c8.png",
+      "updated_at": "2026-07-11T15:32:41.062Z",
+      "link_count": 3,
+      "providers": [
+        "Gofile",
+        "Buzzheavier",
+        "1fichier"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a525f0e664b52645fefe078-ee4b5308c0e1.png",
+      "icon_bytes": 80670
+    },
+    {
+      "id": "6a525d7e664b52645fefe077",
+      "title_id": "PPSA09911",
+      "title": "Ghostrunner 2",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 14710262989,
+      "size_label": "13.7 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0121/23971a265ea7bb4dbdbfd05bc97694494f17ef0acf320702.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0121/b8c685da41fe9e1573879c83ede4b2e15eca3c20d407fe22.jpg",
+      "updated_at": "2026-07-11T15:13:02.686Z",
+      "link_count": 2,
+      "providers": [
+        "1fichier",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a525d7e664b52645fefe077-dae9866ee6cb.png",
+      "icon_bytes": 50842
+    },
     {
       "id": "6a40adc041d4f7b0f7bf92c9",
       "title_id": "PPSA08597",
@@ -662,100 +756,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a79442860efac54e4aa81-45f7e1dfdd43.png",
       "icon_bytes": 78300
-    },
-    {
-      "id": "6a4a78f62860efac54e4aa80",
-      "title_id": "PPSA02154",
-      "title": "Little Nightmares 2",
-      "version": "01.001",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "2.xx+"
-      ],
-      "firmware_label": "2.xx+",
-      "firmware_raw": [
-        "2.XX +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 5808943268,
-      "size_label": "5.4 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1922/QG7BmTE2ygLQvpyChA7mYWbA.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1922/2nXlcjuKOMeVAnYI1mfmA3I9.jpg",
-      "updated_at": "2026-07-05T15:32:06.851Z",
-      "link_count": 3,
-      "providers": [
-        "Viki",
-        "Archive",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a78f62860efac54e4aa80-77d87068232a.png",
-      "icon_bytes": 66132
-    },
-    {
-      "id": "6a4a789d2860efac54e4aa7f",
-      "title_id": "PPSA05144",
-      "title": "Little Nightmares 3: Deluxe Edition",
-      "version": "01.002",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "9.xx+"
-      ],
-      "firmware_label": "9.xx+",
-      "firmware_raw": [
-        "9.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 17501991731,
-      "size_label": "16.3 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2619/355c069574ee2274ef304332b6043ae8eaebec83f550441c.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2619/f656aee6b59edbeed2ab00045585a5fac5ec5d4d4d8f691d.png",
-      "updated_at": "2026-07-05T15:30:37.633Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a789d2860efac54e4aa7f-2fa7d6b44bf6.png",
-      "icon_bytes": 72920
-    },
-    {
-      "id": "6a4a77de2860efac54e4aa7e",
-      "title_id": "PPSA02433",
-      "title": "Crash Bandicoot 4 Its About Time",
-      "version": "01.000.002",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "2.xx+"
-      ],
-      "firmware_label": "2.xx+",
-      "firmware_raw": [
-        "2.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 22645215068,
-      "size_label": "21.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2418/nOYZabSx4faHIlurfiUC0HVl.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/1602/mKOB6vpbTNrneQSmh8HNiRBP.png",
-      "updated_at": "2026-07-05T15:27:26.635Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a77de2860efac54e4aa7e-d74f6d47e72e.png",
-      "icon_bytes": 67918
     }
   ]
 }

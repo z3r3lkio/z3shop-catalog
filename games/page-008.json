@@ -4,10 +4,103 @@
   "source": "gfs-pfs-library",
   "page": 8,
   "page_size": 24,
-  "total": 362,
+  "total": 365,
   "pages": 16,
-  "generated": "2026-09-15T00:35:26.396Z",
+  "generated": "2026-09-15T06:33:59.359Z",
   "games": [
+    {
+      "id": "6a705f91a80b138b911d68de",
+      "title_id": "PPSA09664",
+      "title": "Dragons Dogma 2",
+      "version": "03.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx backport"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 80208514253,
+      "size_label": "74.7 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1309/916b7de8938fa4ff658296086312a6cc386e5fb8c9d17275.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1309/11cc96ad365cb9644d52030ae69d615a651170647ec10bdd.jpg",
+      "updated_at": "2026-08-03T09:29:53.209Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a705f91a80b138b911d68de-2f6c8f81d07b.png",
+      "icon_bytes": 78115
+    },
+    {
+      "id": "6a6f6bd4a80b138b911d68da",
+      "title_id": "PPSA16387",
+      "title": "Hitman World of Assassination Deluxe Edition",
+      "version": "01.038",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 76128295322,
+      "size_label": "70.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1212/6bdf3ed74af51798340eee836753c2cc296851cbc5db6c05.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1212/6bdf3ed74af51798340eee836753c2cc296851cbc5db6c05.jpg",
+      "updated_at": "2026-08-03T00:56:38.035Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6f6bd4a80b138b911d68da-1d11982a54a2.png",
+      "icon_bytes": 26529
+    },
+    {
+      "id": "6a6f6b85a80b138b911d68d9",
+      "title_id": "PPSA08592",
+      "title": "Monster Energy Supercross The Official Videogame 6",
+      "version": "01.008",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 22333829939,
+      "size_label": "20.8 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1716/mA2rn88VjcO0d03VdM1GIISs.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1716/QrvBx8ipchNxk4Ih9qGeMzY3.jpg",
+      "updated_at": "2026-08-03T00:56:10.193Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6f6b85a80b138b911d68d9-ec43070b26fc.png",
+      "icon_bytes": 45677
+    },
     {
       "id": "6a6f6b2ea80b138b911d68d8",
       "title_id": "PPSA03603",
@@ -657,98 +750,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a686e283d4889f7e22e8b6d-94ad629431db.png",
       "icon_bytes": 66638
-    },
-    {
-      "id": "6a686da43d4889f7e22e8b6c",
-      "title_id": "PPSA07618",
-      "title": "Train Sim World 3",
-      "version": "1.001",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "5.xx+"
-      ],
-      "firmware_label": "5.xx+",
-      "firmware_raw": [
-        "5.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 34037615821,
-      "size_label": "31.7 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2517/b6J2W8a2PjpZZdmCZ2nSdJh4.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1812/b845d9c546e7ff63f1a82ed783cf5a2a2f3f9fd26667c1c3.jpg",
-      "updated_at": "2026-07-28T08:51:48.578Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a686da43d4889f7e22e8b6c-debdf856a258.png",
-      "icon_bytes": 93975
-    },
-    {
-      "id": "6a686cdc3d4889f7e22e8b6b",
-      "title_id": "PPSA07064",
-      "title": "Lords of the Fallen",
-      "version": "01.100",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "9.xx+"
-      ],
-      "firmware_label": "9.xx+",
-      "firmware_raw": [
-        "9.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 36399847834,
-      "size_label": "33.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2307/f65f7b1bda267c6e7620d68dce0e31fd356ab5eb7fa6a8d0.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1011/a6884ee108283bc62ec6e7d5bd889691bafb389e3808b86c.jpg",
-      "updated_at": "2026-07-28T08:48:28.019Z",
-      "link_count": 3,
-      "providers": [
-        "Viki",
-        "Archive (Game + DLC)"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a686cdc3d4889f7e22e8b6b-78b9aa7408d8.png",
-      "icon_bytes": 79720
-    },
-    {
-      "id": "6a67342b3d4889f7e22e8b67",
-      "title_id": "PPSA02110",
-      "title": "No Mans Sky",
-      "version": "06.024",
-      "pack": "unknown",
-      "region": "USA to EUR Langs",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx BackPort"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": false,
-      "size_bytes": 25877177958,
-      "size_label": "24.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2714/c5ed026fcd195871688178db5c8c447c0afb75dfef3cd06b.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2714/c5ed026fcd195871688178db5c8c447c0afb75dfef3cd06b.jpg",
-      "updated_at": "2026-07-27T10:34:19.183Z",
-      "link_count": 1,
-      "providers": [
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a67342b3d4889f7e22e8b67-ac2a3e4d058d.png",
-      "icon_bytes": 58586
     }
   ]
 }

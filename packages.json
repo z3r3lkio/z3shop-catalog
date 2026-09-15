@@ -1,6 +1,6 @@
 {
   "name": "Z3Shop",
-  "version": 7,
+  "version": 6,
   "packages": [
     {
       "id": "itemzflow-game-manager",
@@ -19,11 +19,7 @@
       "release_notes": "Discovered via nexgen-aio-pkg",
       "icon_source_url": "https://raw.githubusercontent.com/LightningMods/Itemzflow/main/App-Media-Assets/sce_sys/icon0.png",
       "icon_origin": "direct",
-      "icon_bytes": 64569,
-      "title_id": "ITEM00001",
-      "content_id": "IV0002-ITEM00001_00-STOREUPD00000000",
-      "package_version": "1.14",
-      "identity_origin": "param.sfo"
+      "icon_bytes": 64569
     },
     {
       "id": "ps5-homebrew-launcher",
@@ -42,9 +38,7 @@
       "release_notes": "v0.34",
       "icon_source_url": "https://raw.githubusercontent.com/ps5-payload-dev/websrv/master/icon0.png",
       "icon_origin": "direct",
-      "icon_bytes": 26391,
-      "title_id": "FAKE00000",
-      "identity_origin": "param.sfo"
+      "icon_bytes": 26391
     },
     {
       "id": "ps5-xplorer",
@@ -65,11 +59,7 @@
       "icon_origin": "pkg-entry:0x1200",
       "icon_bytes": 99958,
       "icon_pkg_entry_size": 202093,
-      "icon_pkg_container": "CNT",
-      "title_id": "LAPY20011",
-      "content_id": "ED1234-LAPY20011_00-PS4XPLORER200000",
-      "package_version": "01.05",
-      "identity_origin": "param.sfo"
+      "icon_pkg_container": "CNT"
     },
     {
       "id": "prospero-light",
@@ -88,9 +78,7 @@
       "release_notes": "ProsperoLight 01.000.060",
       "icon_source_url": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoLight/main/sce_sys/icon0.png",
       "icon_origin": "direct",
-      "icon_bytes": 24319,
-      "title_id": "PPSA99002",
-      "identity_origin": "asset-name"
+      "icon_bytes": 24319
     },
     {
       "id": "prospero-radio",
@@ -109,9 +97,7 @@
       "release_notes": "ProsperoRadio 01.000.005",
       "icon_source_url": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoRadio/main/sce_sys/icon0.png",
       "icon_origin": "direct",
-      "icon_bytes": 111027,
-      "title_id": "PPSA99001",
-      "identity_origin": "asset-name"
+      "icon_bytes": 111027
     },
     {
       "id": "prospero-tv",
@@ -130,9 +116,7 @@
       "release_notes": "ProsperoTV 01.000.002",
       "icon_source_url": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoTV/main/sce_sys/icon0.png",
       "icon_origin": "direct",
-      "icon_bytes": 22104,
-      "title_id": "PPSA99003",
-      "identity_origin": "asset-name"
+      "icon_bytes": 22104
     },
     {
       "id": "avatar-changer",
@@ -153,11 +137,7 @@
       "icon_origin": "pkg-entry:0x1200",
       "icon_bytes": 88138,
       "icon_pkg_entry_size": 157840,
-      "icon_pkg_container": "CNT",
-      "title_id": "LAPY20016",
-      "content_id": "ED1234-LAPY20016_00-0000000000000000",
-      "package_version": "01.00",
-      "identity_origin": "param.sfo"
+      "icon_pkg_container": "CNT"
     },
     {
       "id": "fpkgi",
@@ -176,11 +156,7 @@
       "release_notes": "Discovered via nexgen-aio-pkg",
       "icon_source_url": "https://raw.githubusercontent.com/ItsJokerZz/FPKGi/release/source/Assets/Images/App/Icon.png",
       "icon_origin": "direct",
-      "icon_bytes": 37759,
-      "title_id": "PKGI13337",
-      "content_id": "ED1633-PKGI13337_00-0000000000000000",
-      "package_version": "01.00",
-      "identity_origin": "param.sfo"
+      "icon_bytes": 37759
     },
     {
       "id": "homebrew-store-installer",
@@ -201,11 +177,7 @@
       "icon_origin": "pkg-entry:0x1200",
       "icon_bytes": 54243,
       "icon_pkg_entry_size": 218511,
-      "icon_pkg_container": "CNT",
-      "title_id": "NPXS39041",
-      "content_id": "IV0002-NPXS39041_00-STOREUPD00000000",
-      "package_version": "01.00",
-      "identity_origin": "param.sfo"
+      "icon_pkg_container": "CNT"
     },
     {
       "id": "internetbrowser-game-menu",
@@ -296,7 +268,7 @@
       "url": "https://pfs-library.xetdy-am.workers.dev/api/packages",
       "homepage": "https://pfs-library.xetdy-am.workers.dev/",
       "mode": "discovery",
-      "entries": 362
+      "entries": 365
     },
     {
       "id": "nexgen-aio-pkg",
@@ -328,37 +300,35 @@
     "featured": 6,
     "apps": 10,
     "ffspsc": 3,
-    "discovered_games": 362,
+    "discovered_games": 365,
     "icons": 13,
     "icon_bytes": 701117,
     "pkg_icon_attempts": 6,
     "pkg_icons_extracted": 6,
     "pkg_icons_cnt": 3,
     "pkg_icons_fih": 3,
-    "icons_unresolved": 0,
-    "pkg_metadata_attempts": 10,
-    "pkg_metadata_resolved": 9
+    "icons_unresolved": 0
   },
-  "_generated": "2026-09-15T00:35:24.970Z",
+  "_generated": "2026-09-15T06:33:58.654Z",
   "_discovery": {
     "pfs_library": {
       "source_name": "GFS Catalog",
       "homepage": "https://pfs-library.xetdy-am.workers.dev/",
       "api": "https://pfs-library.xetdy-am.workers.dev/api/packages",
       "mode": "discovery-metadata-only",
-      "packages": 362,
-      "unique_title_ids": 339,
-      "explicit_pack_entries": 63,
+      "packages": 365,
+      "unique_title_ids": 341,
+      "explicit_pack_entries": 66,
       "unspecified_pack_entries": 299,
       "pack_counts": {
         "unspecified": 299,
         "pfs": 48,
-        "lz4": 8,
-        "fpkg": 7
+        "lz4": 10,
+        "fpkg": 8
       },
       "region_counts": {
-        "USA": 173,
-        "EUR": 149,
+        "USA": 174,
+        "EUR": 151,
         "JPN": 22,
         "ASIA": 5,
         "USA to EUR Languages": 4,
@@ -372,7 +342,7 @@
         "4.xx": 87,
         "4.xx +": 50,
         "4.xx BackPort": 28,
-        "4.xx+": 22,
+        "4.xx+": 23,
         "7.xx": 17,
         "4.xx Backport": 12,
         "4.xx BackPork": 9,
@@ -388,10 +358,10 @@
         "2.xx and beyond": 5,
         "3.xx and beyond": 5,
         "5.xx +": 5,
+        "10.xx+": 4,
         "11.xx": 4,
         "9.xx and beyond": 4,
         "1.xx +": 3,
-        "10.xx+": 3,
         "11.xx +": 3,
         "3.xx": 3,
         "6.xx +": 3,
@@ -402,6 +372,7 @@
         "4.xx backport": 2,
         "6.xx": 2,
         "7.xx +": 2,
+        "7.xx+": 2,
         "8.xx": 2,
         "1.xx beyond": 1,
         "11.x": 1,
@@ -422,14 +393,13 @@
         "7.xx BackPort": 1,
         "7.xx beyond": 1,
         "7.xx, 4.xx Backport": 1,
-        "7.xx+": 1,
         "8.xx +": 1,
         "8.xx and beyond": 1,
         "9.xx +, 4.xx Backport": 1,
         "9.xx, 4.xx Backport": 1,
         "9.xx+, 4.xx Backport": 1
       },
-      "apr_enabled": 143,
+      "apr_enabled": 144,
       "latest_apr_version": "apr-emu-v0.4.2.1",
       "apr_versions": [
         "apr-emu-v0.2.6.3",
@@ -457,11 +427,11 @@
         "fpkg": false
       },
       "dlcs_merged": 71,
-      "download_links": 873,
+      "download_links": 880,
       "link_provider_counts": {
-        "Viki": 295,
+        "Viki": 299,
         "Archive": 242,
-        "Akirabox": 197,
+        "Akirabox": 200,
         "1fichier": 40,
         "Archive (Game + DLC)": 25,
         "Data": 14,
@@ -502,9 +472,60 @@
         "Vikingfile - 4.xx Backport": 1,
         "vikingfile.com": 1
       },
-      "posters": 362,
-      "banners": 362,
+      "posters": 365,
+      "banners": 365,
       "latest": [
+        {
+          "id": "6aa8a26e3f728aecb6a169ee",
+          "title_id": "PPSA09091",
+          "title": "Fairy Fencer F: Refrain Chord",
+          "version": "01.000.001",
+          "pack": "lz4",
+          "region": "USA",
+          "firmware": [
+            "4.xx+"
+          ],
+          "apr": true,
+          "apr_version": "apr-emu-v0.4.2.1",
+          "dlcs_merged": false,
+          "size_bytes": 3221225472,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1801/b2c9d79c5803dff9e1c3daa04dfaceff9f0581d540a0a8a6.jpg",
+          "updated_at": "2026-09-15T01:42:06.879Z"
+        },
+        {
+          "id": "6aa89bd73f728aecb6a169ed",
+          "title_id": "PPSA06955",
+          "title": "Granblue Fantasy: Relink",
+          "version": "01.003.002",
+          "pack": "lz4",
+          "region": "EUR",
+          "firmware": [
+            "7.xx+"
+          ],
+          "apr": false,
+          "apr_version": "",
+          "dlcs_merged": false,
+          "size_bytes": 82678120448,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0411/d00d5e76883b89b7d56344d4cf650bd02b4c7b879f94b14d.png",
+          "updated_at": "2026-09-15T01:13:59.177Z"
+        },
+        {
+          "id": "6aa89aa73f728aecb6a169ec",
+          "title_id": "PPSA14251",
+          "title": "Mafia The Old Country: Deluxe Edition",
+          "version": "01.006",
+          "pack": "fpkg",
+          "region": "EUR",
+          "firmware": [
+            "10.xx+"
+          ],
+          "apr": false,
+          "apr_version": "",
+          "dlcs_merged": false,
+          "size_bytes": 40372692582,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2416/044c29ea5623bbb31fc1b2db8577621ba7f035b4c679cfdc.jpg",
+          "updated_at": "2026-09-15T01:08:55.536Z"
+        },
         {
           "id": "6aa872a13f728aecb6a169ea",
           "title_id": "PPSA04892",
@@ -657,57 +678,6 @@
           "size_bytes": 64854006170,
           "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/b06dff4ff09b4bd891adb354e9ca8562d1af31c6508334ad.jpg",
           "updated_at": "2026-09-14T06:01:52.602Z"
-        },
-        {
-          "id": "6aa740ed792e471937d0b018",
-          "title_id": "PPSA29141",
-          "title": "LEGO® Party!",
-          "version": "01.000",
-          "pack": "fpkg",
-          "region": "EUR",
-          "firmware": [
-            "4.xx+"
-          ],
-          "apr": false,
-          "apr_version": "",
-          "dlcs_merged": false,
-          "size_bytes": 6947109601,
-          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0821/ade7404425c20a8c9dfddb1f6fec66f3fa1596046a450efa.png",
-          "updated_at": "2026-09-14T00:33:49.089Z"
-        },
-        {
-          "id": "6aa6d246792e471937d0b017",
-          "title_id": "PPSA15508",
-          "title": "The Last of Us Part II Remastered",
-          "version": "02.001.010",
-          "pack": "fpkg",
-          "region": "EUR",
-          "firmware": [
-            "4.xx+"
-          ],
-          "apr": false,
-          "apr_version": "",
-          "dlcs_merged": false,
-          "size_bytes": 110251810488,
-          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/7f1d9478fabee95562ace660b90e89b0d87a620e1950874a.png",
-          "updated_at": "2026-09-13T16:41:42.285Z"
-        },
-        {
-          "id": "6aa6bb14792e471937d0b016",
-          "title_id": "PPSA06509",
-          "title": "Zorro The Chronicles",
-          "version": "01.001.000",
-          "pack": "lz4",
-          "region": "USA",
-          "firmware": [
-            "4.xx+"
-          ],
-          "apr": true,
-          "apr_version": "apr-emu-v0.4.2.1",
-          "dlcs_merged": false,
-          "size_bytes": 10737418240,
-          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202201/3114/KT3ytardSkj94Qf89W2FSu0s.jpg",
-          "updated_at": "2026-09-13T15:02:44.221Z"
         }
       ]
     }

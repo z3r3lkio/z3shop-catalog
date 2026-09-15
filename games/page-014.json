@@ -4,10 +4,104 @@
   "source": "gfs-pfs-library",
   "page": 14,
   "page_size": 24,
-  "total": 362,
+  "total": 365,
   "pages": 16,
-  "generated": "2026-09-15T00:35:26.396Z",
+  "generated": "2026-09-15T06:33:59.359Z",
   "games": [
+    {
+      "id": "6a4a78f62860efac54e4aa80",
+      "title_id": "PPSA02154",
+      "title": "Little Nightmares 2",
+      "version": "01.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "2.xx+"
+      ],
+      "firmware_label": "2.xx+",
+      "firmware_raw": [
+        "2.XX +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 5808943268,
+      "size_label": "5.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1922/QG7BmTE2ygLQvpyChA7mYWbA.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1922/2nXlcjuKOMeVAnYI1mfmA3I9.jpg",
+      "updated_at": "2026-07-05T15:32:06.851Z",
+      "link_count": 3,
+      "providers": [
+        "Viki",
+        "Archive",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a78f62860efac54e4aa80-77d87068232a.png",
+      "icon_bytes": 66132
+    },
+    {
+      "id": "6a4a789d2860efac54e4aa7f",
+      "title_id": "PPSA05144",
+      "title": "Little Nightmares 3: Deluxe Edition",
+      "version": "01.002",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "9.xx+"
+      ],
+      "firmware_label": "9.xx+",
+      "firmware_raw": [
+        "9.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 17501991731,
+      "size_label": "16.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2619/355c069574ee2274ef304332b6043ae8eaebec83f550441c.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2619/f656aee6b59edbeed2ab00045585a5fac5ec5d4d4d8f691d.png",
+      "updated_at": "2026-07-05T15:30:37.633Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a789d2860efac54e4aa7f-2fa7d6b44bf6.png",
+      "icon_bytes": 72920
+    },
+    {
+      "id": "6a4a77de2860efac54e4aa7e",
+      "title_id": "PPSA02433",
+      "title": "Crash Bandicoot 4 Its About Time",
+      "version": "01.000.002",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "2.xx+"
+      ],
+      "firmware_label": "2.xx+",
+      "firmware_raw": [
+        "2.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 22645215068,
+      "size_label": "21.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2418/nOYZabSx4faHIlurfiUC0HVl.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/1602/mKOB6vpbTNrneQSmh8HNiRBP.png",
+      "updated_at": "2026-07-05T15:27:26.635Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a77de2860efac54e4aa7e-d74f6d47e72e.png",
+      "icon_bytes": 67918
+    },
     {
       "id": "6a4a77372860efac54e4aa7d",
       "title_id": "PPSA02343",
@@ -658,97 +752,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028c6-f1140c6d26a8.png",
       "icon_bytes": 87440
-    },
-    {
-      "id": "6a3e72e79ed762de5f291cd8",
-      "title_id": "PPSA01337",
-      "title": "Ghostwire Tokyo",
-      "version": "01.009",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 21689584845,
-      "size_label": "20.2 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1522/NBxVd2wE0cVZ5GPwcBBlyxXr.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1619/oSt7wc0HjsHMOFONdVhKLgkV.jpg",
-      "updated_at": "2026-06-26T12:39:03.761Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3e72e79ed762de5f291cd8-d758797162aa.png",
-      "icon_bytes": 79175
-    },
-    {
-      "id": "6a3e7138e0d6e311d5bcf49e",
-      "title_id": "PPSA08240",
-      "title": "Alone In The Dark",
-      "version": "01.000",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 35755602739,
-      "size_label": "33.3 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1015/3a41eb0edf703d3cafd47166b2fb74d16346a712e642dd06.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1716/313939119e4f414b879d24caeddaaea50c7b39f55e7ad8f2.jpg",
-      "updated_at": "2026-06-26T12:31:52.209Z",
-      "link_count": 3,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3e7138e0d6e311d5bcf49e-d95c9ed25d2e.png",
-      "icon_bytes": 62273
-    },
-    {
-      "id": "6a3dcdc2e386a19e8dc5b503",
-      "title_id": "PPSA21159",
-      "title": "Silent Hill f",
-      "version": "01.001",
-      "pack": "unknown",
-      "region": "JPN",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 40587440947,
-      "size_label": "37.8 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0704/ac8ee550a288cb7d095374a35c14ff0fdbf185b56ce7478a.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0704/0ac946cfb6a43dee36df577f682cac09f8e2364c516a3a2d.png",
-      "updated_at": "2026-06-26T01:19:49.184Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3dcdc2e386a19e8dc5b503-653328bc0e0e.png",
-      "icon_bytes": 76164
     }
   ]
 }

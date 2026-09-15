@@ -4,10 +4,103 @@
   "source": "gfs-pfs-library",
   "page": 2,
   "page_size": 24,
-  "total": 362,
+  "total": 365,
   "pages": 16,
-  "generated": "2026-09-15T00:35:26.396Z",
+  "generated": "2026-09-15T06:33:59.359Z",
   "games": [
+    {
+      "id": "6aa01b77235811081ee44c4d",
+      "title_id": "PPSA19406",
+      "title": "Earth Defense Force World Brothers 2",
+      "version": "01.005",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 16642998272,
+      "size_label": "15.5 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0803/cb20b20c37c4fb81d5b2b94b53397a085ebf13eda85680e2.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0803/ba6315e3f4b173134acc0b7cf9b0023534646b62462397b5.jpg",
+      "updated_at": "2026-09-08T14:28:07.177Z",
+      "link_count": 3,
+      "providers": [
+        "Akirabox",
+        "Archive (Game + DLC)"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa01b77235811081ee44c4d-a5ebcb3fa87c.png",
+      "icon_bytes": 85509
+    },
+    {
+      "id": "6aa01acc235811081ee44c4c",
+      "title_id": "PPSA22265",
+      "title": "FANTASIAN Neo Dimension",
+      "version": "01.300",
+      "pack": "pfs",
+      "region": "EUR",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_label": "7.xx+",
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.6.6",
+      "dlcs_merged": false,
+      "size_bytes": 12025908429,
+      "size_label": "11.2 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2710/5081afbb0c286be541a92a94219e77838f09f83ad7ce84e0.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2111/0005bdf17fca526eff45b132a025c608d24ec3d31d1a63fd.jpg",
+      "updated_at": "2026-09-08T14:25:16.706Z",
+      "link_count": 2,
+      "providers": [
+        "Akirabox",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa01acc235811081ee44c4c-034dfac8d034.png",
+      "icon_bytes": 75808
+    },
+    {
+      "id": "6aa01a4a235811081ee44c4b",
+      "title_id": "PPSA09845",
+      "title": "Roadcraft",
+      "version": "01.009.610",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_label": "7.xx+",
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.6.6",
+      "dlcs_merged": true,
+      "size_bytes": 31997506355,
+      "size_label": "29.8 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2815/990fb2faa4e672ada883e002f0e4a3bba554cf25c392cb84.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2815/9ac1c4cba0787b883535e957ac0c90dab395803f68c8b25a.jpg",
+      "updated_at": "2026-09-08T14:23:06.599Z",
+      "link_count": 3,
+      "providers": [
+        "Archive",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa01a4a235811081ee44c4b-3b268df3fac9.png",
+      "icon_bytes": 77749
+    },
     {
       "id": "6aa00073235811081ee44c4a",
       "title_id": "PPSA31327",
@@ -662,98 +755,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a904a65b0a31dad5b0fe915-8d329ecad379.png",
       "icon_bytes": 74910
-    },
-    {
-      "id": "6a8fc4ddb0a31dad5b0fe912",
-      "title_id": "PPSA07587",
-      "title": "Sea of Stars",
-      "version": "01.013",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.3.6.6",
-      "dlcs_merged": false,
-      "size_bytes": 4756676280,
-      "size_label": "4.4 GiB",
-      "poster_url": "https://i.ytimg.com/vi/BMComOd9qP4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAL25TRMQZwKv1HUnRCYUF2JuL3WQ",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/0713/mLhzj6jDgkBfopd5KgotsoQt.png",
-      "updated_at": "2026-08-27T15:45:55.059Z",
-      "link_count": 2,
-      "providers": [
-        "Akirabox",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8fc4ddb0a31dad5b0fe912-0fce50d4857c.png",
-      "icon_bytes": 56556
-    },
-    {
-      "id": "6a8fd882b0a31dad5b0fe913",
-      "title_id": "PPSA10664",
-      "title": "FINAL FANTASY XVI",
-      "version": "01.003.004",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx+"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 118884694753,
-      "size_label": "111 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0912/PTlrcDu9P5F1Lzh9QRc8jkZb.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1007/M1j1kwGXMhbfA8OQo3r7wrMw.jpg",
-      "updated_at": "2026-08-27T07:23:23.292Z",
-      "link_count": 1,
-      "providers": [
-        "Download"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8fd882b0a31dad5b0fe913-d3de09871008.png",
-      "icon_bytes": 25739
-    },
-    {
-      "id": "6a8fc47fb0a31dad5b0fe911",
-      "title_id": "PPSA30279",
-      "title": "Taxi Chaos 2",
-      "version": "01.007",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "5.xx+"
-      ],
-      "firmware_label": "5.xx+",
-      "firmware_raw": [
-        "5.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 4874787881,
-      "size_label": "4.5 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2608/d52427f187d595cad3cc859d77ebe143eb2c9e4f20b96b6c.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2608/c0e3d35a241c73f8b0ce7e783591d7af764246f7c46fd2a8.png",
-      "updated_at": "2026-08-27T07:19:47.090Z",
-      "link_count": 2,
-      "providers": [
-        "Akirabox",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8fc47fb0a31dad5b0fe911-72549cb7ae0d.png",
-      "icon_bytes": 81656
     }
   ]
 }

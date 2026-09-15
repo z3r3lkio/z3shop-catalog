@@ -4,10 +4,102 @@
   "source": "gfs-pfs-library",
   "page": 3,
   "page_size": 24,
-  "total": 362,
+  "total": 365,
   "pages": 16,
-  "generated": "2026-09-15T00:35:26.396Z",
+  "generated": "2026-09-15T06:33:59.359Z",
   "games": [
+    {
+      "id": "6a8fc4ddb0a31dad5b0fe912",
+      "title_id": "PPSA07587",
+      "title": "Sea of Stars",
+      "version": "01.013",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.6.6",
+      "dlcs_merged": false,
+      "size_bytes": 4756676280,
+      "size_label": "4.4 GiB",
+      "poster_url": "https://i.ytimg.com/vi/BMComOd9qP4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAL25TRMQZwKv1HUnRCYUF2JuL3WQ",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/0713/mLhzj6jDgkBfopd5KgotsoQt.png",
+      "updated_at": "2026-08-27T15:45:55.059Z",
+      "link_count": 2,
+      "providers": [
+        "Akirabox",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8fc4ddb0a31dad5b0fe912-0fce50d4857c.png",
+      "icon_bytes": 56556
+    },
+    {
+      "id": "6a8fd882b0a31dad5b0fe913",
+      "title_id": "PPSA10664",
+      "title": "FINAL FANTASY XVI",
+      "version": "01.003.004",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 118884694753,
+      "size_label": "111 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0912/PTlrcDu9P5F1Lzh9QRc8jkZb.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1007/M1j1kwGXMhbfA8OQo3r7wrMw.jpg",
+      "updated_at": "2026-08-27T07:23:23.292Z",
+      "link_count": 1,
+      "providers": [
+        "Download"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8fd882b0a31dad5b0fe913-d3de09871008.png",
+      "icon_bytes": 25739
+    },
+    {
+      "id": "6a8fc47fb0a31dad5b0fe911",
+      "title_id": "PPSA30279",
+      "title": "Taxi Chaos 2",
+      "version": "01.007",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_label": "5.xx+",
+      "firmware_raw": [
+        "5.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 4874787881,
+      "size_label": "4.5 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2608/d52427f187d595cad3cc859d77ebe143eb2c9e4f20b96b6c.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2608/c0e3d35a241c73f8b0ce7e783591d7af764246f7c46fd2a8.png",
+      "updated_at": "2026-08-27T07:19:47.090Z",
+      "link_count": 2,
+      "providers": [
+        "Akirabox",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8fc47fb0a31dad5b0fe911-72549cb7ae0d.png",
+      "icon_bytes": 81656
+    },
     {
       "id": "6a8db9cdb0a31dad5b0fe90e",
       "title_id": "PPSA09809",
@@ -658,100 +750,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a854a12b0a31dad5b0fe8e3-e8a4a55957f6.png",
       "icon_bytes": 61005
-    },
-    {
-      "id": "6a854894b0a31dad5b0fe8e2",
-      "title_id": "PPSA05595",
-      "title": "Kao The Kangaroo",
-      "version": "01.007",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 10307921510,
-      "size_label": "9.6 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2810/U8yZW1cvVtprfcpT70B04aOK.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202201/1711/ckV6vwwHYNKsHoKd0NqIeMQB.png",
-      "updated_at": "2026-08-19T06:09:24.243Z",
-      "link_count": 3,
-      "providers": [
-        "Viki",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a854894b0a31dad5b0fe8e2-29b7ade9f043.png",
-      "icon_bytes": 75090
-    },
-    {
-      "id": "6a854066b0a31dad5b0fe8e1",
-      "title_id": "PPSA16810",
-      "title": "ARK: Survival Ascended",
-      "version": "01.084.021",
-      "pack": "pfs",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 236223201280,
-      "size_label": "220 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3119/d8c73becbc6f630fd1f7be670ef86f8b7ca723613b326973.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2502/1751043f9999ae22f2e6293fcf355e596f4183de063619da.png",
-      "updated_at": "2026-08-19T05:34:30.159Z",
-      "link_count": 25,
-      "providers": [
-        "Viki",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a854066b0a31dad5b0fe8e1-18280620b87c.png",
-      "icon_bytes": 87555
-    },
-    {
-      "id": "6a3bf4265ac7b07181b5844c",
-      "title_id": "PPSA05060",
-      "title": "RoboCop: Rogue City",
-      "version": "01.006",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 44452911514,
-      "size_label": "41.4 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2712/6UAdMRqRpbS6J6f6VIBI2kMD.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2712/kf2FLok3XYWxOiCOXdbAbzPg.jpg",
-      "updated_at": "2026-08-19T05:22:36.216Z",
-      "link_count": 8,
-      "providers": [
-        "Viki",
-        "Akirabox",
-        "Data"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3bf4265ac7b07181b5844c-dcdda4b188cb.png",
-      "icon_bytes": 73936
     }
   ]
 }

@@ -4,10 +4,104 @@
   "source": "gfs-pfs-library",
   "page": 7,
   "page_size": 24,
-  "total": 362,
+  "total": 365,
   "pages": 16,
-  "generated": "2026-09-15T00:35:26.396Z",
+  "generated": "2026-09-15T06:33:59.359Z",
   "games": [
+    {
+      "id": "6a746127c1c724e667ac0d1b",
+      "title_id": "PPSA01649",
+      "title": "Call of Duty Modern Warfare 3",
+      "version": "01.055",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "9.xx+"
+      ],
+      "firmware_label": "9.xx+",
+      "firmware_raw": [
+        "9.xx and beyond"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 161061273600,
+      "size_label": "150 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1722/904d23d883448ecc0c2afb3c10a3532a4c8e8ba231cc0f2c.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1415/8d9af953f938ba6cb9f9e73cd94424df2d33b0f313794739.png",
+      "updated_at": "2026-08-07T04:30:19.580Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a746127c1c724e667ac0d1b-4ff1394fbcae.png",
+      "icon_bytes": 68946
+    },
+    {
+      "id": "6a562754664b52645fefe084",
+      "title_id": "PPSA28209",
+      "title": "MindsEye",
+      "version": "01.011",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPork"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 41983305318,
+      "size_label": "39.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0319/c4e62a366f60dbb16e768a68b91ae231754695b88b21a315.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0319/90ad70d54143e3c83c0b8840d29de973f109659c731ae7f4.jpg",
+      "updated_at": "2026-08-07T00:02:15.742Z",
+      "link_count": 3,
+      "providers": [
+        "Akirabox",
+        "Archive",
+        "Gofile"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a562754664b52645fefe084-24dd7aee6669.png",
+      "icon_bytes": 58944
+    },
+    {
+      "id": "6a3bec3d5ac7b07181b5844b",
+      "title_id": "PPSA28420",
+      "title": "Suicide Squad Kill The Justice League",
+      "version": "01.024",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 119614839194,
+      "size_label": "111 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1220/f6a5c5087c8c1f77643d9be400df0ad3fdf2d532a34305a3.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1220/f6a5c5087c8c1f77643d9be400df0ad3fdf2d532a34305a3.jpg",
+      "updated_at": "2026-08-06T10:28:11.266Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3bec3d5ac7b07181b5844b-18a5ee7e4bba.png",
+      "icon_bytes": 50564
+    },
     {
       "id": "6a740fe6ad740911cff8917c",
       "title_id": "PPSA16033",
@@ -658,99 +752,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a705fbaa80b138b911d68df-d42b25101773.png",
       "icon_bytes": 66656
-    },
-    {
-      "id": "6a705f91a80b138b911d68de",
-      "title_id": "PPSA09664",
-      "title": "Dragons Dogma 2",
-      "version": "03.000",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx backport"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 80208514253,
-      "size_label": "74.7 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1309/916b7de8938fa4ff658296086312a6cc386e5fb8c9d17275.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1309/11cc96ad365cb9644d52030ae69d615a651170647ec10bdd.jpg",
-      "updated_at": "2026-08-03T09:29:53.209Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a705f91a80b138b911d68de-2f6c8f81d07b.png",
-      "icon_bytes": 78115
-    },
-    {
-      "id": "6a6f6bd4a80b138b911d68da",
-      "title_id": "PPSA16387",
-      "title": "Hitman World of Assassination Deluxe Edition",
-      "version": "01.038",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx BackPort"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 76128295322,
-      "size_label": "70.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1212/6bdf3ed74af51798340eee836753c2cc296851cbc5db6c05.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1212/6bdf3ed74af51798340eee836753c2cc296851cbc5db6c05.jpg",
-      "updated_at": "2026-08-03T00:56:38.035Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6f6bd4a80b138b911d68da-1d11982a54a2.png",
-      "icon_bytes": 26529
-    },
-    {
-      "id": "6a6f6b85a80b138b911d68d9",
-      "title_id": "PPSA08592",
-      "title": "Monster Energy Supercross The Official Videogame 6",
-      "version": "01.008",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx BackPort"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 22333829939,
-      "size_label": "20.8 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1716/mA2rn88VjcO0d03VdM1GIISs.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1716/QrvBx8ipchNxk4Ih9qGeMzY3.jpg",
-      "updated_at": "2026-08-03T00:56:10.193Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6f6b85a80b138b911d68d9-ec43070b26fc.png",
-      "icon_bytes": 45677
     }
   ]
 }

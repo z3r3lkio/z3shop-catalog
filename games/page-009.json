@@ -4,10 +4,102 @@
   "source": "gfs-pfs-library",
   "page": 9,
   "page_size": 24,
-  "total": 362,
+  "total": 365,
   "pages": 16,
-  "generated": "2026-09-15T00:35:26.396Z",
+  "generated": "2026-09-15T06:33:59.359Z",
   "games": [
+    {
+      "id": "6a686da43d4889f7e22e8b6c",
+      "title_id": "PPSA07618",
+      "title": "Train Sim World 3",
+      "version": "1.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_label": "5.xx+",
+      "firmware_raw": [
+        "5.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 34037615821,
+      "size_label": "31.7 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2517/b6J2W8a2PjpZZdmCZ2nSdJh4.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1812/b845d9c546e7ff63f1a82ed783cf5a2a2f3f9fd26667c1c3.jpg",
+      "updated_at": "2026-07-28T08:51:48.578Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a686da43d4889f7e22e8b6c-debdf856a258.png",
+      "icon_bytes": 93975
+    },
+    {
+      "id": "6a686cdc3d4889f7e22e8b6b",
+      "title_id": "PPSA07064",
+      "title": "Lords of the Fallen",
+      "version": "01.100",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "9.xx+"
+      ],
+      "firmware_label": "9.xx+",
+      "firmware_raw": [
+        "9.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 36399847834,
+      "size_label": "33.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2307/f65f7b1bda267c6e7620d68dce0e31fd356ab5eb7fa6a8d0.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1011/a6884ee108283bc62ec6e7d5bd889691bafb389e3808b86c.jpg",
+      "updated_at": "2026-07-28T08:48:28.019Z",
+      "link_count": 3,
+      "providers": [
+        "Viki",
+        "Archive (Game + DLC)"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a686cdc3d4889f7e22e8b6b-78b9aa7408d8.png",
+      "icon_bytes": 79720
+    },
+    {
+      "id": "6a67342b3d4889f7e22e8b67",
+      "title_id": "PPSA02110",
+      "title": "No Mans Sky",
+      "version": "06.024",
+      "pack": "unknown",
+      "region": "USA to EUR Langs",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 25877177958,
+      "size_label": "24.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2714/c5ed026fcd195871688178db5c8c447c0afb75dfef3cd06b.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2714/c5ed026fcd195871688178db5c8c447c0afb75dfef3cd06b.jpg",
+      "updated_at": "2026-07-27T10:34:19.183Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a67342b3d4889f7e22e8b67-ac2a3e4d058d.png",
+      "icon_bytes": 58586
+    },
     {
       "id": "6a6733d33d4889f7e22e8b66",
       "title_id": "PPSA21837",
@@ -664,99 +756,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6060dc20ce6441f5b9a136-9fda0d1a1f8c.png",
       "icon_bytes": 67918
-    },
-    {
-      "id": "6a5f961220ce6441f5b9a12e",
-      "title_id": "PPSA25380",
-      "title": "Elden Ring Nightreign",
-      "version": "01.003.002",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "9.xx+"
-      ],
-      "firmware_label": "9.xx+",
-      "firmware_raw": [
-        "9.xx"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 29957396890,
-      "size_label": "27.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2901/c200be5371265efb80a1bae120ad3a0f2a3232c6006c0464.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2901/c200be5371265efb80a1bae120ad3a0f2a3232c6006c0464.jpg",
-      "updated_at": "2026-07-21T16:10:43.379Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f961220ce6441f5b9a12e-a12aeaa58c39.png",
-      "icon_bytes": 51266
-    },
-    {
-      "id": "6a5f96a520ce6441f5b9a131",
-      "title_id": "PPSA28855",
-      "title": "Totally Reliable Delivery Service",
-      "version": "01.001",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx BackPort"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 1481763717,
-      "size_label": "1.4 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202107/1214/4gsSuf40PMM1yS8VD8uiD8ak.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202108/2415/UxX5pEztgkyMmMi5j4qJnbII.png",
-      "updated_at": "2026-07-21T16:10:40.099Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f96a520ce6441f5b9a131-ada1730a42ea.png",
-      "icon_bytes": 73809
-    },
-    {
-      "id": "6a5f967920ce6441f5b9a130",
-      "title_id": "PPSA12771",
-      "title": "Horizon Chase 2",
-      "version": "01.007",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "8.xx+"
-      ],
-      "firmware_label": "8.xx+",
-      "firmware_raw": [
-        "8.xx and beyond"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 4617089843,
-      "size_label": "4.3 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2118/58459928228a2f8ceb36f2cf6d75a733b959907fd76de1ba.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2118/9f3264593280cd9ac7f1e3cc2af484ae02e6fda263f98c83.jpg",
-      "updated_at": "2026-07-21T16:10:35.353Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f967920ce6441f5b9a130-21899b7ed240.png",
-      "icon_bytes": 64069
     }
   ]
 }

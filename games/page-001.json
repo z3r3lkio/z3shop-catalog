@@ -4,10 +4,101 @@
   "source": "gfs-pfs-library",
   "page": 1,
   "page_size": 24,
-  "total": 362,
+  "total": 365,
   "pages": 16,
-  "generated": "2026-09-15T00:35:26.396Z",
+  "generated": "2026-09-15T06:33:59.359Z",
   "games": [
+    {
+      "id": "6aa8a26e3f728aecb6a169ee",
+      "title_id": "PPSA09091",
+      "title": "Fairy Fencer F: Refrain Chord",
+      "version": "01.000.001",
+      "pack": "lz4",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.4.2.1",
+      "dlcs_merged": false,
+      "size_bytes": 3221225472,
+      "size_label": "3.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1801/b2c9d79c5803dff9e1c3daa04dfaceff9f0581d540a0a8a6.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2201/d91f14bc373369bf6e7ae7635a67495f676acd3e363393ec.jpg",
+      "updated_at": "2026-09-15T01:42:06.879Z",
+      "link_count": 2,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa8a26e3f728aecb6a169ee-14e048909bc4.png",
+      "icon_bytes": 93178
+    },
+    {
+      "id": "6aa89bd73f728aecb6a169ed",
+      "title_id": "PPSA06955",
+      "title": "Granblue Fantasy: Relink",
+      "version": "01.003.002",
+      "pack": "lz4",
+      "region": "EUR",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_label": "7.xx+",
+      "firmware_raw": [
+        "7.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 82678120448,
+      "size_label": "77.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0411/d00d5e76883b89b7d56344d4cf650bd02b4c7b879f94b14d.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0411/1d57aaaac896cd92f6b488ee9c5f1af372a6fc4a4695dfd7.png",
+      "updated_at": "2026-09-15T01:13:59.177Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa89bd73f728aecb6a169ed-361c46fbe7fe.png",
+      "icon_bytes": 79344
+    },
+    {
+      "id": "6aa89aa73f728aecb6a169ec",
+      "title_id": "PPSA14251",
+      "title": "Mafia The Old Country: Deluxe Edition",
+      "version": "01.006",
+      "pack": "fpkg",
+      "region": "EUR",
+      "firmware": [
+        "10.xx+"
+      ],
+      "firmware_label": "10.xx+",
+      "firmware_raw": [
+        "10.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 40372692582,
+      "size_label": "37.6 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2416/044c29ea5623bbb31fc1b2db8577621ba7f035b4c679cfdc.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2416/a625fb3c2a502faa490d2ab220fdbdd41f33a77dc41d328c.jpg",
+      "updated_at": "2026-09-15T01:08:55.536Z",
+      "link_count": 4,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa89aa73f728aecb6a169ec-8775db8085fb.png",
+      "icon_bytes": 49906
+    },
     {
       "id": "6aa872a13f728aecb6a169ea",
       "title_id": "PPSA04892",
@@ -646,99 +737,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa01e50e7a6fda1fdb37b6e-06d2c55ccb98.png",
       "icon_bytes": 97787
-    },
-    {
-      "id": "6aa01b77235811081ee44c4d",
-      "title_id": "PPSA19406",
-      "title": "Earth Defense Force World Brothers 2",
-      "version": "01.005",
-      "pack": "pfs",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 16642998272,
-      "size_label": "15.5 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0803/cb20b20c37c4fb81d5b2b94b53397a085ebf13eda85680e2.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0803/ba6315e3f4b173134acc0b7cf9b0023534646b62462397b5.jpg",
-      "updated_at": "2026-09-08T14:28:07.177Z",
-      "link_count": 3,
-      "providers": [
-        "Akirabox",
-        "Archive (Game + DLC)"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa01b77235811081ee44c4d-a5ebcb3fa87c.png",
-      "icon_bytes": 85509
-    },
-    {
-      "id": "6aa01acc235811081ee44c4c",
-      "title_id": "PPSA22265",
-      "title": "FANTASIAN Neo Dimension",
-      "version": "01.300",
-      "pack": "pfs",
-      "region": "EUR",
-      "firmware": [
-        "7.xx+"
-      ],
-      "firmware_label": "7.xx+",
-      "firmware_raw": [
-        "7.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.3.6.6",
-      "dlcs_merged": false,
-      "size_bytes": 12025908429,
-      "size_label": "11.2 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2710/5081afbb0c286be541a92a94219e77838f09f83ad7ce84e0.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2111/0005bdf17fca526eff45b132a025c608d24ec3d31d1a63fd.jpg",
-      "updated_at": "2026-09-08T14:25:16.706Z",
-      "link_count": 2,
-      "providers": [
-        "Akirabox",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa01acc235811081ee44c4c-034dfac8d034.png",
-      "icon_bytes": 75808
-    },
-    {
-      "id": "6aa01a4a235811081ee44c4b",
-      "title_id": "PPSA09845",
-      "title": "Roadcraft",
-      "version": "01.009.610",
-      "pack": "pfs",
-      "region": "USA",
-      "firmware": [
-        "7.xx+"
-      ],
-      "firmware_label": "7.xx+",
-      "firmware_raw": [
-        "7.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.3.6.6",
-      "dlcs_merged": true,
-      "size_bytes": 31997506355,
-      "size_label": "29.8 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2815/990fb2faa4e672ada883e002f0e4a3bba554cf25c392cb84.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2815/9ac1c4cba0787b883535e957ac0c90dab395803f68c8b25a.jpg",
-      "updated_at": "2026-09-08T14:23:06.599Z",
-      "link_count": 3,
-      "providers": [
-        "Archive",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa01a4a235811081ee44c4b-3b268df3fac9.png",
-      "icon_bytes": 77749
     }
   ]
 }

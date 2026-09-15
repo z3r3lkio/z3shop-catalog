@@ -6,21 +6,21 @@
     "api": "https://pfs-library.xetdy-am.workers.dev/api/packages",
     "mode": "metadata-only"
   },
-  "generated": "2026-09-15T00:35:26.396Z",
-  "total": 362,
+  "generated": "2026-09-15T06:33:59.359Z",
+  "total": 365,
   "page_size": 24,
   "pages": 16,
   "duplicates_dropped": 0,
-  "search_bytes": 56485,
+  "search_bytes": 56958,
   "pack_counts": {
     "unknown": 299,
     "pfs": 48,
-    "lz4": 8,
-    "fpkg": 7
+    "lz4": 10,
+    "fpkg": 8
   },
   "region_counts": {
-    "USA": 173,
-    "EUR": 149,
+    "USA": 174,
+    "EUR": 151,
     "JPN": 22,
     "ASIA": 5,
     "USA to EUR Languages": 4,
@@ -30,7 +30,7 @@
     "ASIA to EUR Languages": 1,
     "ASIA to JPN Langs": 1
   },
-  "apr_enabled": 143,
+  "apr_enabled": 144,
   "dlcs_merged": 71,
   "search_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/search.json",
   "pages_index": [
@@ -111,7 +111,7 @@
     },
     {
       "page": 16,
-      "count": 2,
+      "count": 5,
       "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-016.json"
     }
   ],
@@ -119,9 +119,9 @@
     "mode": "optimized-local-thumbnails",
     "directory": "game-art",
     "target_px": 256,
-    "ready": 362,
+    "ready": 365,
     "unresolved": 0,
-    "bytes": 24704672
+    "bytes": 24927100
   },
   "note": "Metadata feed only. Provider download URLs are intentionally not mirrored in this catalog."
 }

@@ -4,10 +4,103 @@
   "source": "gfs-pfs-library",
   "page": 10,
   "page_size": 24,
-  "total": 362,
+  "total": 365,
   "pages": 16,
-  "generated": "2026-09-15T00:35:26.396Z",
+  "generated": "2026-09-15T06:33:59.359Z",
   "games": [
+    {
+      "id": "6a5f961220ce6441f5b9a12e",
+      "title_id": "PPSA25380",
+      "title": "Elden Ring Nightreign",
+      "version": "01.003.002",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "9.xx+"
+      ],
+      "firmware_label": "9.xx+",
+      "firmware_raw": [
+        "9.xx"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 29957396890,
+      "size_label": "27.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2901/c200be5371265efb80a1bae120ad3a0f2a3232c6006c0464.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2901/c200be5371265efb80a1bae120ad3a0f2a3232c6006c0464.jpg",
+      "updated_at": "2026-07-21T16:10:43.379Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f961220ce6441f5b9a12e-a12aeaa58c39.png",
+      "icon_bytes": 51266
+    },
+    {
+      "id": "6a5f96a520ce6441f5b9a131",
+      "title_id": "PPSA28855",
+      "title": "Totally Reliable Delivery Service",
+      "version": "01.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 1481763717,
+      "size_label": "1.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202107/1214/4gsSuf40PMM1yS8VD8uiD8ak.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202108/2415/UxX5pEztgkyMmMi5j4qJnbII.png",
+      "updated_at": "2026-07-21T16:10:40.099Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f96a520ce6441f5b9a131-ada1730a42ea.png",
+      "icon_bytes": 73809
+    },
+    {
+      "id": "6a5f967920ce6441f5b9a130",
+      "title_id": "PPSA12771",
+      "title": "Horizon Chase 2",
+      "version": "01.007",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "8.xx+"
+      ],
+      "firmware_label": "8.xx+",
+      "firmware_raw": [
+        "8.xx and beyond"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 4617089843,
+      "size_label": "4.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2118/58459928228a2f8ceb36f2cf6d75a733b959907fd76de1ba.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2118/9f3264593280cd9ac7f1e3cc2af484ae02e6fda263f98c83.jpg",
+      "updated_at": "2026-07-21T16:10:35.353Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f967920ce6441f5b9a130-21899b7ed240.png",
+      "icon_bytes": 64069
+    },
     {
       "id": "6a3e246230a44e5ee17d6681",
       "title_id": "PPSA08084",
@@ -656,97 +749,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5b7f11664b52645fefe0bb-545ab054c353.png",
       "icon_bytes": 75290
-    },
-    {
-      "id": "6a5b7e37664b52645fefe0ba",
-      "title_id": "PPSA03527",
-      "title": "Grand Theft Auto 3 The Definitive Edition",
-      "version": "01.007",
-      "pack": "pfs",
-      "region": "USA",
-      "firmware": [
-        "3.xx+"
-      ],
-      "firmware_label": "3.xx+",
-      "firmware_raw": [
-        "3.xx and beyond"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 5229122683,
-      "size_label": "4.9 GiB",
-      "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/be/GTA3boxcover.jpg",
-      "banner_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwm_EfsgSCQtfAaZNWggZVFyT-qqfEdeVIhnf83Fa-cJZuHZieJ8uok1v1&s=10",
-      "updated_at": "2026-07-18T13:23:03.001Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5b7e37664b52645fefe0ba-3f0bff592a2b.png",
-      "icon_bytes": 81766
-    },
-    {
-      "id": "6a5b7d66664b52645fefe0b9",
-      "title_id": "PPSA03530",
-      "title": "Grand Theft Auto Vice City The Definitive Edition",
-      "version": "01.007",
-      "pack": "pfs",
-      "region": "USA",
-      "firmware": [
-        "3.xx+"
-      ],
-      "firmware_label": "3.xx+",
-      "firmware_raw": [
-        "3.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 11381663334,
-      "size_label": "10.6 GiB",
-      "poster_url": "https://cdn1.epicgames.com/offer/fd6a13a256014a22a83ff2aaacc30e00/EGS_GrandTheftAutoViceCityTheDefinitiveEdition_RockstarGames_S2_1200x1600-18ac3dd32143492b2650144da0cf0ca9",
-      "banner_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeQUqVBgUNG4lcZ3pXyMGIZiwDDEz04My-U4x03dfl44fwmmlq86DkZTkX&s=10",
-      "updated_at": "2026-07-18T13:19:34.737Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5b7d66664b52645fefe0b9-8e0d21d4fc5b.png",
-      "icon_bytes": 58745
-    },
-    {
-      "id": "6a5b34d1664b52645fefe0b7",
-      "title_id": "PPSA20447",
-      "title": "The First Berserker Khazan",
-      "version": "01.020",
-      "pack": "pfs",
-      "region": "USA",
-      "firmware": [
-        "9.xx+"
-      ],
-      "firmware_label": "9.xx+",
-      "firmware_raw": [
-        "9.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 24588687770,
-      "size_label": "22.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2604/27407ee04cd79fc83148f64bd67f16251651392174e3c569.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2609/ed16bfc3fb58af66017339cce3c90a4999364db6278928b0.png",
-      "updated_at": "2026-07-18T08:09:53.841Z",
-      "link_count": 2,
-      "providers": [
-        "Archive",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5b34d1664b52645fefe0b7-fa0cd84f5240.png",
-      "icon_bytes": 85325
     }
   ]
 }

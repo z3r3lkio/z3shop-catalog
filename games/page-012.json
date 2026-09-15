@@ -4,10 +4,103 @@
   "source": "gfs-pfs-library",
   "page": 12,
   "page_size": 24,
-  "total": 362,
+  "total": 365,
   "pages": 16,
-  "generated": "2026-09-15T00:35:26.396Z",
+  "generated": "2026-09-15T06:33:59.359Z",
   "games": [
+    {
+      "id": "6a586e12664b52645fefe096",
+      "title_id": "PPSA13794",
+      "title": "Phantom Breaker Battle Grounds Ultimate",
+      "version": "1.000",
+      "pack": "pfs",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 1717986918,
+      "size_label": "1.6 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0809/53b9bca2d48c18e8224fa901950a612fbe58a8894eeba048.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2016/76e2b0047650104190ee96ec8794b2784c0a1a210c039f6f.png",
+      "updated_at": "2026-07-16T05:37:22.843Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a586e12664b52645fefe096-d84c970669e5.png",
+      "icon_bytes": 83894
+    },
+    {
+      "id": "6a586de0664b52645fefe095",
+      "title_id": "PPSA02259",
+      "title": "Oddworld Soulstorm",
+      "version": "1.160",
+      "pack": "pfs",
+      "region": "EUR",
+      "firmware": [
+        "1.xx+"
+      ],
+      "firmware_label": "1.xx+",
+      "firmware_raw": [
+        "1.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 17931488461,
+      "size_label": "16.7 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202111/1114/wH6ptHYzoqx9yE4Q3nazja6n.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202111/1114/wQfv0SAiwFs6sv14MHOAZkri.png",
+      "updated_at": "2026-07-16T05:36:32.052Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a586de0664b52645fefe095-533689e00144.png",
+      "icon_bytes": 68611
+    },
+    {
+      "id": "6a586db1664b52645fefe094",
+      "title_id": "PPSA03952",
+      "title": "Resident Evil 3",
+      "version": "1.004",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "3.xx+"
+      ],
+      "firmware_label": "3.xx+",
+      "firmware_raw": [
+        "3.xx and beyond"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 23085449216,
+      "size_label": "21.5 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0307/CFAf8koMK6B49DCY5Zk6xFYj.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0307/CFAf8koMK6B49DCY5Zk6xFYj.jpg",
+      "updated_at": "2026-07-16T05:35:45.726Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a586db1664b52645fefe094-df5d582c67ba.png",
+      "icon_bytes": 43547
+    },
     {
       "id": "6a586d77664b52645fefe093",
       "title_id": "PPSA06084",
@@ -654,100 +747,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a526204664b52645fefe07a-44a183715a70.png",
       "icon_bytes": 65848
-    },
-    {
-      "id": "6a526095664b52645fefe079",
-      "title_id": "PPSA32785",
-      "title": "Nioh 3 Deluxe Edition",
-      "version": "01.040.020",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "5.xx+"
-      ],
-      "firmware_label": "5.xx+",
-      "firmware_raw": [
-        "5.xx +"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": true,
-      "size_bytes": 87939455386,
-      "size_label": "81.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2102/87b721c5b7abc54f1c6f2cdf907066d8d00c9b8d73359754.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2304/fcfc13cd93d861454433fcaf8b9a727cb24258783175100e.png",
-      "updated_at": "2026-07-12T03:23:25.335Z",
-      "link_count": 2,
-      "providers": [
-        "1fichier",
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a526095664b52645fefe079-f7b0fcc41969.png",
-      "icon_bytes": 57629
-    },
-    {
-      "id": "6a525f0e664b52645fefe078",
-      "title_id": "PPSA09706",
-      "title": "Persona 5 Tactica Deluxe Edition",
-      "version": "01.000.300",
-      "pack": "unknown",
-      "region": "JPN to EUR Languages",
-      "firmware": [
-        "6.xx+"
-      ],
-      "firmware_label": "6.xx+",
-      "firmware_raw": [
-        "6.xx +"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 24266565222,
-      "size_label": "22.6 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2807/f02fd98c805c78ff1c56aec62054d04fbecf1fc5ba9eeee5.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0516/996f36ddaec3215095425ca966f46a1990540f36f61069c8.png",
-      "updated_at": "2026-07-11T15:32:41.062Z",
-      "link_count": 3,
-      "providers": [
-        "Gofile",
-        "Buzzheavier",
-        "1fichier"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a525f0e664b52645fefe078-ee4b5308c0e1.png",
-      "icon_bytes": 80670
-    },
-    {
-      "id": "6a525d7e664b52645fefe077",
-      "title_id": "PPSA09911",
-      "title": "Ghostrunner 2",
-      "version": "01.000",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 14710262989,
-      "size_label": "13.7 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0121/23971a265ea7bb4dbdbfd05bc97694494f17ef0acf320702.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0121/b8c685da41fe9e1573879c83ede4b2e15eca3c20d407fe22.jpg",
-      "updated_at": "2026-07-11T15:13:02.686Z",
-      "link_count": 2,
-      "providers": [
-        "1fichier",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a525d7e664b52645fefe077-dae9866ee6cb.png",
-      "icon_bytes": 50842
     }
   ]
 }

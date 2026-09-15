@@ -4,10 +4,106 @@
   "source": "gfs-pfs-library",
   "page": 5,
   "page_size": 24,
-  "total": 362,
+  "total": 365,
   "pages": 16,
-  "generated": "2026-09-15T00:35:26.396Z",
+  "generated": "2026-09-15T06:33:59.359Z",
   "games": [
+    {
+      "id": "6a807c6cb0a31dad5b0fe8c4",
+      "title_id": "PPSA09384",
+      "title": "The Caligula Effect Overdose Deluxe Edition",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 13099650253,
+      "size_label": "12.2 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2723/1d9f2408302833513003f48719fedecd24719a6a044d0877.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0200/956db9b82a18dce6893bc286f43a87adb050522212e84b2d.png",
+      "updated_at": "2026-08-15T14:49:16.417Z",
+      "link_count": 3,
+      "providers": [
+        "Akirabox",
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a807c6cb0a31dad5b0fe8c4-afe2068cd412.png",
+      "icon_bytes": 65200
+    },
+    {
+      "id": "6a7f1683b0a31dad5b0fe8bb",
+      "title_id": "PPSA03984",
+      "title": "Forspoken",
+      "version": "01.020",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 100824357274,
+      "size_label": "93.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0922/8qWKKtgVAX0tWTMUb07LXNy6.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0922/qptu3x5j6tY3HYV5UZMNfWHs.jpg",
+      "updated_at": "2026-08-14T15:39:31.861Z",
+      "link_count": 7,
+      "providers": [
+        "Archive",
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7f1683b0a31dad5b0fe8bb-f31e93af6d83.png",
+      "icon_bytes": 62479
+    },
+    {
+      "id": "6a7f36a5b0a31dad5b0fe8bc",
+      "title_id": "PPSA32557",
+      "title": "MotoGP 26",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_label": "5.xx+",
+      "firmware_raw": [
+        "5.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 22441204122,
+      "size_label": "20.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2015/f7d7f07d359ba0613bef8b43e1af74becad0e00357c1ccb3.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2015/63c358a42759630f3e538ab47f622bc1879b092241d016e3.jpg",
+      "updated_at": "2026-08-14T15:39:17.765Z",
+      "link_count": 4,
+      "providers": [
+        "Archive",
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7f36a5b0a31dad5b0fe8bc-87b9207b2fc2.png",
+      "icon_bytes": 75574
+    },
     {
       "id": "6a7f1568b0a31dad5b0fe8ba",
       "title_id": "PPSA06981",
@@ -663,98 +759,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7b08fe15892f8818a051f6-33506d498310.png",
       "icon_bytes": 75211
-    },
-    {
-      "id": "6a7b087f15892f8818a051f5",
-      "title_id": "PPSA03859",
-      "title": "MechWarrior 5: Mercenaries",
-      "version": "01.0019",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx+"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 38225208934,
-      "size_label": "35.6 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202109/0614/551Vv4FQxRHF0xGIhdX6KbFq.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202109/2011/YoPr0K15JpRJBkJkC09WBEmy.jpg",
-      "updated_at": "2026-08-11T11:33:19.493Z",
-      "link_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7b087f15892f8818a051f5-4b4274d36c1f.png",
-      "icon_bytes": 64158
-    },
-    {
-      "id": "6a7ab58015892f8818a051f2",
-      "title_id": "PPSA26528",
-      "title": "Code Violet",
-      "version": "01.028",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 41446434406,
-      "size_label": "38.6 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2720/a2d0480d83404e993a64590952a10161dab990aa2fdd9c24.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0221/42c2475b07478c644249d6fb02079cb2323e14ab880661f1.jpg",
-      "updated_at": "2026-08-11T05:39:12.172Z",
-      "link_count": 1,
-      "providers": [
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7ab58015892f8818a051f2-dde771179ec0.png",
-      "icon_bytes": 78758
-    },
-    {
-      "id": "6a79f798e7c8326e373b5183",
-      "title_id": "PPSA21914",
-      "title": "Undisputed Championship Edition",
-      "version": "02.005",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": true,
-      "size_bytes": 16535624090,
-      "size_label": "15.4 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0309/c099f753eb213db2cfc1845ff17b2f756f967aaf4fb6d406.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0309/957ccf0c39b4f0f217600f2951c4f9619e088fb784bf2d5e.jpg",
-      "updated_at": "2026-08-10T16:08:56.964Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a79f798e7c8326e373b5183-3b9b8d166a2a.png",
-      "icon_bytes": 45743
     }
   ]
 }

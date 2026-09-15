@@ -4,10 +4,102 @@
   "source": "gfs-pfs-library",
   "page": 6,
   "page_size": 24,
-  "total": 362,
+  "total": 365,
   "pages": 16,
-  "generated": "2026-09-15T00:35:26.396Z",
+  "generated": "2026-09-15T06:33:59.359Z",
   "games": [
+    {
+      "id": "6a7b087f15892f8818a051f5",
+      "title_id": "PPSA03859",
+      "title": "MechWarrior 5: Mercenaries",
+      "version": "01.0019",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 38225208934,
+      "size_label": "35.6 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202109/0614/551Vv4FQxRHF0xGIhdX6KbFq.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202109/2011/YoPr0K15JpRJBkJkC09WBEmy.jpg",
+      "updated_at": "2026-08-11T11:33:19.493Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7b087f15892f8818a051f5-4b4274d36c1f.png",
+      "icon_bytes": 64158
+    },
+    {
+      "id": "6a7ab58015892f8818a051f2",
+      "title_id": "PPSA26528",
+      "title": "Code Violet",
+      "version": "01.028",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 41446434406,
+      "size_label": "38.6 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2720/a2d0480d83404e993a64590952a10161dab990aa2fdd9c24.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0221/42c2475b07478c644249d6fb02079cb2323e14ab880661f1.jpg",
+      "updated_at": "2026-08-11T05:39:12.172Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7ab58015892f8818a051f2-dde771179ec0.png",
+      "icon_bytes": 78758
+    },
+    {
+      "id": "6a79f798e7c8326e373b5183",
+      "title_id": "PPSA21914",
+      "title": "Undisputed Championship Edition",
+      "version": "02.005",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 16535624090,
+      "size_label": "15.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0309/c099f753eb213db2cfc1845ff17b2f756f967aaf4fb6d406.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0309/957ccf0c39b4f0f217600f2951c4f9619e088fb784bf2d5e.jpg",
+      "updated_at": "2026-08-10T16:08:56.964Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a79f798e7c8326e373b5183-3b9b8d166a2a.png",
+      "icon_bytes": 45743
+    },
     {
       "id": "6a79ecd6e7c8326e373b5182",
       "title_id": "PPSA31333",
@@ -659,100 +751,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a750979f4a5467857c8b073-34d1d7ee6f91.png",
       "icon_bytes": 84927
-    },
-    {
-      "id": "6a746127c1c724e667ac0d1b",
-      "title_id": "PPSA01649",
-      "title": "Call of Duty Modern Warfare 3",
-      "version": "01.055",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "9.xx+"
-      ],
-      "firmware_label": "9.xx+",
-      "firmware_raw": [
-        "9.xx and beyond"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": true,
-      "size_bytes": 161061273600,
-      "size_label": "150 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1722/904d23d883448ecc0c2afb3c10a3532a4c8e8ba231cc0f2c.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1415/8d9af953f938ba6cb9f9e73cd94424df2d33b0f313794739.png",
-      "updated_at": "2026-08-07T04:30:19.580Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a746127c1c724e667ac0d1b-4ff1394fbcae.png",
-      "icon_bytes": 68946
-    },
-    {
-      "id": "6a562754664b52645fefe084",
-      "title_id": "PPSA28209",
-      "title": "MindsEye",
-      "version": "01.011",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx BackPork"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 41983305318,
-      "size_label": "39.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0319/c4e62a366f60dbb16e768a68b91ae231754695b88b21a315.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0319/90ad70d54143e3c83c0b8840d29de973f109659c731ae7f4.jpg",
-      "updated_at": "2026-08-07T00:02:15.742Z",
-      "link_count": 3,
-      "providers": [
-        "Akirabox",
-        "Archive",
-        "Gofile"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a562754664b52645fefe084-24dd7aee6669.png",
-      "icon_bytes": 58944
-    },
-    {
-      "id": "6a3bec3d5ac7b07181b5844b",
-      "title_id": "PPSA28420",
-      "title": "Suicide Squad Kill The Justice League",
-      "version": "01.024",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": true,
-      "size_bytes": 119614839194,
-      "size_label": "111 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1220/f6a5c5087c8c1f77643d9be400df0ad3fdf2d532a34305a3.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1220/f6a5c5087c8c1f77643d9be400df0ad3fdf2d532a34305a3.jpg",
-      "updated_at": "2026-08-06T10:28:11.266Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3bec3d5ac7b07181b5844b-18a5ee7e4bba.png",
-      "icon_bytes": 50564
     }
   ]
 }
