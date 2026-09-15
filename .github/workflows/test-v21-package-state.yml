@@ -1,0 +1,68 @@
+name: Test V21 package identity metadata
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [v21-package-state]
+    paths:
+      - 'scripts/extract-pkg-icons.py'
+      - '.github/workflows/test-v21-package-state.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  metadata:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout catalog branch
+        uses: actions/checkout@v5
+
+      - name: Set up Pillow
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 -m venv .venv
+          .venv/bin/python -m pip install --disable-pip-version-check --quiet pillow
+
+      - name: Extract package identity metadata using bounded HTTP ranges
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: .venv/bin/python ./scripts/extract-pkg-icons.py
+
+      - name: Validate identity schema
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json, re
+          from pathlib import Path
+
+          catalog = json.loads(Path('packages.json').read_text())
+          packages = catalog.get('packages') or []
+          resolved = [p for p in packages if p.get('title_id') or p.get('content_id')]
+          assert resolved, 'no package identities were resolved'
+          for p in resolved:
+              tid = p.get('title_id', '')
+              cid = p.get('content_id', '')
+              ver = p.get('package_version', '')
+              if tid:
+                  assert re.fullmatch(r'[A-Z0-9]{4,24}', tid), (p.get('id'), tid)
+              if cid:
+                  assert len(cid) <= 64 and all(32 <= ord(c) <= 126 for c in cid), (p.get('id'), cid)
+              if ver:
+                  assert len(ver) <= 48, (p.get('id'), ver)
+          stats = catalog.get('_stats') or {}
+          print(f"resolved identities: {len(resolved)}/{len(packages)}")
+          print(f"metadata attempts: {stats.get('pkg_metadata_attempts', 0)}")
+          print(f"metadata resolved: {stats.get('pkg_metadata_resolved', 0)}")
+          for p in resolved:
+              print(p.get('id'), p.get('title_id', ''), p.get('content_id', ''), p.get('package_version', ''), p.get('identity_origin', ''))
+          PY
+
+      - name: Upload enriched catalog sample
+        uses: actions/upload-artifact@v7
+        with:
+          name: v21-package-identity-sample
+          path: packages.json
+          if-no-files-found: error
