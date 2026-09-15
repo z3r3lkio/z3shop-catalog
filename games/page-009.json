@@ -4,10 +4,71 @@
   "source": "gfs-pfs-library",
   "page": 9,
   "page_size": 24,
-  "total": 365,
+  "total": 367,
   "pages": 16,
-  "generated": "2026-09-15T06:33:59.359Z",
+  "generated": "2026-09-15T12:32:10.396Z",
   "games": [
+    {
+      "id": "6a4b190a2860efac54e4aa96",
+      "title_id": "PPSA06899",
+      "title": "TOPSPIN 2K25",
+      "version": "01.017",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 37151467110,
+      "size_label": "34.6 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0619/b9cfd4a50d5a87a891c05be6f3e2f107f066d76e8a88dcb6.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0619/a8cd5db9b6c19c3ae8159f4248de9ccc729bc9255f0bd885.jpg",
+      "updated_at": "2026-07-28T10:29:35.802Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4b190a2860efac54e4aa96-f746e55563aa.png",
+      "icon_bytes": 91959
+    },
+    {
+      "id": "6a686e283d4889f7e22e8b6d",
+      "title_id": "PPSA16018",
+      "title": "Double Dragon Gaiden : Rise of the Dragons",
+      "version": "01.013",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_label": "7.xx+",
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 601295421,
+      "size_label": "0.6 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2318/ce47b007bc985f46d59efc2a6243f883fc22012b0627309d.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2318/c81b9bd076029e52f6e5b3e135f850edbd7aa908e30e781a.jpg",
+      "updated_at": "2026-07-28T08:54:00.951Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a686e283d4889f7e22e8b6d-94ad629431db.png",
+      "icon_bytes": 66638
+    },
     {
       "id": "6a686da43d4889f7e22e8b6c",
       "title_id": "PPSA07618",
@@ -693,69 +754,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a60a77d20ce6441f5b9a139-5e4691a6b695.png",
       "icon_bytes": 75786
-    },
-    {
-      "id": "6a60a74820ce6441f5b9a138",
-      "title_id": "PPSA03457",
-      "title": "Demon Slayer Kimetsu no Yaiba The Hinokami Chronicles: Ultimate Edition",
-      "version": "1.08.03",
-      "pack": "unknown",
-      "region": "ASIA to EUR Languages",
-      "firmware": [
-        "3.xx+"
-      ],
-      "firmware_label": "3.xx+",
-      "firmware_raw": [
-        "3.xx and beyond"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 31245887078,
-      "size_label": "29.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1704/2ZfAUG5CTXdM34S1OhmMW1zF.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1704/CThITKGLtVx842gN7MeKC8TJ.jpg",
-      "updated_at": "2026-07-22T11:19:36.234Z",
-      "link_count": 3,
-      "providers": [
-        "Viki",
-        "Akirabox",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a60a74820ce6441f5b9a138-97f4675e1afb.png",
-      "icon_bytes": 90993
-    },
-    {
-      "id": "6a6060dc20ce6441f5b9a136",
-      "title_id": "PPSA03541",
-      "title": "UFC 5",
-      "version": "01.031",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx Backport"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 53901839565,
-      "size_label": "50.2 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0421/0b3fe53ab2d54998602b41682ef1bd83e63e82d3f9ab8fff.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0421/8e258029459b8e7bb2e2f18cff54e8fcebdcc5a84833a767.png",
-      "updated_at": "2026-07-22T06:19:08.404Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6060dc20ce6441f5b9a136-9fda0d1a1f8c.png",
-      "icon_bytes": 67918
     }
   ]
 }

@@ -4,10 +4,73 @@
   "source": "gfs-pfs-library",
   "page": 14,
   "page_size": 24,
-  "total": 365,
+  "total": 367,
   "pages": 16,
-  "generated": "2026-09-15T06:33:59.359Z",
+  "generated": "2026-09-15T12:32:10.396Z",
   "games": [
+    {
+      "id": "6a4a87cc2860efac54e4aa83",
+      "title_id": "PPSA11541",
+      "title": "STORY OF SEASONS A Wonderful Life",
+      "version": "01.002",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "6.xx+"
+      ],
+      "firmware_label": "6.xx+",
+      "firmware_raw": [
+        "6.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.7.6",
+      "dlcs_merged": true,
+      "size_bytes": 1052266988,
+      "size_label": "1.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0313/77b15ba3b057ef537cb88debd232cb697eefe22769a82769.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0313/ea653f08811dd203776718d6c33bb68e8620dd910b84b446.jpg",
+      "updated_at": "2026-07-05T16:35:24.932Z",
+      "link_count": 3,
+      "providers": [
+        "1fichier",
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a87cc2860efac54e4aa83-a04dfc5ee9af.png",
+      "icon_bytes": 78486
+    },
+    {
+      "id": "6a4a79442860efac54e4aa81",
+      "title_id": "PPSA15572",
+      "title": "SOUTH PARK: SNOW DAY!",
+      "version": "01.023",
+      "pack": "unknown",
+      "region": "JPN",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_label": "7.xx+",
+      "firmware_raw": [
+        "7.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 28797755720,
+      "size_label": "26.8 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0518/7c080e8c94cf483ba2bf7d333f0eda0a07e1f49ad628aa11.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0518/ec6b03a285d29d64aa4913ebb7175f85eabc2b7b2c3a878d.jpg",
+      "updated_at": "2026-07-05T15:33:24.322Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a79442860efac54e4aa81-45f7e1dfdd43.png",
+      "icon_bytes": 78300
+    },
     {
       "id": "6a4a78f62860efac54e4aa80",
       "title_id": "PPSA02154",
@@ -687,71 +750,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028c4-c75fdb96777c.png",
       "icon_bytes": 75661
-    },
-    {
-      "id": "6a3655f056e5f49eefa028c5",
-      "title_id": "PPSA28101",
-      "title": "Life is Strange Reunion",
-      "version": "1.000",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 22774064087,
-      "size_label": "21.2 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1009/1d7f497dcb356ad84c52d023dffa06d5224fc686be406db0.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0917/68ff551088d57e342168992fabc11a1aed5e4da1d6151c9f.png",
-      "updated_at": "2026-06-26T15:20:02.301Z",
-      "link_count": 4,
-      "providers": [
-        "Viki",
-        "1fichier",
-        "DLCs (PKG – DUPLEX)",
-        "1fichier - DLCs (PKG – DUPLEX)"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028c5-f2a90f9f1853.png",
-      "icon_bytes": 56974
-    },
-    {
-      "id": "6a3655f056e5f49eefa028c6",
-      "title_id": "PPSA30094",
-      "title": "High on Life 2",
-      "version": "1.100.100",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 62620623176,
-      "size_label": "58.3 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2223/fc161454fab46f25ca4d0e20c096a1bd130031a7bbee65d0.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2223/16772ad2396607bf8b63636fa67ef73acf68c93ef28ab4f1.png",
-      "updated_at": "2026-06-26T15:18:21.127Z",
-      "link_count": 3,
-      "providers": [
-        "Viki",
-        "1fichier",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028c6-f1140c6d26a8.png",
-      "icon_bytes": 87440
     }
   ]
 }

@@ -4,10 +4,75 @@
   "source": "gfs-pfs-library",
   "page": 15,
   "page_size": 24,
-  "total": 365,
+  "total": 367,
   "pages": 16,
-  "generated": "2026-09-15T06:33:59.359Z",
+  "generated": "2026-09-15T12:32:10.396Z",
   "games": [
+    {
+      "id": "6a3655f056e5f49eefa028c5",
+      "title_id": "PPSA28101",
+      "title": "Life is Strange Reunion",
+      "version": "1.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 22774064087,
+      "size_label": "21.2 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1009/1d7f497dcb356ad84c52d023dffa06d5224fc686be406db0.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0917/68ff551088d57e342168992fabc11a1aed5e4da1d6151c9f.png",
+      "updated_at": "2026-06-26T15:20:02.301Z",
+      "link_count": 4,
+      "providers": [
+        "Viki",
+        "1fichier",
+        "DLCs (PKG – DUPLEX)",
+        "1fichier - DLCs (PKG – DUPLEX)"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028c5-f2a90f9f1853.png",
+      "icon_bytes": 56974
+    },
+    {
+      "id": "6a3655f056e5f49eefa028c6",
+      "title_id": "PPSA30094",
+      "title": "High on Life 2",
+      "version": "1.100.100",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 62620623176,
+      "size_label": "58.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2223/fc161454fab46f25ca4d0e20c096a1bd130031a7bbee65d0.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2223/16772ad2396607bf8b63636fa67ef73acf68c93ef28ab4f1.png",
+      "updated_at": "2026-06-26T15:18:21.127Z",
+      "link_count": 3,
+      "providers": [
+        "Viki",
+        "1fichier",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028c6-f1140c6d26a8.png",
+      "icon_bytes": 87440
+    },
     {
       "id": "6a3e72e79ed762de5f291cd8",
       "title_id": "PPSA01337",
@@ -688,67 +753,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028d4-a4f6f6a3b0fc.png",
       "icon_bytes": 53480
-    },
-    {
-      "id": "6a3655f056e5f49eefa028ca",
-      "title_id": "PPSA03500",
-      "title": "New Tales from the Borderlands®",
-      "version": "1.002",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 30086245908,
-      "size_label": "28.0 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0923/7WwYUpjZvCQIMJjVDMwG5VD8.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0923/Q3lIGDQzxcEg1iVfv3X12R3e.jpg",
-      "updated_at": "2026-06-20T08:57:20.000Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028ca-c8fbb1583efc.png",
-      "icon_bytes": 70981
-    },
-    {
-      "id": "6a3655f056e5f49eefa028d6",
-      "title_id": "PPSA05521",
-      "title": "PAW Patrol Grand Prix",
-      "version": "1.000",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "5.xx+"
-      ],
-      "firmware_label": "5.xx+",
-      "firmware_raw": [
-        "5.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 2168958484,
-      "size_label": "2.0 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0308/6rarIXeFEnJ8BKeL5vLJmojC.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0308/WSCdnloPYuN6AVRgho0MRA1u.jpg",
-      "updated_at": "2026-06-20T08:57:20.000Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028d6-ec0ab51054a6.png",
-      "icon_bytes": 74884
     }
   ]
 }

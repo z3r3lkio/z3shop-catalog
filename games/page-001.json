@@ -4,10 +4,70 @@
   "source": "gfs-pfs-library",
   "page": 1,
   "page_size": 24,
-  "total": 365,
+  "total": 367,
   "pages": 16,
-  "generated": "2026-09-15T06:33:59.359Z",
+  "generated": "2026-09-15T12:32:10.396Z",
   "games": [
+    {
+      "id": "6aa9051a3f728aecb6a169f1",
+      "title_id": "PPSA04029",
+      "title": "Cyberpunk 2077 Ultimate Edition",
+      "version": "02.120",
+      "pack": "fpkg",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 136923557396,
+      "size_label": "128 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/6bAF2VVEamgKclalI0oBnoAe.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1517/a1krxU0VRlOC3ULeUjeFGEcA.png",
+      "updated_at": "2026-09-15T08:43:06.965Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa9051a3f728aecb6a169f1-c4db05cca8ef.png",
+      "icon_bytes": 63843
+    },
+    {
+      "id": "6aa8ed0a3f728aecb6a169ef",
+      "title_id": "PPSA21567",
+      "title": "ASTRO BOT",
+      "version": "01.018",
+      "pack": "fpkg",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 38719130173,
+      "size_label": "36.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/0d05cb43413f28a641ac0c40fc272c70bbe194f6ade4b175.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/80ecf657918558eeef8da3ee4cef326e4517d34e6c69d950.jpg",
+      "updated_at": "2026-09-15T07:00:26.634Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa8ed0a3f728aecb6a169ef-aa75855cdfcb.png",
+      "icon_bytes": 64212
+    },
     {
       "id": "6aa8a26e3f728aecb6a169ee",
       "title_id": "PPSA09091",
@@ -72,7 +132,7 @@
       "id": "6aa89aa73f728aecb6a169ec",
       "title_id": "PPSA14251",
       "title": "Mafia The Old Country: Deluxe Edition",
-      "version": "01.006",
+      "version": "01.008",
       "pack": "fpkg",
       "region": "EUR",
       "firmware": [
@@ -674,69 +734,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa52b60b67d2ea2148cd774-005bf133d403.png",
       "icon_bytes": 67950
-    },
-    {
-      "id": "6a3655f056e5f49eefa028b4",
-      "title_id": "PPSA20396",
-      "title": "Assassins Creed Shadows",
-      "version": "1.019.076",
-      "pack": "pfs",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx+"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.4.2.1",
-      "dlcs_merged": false,
-      "size_bytes": 170724950016,
-      "size_label": "159 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1815/33f39cad34ac468a040ffed5a43149fb4329ec6c73326838.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2422/24a9ae73826a4d3aa7ae07f03e2d9e8f376a7bf7213aa869.jpg",
-      "updated_at": "2026-09-10T14:03:09.267Z",
-      "link_count": 3,
-      "providers": [
-        "Data",
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028b4-b23b2947c88b.png",
-      "icon_bytes": 64352
-    },
-    {
-      "id": "6aa01e50e7a6fda1fdb37b6e",
-      "title_id": "PPSA27676",
-      "title": "Painkiller",
-      "version": "01.007",
-      "pack": "pfs",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 26414048870,
-      "size_label": "24.6 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/1911/8935847acc5497e1ae9103b4499f81b89aacb600214a3e51.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/1911/de6d8122bd11aa648827b26d00e3473c3896ab149a9aff1f.png",
-      "updated_at": "2026-09-08T14:40:16.383Z",
-      "link_count": 5,
-      "providers": [
-        "Akirabox",
-        "Archive (Game + DLC)"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa01e50e7a6fda1fdb37b6e-06d2c55ccb98.png",
-      "icon_bytes": 97787
     }
   ]
 }

@@ -268,7 +268,7 @@
       "url": "https://pfs-library.xetdy-am.workers.dev/api/packages",
       "homepage": "https://pfs-library.xetdy-am.workers.dev/",
       "mode": "discovery",
-      "entries": 365
+      "entries": 367
     },
     {
       "id": "nexgen-aio-pkg",
@@ -300,7 +300,7 @@
     "featured": 6,
     "apps": 10,
     "ffspsc": 3,
-    "discovered_games": 365,
+    "discovered_games": 367,
     "icons": 13,
     "icon_bytes": 701117,
     "pkg_icon_attempts": 6,
@@ -309,26 +309,26 @@
     "pkg_icons_fih": 3,
     "icons_unresolved": 0
   },
-  "_generated": "2026-09-15T06:33:58.654Z",
+  "_generated": "2026-09-15T12:32:09.539Z",
   "_discovery": {
     "pfs_library": {
       "source_name": "GFS Catalog",
       "homepage": "https://pfs-library.xetdy-am.workers.dev/",
       "api": "https://pfs-library.xetdy-am.workers.dev/api/packages",
       "mode": "discovery-metadata-only",
-      "packages": 365,
+      "packages": 367,
       "unique_title_ids": 341,
-      "explicit_pack_entries": 66,
+      "explicit_pack_entries": 68,
       "unspecified_pack_entries": 299,
       "pack_counts": {
         "unspecified": 299,
         "pfs": 48,
-        "lz4": 10,
-        "fpkg": 8
+        "fpkg": 10,
+        "lz4": 10
       },
       "region_counts": {
         "USA": 174,
-        "EUR": 151,
+        "EUR": 153,
         "JPN": 22,
         "ASIA": 5,
         "USA to EUR Languages": 4,
@@ -342,7 +342,7 @@
         "4.xx": 87,
         "4.xx +": 50,
         "4.xx BackPort": 28,
-        "4.xx+": 23,
+        "4.xx+": 25,
         "7.xx": 17,
         "4.xx Backport": 12,
         "4.xx BackPork": 9,
@@ -426,10 +426,10 @@
         "lz4": false,
         "fpkg": false
       },
-      "dlcs_merged": 71,
-      "download_links": 880,
+      "dlcs_merged": 72,
+      "download_links": 882,
       "link_provider_counts": {
-        "Viki": 299,
+        "Viki": 301,
         "Archive": 242,
         "Akirabox": 200,
         "1fichier": 40,
@@ -472,9 +472,43 @@
         "Vikingfile - 4.xx Backport": 1,
         "vikingfile.com": 1
       },
-      "posters": 365,
-      "banners": 365,
+      "posters": 367,
+      "banners": 367,
       "latest": [
+        {
+          "id": "6aa9051a3f728aecb6a169f1",
+          "title_id": "PPSA04029",
+          "title": "Cyberpunk 2077 Ultimate Edition",
+          "version": "02.120",
+          "pack": "fpkg",
+          "region": "EUR",
+          "firmware": [
+            "4.xx+"
+          ],
+          "apr": false,
+          "apr_version": "",
+          "dlcs_merged": true,
+          "size_bytes": 136923557396,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/6bAF2VVEamgKclalI0oBnoAe.jpg",
+          "updated_at": "2026-09-15T08:43:06.965Z"
+        },
+        {
+          "id": "6aa8ed0a3f728aecb6a169ef",
+          "title_id": "PPSA21567",
+          "title": "ASTRO BOT",
+          "version": "01.018",
+          "pack": "fpkg",
+          "region": "EUR",
+          "firmware": [
+            "4.xx+"
+          ],
+          "apr": false,
+          "apr_version": "",
+          "dlcs_merged": false,
+          "size_bytes": 38719130173,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/0d05cb43413f28a641ac0c40fc272c70bbe194f6ade4b175.png",
+          "updated_at": "2026-09-15T07:00:26.634Z"
+        },
         {
           "id": "6aa8a26e3f728aecb6a169ee",
           "title_id": "PPSA09091",
@@ -513,7 +547,7 @@
           "id": "6aa89aa73f728aecb6a169ec",
           "title_id": "PPSA14251",
           "title": "Mafia The Old Country: Deluxe Edition",
-          "version": "01.006",
+          "version": "01.008",
           "pack": "fpkg",
           "region": "EUR",
           "firmware": [
@@ -644,40 +678,6 @@
           "size_bytes": 56371445760,
           "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1420/HcLcfeQBXd2RiQaCeWQDCIFN.jpg",
           "updated_at": "2026-09-14T08:18:29.454Z"
-        },
-        {
-          "id": "6aa7963e792e471937d0b01a",
-          "title_id": "PPSA19446",
-          "title": "Boti Byteland: Overclocked",
-          "version": "01.004",
-          "pack": "pfs",
-          "region": "EUR",
-          "firmware": [
-            "4.xx+"
-          ],
-          "apr": false,
-          "apr_version": "",
-          "dlcs_merged": false,
-          "size_bytes": 3113851290,
-          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0411/cd9b3667cf2a27dac2727218d6eac0209716a081cd241684.jpg",
-          "updated_at": "2026-09-14T06:37:50.933Z"
-        },
-        {
-          "id": "6aa78dd0792e471937d0b019",
-          "title_id": "PPSA13197",
-          "title": "Stellar Blade™ Complete Edition",
-          "version": "01.014.001",
-          "pack": "lz4",
-          "region": "EUR",
-          "firmware": [
-            "4.xx+"
-          ],
-          "apr": true,
-          "apr_version": "apr-emu-v0.4.2.1",
-          "dlcs_merged": true,
-          "size_bytes": 64854006170,
-          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/b06dff4ff09b4bd891adb354e9ca8562d1af31c6508334ad.jpg",
-          "updated_at": "2026-09-14T06:01:52.602Z"
         }
       ]
     }

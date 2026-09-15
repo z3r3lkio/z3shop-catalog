@@ -4,10 +4,71 @@
   "source": "gfs-pfs-library",
   "page": 8,
   "page_size": 24,
-  "total": 365,
+  "total": 367,
   "pages": 16,
-  "generated": "2026-09-15T06:33:59.359Z",
+  "generated": "2026-09-15T12:32:10.396Z",
   "games": [
+    {
+      "id": "6a70603ca80b138b911d68e0",
+      "title_id": "PPSA01289",
+      "title": "Sackboy A Big Adventure",
+      "version": "01.024",
+      "pack": "unknown",
+      "region": "USA to EUR Languages",
+      "firmware": [
+        "1.xx+"
+      ],
+      "firmware_label": "1.xx+",
+      "firmware_raw": [
+        "1.xx beyond"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 34681860915,
+      "size_label": "32.3 GiB",
+      "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVtmTA6aubIjV6VlwR09DJY_lQmHca7UQlTU2IFaGPie1lyzHbF4X3NYpsHTVL87DMTedwvA&s=10",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/1614/F3WT1i11qaAoJjAErwUywN4x.jpg",
+      "updated_at": "2026-08-03T09:32:44.984Z",
+      "link_count": 3,
+      "providers": [
+        "Archive (Game + DLC)",
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a70603ca80b138b911d68e0-ee327b5e62d9.png",
+      "icon_bytes": 88723
+    },
+    {
+      "id": "6a705fbaa80b138b911d68df",
+      "title_id": "PPSA07905",
+      "title": "Still Wakes The Deep",
+      "version": "01.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 9298604196,
+      "size_label": "8.7 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0715/a399fdf00e0556080e172379da5f138f905e59d9e75e4248.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2309/e57731020194669f06357c3ce8752a423fa5848142044c7d.jpg",
+      "updated_at": "2026-08-03T09:30:34.431Z",
+      "link_count": 2,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a705fbaa80b138b911d68df-d42b25101773.png",
+      "icon_bytes": 66656
+    },
     {
       "id": "6a705f91a80b138b911d68de",
       "title_id": "PPSA09664",
@@ -689,67 +750,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a408c889e5b943a9a6dc5d3-f4c9c7e41fea.png",
       "icon_bytes": 78436
-    },
-    {
-      "id": "6a4b190a2860efac54e4aa96",
-      "title_id": "PPSA06899",
-      "title": "TOPSPIN 2K25",
-      "version": "01.017",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 37151467110,
-      "size_label": "34.6 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0619/b9cfd4a50d5a87a891c05be6f3e2f107f066d76e8a88dcb6.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0619/a8cd5db9b6c19c3ae8159f4248de9ccc729bc9255f0bd885.jpg",
-      "updated_at": "2026-07-28T10:29:35.802Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4b190a2860efac54e4aa96-f746e55563aa.png",
-      "icon_bytes": 91959
-    },
-    {
-      "id": "6a686e283d4889f7e22e8b6d",
-      "title_id": "PPSA16018",
-      "title": "Double Dragon Gaiden : Rise of the Dragons",
-      "version": "01.013",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "7.xx+"
-      ],
-      "firmware_label": "7.xx+",
-      "firmware_raw": [
-        "7.xx"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 601295421,
-      "size_label": "0.6 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2318/ce47b007bc985f46d59efc2a6243f883fc22012b0627309d.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2318/c81b9bd076029e52f6e5b3e135f850edbd7aa908e30e781a.jpg",
-      "updated_at": "2026-07-28T08:54:00.951Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a686e283d4889f7e22e8b6d-94ad629431db.png",
-      "icon_bytes": 66638
     }
   ]
 }

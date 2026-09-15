@@ -4,10 +4,70 @@
   "source": "gfs-pfs-library",
   "page": 3,
   "page_size": 24,
-  "total": 365,
+  "total": 367,
   "pages": 16,
-  "generated": "2026-09-15T06:33:59.359Z",
+  "generated": "2026-09-15T12:32:10.396Z",
   "games": [
+    {
+      "id": "6a902294b0a31dad5b0fe914",
+      "title_id": "PPSA26893",
+      "title": "SpongeBob SquarePants: Titans of the Tide",
+      "version": "01.400",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 10007273800,
+      "size_label": "9.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/3014/18450f420e722d733a90787ab1ac41605fc08562e4972cd1.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/3014/373125106ed12e9aed89af2125e4b4a67c588ee21d7506ab.jpg",
+      "updated_at": "2026-08-27T15:47:50.669Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a902294b0a31dad5b0fe914-10ee1c9f0e5b.png",
+      "icon_bytes": 76344
+    },
+    {
+      "id": "6a904a65b0a31dad5b0fe915",
+      "title_id": "PPSA13715",
+      "title": "Star Ocean The Second Story R",
+      "version": "01.00",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 15891378995,
+      "size_label": "14.8 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1311/e667f9c71cf948a6f5eb886f978b768018fa642746c752ef.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1311/fbe4dcb172073bdab8512e5d762497c33bbbf56ffa8fb7e5.jpg",
+      "updated_at": "2026-08-27T15:46:41.040Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a904a65b0a31dad5b0fe915-8d329ecad379.png",
+      "icon_bytes": 74910
+    },
     {
       "id": "6a8fc4ddb0a31dad5b0fe912",
       "title_id": "PPSA07587",
@@ -688,68 +748,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a86af9db0a31dad5b0fe8e8-746ec24e1d87.png",
       "icon_bytes": 84068
-    },
-    {
-      "id": "6a85c39fb0a31dad5b0fe8e6",
-      "title_id": "PPSA22946",
-      "title": "LEGO® Harry Potter™ Collection",
-      "version": "01.001",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 13851269530,
-      "size_label": "12.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/3018/d0b4fb01f0490402de6cd17d24e97d1539a9cec0115c8697.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/3018/538204565d33af5a5a98b18cdfb4ce59cb568e5db75c9a2b.png",
-      "updated_at": "2026-08-19T14:54:23.294Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a85c39fb0a31dad5b0fe8e6-371812fc0ce1.png",
-      "icon_bytes": 74184
-    },
-    {
-      "id": "6a854a12b0a31dad5b0fe8e3",
-      "title_id": "PPSA05027",
-      "title": "Gear.Club Unlimited 2 - Ultimate Edition",
-      "version": "01.001",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "3.xx+"
-      ],
-      "firmware_label": "3.xx+",
-      "firmware_raw": [
-        "3.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 11950746501,
-      "size_label": "11.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2613/H5x1DN1Fusa3Wr4rsYlAJgYi.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2613/2WMCqXEr3SVUvDJUBPx1xpfo.png",
-      "updated_at": "2026-08-19T06:15:46.002Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a854a12b0a31dad5b0fe8e3-e8a4a55957f6.png",
-      "icon_bytes": 61005
     }
   ]
 }

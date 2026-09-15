@@ -4,10 +4,71 @@
   "source": "gfs-pfs-library",
   "page": 12,
   "page_size": 24,
-  "total": 365,
+  "total": 367,
   "pages": 16,
-  "generated": "2026-09-15T06:33:59.359Z",
+  "generated": "2026-09-15T12:32:10.396Z",
   "games": [
+    {
+      "id": "6a588640664b52645fefe098",
+      "title_id": "PPSA03174",
+      "title": "Astria Ascending",
+      "version": "01.000",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "3.xx+"
+      ],
+      "firmware_label": "3.xx+",
+      "firmware_raw": [
+        "3.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 9771050598,
+      "size_label": "9.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202108/2014/9bbqd8YFQ5sl9uJEJwriy4hF.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202108/2014/XSQb10aVv525CssxXLdk7Rvj.jpg",
+      "updated_at": "2026-07-16T07:20:32.047Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a588640664b52645fefe098-23292afee2b6.png",
+      "icon_bytes": 67806
+    },
+    {
+      "id": "6a39365196b0daf7f6fdaa9a",
+      "title_id": "PPSA04339",
+      "title": "Nickelodeon Kart Racers 3 Slime Speedway",
+      "version": "1.000.000",
+      "pack": "pfs",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 8697308774,
+      "size_label": "8.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1211/cI5ANf9yBpZIiN6uaAfNXgMF.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1211/9cUD66DJOOaUydKiL0Uzg2lu.png",
+      "updated_at": "2026-07-16T06:13:29.587Z",
+      "link_count": 3,
+      "providers": [
+        "Viki",
+        "Archive + DLC"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a39365196b0daf7f6fdaa9a-2c4cffaab85c.png",
+      "icon_bytes": 82986
+    },
     {
       "id": "6a586e12664b52645fefe096",
       "title_id": "PPSA13794",
@@ -685,68 +746,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a509118664b52645fefe06e-8775db8085fb.png",
       "icon_bytes": 49906
-    },
-    {
-      "id": "6a3655f056e5f49eefa028d5",
-      "title_id": "PPSA02530",
-      "title": "PRAGMATA Deluxe Edition",
-      "version": "1.200",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "5.xx+"
-      ],
-      "firmware_label": "5.xx+",
-      "firmware_raw": [
-        "5.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 38504381809,
-      "size_label": "35.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2605/b7ec5836e23affe26c8ad00124a1eddddab5e1bad456c03e.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2605/903271eb79de107c27515fd04ee6f9e9cfdf2d6028a48673.png",
-      "updated_at": "2026-07-12T12:51:51.149Z",
-      "link_count": 3,
-      "providers": [
-        "Viki",
-        "FileKeeper",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028d5-8471a574b391.png",
-      "icon_bytes": 57547
-    },
-    {
-      "id": "6a526204664b52645fefe07a",
-      "title_id": "PPSA07411",
-      "title": "Resident Evil 4 Gold Edition",
-      "version": "01.590",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "7.xx+"
-      ],
-      "firmware_label": "7.xx+",
-      "firmware_raw": [
-        "7.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 87402584474,
-      "size_label": "81.4 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2708/ympJiu4PTXE1CtMHfLoHoK3E.png",
-      "updated_at": "2026-07-12T03:23:29.791Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a526204664b52645fefe07a-44a183715a70.png",
-      "icon_bytes": 65848
     }
   ]
 }

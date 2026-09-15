@@ -4,10 +4,72 @@
   "source": "gfs-pfs-library",
   "page": 13,
   "page_size": 24,
-  "total": 365,
+  "total": 367,
   "pages": 16,
-  "generated": "2026-09-15T06:33:59.359Z",
+  "generated": "2026-09-15T12:32:10.396Z",
   "games": [
+    {
+      "id": "6a3655f056e5f49eefa028d5",
+      "title_id": "PPSA02530",
+      "title": "PRAGMATA Deluxe Edition",
+      "version": "1.200",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_label": "5.xx+",
+      "firmware_raw": [
+        "5.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 38504381809,
+      "size_label": "35.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2605/b7ec5836e23affe26c8ad00124a1eddddab5e1bad456c03e.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2605/903271eb79de107c27515fd04ee6f9e9cfdf2d6028a48673.png",
+      "updated_at": "2026-07-12T12:51:51.149Z",
+      "link_count": 3,
+      "providers": [
+        "Viki",
+        "FileKeeper",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028d5-8471a574b391.png",
+      "icon_bytes": 57547
+    },
+    {
+      "id": "6a526204664b52645fefe07a",
+      "title_id": "PPSA07411",
+      "title": "Resident Evil 4 Gold Edition",
+      "version": "01.590",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_label": "7.xx+",
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 87402584474,
+      "size_label": "81.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2708/ympJiu4PTXE1CtMHfLoHoK3E.png",
+      "updated_at": "2026-07-12T03:23:29.791Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a526204664b52645fefe07a-44a183715a70.png",
+      "icon_bytes": 65848
+    },
     {
       "id": "6a526095664b52645fefe079",
       "title_id": "PPSA32785",
@@ -693,69 +755,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4b21bf2860efac54e4aa98-7e4dae12b707.png",
       "icon_bytes": 62253
-    },
-    {
-      "id": "6a4a87cc2860efac54e4aa83",
-      "title_id": "PPSA11541",
-      "title": "STORY OF SEASONS A Wonderful Life",
-      "version": "01.002",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "6.xx+"
-      ],
-      "firmware_label": "6.xx+",
-      "firmware_raw": [
-        "6.xx +"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.7.6",
-      "dlcs_merged": true,
-      "size_bytes": 1052266988,
-      "size_label": "1.0 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0313/77b15ba3b057ef537cb88debd232cb697eefe22769a82769.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0313/ea653f08811dd203776718d6c33bb68e8620dd910b84b446.jpg",
-      "updated_at": "2026-07-05T16:35:24.932Z",
-      "link_count": 3,
-      "providers": [
-        "1fichier",
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a87cc2860efac54e4aa83-a04dfc5ee9af.png",
-      "icon_bytes": 78486
-    },
-    {
-      "id": "6a4a79442860efac54e4aa81",
-      "title_id": "PPSA15572",
-      "title": "SOUTH PARK: SNOW DAY!",
-      "version": "01.023",
-      "pack": "unknown",
-      "region": "JPN",
-      "firmware": [
-        "7.xx+"
-      ],
-      "firmware_label": "7.xx+",
-      "firmware_raw": [
-        "7.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 28797755720,
-      "size_label": "26.8 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0518/7c080e8c94cf483ba2bf7d333f0eda0a07e1f49ad628aa11.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0518/ec6b03a285d29d64aa4913ebb7175f85eabc2b7b2c3a878d.jpg",
-      "updated_at": "2026-07-05T15:33:24.322Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a79442860efac54e4aa81-45f7e1dfdd43.png",
-      "icon_bytes": 78300
     }
   ]
 }

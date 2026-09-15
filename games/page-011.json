@@ -4,10 +4,72 @@
   "source": "gfs-pfs-library",
   "page": 11,
   "page_size": 24,
-  "total": 365,
+  "total": 367,
   "pages": 16,
-  "generated": "2026-09-15T06:33:59.359Z",
+  "generated": "2026-09-15T12:32:10.396Z",
   "games": [
+    {
+      "id": "6a5ba0dc664b52645fefe0bc",
+      "title_id": "PPSA10695",
+      "title": "EA Sports WRC",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 97066260890,
+      "size_label": "90.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2017/166062532ad435b6c00c4936b247245df646d58893e0e50a.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202404/0511/742f7ebc9840036c7e4b3230d84563f97eabbf488c7f22b5.png",
+      "updated_at": "2026-07-18T15:50:52.793Z",
+      "link_count": 2,
+      "providers": [
+        "Buzzheavier",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5ba0dc664b52645fefe0bc-25a1a912b395.png",
+      "icon_bytes": 74242
+    },
+    {
+      "id": "6a5b7f11664b52645fefe0bb",
+      "title_id": "PPSA10528",
+      "title": "Prince of Persia: The Lost Crown Complete Edition",
+      "version": "01.004.001",
+      "pack": "pfs",
+      "region": "EUR",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_label": "7.xx+",
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 28346784154,
+      "size_label": "26.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0420/efd5c305e9d59a83351faf656fcf42c7c62f3e785a0e8de5.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0420/2c51452bb36f690eebc4f710103f0cef8e15873653ca60bf.jpg",
+      "updated_at": "2026-07-18T13:26:41.736Z",
+      "link_count": 2,
+      "providers": [
+        "Archive",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5b7f11664b52645fefe0bb-545ab054c353.png",
+      "icon_bytes": 75290
+    },
     {
       "id": "6a5b7e37664b52645fefe0ba",
       "title_id": "PPSA03527",
@@ -673,67 +735,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5886f2664b52645fefe099-36e0b752094b.png",
       "icon_bytes": 53551
-    },
-    {
-      "id": "6a588640664b52645fefe098",
-      "title_id": "PPSA03174",
-      "title": "Astria Ascending",
-      "version": "01.000",
-      "pack": "pfs",
-      "region": "USA",
-      "firmware": [
-        "3.xx+"
-      ],
-      "firmware_label": "3.xx+",
-      "firmware_raw": [
-        "3.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 9771050598,
-      "size_label": "9.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202108/2014/9bbqd8YFQ5sl9uJEJwriy4hF.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202108/2014/XSQb10aVv525CssxXLdk7Rvj.jpg",
-      "updated_at": "2026-07-16T07:20:32.047Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a588640664b52645fefe098-23292afee2b6.png",
-      "icon_bytes": 67806
-    },
-    {
-      "id": "6a39365196b0daf7f6fdaa9a",
-      "title_id": "PPSA04339",
-      "title": "Nickelodeon Kart Racers 3 Slime Speedway",
-      "version": "1.000.000",
-      "pack": "pfs",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 8697308774,
-      "size_label": "8.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1211/cI5ANf9yBpZIiN6uaAfNXgMF.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1211/9cUD66DJOOaUydKiL0Uzg2lu.png",
-      "updated_at": "2026-07-16T06:13:29.587Z",
-      "link_count": 3,
-      "providers": [
-        "Viki",
-        "Archive + DLC"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a39365196b0daf7f6fdaa9a-2c4cffaab85c.png",
-      "icon_bytes": 82986
     }
   ]
 }

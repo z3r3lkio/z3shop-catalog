@@ -4,10 +4,72 @@
   "source": "gfs-pfs-library",
   "page": 4,
   "page_size": 24,
-  "total": 365,
+  "total": 367,
   "pages": 16,
-  "generated": "2026-09-15T06:33:59.359Z",
+  "generated": "2026-09-15T12:32:10.396Z",
   "games": [
+    {
+      "id": "6a85c39fb0a31dad5b0fe8e6",
+      "title_id": "PPSA22946",
+      "title": "LEGO® Harry Potter™ Collection",
+      "version": "01.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 13851269530,
+      "size_label": "12.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/3018/d0b4fb01f0490402de6cd17d24e97d1539a9cec0115c8697.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/3018/538204565d33af5a5a98b18cdfb4ce59cb568e5db75c9a2b.png",
+      "updated_at": "2026-08-19T14:54:23.294Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a85c39fb0a31dad5b0fe8e6-371812fc0ce1.png",
+      "icon_bytes": 74184
+    },
+    {
+      "id": "6a854a12b0a31dad5b0fe8e3",
+      "title_id": "PPSA05027",
+      "title": "Gear.Club Unlimited 2 - Ultimate Edition",
+      "version": "01.001",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "3.xx+"
+      ],
+      "firmware_label": "3.xx+",
+      "firmware_raw": [
+        "3.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 11950746501,
+      "size_label": "11.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2613/H5x1DN1Fusa3Wr4rsYlAJgYi.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2613/2WMCqXEr3SVUvDJUBPx1xpfo.png",
+      "updated_at": "2026-08-19T06:15:46.002Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a854a12b0a31dad5b0fe8e3-e8a4a55957f6.png",
+      "icon_bytes": 61005
+    },
     {
       "id": "6a854894b0a31dad5b0fe8e2",
       "title_id": "PPSA05595",
@@ -694,71 +756,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8084efb0a31dad5b0fe8c7-17363c74c164.png",
       "icon_bytes": 44647
-    },
-    {
-      "id": "6a8083c9b0a31dad5b0fe8c6",
-      "title_id": "PPSA09790",
-      "title": "Dragon Ball Fighter Z",
-      "version": "01.010",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "8.xx+"
-      ],
-      "firmware_label": "8.xx+",
-      "firmware_raw": [
-        "8.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": false,
-      "size_bytes": 9556302234,
-      "size_label": "8.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2113/247839d0b08d52f66d97878f4d3c60a036be24db79ad4e00.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2113/1b4d0702411a5cb205fd27d20e999e27b5e6cad9c02f4530.jpg",
-      "updated_at": "2026-08-15T15:20:41.937Z",
-      "link_count": 5,
-      "providers": [
-        "Data",
-        "Akirabox",
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8083c9b0a31dad5b0fe8c6-6222d10e498b.png",
-      "icon_bytes": 101289
-    },
-    {
-      "id": "6a807eaeb0a31dad5b0fe8c5",
-      "title_id": "PPSA19990",
-      "title": "Tales of Graces F Remastered",
-      "version": "01.000.006",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": false,
-      "size_bytes": 11596411699,
-      "size_label": "10.8 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1119/92c72f80342978a8be1b115672cfc6b0b692b66f68a1d587.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1119/856c15f85d450c68dab730a42f6077578d17b57b5a4d49bb.png",
-      "updated_at": "2026-08-15T14:58:54.018Z",
-      "link_count": 3,
-      "providers": [
-        "Viki",
-        "Akirabox",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a807eaeb0a31dad5b0fe8c5-9ef28262711f.png",
-      "icon_bytes": 87650
     }
   ]
 }

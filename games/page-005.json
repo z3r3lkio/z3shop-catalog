@@ -4,10 +4,75 @@
   "source": "gfs-pfs-library",
   "page": 5,
   "page_size": 24,
-  "total": 365,
+  "total": 367,
   "pages": 16,
-  "generated": "2026-09-15T06:33:59.359Z",
+  "generated": "2026-09-15T12:32:10.396Z",
   "games": [
+    {
+      "id": "6a8083c9b0a31dad5b0fe8c6",
+      "title_id": "PPSA09790",
+      "title": "Dragon Ball Fighter Z",
+      "version": "01.010",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "8.xx+"
+      ],
+      "firmware_label": "8.xx+",
+      "firmware_raw": [
+        "8.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 9556302234,
+      "size_label": "8.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2113/247839d0b08d52f66d97878f4d3c60a036be24db79ad4e00.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2113/1b4d0702411a5cb205fd27d20e999e27b5e6cad9c02f4530.jpg",
+      "updated_at": "2026-08-15T15:20:41.937Z",
+      "link_count": 5,
+      "providers": [
+        "Data",
+        "Akirabox",
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8083c9b0a31dad5b0fe8c6-6222d10e498b.png",
+      "icon_bytes": 101289
+    },
+    {
+      "id": "6a807eaeb0a31dad5b0fe8c5",
+      "title_id": "PPSA19990",
+      "title": "Tales of Graces F Remastered",
+      "version": "01.000.006",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 11596411699,
+      "size_label": "10.8 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1119/92c72f80342978a8be1b115672cfc6b0b692b66f68a1d587.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1119/856c15f85d450c68dab730a42f6077578d17b57b5a4d49bb.png",
+      "updated_at": "2026-08-15T14:58:54.018Z",
+      "link_count": 3,
+      "providers": [
+        "Viki",
+        "Akirabox",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a807eaeb0a31dad5b0fe8c5-9ef28262711f.png",
+      "icon_bytes": 87650
+    },
     {
       "id": "6a807c6cb0a31dad5b0fe8c4",
       "title_id": "PPSA09384",
@@ -697,68 +762,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7b0a3715892f8818a051f8-e8d5303726eb.png",
       "icon_bytes": 68152
-    },
-    {
-      "id": "6a7b097515892f8818a051f7",
-      "title_id": "PPSA07576",
-      "title": "No More Heroes 3",
-      "version": "01.004",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx+"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 25662429594,
-      "size_label": "23.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0214/C9IdJ8YK0qy1soXuiFwyzGhF.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0214/y5lLNqQCr9Z5PfxkH97TDf6U.jpg",
-      "updated_at": "2026-08-11T11:37:25.545Z",
-      "link_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7b097515892f8818a051f7-905ddc3dcf96.png",
-      "icon_bytes": 94647
-    },
-    {
-      "id": "6a7b08fe15892f8818a051f6",
-      "title_id": "PPSA24203",
-      "title": "THE HOUSE OF THE DEAD 2: Remake",
-      "version": "02.000",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx+"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 8482560410,
-      "size_label": "7.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202412/0910/c32858e5b65d741ca06be0e1974594725edca7c4cc5fddbc.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202412/0908/20b6693d2bb01190375dada46a6f9ca4767e50cd203d2061.jpg",
-      "updated_at": "2026-08-11T11:35:26.528Z",
-      "link_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7b08fe15892f8818a051f6-33506d498310.png",
-      "icon_bytes": 75211
     }
   ]
 }
