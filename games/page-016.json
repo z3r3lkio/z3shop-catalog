@@ -4,10 +4,41 @@
   "source": "gfs-pfs-library",
   "page": 16,
   "page_size": 24,
-  "total": 361,
+  "total": 362,
   "pages": 16,
-  "generated": "2026-09-14T18:30:19.073Z",
+  "generated": "2026-09-15T00:35:26.396Z",
   "games": [
+    {
+      "id": "6a3655f056e5f49eefa028cd",
+      "title_id": "PPSA07274",
+      "title": "Tales of Arise",
+      "version": "1.04",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "1.xx+"
+      ],
+      "firmware_label": "1.xx+",
+      "firmware_raw": [
+        "1.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 40265318400,
+      "size_label": "37.5 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202107/2321/PNyon7H1cCjFSHuKJXuWb3wq.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202107/2321/iGnyvrEWk0jO09cDS9MXo1CP.png",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Data"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028cd-c085c8624838.png",
+      "icon_bytes": 72049
+    },
     {
       "id": "6a3655f056e5f49eefa028cf",
       "title_id": "PPSA0724",

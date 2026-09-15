@@ -4,10 +4,42 @@
   "source": "gfs-pfs-library",
   "page": 5,
   "page_size": 24,
-  "total": 361,
+  "total": 362,
   "pages": 16,
-  "generated": "2026-09-14T18:30:19.073Z",
+  "generated": "2026-09-15T00:35:26.396Z",
   "games": [
+    {
+      "id": "6a7f1568b0a31dad5b0fe8ba",
+      "title_id": "PPSA06981",
+      "title": "Naruto X Boruto Ultimate Ninja Storm Connections Deluxe Edition",
+      "version": "01.006",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 44667659878,
+      "size_label": "41.6 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2407/06ae9175e65c0965e44b12b4f34f7fe5aa491bbf7e5ce5c6.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2407/e448b7a610bc5d2e764bcfd865ab60abbbfa2d85e3d9a84d.jpg",
+      "updated_at": "2026-08-14T13:17:28.386Z",
+      "link_count": 5,
+      "providers": [
+        "Archive",
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7f1568b0a31dad5b0fe8ba-b6c803dbfe99.png",
+      "icon_bytes": 87721
+    },
     {
       "id": "6a7f146eb0a31dad5b0fe8b9",
       "title_id": "PPSA02395",
@@ -723,37 +755,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a79f798e7c8326e373b5183-3b9b8d166a2a.png",
       "icon_bytes": 45743
-    },
-    {
-      "id": "6a79ecd6e7c8326e373b5182",
-      "title_id": "PPSA31333",
-      "title": "Yakuza Kiwami 2",
-      "version": "01.010",
-      "pack": "unknown",
-      "region": "JPN",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": false,
-      "size_bytes": 36399847834,
-      "size_label": "33.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1905/6182d29080fb1f860431b1b5d6af83783c7dca8121079943.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202601/0805/e1ae0fa19ea74d5ee2a202ca70216c1d4d8a986ddf1ad214.png",
-      "updated_at": "2026-08-10T15:23:02.593Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a79ecd6e7c8326e373b5182-add447001123.png",
-      "icon_bytes": 85183
     }
   ]
 }

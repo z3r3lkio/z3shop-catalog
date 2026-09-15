@@ -4,10 +4,41 @@
   "source": "gfs-pfs-library",
   "page": 3,
   "page_size": 24,
-  "total": 361,
+  "total": 362,
   "pages": 16,
-  "generated": "2026-09-14T18:30:19.073Z",
+  "generated": "2026-09-15T00:35:26.396Z",
   "games": [
+    {
+      "id": "6a8db9cdb0a31dad5b0fe90e",
+      "title_id": "PPSA09809",
+      "title": "Octopath Traveler 2",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 6721623818,
+      "size_label": "6.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0201/jQdEZnhahIiSTzMAG1T0lvQ0.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/3005/71h0GsGzaJteaHHuyCEQY1pK.png",
+      "updated_at": "2026-08-27T03:18:26.542Z",
+      "link_count": 2,
+      "providers": [
+        "Download",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8db9cdb0a31dad5b0fe90e-2adf048da6a7.png",
+      "icon_bytes": 86879
+    },
     {
       "id": "6a8dc1c8b0a31dad5b0fe90f",
       "title_id": "PPSA26354",
@@ -721,37 +752,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3bf4265ac7b07181b5844c-dcdda4b188cb.png",
       "icon_bytes": 73936
-    },
-    {
-      "id": "6a853cc1b0a31dad5b0fe8e0",
-      "title_id": "PPSA04995",
-      "title": "One Piece Odyssey",
-      "version": "01.002.001",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 33285996544,
-      "size_label": "31.0 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1913/kYYtcJWbEglqdCXUGYk2UcMz.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1913/PIrhwmFXFo6ZMyovHmLnKB3e.jpg",
-      "updated_at": "2026-08-19T05:18:57.274Z",
-      "link_count": 6,
-      "providers": [
-        "Viki",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a853cc1b0a31dad5b0fe8e0-8da4c3ba57d8.png",
-      "icon_bytes": 70631
     }
   ]
 }

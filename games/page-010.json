@@ -4,10 +4,41 @@
   "source": "gfs-pfs-library",
   "page": 10,
   "page_size": 24,
-  "total": 361,
+  "total": 362,
   "pages": 16,
-  "generated": "2026-09-14T18:30:19.073Z",
+  "generated": "2026-09-15T00:35:26.396Z",
   "games": [
+    {
+      "id": "6a3e246230a44e5ee17d6681",
+      "title_id": "PPSA08084",
+      "title": "Dragon Ball Z Kakarot",
+      "version": "01.040",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx Backport"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 61160334295,
+      "size_label": "57.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0921/5zNSb2Zn6GhybpmidGFfWgZJ.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0921/5zNSb2Zn6GhybpmidGFfWgZJ.jpg",
+      "updated_at": "2026-07-21T16:09:59.408Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3e246230a44e5ee17d6681-ac776225cfc3.png",
+      "icon_bytes": 44704
+    },
     {
       "id": "6a5f964c20ce6441f5b9a12f",
       "title_id": "PPSA14376",
@@ -716,36 +747,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5b34d1664b52645fefe0b7-fa0cd84f5240.png",
       "icon_bytes": 85325
-    },
-    {
-      "id": "6a3ea7ed155384c8115a9afb",
-      "title_id": "PPSA32457",
-      "title": "Ys X Proud Nordics",
-      "version": "01.003",
-      "pack": "pfs",
-      "region": "EUR",
-      "firmware": [
-        "11.xx+"
-      ],
-      "firmware_label": "11.xx+",
-      "firmware_raw": [
-        "11.xx +"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.7.6",
-      "dlcs_merged": true,
-      "size_bytes": 8053063680,
-      "size_label": "7.5 GiB",
-      "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/87/Ys_X_Steam_artwork.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2421/456fe0b6c17efee8ecfcd61afed273c74d45add9be97e1d2.jpg",
-      "updated_at": "2026-07-18T04:04:41.873Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3ea7ed155384c8115a9afb-2865810a4bae.png",
-      "icon_bytes": 85900
     }
   ]
 }

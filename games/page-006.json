@@ -4,10 +4,41 @@
   "source": "gfs-pfs-library",
   "page": 6,
   "page_size": 24,
-  "total": 361,
+  "total": 362,
   "pages": 16,
-  "generated": "2026-09-14T18:30:19.073Z",
+  "generated": "2026-09-15T00:35:26.396Z",
   "games": [
+    {
+      "id": "6a79ecd6e7c8326e373b5182",
+      "title_id": "PPSA31333",
+      "title": "Yakuza Kiwami 2",
+      "version": "01.010",
+      "pack": "unknown",
+      "region": "JPN",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 36399847834,
+      "size_label": "33.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1905/6182d29080fb1f860431b1b5d6af83783c7dca8121079943.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202601/0805/e1ae0fa19ea74d5ee2a202ca70216c1d4d8a986ddf1ad214.png",
+      "updated_at": "2026-08-10T15:23:02.593Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a79ecd6e7c8326e373b5182-add447001123.png",
+      "icon_bytes": 85183
+    },
     {
       "id": "6a79ec7de7c8326e373b5181",
       "title_id": "PPSA31334",
@@ -722,37 +753,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3bec3d5ac7b07181b5844b-18a5ee7e4bba.png",
       "icon_bytes": 50564
-    },
-    {
-      "id": "6a740fe6ad740911cff8917c",
-      "title_id": "PPSA16033",
-      "title": "The Alters",
-      "version": "01.000.013",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "9.xx+"
-      ],
-      "firmware_label": "9.xx+",
-      "firmware_raw": [
-        "9.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": false,
-      "size_bytes": 60580513710,
-      "size_label": "56.4 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2515/483e3a09206951c09f4fe41f75371c1306f89d61d2a5e270.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0715/8845a168caf91ba9bc4a6de4e11868ac9e1e686a2096774f.jpg",
-      "updated_at": "2026-08-06T04:39:02.239Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a740fe6ad740911cff8917c-9b51e145b921.png",
-      "icon_bytes": 63140
     }
   ]
 }

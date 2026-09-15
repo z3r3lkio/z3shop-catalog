@@ -268,7 +268,7 @@
       "url": "https://pfs-library.xetdy-am.workers.dev/api/packages",
       "homepage": "https://pfs-library.xetdy-am.workers.dev/",
       "mode": "discovery",
-      "entries": 361
+      "entries": 362
     },
     {
       "id": "nexgen-aio-pkg",
@@ -300,7 +300,7 @@
     "featured": 6,
     "apps": 10,
     "ffspsc": 3,
-    "discovered_games": 361,
+    "discovered_games": 362,
     "icons": 13,
     "icon_bytes": 701117,
     "pkg_icon_attempts": 6,
@@ -309,26 +309,26 @@
     "pkg_icons_fih": 3,
     "icons_unresolved": 0
   },
-  "_generated": "2026-09-14T18:30:18.087Z",
+  "_generated": "2026-09-15T00:35:24.970Z",
   "_discovery": {
     "pfs_library": {
       "source_name": "GFS Catalog",
       "homepage": "https://pfs-library.xetdy-am.workers.dev/",
       "api": "https://pfs-library.xetdy-am.workers.dev/api/packages",
       "mode": "discovery-metadata-only",
-      "packages": 361,
+      "packages": 362,
       "unique_title_ids": 339,
-      "explicit_pack_entries": 62,
+      "explicit_pack_entries": 63,
       "unspecified_pack_entries": 299,
       "pack_counts": {
         "unspecified": 299,
-        "pfs": 47,
-        "lz4": 9,
-        "fpkg": 6
+        "pfs": 48,
+        "lz4": 8,
+        "fpkg": 7
       },
       "region_counts": {
-        "USA": 174,
-        "EUR": 147,
+        "USA": 173,
+        "EUR": 149,
         "JPN": 22,
         "ASIA": 5,
         "USA to EUR Languages": 4,
@@ -342,7 +342,7 @@
         "4.xx": 87,
         "4.xx +": 50,
         "4.xx BackPort": 28,
-        "4.xx+": 23,
+        "4.xx+": 22,
         "7.xx": 17,
         "4.xx Backport": 12,
         "4.xx BackPork": 9,
@@ -365,6 +365,7 @@
         "11.xx +": 3,
         "3.xx": 3,
         "6.xx +": 3,
+        "9.xx+": 3,
         "1.xx": 2,
         "10.xx, 4.xx": 2,
         "11.xx+": 2,
@@ -396,10 +397,9 @@
         "8.xx and beyond": 1,
         "9.xx +, 4.xx Backport": 1,
         "9.xx, 4.xx Backport": 1,
-        "9.xx+": 1,
         "9.xx+, 4.xx Backport": 1
       },
-      "apr_enabled": 144,
+      "apr_enabled": 143,
       "latest_apr_version": "apr-emu-v0.4.2.1",
       "apr_versions": [
         "apr-emu-v0.2.6.3",
@@ -427,9 +427,9 @@
         "fpkg": false
       },
       "dlcs_merged": 71,
-      "download_links": 872,
+      "download_links": 873,
       "link_provider_counts": {
-        "Viki": 294,
+        "Viki": 295,
         "Archive": 242,
         "Akirabox": 197,
         "1fichier": 40,
@@ -472,25 +472,42 @@
         "Vikingfile - 4.xx Backport": 1,
         "vikingfile.com": 1
       },
-      "posters": 361,
-      "banners": 361,
+      "posters": 362,
+      "banners": 362,
       "latest": [
         {
-          "id": "6aa8321e3f728aecb6a169e7",
-          "title_id": "PPSA09091",
-          "title": "Fairy Fencer F: Refrain Chord",
-          "version": "01.000.001",
-          "pack": "lz4",
-          "region": "USA",
+          "id": "6aa872a13f728aecb6a169ea",
+          "title_id": "PPSA04892",
+          "title": "Tchia",
+          "version": "01.011",
+          "pack": "fpkg",
+          "region": "EUR",
           "firmware": [
-            "4.xx+"
+            "9.xx+"
           ],
-          "apr": true,
-          "apr_version": "apr-emu-v0.4.2.1",
+          "apr": false,
+          "apr_version": "",
           "dlcs_merged": false,
-          "size_bytes": 3221225472,
-          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1801/b2c9d79c5803dff9e1c3daa04dfaceff9f0581d540a0a8a6.jpg",
-          "updated_at": "2026-09-14T17:42:54.787Z"
+          "size_bytes": 3994319585,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2409/NAM99EYphvYksee7eOGTtLCE.JPG",
+          "updated_at": "2026-09-14T22:18:09.297Z"
+        },
+        {
+          "id": "6aa871703f728aecb6a169e9",
+          "title_id": "PPSA04892",
+          "title": "Tchia",
+          "version": "01.011",
+          "pack": "pfs",
+          "region": "EUR",
+          "firmware": [
+            "9.xx+"
+          ],
+          "apr": false,
+          "apr_version": "",
+          "dlcs_merged": false,
+          "size_bytes": 3715146711,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2409/NAM99EYphvYksee7eOGTtLCE.JPG",
+          "updated_at": "2026-09-14T22:13:04.016Z"
         },
         {
           "id": "6aa81d6b3f728aecb6a169e6",
@@ -661,23 +678,6 @@
           "size_bytes": 10737418240,
           "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202201/3114/KT3ytardSkj94Qf89W2FSu0s.jpg",
           "updated_at": "2026-09-13T15:02:44.221Z"
-        },
-        {
-          "id": "6aa6b424792e471937d0b014",
-          "title_id": "PPSA04263",
-          "title": "Grand Theft Auto V",
-          "version": "01.010.002",
-          "pack": "fpkg",
-          "region": "EUR",
-          "firmware": [
-            "4.xx+"
-          ],
-          "apr": false,
-          "apr_version": "",
-          "dlcs_merged": false,
-          "size_bytes": 102982578340,
-          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/K6mmm89oNII1iI1aqaClO0wh.png",
-          "updated_at": "2026-09-13T14:33:08.647Z"
         }
       ]
     }

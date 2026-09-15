@@ -4,10 +4,41 @@
   "source": "gfs-pfs-library",
   "page": 8,
   "page_size": 24,
-  "total": 361,
+  "total": 362,
   "pages": 16,
-  "generated": "2026-09-14T18:30:19.073Z",
+  "generated": "2026-09-15T00:35:26.396Z",
   "games": [
+    {
+      "id": "6a6f6b2ea80b138b911d68d8",
+      "title_id": "PPSA03603",
+      "title": "Marvels Midnight Suns Enhanced Edition",
+      "version": "01.013",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_label": "7.xx+",
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 47459388621,
+      "size_label": "44.2 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2701/tkBDNWRxMZB46GumvEFzBShn.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2701/NFReCCutPJloM2CUiuHlqapM.jpg",
+      "updated_at": "2026-08-03T00:55:56.408Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6f6b2ea80b138b911d68d8-6a398818f658.png",
+      "icon_bytes": 57296
+    },
     {
       "id": "6a6f6c74a80b138b911d68dc",
       "title_id": "PPSA02213",
@@ -718,37 +749,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a67342b3d4889f7e22e8b67-ac2a3e4d058d.png",
       "icon_bytes": 58586
-    },
-    {
-      "id": "6a6733d33d4889f7e22e8b66",
-      "title_id": "PPSA21837",
-      "title": "Lollipop Chainsaw RePoP",
-      "version": "01.017.001",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx BackPort"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 14817637171,
-      "size_label": "13.8 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0911/c6fbda075c75c4bdd75823f054ec9342fe3e3d02ce6a862a.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0911/c6fbda075c75c4bdd75823f054ec9342fe3e3d02ce6a862a.jpg",
-      "updated_at": "2026-07-27T10:32:51.357Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6733d33d4889f7e22e8b66-0d8d95eeb40c.png",
-      "icon_bytes": 69390
     }
   ]
 }

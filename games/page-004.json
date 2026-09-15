@@ -4,10 +4,41 @@
   "source": "gfs-pfs-library",
   "page": 4,
   "page_size": 24,
-  "total": 361,
+  "total": 362,
   "pages": 16,
-  "generated": "2026-09-14T18:30:19.073Z",
+  "generated": "2026-09-15T00:35:26.396Z",
   "games": [
+    {
+      "id": "6a853cc1b0a31dad5b0fe8e0",
+      "title_id": "PPSA04995",
+      "title": "One Piece Odyssey",
+      "version": "01.002.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 33285996544,
+      "size_label": "31.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1913/kYYtcJWbEglqdCXUGYk2UcMz.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1913/PIrhwmFXFo6ZMyovHmLnKB3e.jpg",
+      "updated_at": "2026-08-19T05:18:57.274Z",
+      "link_count": 6,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a853cc1b0a31dad5b0fe8e0-8da4c3ba57d8.png",
+      "icon_bytes": 70631
+    },
     {
       "id": "6a853b37b0a31dad5b0fe8df",
       "title_id": "PPSA13790",
@@ -730,38 +761,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7f36a5b0a31dad5b0fe8bc-87b9207b2fc2.png",
       "icon_bytes": 75574
-    },
-    {
-      "id": "6a7f1568b0a31dad5b0fe8ba",
-      "title_id": "PPSA06981",
-      "title": "Naruto X Boruto Ultimate Ninja Storm Connections Deluxe Edition",
-      "version": "01.006",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": true,
-      "size_bytes": 44667659878,
-      "size_label": "41.6 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2407/06ae9175e65c0965e44b12b4f34f7fe5aa491bbf7e5ce5c6.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2407/e448b7a610bc5d2e764bcfd865ab60abbbfa2d85e3d9a84d.jpg",
-      "updated_at": "2026-08-14T13:17:28.386Z",
-      "link_count": 5,
-      "providers": [
-        "Archive",
-        "Viki",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7f1568b0a31dad5b0fe8ba-b6c803dbfe99.png",
-      "icon_bytes": 87721
     }
   ]
 }

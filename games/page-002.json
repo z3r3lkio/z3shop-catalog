@@ -4,10 +4,40 @@
   "source": "gfs-pfs-library",
   "page": 2,
   "page_size": 24,
-  "total": 361,
+  "total": 362,
   "pages": 16,
-  "generated": "2026-09-14T18:30:19.073Z",
+  "generated": "2026-09-15T00:35:26.396Z",
   "games": [
+    {
+      "id": "6aa00073235811081ee44c4a",
+      "title_id": "PPSA31327",
+      "title": "Yakuza 0 Director's Cut",
+      "version": "01.015",
+      "pack": "pfs",
+      "region": "JPN",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.6",
+      "dlcs_merged": false,
+      "size_bytes": 49488760668,
+      "size_label": "46.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/31a9fca9e8c20f1e509a3e55f6af2d0f1d281d85bfc690c8.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/f8eba4a0f164b4a987f7695a7120d1fc99e5d6a5969b3977.jpg",
+      "updated_at": "2026-09-08T12:32:51.985Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa00073235811081ee44c4a-c484f2f50236.png",
+      "icon_bytes": 83963
+    },
     {
       "id": "6a9d249bc6d57704779e003f",
       "title_id": "PPSA13927",
@@ -724,37 +754,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8fc47fb0a31dad5b0fe911-72549cb7ae0d.png",
       "icon_bytes": 81656
-    },
-    {
-      "id": "6a8db9cdb0a31dad5b0fe90e",
-      "title_id": "PPSA09809",
-      "title": "Octopath Traveler 2",
-      "version": "01.000",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 6721623818,
-      "size_label": "6.3 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0201/jQdEZnhahIiSTzMAG1T0lvQ0.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/3005/71h0GsGzaJteaHHuyCEQY1pK.png",
-      "updated_at": "2026-08-27T03:18:26.542Z",
-      "link_count": 2,
-      "providers": [
-        "Download",
-        "Akirabox"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8db9cdb0a31dad5b0fe90e-2adf048da6a7.png",
-      "icon_bytes": 86879
     }
   ]
 }

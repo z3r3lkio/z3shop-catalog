@@ -4,10 +4,40 @@
   "source": "gfs-pfs-library",
   "page": 11,
   "page_size": 24,
-  "total": 361,
+  "total": 362,
   "pages": 16,
-  "generated": "2026-09-14T18:30:19.073Z",
+  "generated": "2026-09-15T00:35:26.396Z",
   "games": [
+    {
+      "id": "6a3ea7ed155384c8115a9afb",
+      "title_id": "PPSA32457",
+      "title": "Ys X Proud Nordics",
+      "version": "01.003",
+      "pack": "pfs",
+      "region": "EUR",
+      "firmware": [
+        "11.xx+"
+      ],
+      "firmware_label": "11.xx+",
+      "firmware_raw": [
+        "11.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.7.6",
+      "dlcs_merged": true,
+      "size_bytes": 8053063680,
+      "size_label": "7.5 GiB",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/87/Ys_X_Steam_artwork.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2421/456fe0b6c17efee8ecfcd61afed273c74d45add9be97e1d2.jpg",
+      "updated_at": "2026-07-18T04:04:41.873Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3ea7ed155384c8115a9afb-2865810a4bae.png",
+      "icon_bytes": 85900
+    },
     {
       "id": "6a5a5b95664b52645fefe0b2",
       "title_id": "PPSA24157",
@@ -706,37 +736,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a586db1664b52645fefe094-df5d582c67ba.png",
       "icon_bytes": 43547
-    },
-    {
-      "id": "6a586d77664b52645fefe093",
-      "title_id": "PPSA06084",
-      "title": "Superliminal",
-      "version": "1.010",
-      "pack": "pfs",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 5798205850,
-      "size_label": "5.4 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2820/u1qVkRJLj5rtl3ZkqevW2gwj.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1617/Y44Rmv9vqbkBu9rRCKyNQHqF.jpg",
-      "updated_at": "2026-07-16T05:34:47.238Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a586d77664b52645fefe093-28f2bee6b22f.png",
-      "icon_bytes": 56819
     }
   ]
 }

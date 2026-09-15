@@ -4,10 +4,40 @@
   "source": "gfs-pfs-library",
   "page": 15,
   "page_size": 24,
-  "total": 361,
+  "total": 362,
   "pages": 16,
-  "generated": "2026-09-14T18:30:19.073Z",
+  "generated": "2026-09-15T00:35:26.396Z",
   "games": [
+    {
+      "id": "6a3d3b1c1833c663555e187e",
+      "title_id": "PPSA04029",
+      "title": "Cyberpunk 2077 Ultimate Edition",
+      "version": "02.120",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 156014687027,
+      "size_label": "145 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/6bAF2VVEamgKclalI0oBnoAe.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1517/a1krxU0VRlOC3ULeUjeFGEcA.png",
+      "updated_at": "2026-06-26T00:47:29.039Z",
+      "link_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3d3b1c1833c663555e187e-c4db05cca8ef.png",
+      "icon_bytes": 63843
+    },
     {
       "id": "6a3b9fbfb1fb2bb0ceadd014",
       "title_id": "PPSA28420",
@@ -723,37 +753,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028bf-7fb369c1cffa.png",
       "icon_bytes": 67169
-    },
-    {
-      "id": "6a3655f056e5f49eefa028cd",
-      "title_id": "PPSA07274",
-      "title": "Tales of Arise",
-      "version": "1.04",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "1.xx+"
-      ],
-      "firmware_label": "1.xx+",
-      "firmware_raw": [
-        "1.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 40265318400,
-      "size_label": "37.5 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202107/2321/PNyon7H1cCjFSHuKJXuWb3wq.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202107/2321/iGnyvrEWk0jO09cDS9MXo1CP.png",
-      "updated_at": "2026-06-20T08:57:20.000Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Data"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028cd-c085c8624838.png",
-      "icon_bytes": 72049
     }
   ]
 }

@@ -4,10 +4,40 @@
   "source": "gfs-pfs-library",
   "page": 14,
   "page_size": 24,
-  "total": 361,
+  "total": 362,
   "pages": 16,
-  "generated": "2026-09-14T18:30:19.073Z",
+  "generated": "2026-09-15T00:35:26.396Z",
   "games": [
+    {
+      "id": "6a4a77372860efac54e4aa7d",
+      "title_id": "PPSA02343",
+      "title": "It Takes Two",
+      "version": "01.200.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 45440753992,
+      "size_label": "42.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202012/0815/IjqyQi0J2PL7GdEo3K8jKWMh.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202012/0815/UkFiVyReEoiV28rXgyHYKhfS.png",
+      "updated_at": "2026-07-05T15:24:39.677Z",
+      "link_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a77372860efac54e4aa7d-b4d75ad8831b.png",
+      "icon_bytes": 73967
+    },
     {
       "id": "6a4a76cf2860efac54e4aa7c",
       "title_id": "PPSA01467",
@@ -719,36 +749,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3dcdc2e386a19e8dc5b503-653328bc0e0e.png",
       "icon_bytes": 76164
-    },
-    {
-      "id": "6a3d3b1c1833c663555e187e",
-      "title_id": "PPSA04029",
-      "title": "Cyberpunk 2077 Ultimate Edition",
-      "version": "02.120",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 156014687027,
-      "size_label": "145 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/6bAF2VVEamgKclalI0oBnoAe.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1517/a1krxU0VRlOC3ULeUjeFGEcA.png",
-      "updated_at": "2026-06-26T00:47:29.039Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3d3b1c1833c663555e187e-c4db05cca8ef.png",
-      "icon_bytes": 63843
     }
   ]
 }

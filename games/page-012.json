@@ -4,10 +4,41 @@
   "source": "gfs-pfs-library",
   "page": 12,
   "page_size": 24,
-  "total": 361,
+  "total": 362,
   "pages": 16,
-  "generated": "2026-09-14T18:30:19.073Z",
+  "generated": "2026-09-15T00:35:26.396Z",
   "games": [
+    {
+      "id": "6a586d77664b52645fefe093",
+      "title_id": "PPSA06084",
+      "title": "Superliminal",
+      "version": "1.010",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 5798205850,
+      "size_label": "5.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2820/u1qVkRJLj5rtl3ZkqevW2gwj.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1617/Y44Rmv9vqbkBu9rRCKyNQHqF.jpg",
+      "updated_at": "2026-07-16T05:34:47.238Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a586d77664b52645fefe093-28f2bee6b22f.png",
+      "icon_bytes": 56819
+    },
     {
       "id": "6a3655f056e5f49eefa028a7",
       "title_id": "PPSA01716",
@@ -717,36 +748,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a525d7e664b52645fefe077-dae9866ee6cb.png",
       "icon_bytes": 50842
-    },
-    {
-      "id": "6a40adc041d4f7b0f7bf92c9",
-      "title_id": "PPSA08597",
-      "title": "Scars Above",
-      "version": "01.003",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 14173392077,
-      "size_label": "13.2 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0207/01Slmbo3uyEiyiomq7TxBBLl.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0911/nps4KsXSulAMlTEsleylGkTM.jpg",
-      "updated_at": "2026-07-11T13:41:32.289Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a40adc041d4f7b0f7bf92c9-4cd10bda1d5e.png",
-      "icon_bytes": 74206
     }
   ]
 }

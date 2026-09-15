@@ -4,10 +4,41 @@
   "source": "gfs-pfs-library",
   "page": 9,
   "page_size": 24,
-  "total": 361,
+  "total": 362,
   "pages": 16,
-  "generated": "2026-09-14T18:30:19.073Z",
+  "generated": "2026-09-15T00:35:26.396Z",
   "games": [
+    {
+      "id": "6a6733d33d4889f7e22e8b66",
+      "title_id": "PPSA21837",
+      "title": "Lollipop Chainsaw RePoP",
+      "version": "01.017.001",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 14817637171,
+      "size_label": "13.8 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0911/c6fbda075c75c4bdd75823f054ec9342fe3e3d02ce6a862a.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0911/c6fbda075c75c4bdd75823f054ec9342fe3e3d02ce6a862a.jpg",
+      "updated_at": "2026-07-27T10:32:51.357Z",
+      "link_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a6733d33d4889f7e22e8b66-0d8d95eeb40c.png",
+      "icon_bytes": 69390
+    },
     {
       "id": "6a6733823d4889f7e22e8b65",
       "title_id": "PPSA32802",
@@ -726,37 +757,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f967920ce6441f5b9a130-21899b7ed240.png",
       "icon_bytes": 64069
-    },
-    {
-      "id": "6a3e246230a44e5ee17d6681",
-      "title_id": "PPSA08084",
-      "title": "Dragon Ball Z Kakarot",
-      "version": "01.040",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx Backport"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 61160334295,
-      "size_label": "57.0 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0921/5zNSb2Zn6GhybpmidGFfWgZJ.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0921/5zNSb2Zn6GhybpmidGFfWgZJ.jpg",
-      "updated_at": "2026-07-21T16:09:59.408Z",
-      "link_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3e246230a44e5ee17d6681-ac776225cfc3.png",
-      "icon_bytes": 44704
     }
   ]
 }
