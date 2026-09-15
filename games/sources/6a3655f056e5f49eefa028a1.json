@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028a1",
+    "title_id": "PPSA05366",
+    "title": "A Plague Tale Requiem",
+    "version": "1.005",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 51421495951
+  },
+  "metadata": {
+    "description": "Far across the sea, an island calls… Embark on a heartrending journey into a brutal, breathtaking world twisted by supernatural forces. After escaping their devastated homeland, Amicia and Hugo travel far south, to new regions and vibrant cities. There, they attempt to start a new life and control Hugo’s curse. But, when Hugo’s powers reawaken, death and destruction return in a flood of devouring rats. Forced to flee once more, the siblings place their hopes in a prophesized island that may hold the key to saving Hugo. Discover the cost of saving those you love in a desperate struggle for survival. Strike from the shadows or unleash hell, overcoming foes and challenges with a variety of weapons, tools and unearthly powers. ● Sequel to the award-winning adventure A Plague Tale: Innocence ● A spectacular grounded tale twisted by supernatural forces ● Use a variety of tools, sneak, fight, or unleash hell and rats ● Stunning visuals combine with an enthralling score",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & Dorukhan & SPX for the Files and Pkykzhack for DLCs",
+    "publisher": "Focus Entertainment",
+    "developer": "Asobo Studio and published by Focus Entertainment",
+    "players": "1",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "2022-10-18",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202211/0309/C5INUPHh5BSlJ8WsOdq1le9u.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "72f267e0-a667-47cb-bbe8-5ec818081af1",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA05366_A_Plague_Tale_Requiem",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "114d1f2a-0373-49ec-8a66-1d1b4e792a52",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/h7vPdB209j",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

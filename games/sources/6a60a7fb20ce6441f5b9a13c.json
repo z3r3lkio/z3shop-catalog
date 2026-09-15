@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a60a7fb20ce6441f5b9a13c",
+    "title_id": "PPSA20450",
+    "title": "KAGE Shadow of The Ninja",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "JPN",
+    "size_bytes": 1116691497
+  },
+  "metadata": {
+    "description": "It’s 2029. A vicious dystopian future. And it’s up to two warriors of the night to save the nation! After 33 years in the shadows, prepare to see this legendary action adventure in a new light! Looking and playing better than ever before, Shadow of the Ninja - Reborn is Tengo Project’s remake of a cult classic, that the fans have been waiting for. In this thrilling action-adventure, you will use your striking katana along with a wide variety of weaponry that has greatly expanded from the NES original, as well as the acrobatic finesse of a ninja to face the onslaught of powerful enemies. Although, the challenge does not end here! 6 complex, expansive, and masterfully designed stages test your skills through devious traps and challenging platform puzzles. Critically acclaimed as one of the best 2-player co-ops of its time, Shadow of the Ninja—Reborn lets you play together locally as the legendary ninjas Hayate and Kaede. In addition to the contributions of Tengo Project, this remake also features Iku Mizutani, the star composer who helped create the iconic Natsume sound and renowned tracks for various NES games. Fans of Mr. Mizutani and retro gamers across the world will find delight in his renowned guitar riffs and fast-paced retro melodies! Our fearless heroes, Hayate and Kaede have undergone a massive visual upgrade over their original 8-bit models. And the improvements don’t stop there: From the deadly foes to the no-less deadly stages, every part of this title has been faithfully recreated in stunning high-quality sprites. So, cloak yourself in shadows and slash your way through a treacherous concrete jungle of the future in this dark action gem Shadow of the Ninja – Reborn! Features: An arsenal of deadly weapons: Caltrops, shuriken, and more! Jungle of concrete and steel: 5 completely recreated stages featuring devious traps and challenging platform puzzles. Plus, a 6th entirely new stage! Two ninjas are better than one: Grab a friend and get ready for the critically acclaimed couch co-op! A fresh new look: Beautiful modern sprite art as a faithful update to the 8-bit original. A Star-Studded, Rockin’ Soundtrack: Play along with the legendary Hiroshi Iwatsuki’s and Iku Mizutani’s electrifying guitar riffs and fast-paced retro melodies. The Lethal Tools of the Trade: Use your hard-earned points in the tool shop and customize your loadout for the next play session. If you already own the PS4™ version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4™ game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "",
+    "publisher": "ININ",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2024-08-29",
+    "store_url": "https://store.playstation.com/en-us/product/UP8012-PPSA20438_00-SHADOWNINJAPS5US",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202406/1919/8cafeeea26c267c60dd4bc890fe8c85da4ab25760dbd08f6.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4fbc6cb5-21cc-438f-84af-067cd1b13dba",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/fox2YUeaqe",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "7917792f-94c1-472c-b1ec-4cdf958fdd0e",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA20450_Kage",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

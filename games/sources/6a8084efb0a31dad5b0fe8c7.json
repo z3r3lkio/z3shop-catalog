@@ -1,0 +1,83 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a8084efb0a31dad5b0fe8c7",
+    "title_id": "PPSA08102",
+    "title": "Outer Wilds",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 5261334938
+  },
+  "metadata": {
+    "description": "Outer Wilds is an open world mystery about a solar system trapped in an endless time loop. Welcome to the Space Program! You’re the newest recruit of Outer Wilds Ventures, a fledgling space program searching for answers in a strange, constantly evolving solar system. Mysteries of the Solar System... What lurks in the heart of the ominous Dark Bramble? Who built the alien ruins on the Moon? Can the endless time loop be stopped? Answers await you in the most dangerous reaches of space. A World That Changes Over Time The planets of Outer Wilds are packed with hidden locations that change with the passage of time. Visit an underground city before it’s swallowed by sand, or explore the surface of a planet as it crumbles beneath your feet. Every secret is guarded by hazardous environments and natural catastrophes. Grab Your Intergalactic Hiking Gear! Strap on your hiking boots, check your oxygen levels, and get ready to venture into space. Use a variety of unique gadgets to probe your surroundings, track down mysterious signals, decipher ancient alien writing, and roast the perfect marshmallow. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & SiEPSTA for the Files, BestPig for the BackPort and Pippo for the exfat file",
+    "publisher": "Annapurna Interactive",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Unique",
+      "Adventure",
+      "Adventure"
+    ],
+    "release_date": "2022-09-15",
+    "store_url": "https://store.playstation.com/en-us/product/UP2470-PPSA08101_00-OUTERWILDSSIEA00",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202209/1317/V1EzXsIZvmglVBXDI3fQmDBi.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a9abaeff-49a8-49e5-aabe-d3b8fdab2073",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA08102_Outer_Wilds",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "f3e7780a-9dbc-4224-9b49-b5a116c714cb",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/1btnuwlkTc",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "bb543745-2d7f-4fdc-b81f-43abcef4e79d",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/LK0G1bbKwm91/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

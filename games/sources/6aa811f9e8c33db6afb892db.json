@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa811f9e8c33db6afb892db",
+    "title_id": "PPSA01473",
+    "title": "Ratchet & Clank Rift Apart",
+    "version": "1.005.003",
+    "pack": "lz4",
+    "region": "USA",
+    "size_bytes": 59055800320
+  },
+  "metadata": {
+    "description": "BLAST YOUR WAY THROUGH AN INTERDIMENSIONAL ADVENTURE Ratchet and Clank are back! Help them stop a robotic emperor intent on conquering cross-dimensional worlds, with their own universe next in the firing line. Witness the evolution of the dream team as they’re joined by Rivet – a Lombax resistance fighter from another dimension. - Blast your way home with an arsenal of outrageous weaponry. - Experience the shuffle of dimensional rifts and dynamic gameplay. - Explore never-before-seen planets and alternate dimension versions of old favorites. PS5™ FEATURES: - Feel in-game actions through the haptic feedback of the DualSense™ wireless controller. - Take full control of advanced weapon mechanics, made possible by adaptive triggers. - Planet-hop at hyper-speed via the near-instant loading of the PS5™ console’s SSD. - Immerse your ears with Tempest 3D AudioTech* as you work to save the universe. - Enhanced lighting and ray tracing render dazzling in-game worlds – displayed in crisp, dynamic 4K and HDR**. - Choose Performance Mode to enjoy targeted 60 frames per second gameplay***. Celebrate 20 years of Ratchet & Clank with five brand-new armor sets inspired by games of the past. Download the game update* at no extra cost and receive: - Holoflux armor - Quest armor - Marauder armor - Commando armor - Clank armor *Game update v.1.004 requires internet connection.",
+    "notes": "",
+    "credits": "Thanks to DLPS Team & @rOkr_kXmpX for the files and Drakmor for apr-emu and lz4 tool",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Insomniac Games, Inc",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2021-06-11",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202106/0822/5fZi1yQQzch81CPPZ4ml7w65.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "17faf390-b89d-4c3e-8172-1f93a41eeadb",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/or5M0KqYTx#LIZARD",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

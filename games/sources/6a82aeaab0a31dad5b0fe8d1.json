@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a82aeaab0a31dad5b0fe8d1",
+    "title_id": "PPSA17169",
+    "title": "Hi Fi RUSH Deluxe Edition",
+    "version": "01.004",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 17072495002
+  },
+  "metadata": {
+    "description": "Rebel against an evil tech megacorp as wannabe rockstar Chai and his ragtag crew using the power of raucus rhythm combat! From Tango Gameworks, the critically acclaimed studio that brought you The Evil Within and Ghostwire: Tokyo (no, really) and featured in 50+ \"Best of 2023\" lists by critics, HI-FI RUSH brings high-energy action where the characters, world and even combat stylishly sync to the music. CHAI VERSUS THE WORLD His heart mistakenly fused with an old music player, our hero Chai is labeled a 'defect' by a superpowered tech company and must fight his way to freedom! His moves amplified by the beat, Chai's 'defect' grants him the power to navigate dangerous environments and battle hordes of enemies by following the rhythm in his heart. Jump, strike and even laugh to the beat in a slick animated world synced to the music! OPEN UP THE MOSH PIT Tackle a wide range of corporate drones (like, actual robots with jobs) in satisfying, rhythm-boosted combat. Your actions automatically sync up to the music, but get into the groove and Chai can pull off devastating Beat Hits, extra-flashy combos, team-up attacks with their allies, show-stopping special moves and more! Expand Chai's skills with upgrades and turn every encounter into your own \"animated music video\" moment as you reach for those covetous S-Rank scores. ROWDY REBELS VS. BADASS BOSSES Lead Chai's squad of colorful teammates as you take the fight to the heart of an, er, heartless corporation. From Production to Marketing, face off against each department's fearsome boss, determined to stop at nothing to protect the company’s bottom line in over-the-top battle sequences featuring their own music tracks. TURN IT UP! Speaking of tracks, tap your toes and nod your head to a killer setlist of licensed songs from artists such as Nine Inch Nails, The Black Keys, The Prodigy and Number Girl. Playing to a crowd? Fret not: Hi-Fi RUSH also includes an alternate, streamer friendly original soundtrack featuring The Glass Pyramids, Shuichi Kobori, REO, Masatoshi Yanagi and more. READY FOR AN ENCORE? Completing the story is only the beginning! Replay levels to uncover secrets, climb the perilous Rhythm Tower for a new high score, crank up the speed in BPM Rush, beat challenges to earn new rewards and deck out the team with customizable cosmetics.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX for the Files with DLCs, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "KRAFTON, Inc.",
+    "developer": "Tango Gameworks",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2024-03-19",
+    "store_url": "https://store.playstation.com/en-us/product/UP1003-PPSA17168_00-HIFIRUSH00000000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202511/1402/22cf38b332c00acfb004500adddec16f52f68221cd1bca6f.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "702637b4-ae6d-467d-bfc3-6faf21e7e859",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/yUqnMMsLyg",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "418cb77b-0fbf-427d-bd0b-81b122f93305",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/0JgG75aYl3oY/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

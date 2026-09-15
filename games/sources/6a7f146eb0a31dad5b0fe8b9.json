@@ -1,0 +1,128 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7f146eb0a31dad5b0fe8b9",
+    "title_id": "PPSA02395",
+    "title": "Metro Exodus Complete Edition",
+    "version": "01.001",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 79671643341
+  },
+  "metadata": {
+    "description": "Metro Exodus is an epic, story-driven first person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created. Flee the shattered ruins of dead Moscow and embark on an epic, continent-spanning journey across post-apocalyptic Russia in the greatest Metro adventure yet. Explore the Russian wilderness in vast, non-linear levels and follow a thrilling story-line inspired by the novels of Dmitry Glukhovsky that spans an entire year through spring, summer and autumn to the depths of nuclear winter. The Gold Edition includes the Metro Exodus Expansion Pass, giving access to two major pieces of story-driven DLC - The Two Colonels and Sam's Story.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files with DLCs and Pippo for the exfat file",
+    "publisher": "Deep Silver",
+    "developer": "4A Games",
+    "players": "1",
+    "genres": [
+      "Shooter",
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2021-06-18",
+    "store_url": "https://store.playstation.com/en-sg/product/UP2047-PPSA02395_00-821MEEGOLDEDGEN9",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202302/0213/18e59b51be7f3b05ce6e39f888b70ebefe8b68a32373710c.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "6cad4fdf-d523-4071-85fb-5ef9ade452a1",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA02395_Metro_Exodus",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "81e7c998-f375-4fe5-8c3c-e222ea06f156",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/QuRnNXNcm7",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "039b3a23-71df-4b23-906e-fd1d91efdc98",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/0rpmvpQ7yzRg/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "25cb091c-e688-402d-b989-85d11324e919",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/QN9mEqZYQm6d/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "d3e88519-a67b-4f36-939f-e7ce52cae1f5",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/N2p3DPeJ23Ma/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 3,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "e8f88b18-ec91-452c-b589-804bedb594f3",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/2WVGrd8Q93kx/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 4,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

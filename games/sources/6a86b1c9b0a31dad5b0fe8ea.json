@@ -1,0 +1,126 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a86b1c9b0a31dad5b0fe8ea",
+    "title_id": "PPSA15190",
+    "title": "RIDE 5",
+    "version": "01.025",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 50680614093
+  },
+  "metadata": {
+    "description": "Rev up your engine and get ready to hit the track with RIDE 5. An adrenaline-filled gaming experience that is so authentic it will make you feel like you're truly racing at break-neck speed. Find your favorite bikes and check out new ones in the ultimate motorcycle game! Race on over 35 tracks and collect more than 200 motorcycles from world-renowned manufacturers, each element is designed to feel like you're riding a real bike. IT'S A LONG ROAD It's not just speed that wins races - Endurance mode rewards perseverance and strategy. Time is no longer the issue, ride to your heart's content with the option of saving, exiting and jumping back in later. Just make sure you keep an eye on fuel and pit-stops - these helplines can quickly become your worst nightmare! FROM ZERO TO HERO Start out in your garage, climb the ranks and become the best world racer in the new Career mode. Race against increasingly skilled Rivals, true obstacles who will stand between you and the finish line. Learn to master different bikes and handle every situation. It won't be easy though... The road to victory is laden with challenges and it's up to you to decide which one you want to take - the harder the challenge, the greater the reward! WIN UNDER ANY CONDITION It doesn't matter how good you are, there is always one factor you can't control: the weather. Clear blue skies can turn into heavy downpours and then back to sunshine, rolling clouds will follow you as you dash through the bends, giving you ever-changing views and landscapes. You will have to deal with unexpected situations and use your skill to tackle both wet and dry conditions - the improved physics makes for an even more life-like experience! TEST. LEARN. RIDE. Not sure which line to follow or when to slam on the brakes? Use the new riding aids and get customized support when needed the most. Learn to better handle the bike and the tricks of the trade to become the best rider you can be. TAKE CONTROL You can tell a true motorcycle aficionado not just from the bike but also from their garage - collect your favorite models and customize them to your liking. Share your designs with other players and showcase your style! Don't get caught up on cosmetics only. With Race Creator you can build an endless number of scenarios, from single races to complete championships, choose your bikes and tracks, and act as a Race Director to set your own rules. FEEL THE COMPETITION Split screen is back! Now you can challenge a friend and win live! And if you want to show the world what you're worth, Endurance races will really put you to the test, now even more thrilling thanks to the Crossplay function.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "Milestone",
+    "developer": "Milestone S",
+    "players": "2",
+    "genres": [
+      "Driving/Racing"
+    ],
+    "release_date": "2023-08-24",
+    "store_url": "https://store.playstation.com/en-us/product/UP1981-PPSA15190_00-RIDE5FULLGAME000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202308/2407/1931bc25c4c2f8d8fc95b9ab07b6316f4f5205a47de58bb0.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "f173ab47-4059-4fa1-9a30-33446655f0ce",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/R55LCy2YvL",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "288f3d69-e089-4ed9-b745-6563ccbebe4b",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/Z9dzBPRpPmk1/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "933df958-2348-4080-87cb-30d4d58ed17d",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/Y2xm0oPMnGRO/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "e8d82061-85c8-4ccc-a435-14d7ad56320e",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/XkrzoKQj2zBO/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 3,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "1bca490f-f2b2-469f-8a1e-62bb28a85941",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/E9Qz9XgEK3OL/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 4,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "ccc2cbbd-1a64-485f-b8ea-8499f51f1739",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/qPez44DeezOY/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 5,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

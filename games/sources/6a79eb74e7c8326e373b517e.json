@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a79eb74e7c8326e373b517e",
+    "title_id": "PPSA03831",
+    "title": "Sonic Frontiers",
+    "version": "01.041",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 37151467110
+  },
+  "metadata": {
+    "description": "Experience Sonic like never before! Worlds are colliding in Sonic the Hedgehog’s newest high-speed adventure! In search of the missing Chaos emeralds, Sonic becomes stranded on an ancient island teeming with unusual creatures. Battle hordes of powerful enemies as you explore a breathtaking world of action, adventure, and mystery. Accelerate to new heights and experience the thrill of high-velocity, open-zone platforming freedom as you race across the five massive Starfall Islands. Jump into adventure, wield the power of the Ancients, and fight to stop these new mysterious foes. Welcome to the evolution of Sonic games! Experience All-New Open Zone Platforming Race across five massive overworld islands brimming with dense forests, overflowing waterfalls, and sizzling desert landscapes, each with their own unique action-platforming challenges and hidden secrets to uncover. Unparalleled High-Speed Freedom Adventure across the Starfall Islands and see what each has to offer at the speed that only Sonic can deliver. Blaze a trail as you see fit and discover side quests, solve puzzles, scale enormous structures, go fishing, and encounter a friendly face or two along the way… Challenge Yourself In Cyber Space Discover portals scattered across the island and venture into Cyber Space levels through portals scattered across the islands featuring signature 3D platforming at Sonic speeds, packed with challenges to put your skills to the test. Cyber-Powered Combat The Starfall Islands are home to strange creatures Sonic has never encountered before. Use the all-new battle system and skill tree upgrades to fight strategically, combining moves such as dodges, parries, counters, combos, and the new Cyloop ability to take down mysterious foes and colossal titans. A New Adventure Full of Mystery and Intrigue Become Sonic and journey to uncover the mysteries of the remains of an ancient civilization plagued by robotic hordes. With nothing but a handful of questions and a disembodied voice to guide you, set out to save your friends and the enigmatic inhabitants of the Starfall Islands from a colossal, mechanized threat. Please install the “Adventurer's Treasure Box” before starting a new game. Please note that DLC content will not be validated if installed after completing the tutorial area. Please ensure that the most recent patch is installed before installing DLC. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, Psykzhack for DLCs and Pippo for the exfat file",
+    "publisher": "SEGA of America, Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2022-11-08",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202112/0319/Nd9oL90yJNhyzQ9hqcZrYF0L.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "f34c175f-b8bc-4c38-bb36-21d1728f1e6d",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/Xmn0UPJHQX",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "12c2fba5-066e-47eb-8a96-fbde3971bf24",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA03831_Sonic_Frontiers",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

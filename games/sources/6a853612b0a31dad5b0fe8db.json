@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a853612b0a31dad5b0fe8db",
+    "title_id": "PPSA17942",
+    "title": "Dragon Quest VII Reimagined",
+    "version": "01.001",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 8568459756
+  },
+  "metadata": {
+    "description": "[Purchase Bonus] ・Blue Slime Shield *This bonus item can be received from the \"Claim Special Rewards\" menu in-game. \"There's more to the world than this island... And we're going to prove it!\" Set sail on an adventure spanning past and present in DRAGON QUEST VII Reimagined! As a bright-eyed young fisherman's son, you've lived your entire life on the peaceful island of Estard. Your journey begins with a simple question: is there more to the world than this small island kingdom? On a quest for answers, you and your childhood friends discover the Shrine of Mysteries and are swept back in time. There, you uncover the shocking truth that entire lands have been sealed away by a malevolent force. The fate of the world now rests in your hands. DRAGON QUEST VII Reimagined brings a timeless classic to life in a whole new way with charming diorama visuals, updated gameplay mechanics, and a streamlined story,. For seasoned adventurers, rediscover a tale of plucky companions that is brimming with joy and heartbreak. For fledgling heroes new to the series, this is a great place to begin your DRAGON QUEST journey. ■A Diorama Brought to Life DRAGON QUEST VII Reimagined blends a beautiful diorama art style with Akira Toriyama's iconic character designs to make every encounter feel vibrant, heartfelt, and full of adventure. From lush forests and bustling towns to ancient ruins and whimsical monsters, every environment is bursting with color and personality. ■Travel through History to Restore the Present Scattered stone fragments unlock portals to long-lost eras with their own challenges to solve. Restore the islands, solve mysteries, and make allies in the past to breathe life back into the present. ■A Beloved Tale with a Streamlined Narrative DRAGON QUEST VII Reimagined is told through a series of vignettes with an overarching narrative. The main story has also been streamlined to make the journey more accessible to all players. ■Classic Combat, Improved! The battle system in DRAGON QUEST VII Reimagined has undergone significant changes. Turn the tides of battle with new vocational perks. Each vocation has its own unique ability, from all-out attacks to those that support your allies. Battle speed adjustments and an auto-battle feature are also available. Battles can progress without interruptions between each turn, depending on the tactics selected for the protagonist and allies. While on the field, players can pre-emptively strike monsters and instantly defeat them If the monster is weaker than the party. ■Moonlight and Level Up Two Vocations at the Same Time! Customize your playstyle with the new Moonlighting mechanic. Having two vocations assigned at once provides access to the skills, magic spells, and unique perks from both.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & SiESPta for the File, BestPig for the BackPort and Pippo for the exfat file",
+    "publisher": "Square Enix LTD",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2026-02-05",
+    "store_url": "https://store.playstation.com/en-gb/product/EP0082-PPSA17942_00-DQ7RE00000000000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202603/0306/383dfb1a87715f09dccb703c7bdff996cb164bc3e92db91b.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "10a4e6c1-556d-4f4c-b0b7-c310c4e1b6d7",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/YFvhDiEAwu",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "cfc11f30-6c5c-46c2-a53f-65921a809524",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/obj3j7KXdzDx/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

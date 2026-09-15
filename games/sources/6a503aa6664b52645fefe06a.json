@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a503aa6664b52645fefe06a",
+    "title_id": "PPSA02225",
+    "title": "Ghost of Tsushima Director's Cut",
+    "version": "02.024",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 72713796321
+  },
+  "metadata": {
+    "description": "If you already own Ghost of Tsushima on PS4™, you can upgrade to the Ghost of Tsushima DIRECTOR’S CUT on PS5™ for $29.99 from 20 August 2021. If you already own the Ghost of Tsushima DIRECTOR’S CUT on PS4, you can upgrade to the PS5 Ghost of Tsushima DIRECTOR’S CUT for $10.00 from 20 August 2021. Edition includes: - Iki Island expansion.* - Legends online co-op mode.** - Digital mini art book. - Director’s commentary. - One Technique Point.* - Charm of Hachiman’s Favour.* - Hero of Tsushima Skin Set.* PS5 features: - Dynamic 4K resolution targeting 60fps (requires compatible 4K TV or display). - DualSense™ wireless controller haptic feedback and adaptive trigger resistance. - 3D Audio with stereo headphones (analogue or USB). - Lip sync for Japanese voiceover. - Ability to transfer PS4 saved progress to PS5 game. Owners of a PS4 disc copy must insert it into the PS5 every time they want to download or play the PS5 digital version. PS4 game disc owners who buy the PS5 Digital Edition disc-free console will not be able to get the PS5 version for the discounted price.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA & YenGr3sS for the Files",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Sucker Punch Productions LLC",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2021-08-20",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202108/1922/IXaqDecMqWm5OSPS2nhW5Amy.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "3ca2b07f-94f6-4976-a46d-202853540d53",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/whXutoxYpS",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "PapaYas",
+      "firmware": "",
+      "created_by": "6a42905bcd61e0bcf63ddeca"
+    },
+    {
+      "id": "70eb0d0c-48ed-4e76-9611-dfae11a691ef",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA02225_GOT",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

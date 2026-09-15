@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028aa",
+    "title_id": "PPSA17232",
+    "title": "Sniper Elite Resistance",
+    "version": "1.010",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 56049323213
+  },
+  "metadata": {
+    "description": "The Allies are swarming across Europe and gathering pace. In a last-ditch effort to sway the favour of the French, Adolf Hitler, leader of the Third Reich, is en route to the Ville du Lac Film Studios to film a series of propaganda shorts. The SOE and the Resistance want to ensure it isn't just film that gets shot today. Infiltrate the Film Studios. Locate Hitler. End the war today.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files and DecKerr97 for the BackPort",
+    "publisher": "Rebellion",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "release_date": "2025-01-30",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202501/2316/39d3c58c12db4f39ce998bec951d05a3137ae461baae1a08.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "0afd37a2-27c7-4992-b0d9-3699ee0aab17",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?241dbh5t0y34j62pacfh",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "c1ce705a-8a22-4d4b-b27b-e2c5ce8d5d71",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA17232_Sniper_Elite_Resistance",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

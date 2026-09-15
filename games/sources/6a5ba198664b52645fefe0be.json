@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5ba198664b52645fefe0be",
+    "title_id": "PPSA21733",
+    "title": "STALKER Clear Sky Enhanced Edition",
+    "version": "01.009",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 5476083302
+  },
+  "metadata": {
+    "description": "Back to where it all started — the S.T.A.L.K.E.R. Trilogy, one of the most visionary and groundbreaking survival first-person-shooters of all time returns. Now upscaled, enhanced must-play journey for a new generation. S.T.A.L.K.E.R.: Clear Sky is the prequel chapter of the Legends of the Zone Trilogy. With the ability to directly influence the balance of power through Faction Wars, step into the boots of Scar — a seasoned mercenary, able to somehow survive deadly Emissions. Make your way to the Chornobyl Nuclear Power Plant through radiation, anomalies, enemies, mutants, and conflict-raging Zone. FACTION WARS With anomalous activity at unprecedented levels, the Zone trembles under constant instability. Choose your path carefully or play all sides like a true mercenary and directly influence the precarious balance of power within the Zone. UNCHARTED PATHS Venture into the unknown, uncovering lost territories and secrets in Swamps, Lymansk, the Red Forest. Utilize your arsenal with new weapons and an advanced equipment upgrade system along with innovative artifact hunting mechanics. UNVEIL THE MYSTERIES OF THE PAST Unravel the deeper secrets connecting directly to the original Shadow of Chornobyl. Witness firsthand events that set the stage for future events, meeting iconic characters and exploring legendary locations as they once were. Enhanced Edition Features: ● Atmospheric visual enhancements including God Rays, Dynamic Screen Space Reflections, and Advanced Global Illumination effects. ● Redesigned water shaders, upgraded skyboxes, and wetness effects. ● Improved visuals with upscaled textures featuring more detailed NPCs and environment. ● Upgraded weapon Field of View and models. ● Multiple bugfixes and quality of life tweaks. Good Hunting, stalker. The features included in S.T.A.L.K.E.R.: Legends of the Zone – Enhanced Edition are exclusive to the PlayStation®5 platform. These graphic enhancements are not available on the PlayStation®4 version.",
+    "notes": "",
+    "credits": "",
+    "publisher": "GSC Game World Global LTD",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-05-20",
+    "store_url": "https://store.playstation.com/en-us/product/UB0046-PPSA24601_00-0688906713281357",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202406/0315/5c42d1ec480a5d2a16af41e9673710f480fafbc3bd17b00a.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "824fcd6d-026e-43b7-885c-cbd66d7406cf",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA21733-STALKER-Clear-Sky",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

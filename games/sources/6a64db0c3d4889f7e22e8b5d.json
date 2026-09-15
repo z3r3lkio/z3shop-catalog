@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a64db0c3d4889f7e22e8b5d",
+    "title_id": "PPSA01575",
+    "title": "Avatar Frontiers of Pandora Complete Edition",
+    "version": "01.020",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 165012643512
+  },
+  "metadata": {
+    "description": "Includes the main game, the season pass, cosmetics, bonus content, the digital artbook, and the From the Ashes expansion. In Avatar: Frontiers of Pandora™, experience the never-before-seen Western Frontier. Abducted by the RDA, you, a Na’vi, were trained and molded to serve their purpose. Fifteen years later, you are free but find yourself a stranger in your birthplace. Become Na'vi and reconnect with your ancestral heritage in a fight for freedom against the RDA. - Experience the epic and unpredictable Western Frontier in an open world adventure. - Become a Na'vi and customize your character, craft gear, and upgrade skills and weapons to fit your playstyle. - Bond with your own banshee to travel or give you an edge in aerial combat. - Master multiple combat styles, embracing traditional Na’vi or destructive human weapons. - Play the full story campaign in single-player or with a friend online in two-player co-op. In the From the Ashes expansion, play as So’lek, a Na’vi warrior who has found solace with the Sarentu. Just as peace settles over the Western Frontier, a new threat rises: the RDA, now allied with the Ash clan, who are ruthless Na’vi bent on annihilation. Ambushed and left for dead, So’lek awakens to a scorched land and his newfound family scattered. With new third-person gameplay, embark on So’lek’s journey as he vows to find his family and exact revenge on those who wronged him. - Experience this journey designed for third-person gameplay, which remains playable in first person at your choice. - Enjoy a streamlined progression system, enhanced combat and stealth gameplay, and brutal takedown finishers. - Face the Ash clan in combat and epic boss fights. - Navigate a world ravaged by destruction and flames. Internet connection, Ubisoft Account, PlayStation™Network account, and PlayStation®Plus subscription (sold separately) required to access online multiplayer/features.",
+    "notes": "Need account with offact + np-fake-signin for unlock DLCs.",
+    "credits": "",
+    "publisher": "Ubisoft",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Unique"
+    ],
+    "release_date": "2025-10-28",
+    "store_url": "https://store.playstation.com/en-us/product/UP0001-PPSA01576_00-AVATAR2COMPED000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202511/2614/1219aa0cac4a0062f21bbda6fef8433881920d36d269ba59.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4729fc96-1b88-49ae-b087-218c1d86b19a",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/hEzRXi0QGd",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "Dk Ricasa",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "a3e7b643-2872-4bb2-b29d-c885ea7ec37d",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01575_AvatarFOP_4xx",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

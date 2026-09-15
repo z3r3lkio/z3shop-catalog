@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028cd",
+    "title_id": "PPSA07274",
+    "title": "Tales of Arise",
+    "version": "1.04",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 40265318400
+  },
+  "metadata": {
+    "description": "For 300 years, Rena has ruled over Dahna, pillaging the planet of its resources and stripping people of their dignity and freedom. Our tale begins with two people, born on different worlds, each looking to change their fate and create a new future. Featuring a diverse cast of characters, intuitive and rewarding combat system, and a captivating story set in a lush world worth fighting for, Tales of Arise delivers a first-class JRPG experience. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™-game-disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & Dorukhan & SPX for the Files and Pkykzhack for DLCs",
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2021-09-10",
+    "store_url": "https://store.playstation.com/en-us/product/UP0700-PPSA02794_00-TOARISEPS5000001",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202108/0222/1F4ieBddXfirxZ2JE7K6eudL.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "8ebb38e4-b4b5-4996-807b-be70294c2f8e",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/G12tKqhqdM#TALES",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "Jmc",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "81159495-f96b-4f16-9499-f414910baccc",
+      "provider": "Data",
+      "url": "https://datanodes.to/jc132lvkv7bh/All_33DLCs_Psykzhack.rar",
+      "mode": "archive",
+      "direct": false,
+      "archive": true,
+      "extension": ".rar",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

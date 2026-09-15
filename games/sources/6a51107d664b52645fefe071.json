@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a51107d664b52645fefe071",
+    "title_id": "PPSA16388",
+    "title": "Hitman World of Assassination",
+    "version": "01.017",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 67001489818
+  },
+  "metadata": {
+    "description": "Enter the world of the ultimate assassin. BECOME AGENT 47 Suit up for a spy-thriller adventure where all your deadly abilities are put to the test across more than 20 locations. FREEDOM OF APPROACH Your deadliest weapon is creativity. Unlock new gear and up your game on highly replayable missions. WORLD OF ASSASSINATION Travel a living, breathing world, filled with intriguing characters and lethal opportunities. HITMAN FREELANCER A new way to play on your own terms, that combines rogue-like elements and deep strategic planning with a persistent and infinitely replayable gameplay experience. HITMAN World of Assassination brings together the best of HITMAN, HITMAN 2 and HITMAN 3, including the main campaign, contracts mode, escalations, elusive target arcades and featured live content.",
+    "notes": "",
+    "credits": "",
+    "publisher": "IO Interactive A/S",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2023-01-26",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202607/2712/de1417f5cb7252598432c1142aba719a0b414e9e35d4a0e5.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "dc87e976-da8e-49c9-bf51-718bc24bc7b4",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA16388_Hitman",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

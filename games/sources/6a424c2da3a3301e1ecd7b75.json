@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a424c2da3a3301e1ecd7b75",
+    "title_id": "PPSA24096",
+    "title": "Cronos The New Dawn",
+    "version": "01.010",
+    "pack": "pfs",
+    "region": "EUR",
+    "size_bytes": 21904333210
+  },
+  "metadata": {
+    "description": "Cronos: The New Dawn is a pulse-pounding, third-person survival horror game where time is your deadliest weapon — and your worst enemy. Survive a brutal future, dive back in time, and stop nightmarish creatures from merging into unstoppable abominations. Deluxe Edition Contains • Base Game • 1x Core Resource • 8x Pistol Ammo • 3x Shotgun Ammo • 2x Small Health Pack • 1500 Energy • Two Unique Armor Skins • Digital Artbook and Soundtrack",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files and BestPig for the BackPort",
+    "publisher": "BLOOBER TEAM S.A.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Horror"
+    ],
+    "release_date": "2025-09-03",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202504/1616/fa28299d1e43e833f34b1cefc463f0b557faabe33becd785.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a3df57fa-c245-4ac3-bcf1-7615f7450004",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA24096-Cronos-The-New-Dawn",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

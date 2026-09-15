@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a705f91a80b138b911d68de",
+    "title_id": "PPSA09664",
+    "title": "Dragons Dogma 2",
+    "version": "03.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 80208514253
+  },
+  "metadata": {
+    "description": "Note: There are other set products which include this product. Please be aware of duplicate purchases. Set forth on your grand adventure, Arisen! Dragon’s Dogma is a single player, narrative driven action-RPG series that challenges the players to choose their own experience – from the appearance of their Arisen, their vocation, their party, how to approach different situations and more. Now, in this long-awaited sequel, the deep, explorable fantasy world of Dragon’s Dogma 2 awaits. On your journey, you’ll be joined by Pawns, mysterious otherworldly beings, in an adventure so unique you will feel as if accompanied by other players while on your own adventure. All of these elements are elevated further through physics technology, artificial intelligence (AI) and the latest in graphics, to create a truly immersive fantasy world in Dragon’s Dogma 2.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Capcom U.S.A., Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games",
+      "Action"
+    ],
+    "release_date": "2024-03-22",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202403/2202/1fde7e2998a3d66b036a3496c1440601bcf5f413a25990bb.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "0c17b442-04ae-4328-8947-41cd9da1f375",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/YTnk3RG7gT",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "5236ce30-82ad-4495-bcf3-68334797a328",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA09664_Dragons_Dogma_2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5f96a520ce6441f5b9a131",
+    "title_id": "PPSA28855",
+    "title": "Totally Reliable Delivery Service",
+    "version": "01.001",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 1481763717
+  },
+  "metadata": {
+    "description": "Buckle up your back brace and fire up the delivery truck, it's time to deliver! Join up to three of your friends and haphazardly get the job done in an interactive sandbox world. Delivery attempted, that's a Totally Reliable Delivery Service guarantee! FEATURES: Local and Online Multiplayer: Go it alone to ensure the safety of your deliveries, or join your friends and put your teamwork to the test. Controlled Noodly Chaos: Unpredictable ragdoll physics meets snappy platforming. Sprint, leap, dive, and grapple with ease, but collide with something and you'll be knocked out cold! A World of Distractions: Take a break from deliveries and play around! The world is chock full of toys, vehicles, and machines that can be used for work or play. Ragtag Crew: Customize your blue-collar workers and get your rear into gear, it's time to deliver!",
+    "notes": "",
+    "credits": "",
+    "publisher": "Atari Inc.",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Party",
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2025-10-22",
+    "store_url": "https://store.playstation.com/en-us/product/UB0821-PPSA28854_00-TOTALLYRELIABLE1",
+    "trailer": "https://vulcan.dl.playstation.net/img/cfn/11307yle705Hi5FRpa9HVEGxPIrjiFLyH0_aixEgJwBBoGT00oZIjp4BQz5p7jYCBqFee9RZ5eATTxPH4LV1udeFqiEFKWXg.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "09a0e207-d6f1-440a-9dc4-404faa4663a7",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/UKEr5JxdSv",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "cb762be2-7723-4179-9fe0-d9f5226a838d",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA28855_Totally_Reliable_Delivery_Service",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

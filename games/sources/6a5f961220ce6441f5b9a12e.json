@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5f961220ce6441f5b9a12e",
+    "title_id": "PPSA25380",
+    "title": "Elden Ring Nightreign",
+    "version": "01.003.002",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 29957396890
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. The Deluxe Edition Includes: • ELDEN RING NIGHTREIGN • ELDEN RING NIGHTREIGN The Forsaken Hollows - 2 additional Nightfarers - 2 Day Three Bosses - Additional Shifting Earth - And more! • Digital Artbook & Mini Soundtrack ELDEN RING NIGHTREIGN is a standalone adventure within the ELDEN RING universe, crafted to offer players a new gaming experience by reimagining the game’s core design. RISE TOGETHER Join forces with other players to take on the creeping night and the dangers within featuring 3-player co-op. BECOME A HERO Take command of uniquely skilled heroes, each possessing their own abilities and distinct flair. While individually formidable, their skills create powerful synergies when they unite as a team. TAKE ON THE NIGHT Overcome a relentless environmental threat that sweeps through a land that changes between each game session and defeat the magnificent boss of that night! *There is also a Standard Edition product available. Please be careful not to purchase the same content twice. *ELDEN RING NIGHTREIGN The Forsaken Hollows will be available in December 2025. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-05-30",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202412/2400/1bee5946ee0f3aa93c88144b3f082e426f0ac735c4ad39e0.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4e43ccd5-336d-4a76-8678-f92cbdd708a9",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/gqC9DaJtXK",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "f47d13e9-1f4d-495b-b64f-4785ffa374be",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA25380_ELDEN_RING_NIGHTREIGN_9xx",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

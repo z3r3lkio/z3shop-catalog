@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a92e1f4b0a31dad5b0fe918",
+    "title_id": "PPSA06406",
+    "title": "LEGO® Brawls",
+    "version": "01.009",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 2909840343
+  },
+  "metadata": {
+    "description": "Dream up the ultimate Minifigure brawlers and bash your way through all of your favorite LEGO® themes in the first team action brawler set in the LEGO universe. Play with friends at home or around the world and see how you stack up against the competition. BUILD THE ULTIMATE BRAWLER Design your ultimate LEGO Minifigure hero with unique style, strategy and personality. A cactus with an attitude? A scrappy janitor ninja who happens to have fighting chickens? A sledgehammer-swinging clown with a few scores to settle? Sure! Build the ultimate brawler and level them up with unlockable content! BATTLE THROUGH EPIC LEGO THEMES From the swashbuckling shores of Barracuda Bay, to the waterlogged caverns of Ninjago® Seabound, to a dusty wild west saloon and the mythical Monkie Kid jungle, all of your favorite LEGO themes are brawlable! Collect unlockable minifigures, power-ups, and emotes along the way. CROSS-PLAY WITH FRIENDS ACROSS PLATFORMS Team up and brawl 4v4, party with friends, or play a battle royale-style game mode where it’s “every-player-for-themself”. With multiple game modes, levels have unique challenges and win conditions. BATTLE AND BUILD YOUR WAY TO THE TOP OF GLOBAL LEADERBOARDS How tough are you? Battle to the top and track your rank against everyone else in the world! Do you have what it takes to be the best?",
+    "notes": "",
+    "credits": "Thanks to DecKerr97 for the Files with BackPort",
+    "publisher": "LEGO System A/S",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2022-09-02",
+    "store_url": "https://store.playstation.com/en-us/concept/10004343",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202209/0220/n3INjem3QI3hHCHhRWb9mUK5.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4f971460-d4e7-4c36-89b8-36d6661a70dc",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/sWjNNsi8ii",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "Pablo Alves",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

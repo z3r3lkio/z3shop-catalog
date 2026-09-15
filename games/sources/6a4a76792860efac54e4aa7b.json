@@ -1,0 +1,68 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4a76792860efac54e4aa7b",
+    "title_id": "PPSA04288",
+    "title": "RESIDENT EVIL 2",
+    "version": "01.003",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 25877177958
+  },
+  "metadata": {
+    "description": "If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™-game-disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost. A deadly virus engulfs the residents of Raccoon City in September of 1998, plunging the city into chaos as flesh eating zombies roam the streets for survivors. An unparalleled adrenaline rush, gripping storyline, and unimaginable horrors await you. Witness the return of Resident Evil 2. Game contains In-App Purchases",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files",
+    "publisher": "Capcom U.S.A., Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Horror",
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2022-06-13",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202206/0602/PjS5XgLXL9xaTDlR0hSIvIZG.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "6b055f4f-6932-4b68-8a8f-cdc1ce206923",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/bq8wYFJl9o#PPSA04288",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "T4MAGO",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "5f909df4-92ba-4c77-aab3-0bc03258b54b",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA04288-Resident.Evil2.Remake",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": ".remake",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

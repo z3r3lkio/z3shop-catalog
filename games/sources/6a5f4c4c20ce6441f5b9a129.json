@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5f4c4c20ce6441f5b9a129",
+    "title_id": "PPSA20289",
+    "title": "Kong Survivor Instinct",
+    "version": "01.004",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 8987219067
+  },
+  "metadata": {
+    "description": "Kong: Survivor Instinct is a 2.5D action-adventure game that combines realistic platforming, challenging combat, and metroidvania-style exploration during a thrilling quest of survival worthy of the Monsterverse franchise. TRUE MONSTERVERSE ADVENTURE A sudden Titan attack prompts massive evacuation efforts-but not everyone makes it to safety before the devastation ensues. Caught in the crossfire between battling monsters, many residents become trapped in the collapsing city—your only daughter among them! Influence the Titans with Monarch tech and use their enormous strength to your advantage as you navigate a treacherous maze of collapsing buildings, toxic leaks, and raging fires. Scavenge for resources, weapons, and tools to solve environmental puzzles and defend yourself against both human and monster enemies. FACE THE LEGENDARY KONG Explore and survive as you encounter Kong in all his majestic glory, face the formidable Abaddon, and confront other new and returning superspecies and Titans! Whether you scavenge through half-destroyed buildings or fight off mercenaries, these enormous monsters are nearby, directly or indirectly impacting your gameplay. Though the Titans pose a lethal threat, you can - and must - influence their behavior with the ORCA Σ, a new prototype inspired by Monarch’s technology. ALAN JONAH RETURNS Discover an official Monsterverse story set shortly after the events of Godzilla vs. Kong. Stand your ground against the Hyenas, a mercenary group led by Alan Jonah. Reemerging after the events of Godzilla: King of the Monsters, the former eco-terrorist leader returns in Kong: Survivor Instinct with a new villainous scheme. A FATHER’S MISSION TO RESCUE HIS DAUGHTER Take on the role of David, an oil rig worker braving a crumbling city to find your only child, Stacy. Make your way through the districts while encountering fellow survivors taking shelter among the rubble, mourning their loved ones or on the verge of giving up hope. Feel the awe-inspiring terror Titans bring upon a city through the eyes of a father desperate to find his daughter!",
+    "notes": "",
+    "credits": "",
+    "publisher": "7LEVELS S.A.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "2024-10-22",
+    "store_url": "https://store.playstation.com/en-us/product/UP4926-PPSA20288_00-0502933413354865",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202408/1312/bfb29b2f7a0e3950b760be1170e0cac6bfdb1e79bdcbdc3d.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "e22e5ab6-0662-4709-88b2-0e4741d9f48a",
+      "provider": "Vikingfile",
+      "url": "https://vikingfile.com/f/8RGoGprLaU",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "cd81fa1f-3651-4033-b7aa-557e60248369",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA20289_Kong_Survivor_Instinct",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

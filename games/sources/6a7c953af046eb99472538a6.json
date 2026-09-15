@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7c953af046eb99472538a6",
+    "title_id": "PPSA06433",
+    "title": "Like a Dragon Infinite Wealth",
+    "version": "01.020",
+    "pack": "unknown",
+    "region": "JPN",
+    "size_bytes": 61632780698
+  },
+  "metadata": {
+    "description": "EPIC EMOTIONAL DRAMA Two larger-than-life heroes brought together by the hand of fate, or perhaps something more sinister… Ichiban Kasuga, an unstoppable underdog who’s no stranger to crawling up from rock bottom, and Kazuma Kiryu, a broken man facing down his last days. BEST-IN-CLASS RPG ACTION Experience one-of-a-kind combat with dynamic, fast-paced RPG battles where the battlefield becomes your weapon, and anything goes. Adapt your party’s skills to the situation with outlandish jobs and customizations to strategically subdue enemies with over-the-top moves. INFINITE ADVENTURE Live it up in Japan and explore all that Hawaii has to offer in an adventure so big it spans the Pacific. Unforgettable moments await at every step of the journey with a unique mix of quests and activities to enjoy at your leisure. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files, Pkykzhack for DLCs and Pippo for the exfat file",
+    "publisher": "SEGA of America, Inc.",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2024-01-26",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202310/0214/00f734c6664e27ad6cf93a65d4e60443729470d179fef727.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "7e95b7ec-79ef-4c06-907a-84ab16c56740",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA06433_Like_a_Dragon",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "ed2ceb77-2624-4e7f-a6c8-6883d6b2a492",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/CEAw00FxIN",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

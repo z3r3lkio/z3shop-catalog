@@ -1,0 +1,82 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a509118664b52645fefe06e",
+    "title_id": "PPSA14299",
+    "title": "Mafia The Old Country: Deluxe Edition",
+    "version": "01.006",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 43057047142
+  },
+  "metadata": {
+    "description": "Uncover the origins of organized crime in Mafia: The Old Country, a gritty mob story set in the brutal underworld of 1900s Sicily. Fight to survive as Enzo Favara and prove your worth to the Family in this immersive third-person action-adventure set during a dangerous, unforgiving era. Enzo will do anything for a better life. After a brutal childhood of forced labor, he's ready to risk everything to become a man of honor in the Torrisi crime family. His oath to the Mafia, with all the power, temptation, and hardship it entails, is a burning reminder of this simple truth: Family Takes Sacrifice. This thrilling narrative is brought to life by stunning visuals, cinematic storytelling, and the authentic realism that the critically acclaimed Mafia series is known for. Enzo's story unfolds in a time when skill with a stiletto blade was a deadly asset, a lupara sawed-off shotgun was a go-to firearm, murderous vendettas raged for decades, and mafiosi patrolled their protection rackets on foot, horseback, or behind the wheel of turn-of-the-century motorcars.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & SiESPTA for the Files and BestPig for the BackPort.",
+    "publisher": "2K",
+    "developer": "Hangar 13",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2025-08-08",
+    "store_url": "https://store.playstation.com/en-us/product/UP1001-PPSA14251_00-00000NEROPS5SIEA",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202508/0805/5460416a301123f9c8caff2893311877b3324b1777fe932a.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "c418cd3c-2de9-4bfc-9553-26115f8026f2",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/E9Qz908nV3OL/folder",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "c3ec2959-52c7-4e2b-ac8c-7fc37a7de6f2",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/ppsa-14299-mafia-the-old-country",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "adf5a909-9177-4c08-b348-ee84349e183c",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/Z9BPnV2PON",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

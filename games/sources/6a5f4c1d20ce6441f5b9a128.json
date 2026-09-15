@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5f4c1d20ce6441f5b9a128",
+    "title_id": "PPSA02721",
+    "title": "Neptunia Reverse",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 11703785882
+  },
+  "metadata": {
+    "description": "Gamindustri – A distant world comprised of 4 nations, each under the protection of a Goddess. Locked in the Console War, the 4 Goddesses vie for domination of the planet until Neptune is cast down and stripped of her power. Now Neptune must fight to restore her place, but could a being known as Arfoire threaten the very world the Goddesses have sworn to protect? • Explore the world of Gamindustri with enhanced graphics! • Spend time catching fish and even fresh gear in this new mini-game! • Select from 20+ characters to play from the start! Battles are amped up with up to 4 party members, HDD transformations, team attacks, and more! • Forge new items and even modify the drops from enemies and materials harvested in dungeons!",
+    "notes": "",
+    "credits": "",
+    "publisher": "Idea Factory International Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2021-06-08",
+    "store_url": "https://store.playstation.com/en-us/product/UP0031-PPSA02721_00-NEPREVERSEGAME01",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202105/1319/FgXLzplGAg64diThSDsVrGhP.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "5ddc4024-e104-4755-bfc6-7849d7d4a7e7",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/y2RrKg3xR1",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "41b10123-4e95-40f9-b56b-06a98cec9139",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA02721_Neptunia_ReVerse",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5f4d1420ce6441f5b9a12a",
+    "title_id": "PPSA20560",
+    "title": "DOOM The Dark Ages: Premium Edition",
+    "version": "01.009",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 104797202022
+  },
+  "metadata": {
+    "description": "Crush the Legions of Hell with DOOM: The Dark Ages Premium Edition, containing the base game, the DOOM: The Dark Ages | Revelations campaign DLC, Digital Artbook and Soundtrack, and the Divinity Skin Pack featuring matching skins for the DOOM Slayer, dragon, and Atlan. INCLUDES: - Base Game - Revelations (Campaign DLC)* - Digital Artbook and Soundtrack - Divinity Skin Pack * DLC to be released July 7. July 8 in UTC + 7 and higher time zones BECOME THE SLAYER IN A MEDIEVAL WAR AGAINST HELL DOOM: The Dark Ages is the prequel to the critically acclaimed DOOM (2016) and DOOM Eternal that tells an epic cinematic story worthy of the DOOM Slayer’s legend. In this third installment of the modern DOOM series, players will step into the blood-stained boots of the DOOM Slayer, in this never-before-seen dark and sinister medieval war against Hell. A DOOM FOR ALL SLAYERS DOOM: The Dark Ages is aA dark fantasy/sci-fi single-player experience that delivers the searing combat and over-the-top visuals of the incomparable DOOM franchise, powered by the latest idTech engine. With a customizable difficulty system, it's the perfect entry point whether you’re new to the franchise or a long-time fan. STAND AND FIGHT As the super weapon of gods and kings, shred enemies with devastating favorites like the Super Shotgun while also wielding a variety of new bone-chewing weapons, including the versatile Shield Saw. Players will stand and fight on the demon-infested battlefields in the vicious, grounded combat the original DOOM is famous for. Take flight atop the new fierce Mecha Dragon, stand tall in a massive Atlan mech, and beat demons to a pulp with the newly enhanced glory kill system. Only the Slayer has the power to wield these devastating tools of mayhem. REIGN IN HELL Experience the origin story of the DOOM Slayer’s rage in this epic, cinematic and action-packed story. Bound to serve as the super weapon of gods and kings, the DOOM Slayer fends off demon hordes as their leader seeks to destroy the Slayer and become the only one that is feared. Witness the creation of a legend as the Slayer takes on all of Hell and turns the tide of the war. DISCOVER UNKNOWN REALMS In his quest to crush the legions of Hell, the Slayer must take the fight to never-before-seen realms. Mystery, challenges, and rewards lurk in every shadow of ruined castles, epic battlefields, dark forests, ancient hellscapes, and worlds beyond. Armed with the viciously powerful Shield Saw, cut through a dark world of menace and secrets in id's largest and most expansive levels to date.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Bethesda Softworks",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Shooter"
+    ],
+    "release_date": "2025-05-13",
+    "store_url": "https://store.playstation.com/en-us/product/UP1003-PPSA20560_00-DOOMTDAPREMIUMED",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202508/0719/5bab7c9f0e45d135ca24f49a90c696119886e603162ed6dd.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "20bdcebd-dbfa-4a10-bfc1-f6e8591dfe49",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/5EcfYVx8XP",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "bacb737e-ec61-4a37-a083-613c4d857aad",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA20560_Doom_The_Dark_Ages",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "5c1a2d8a-59e5-448f-9b1f-a9901df24e5c",
+      "provider": "Filekeeper",
+      "url": "https://filekeeper.net/r1uu78l264n7",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

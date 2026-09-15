@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7193cfa80b138b911d68e9",
+    "title_id": "PPSA18154",
+    "title": "Tomb Raider IV-VI Remastered",
+    "version": "01.005",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 8482560410
+  },
+  "metadata": {
+    "description": "Play the next series of Tomb Raider adventures in this remastered collection of the Darkness Trilogy. Included Game Titles -Tomb Raider: The Last Revelation – Lara Croft discovers the lost tomb of the Egyptian God Set, unwittingly unleashing him and fulfilling an ancient prophecy—one that plunges mankind into darkness. -Tomb Raider: Chronicles – Following the events of The Last Revelation, Lara Croft is buried in an Egyptian tomb and is presumed dead. At her memorial, those closest to her reminisce about secrets from her past. -Tomb Raider: The Angel of Darkness – Accused of murder, Lara becomes a fugitive on the run, while uncovering a sinister conspiracy involving alchemical experiments and the search for ancient artifacts. Key Features See the Classic & Remastered Visuals: Play with the original polygonal models or swap to the remastered graphics at any time Travel the Globe: Follow Lara Croft around iconic locales including Cairo, Rome, Paris, and many more Experience Lara’s Darkest Adventures: Uncover the secrets of Lara Croft’s past and shed light on the mystery of her disappearance This product entitles you to download both the digital PS4® version and the digital PS5® version of this game.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Aspyr Media, Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-02-14",
+    "store_url": "https://store.playstation.com/en-us/product/UP1032-PPSA18154_00-TOMBRAIDER456225",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202502/1415/f4210c8dc45aabc97f2f14689e4ef473d42a436e47b0bd5c.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "f5593db2-5241-4fe4-8c2e-beb40ca6cbda",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA18154_Tomb_Raider_IV_VI_Remastered",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "690e1d35-eb5e-400b-82ce-b0adbf93f76c",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/pF7eA4YZSj",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

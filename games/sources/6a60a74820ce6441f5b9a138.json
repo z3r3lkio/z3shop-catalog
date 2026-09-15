@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a60a74820ce6441f5b9a138",
+    "title_id": "PPSA03457",
+    "title": "Demon Slayer Kimetsu no Yaiba The Hinokami Chronicles: Ultimate Edition",
+    "version": "1.08.03",
+    "pack": "unknown",
+    "region": "ASIA to EUR Languages",
+    "size_bytes": 31245887078
+  },
+  "metadata": {
+    "description": "This purchase will give you download access to both the PS4 and PS5 digital versions of the game. Please note this is the Ultimate Edition. Be aware there is also a Standard Edition and a Deluxe Edition available, so please ensure your selection before purchasing. [Product Description] Become the blade that destroys demons! Relive memorable moments from the Demon Slayer: Kimetsu no Yaiba anime through the eyes of its protagonist, Tanjiro Kamado! Follow the story from Demon Slayer: Kimetsu no Yaiba Tanjiro Kamado, Unwavering Resolve Arc—where Tanjiro joins the Demon Slayer Corps— to Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train featuring the Flame Hashira, Kyojuro Rengoku! Face off against demons from the anime series with stunning graphical effects faithfully recreating iconic battle techniques in full 3D! Choose from a cast of 24 fighters, including not only protagonists like Tanjiro Kamado and Nezuko Kamado, but demons like Rui (Lower Five of the Twelve Kizuki) and Akaza (Upper Three of the Twelve Kizuki). Pit your favorite characters against each other and enjoy never-before-seen matchups! [Ultimate Edition Content] Includes base game, all Digital Deluxe Edition content, and all Character Pass Content · Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles Game · Character Unlock Keys – Kimetsu Academy Nezuko Kamado, Kimetsu Academy Zenitsu Agatsuma, Kimetsu Academy Inosuke Hashibira · In-game Costumes – Butterfly Mansion Patient Wear for Tanjiro Kamado, Zenitsu Agatsuma, Inosuke Hashibira · PSN Avatars Set of 10 · Kimetsu Points (8,000 Points) · Digital Version Bonus: Character Unlock Key – Kimetsu Academy Tanjiro Kamado · Digital Version Bonus: PSN Avatars – Tanjiro Kamado, Nezuko Kamado · Digital Version Bonus: Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles Theme (PS4) [Character Pass Content] Tengen Uzui Character Pack Nezuko Kamado (Advanced Demon Form) Character Pack Tanjiro Kamado (Entertainment District) Character Pack Zenitsu Agatsuma (Entertainment District) Character Pack Inosuke Hashibira (Entertainment District) Character Pack Daki Character Pack Gyutaro Character Pack ※The PSN Avatars Set of 10 includes the following: Zenitsu Agatsuma Avatar, Inosuke Hashibira Avatar, Giyu Tomioka Avatar, Shinobu Kocho Avatar, Kyojuro Rengoku Avatar, Sakonji Urokodaki Avatar, Sabito Avatar, Makomo Avatar, Murata Avatar, Tanjiro Kamado (Hinokami Kagura) Avatar *PSN Avatar illustrations are based on in-game 3D models created by CyberConnect2. *Character Unlock Keys allow immediate access to play as the indicated characters in Versus mode. *In-game Costumes can be used in Versus mode. *Kimetsu Points can be exchanged for in-game rewards. (8,000 Points can unlock access to 2 characters.) *Custom Theme (PS4) is a free bonus and will not work on PS5. Please download on the PS4 store. *A paid subscription to PlayStation®Plus is required to play Versus mode online. *The latest patch is required to access online play. *The content/specs may change without warning. *The Digital Version Bonuses are permanent bonuses. *The bonuses may be offered at a later time. *Some of the items included in this set can be obtained through other products. Please be careful about duplicate purchases. *Save data and trophies cannot be shared between PS4 and PS5. *If you already own the PS4 version of this game, you can download the PS5 downloadable version at no additional charge; you do not need to purchase it separately. If you own the PS4 physical version, you will need to insert the disc into your PS5 each time you want to download or play the PS5 downloadable version.",
+    "notes": "",
+    "credits": "",
+    "publisher": "SEGA of America, Inc.",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2023-10-04",
+    "store_url": "https://store.playstation.com/en-us/product/UP0177-PPSA03489_00-ULTIMATEEDITIONA",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202110/2822/HBuWaF8sNmCg6x0tBP00SIBa.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "895009ff-b491-43f5-8e8f-500ab86b7b3d",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/c09MxUgbU8",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "28932295-9627-4925-aa77-41018b007350",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/E1x3A8Vkdmyk/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "f4310b5e-c57f-4b93-8684-644e4012baef",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA03457_Demon_Slayer",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

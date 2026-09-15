@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3ea7ed155384c8115a9afb",
+    "title_id": "PPSA32457",
+    "title": "Ys X Proud Nordics",
+    "version": "01.003",
+    "pack": "pfs",
+    "region": "EUR",
+    "size_bytes": 8053063680
+  },
+  "metadata": {
+    "description": "Stand Proud for a new adventure in Ys X: Proud Nordics! Experience Adol and Karja's unforgettable journey across Obelia Gulf with new quality of life improvements, then discover the new story centering around Öland Island, and the mysterious newcomers Canute and Astrid. And once you're ready, challenge yourself in the devious, time-trial dungeon of Muspelheim, where every second counts. Your new adventure awaits!",
+    "notes": "",
+    "credits": "Thanks to DUPLEX for the Files, Pkykzhack for DLCs",
+    "publisher": "NIS America Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2026-02-20",
+    "store_url": "",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "8b0ca971-3a4d-49e8-8907-d7e2f9714b1a",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA32457-Ys-X",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

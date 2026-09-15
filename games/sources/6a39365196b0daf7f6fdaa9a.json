@@ -1,0 +1,83 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a39365196b0daf7f6fdaa9a",
+    "title_id": "PPSA04339",
+    "title": "Nickelodeon Kart Racers 3 Slime Speedway",
+    "version": "1.000.000",
+    "pack": "pfs",
+    "region": "EUR",
+    "size_bytes": 8697308774
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. Rebuilt and re-imagined from the ground up, Nickelodeon Kart Racers returns - bigger and better than ever! Featuring a cast of over 40 iconic characters, drift, slide and boost your way to the finish line on tracks inspired by legendary Nickelodeon shows like SpongeBob SquarePants, Teenage Mutant Ninja Turtles, Avatar: The Last Airbender and more! Key Game Features: • An iconic cast of over 40 Nickelodeon characters • A major first for Nickelodeon Kart Racers: Voice acting! • Transform your kart or new bike into watercrafts to navigate all new terrain • Untold new levels of customization: Pair Raphael with the Reptar mobile, change paint jobs and parts, or dive into millions of other possible combinations! • 90 crew members to choose from to match your playstyle with unique special abilities • Intense Slime-filled alternate paths on 36 different tracks, new and old • Face off directly with fellow racers in a mayhem-filled arena mode • Intense split-screen local and online multi-player! If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & C4our20 & TRIFECTA for files",
+    "publisher": "GAMEMILL ENTERTAINMENT",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Casual",
+      "Action",
+      "Driving/Racing"
+    ],
+    "release_date": "2022-10-14",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202210/2416/q6YyqGZuztQIQX9tZLsLVzR4.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a01c8a82-66a3-46e5-82ff-b06f4c96356c",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/EbNLpdR0xa",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "acc735d4-60b9-4dee-9eca-59f5988f98b2",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/sgcQK4tD4m",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "8cc6f36f-c5bb-4c30-8658-0f65e5027ebf",
+      "provider": "Archive + DLC",
+      "url": "https://archive.org/details/PPSA04339-Nickelodeon-Kart-Racers-3-Slime-Speedway",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

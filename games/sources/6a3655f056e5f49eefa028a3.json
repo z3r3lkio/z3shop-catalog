@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028a3",
+    "title_id": "PPSA02629",
+    "title": "Trek To Yomi",
+    "version": "2.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 8901319721
+  },
+  "metadata": {
+    "description": "As a vow to his dying Master, the young swordsman Hiroki is sworn to protect his town and the people he loves against all threats. Faced with tragedy and bound to duty, the lone samurai must voyage beyond life and death to confront himself and decide his path forward. Cinematic Presentation Breathtaking camera angles and striking visuals in the spirit of classic samurai film create a true cinematic experience in Trek to Yomi. Stylish Combat Engage vicious swordsmen and supernatural beings with a streamlined combat system based around the traditional weapons of the samurai. Mythic Storytelling Experience an enthralling story of Hiroki during his fall against the forces of evil and heroic return to make good on his failed promise to save the people he swore to protect. Thrilling Soundtrack The thrilling action and somber moments are set against a memorable score designed to feel authentic to the time and place of feudal Japan.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX for the Files",
+    "publisher": "Devolver Digital",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2022-05-05",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202203/2421/lYAHksSbulFhMCGypxTYux7P.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "faac43b0-44ed-4e23-93c3-dc5a2b0b60e1",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?4yavauw3mrxm3j2q58p4",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

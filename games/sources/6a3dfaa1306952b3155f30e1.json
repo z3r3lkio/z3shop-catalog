@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3dfaa1306952b3155f30e1",
+    "title_id": "PPSA02572",
+    "title": "Alan Wake 2 Deluxe Edition",
+    "version": "01.200.007",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 105656195482
+  },
+  "metadata": {
+    "description": "The Lake House Expansion Dive into a harrowing survival horror experience with the latest expansion for Alan Wake 2, set in an eerie new location on the shores of Cauldron Lake. Within the Federal Bureau of Control's research station, the Lake House, a catastrophic event has occurred, where reckless experiments have caused reality to collide with the Dark Place. This expansion unfolds parallel to the main game, putting you in the shoes of FBC agent Kiran Estevez, portrayed by Janina Gavankar. As Agent Estevez, you’ll explore the twisted halls of the Lake House, a facility researching forces beyond comprehension, and unravel the dark secrets hidden within. Key Features: - New Location: The Lake House, set in the Cauldron Lake area, offers a haunting new environment with multiple floors to explore. - New Enemies: Face off against \"\"The Painted,\"\" a terrifying new enemy type that will test your survival skills. - New Weapon: Equip yourself with the powerful Black Rock Launcher to combat the threats lurking in the facility. - New Music: Immerse yourself in the experience with a new song from Poe and an end-of-the-chapter song from Petri Alanko. Night Springs Expansion Night Springs allows you to play as several fan-favorite characters from the Remedy Universe, through three highly stylized episodes. While similar to previously known characters, they are different—Night Springs versions of themselves. The Episodes: - Time Breaker : An Actor, who bears an uncanny resemblance to the Bright Falls sheriff Tim Breaker, is a multiversal hero in the game “Time Breaker”. His character must track down the Master of the Many Worlds and prevent him from murdering the multiversal hero’s different selves across parallel universes. - North Star : The Sibling, an unknown woman who bears a striking resemblance to FBC Director Jesse Faden, is trying to find her missing brother, who is being held captive at Coffee World. - Number One Fan : The Waitress, who bears a striking resemblance to Oh Deer Diner’s waitress Rose Marigold, must save her idol, the Writer, from the danger he finds himself in. To do so, she must confront the Writer’s critics, and the Bad Boy who is the Writer’s evil twin. Digital base game A string of ritualistic murders threatens Bright Falls, a small-town community surrounded by Pacific Northwest wilderness. Saga Anderson, an accomplished FBI agent with a reputation for solving impossible cases arrives to investigate the murders. Anderson’s case spirals into a nightmare when she discovers pages of a horror story that starts to come true around her. Alan Wake, a lost writer trapped in a nightmare beyond our world, writes a dark story in an attempt to shape the reality around him and escape his prison. With a dark horror hunting him, Wake is trying to retain his sanity and beat the devil at his own game. Fueled by the horror story, supernatural darkness invades Bright Falls, corrupting the locals and threatening the loved ones of both Anderson and Wake. Light is their weapon—and their safe haven — against the darkness they face. Trapped in a sinister horror story where there are only victims and monsters, can they break out to be the heroes they need to be?",
+    "notes": "Ignore Trophy problem popup at the beginning, saves work fine and can be loaded.",
+    "credits": "",
+    "publisher": "Epic Games",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Horror"
+    ],
+    "release_date": "2023-10-27",
+    "store_url": "https://store.playstation.com/en-us/product/UP1477-PPSA02571_00-AW2DELUXEEDITION",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202311/1623/7d99ac9d5565b687494fa1435b5f53c22780fff2084a0b30.mp4",
+    "available_at": "2026-06-26T05:00:00.000Z",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "87a26c57-8a43-4fb5-87f6-8a190f25d9b5",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA02572_Alan_Wake_2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

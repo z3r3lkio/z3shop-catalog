@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3c7bea8c7b3435462bf6c0",
+    "title_id": "PPSA30223",
+    "title": "Yakuza Kiwami 3 and Dark Ties",
+    "version": "01.015",
+    "pack": "unknown",
+    "region": "JPN",
+    "size_bytes": 41124311859
+  },
+  "metadata": {
+    "description": "A legend is reborn and a new legacy begins. YAKUZA KIWAMI 3 Continue the story of Kazuma Kiryu as he fights to protect those he cares about most in an extreme remake of Yakuza 3 that evolves every aspect of the beloved game. The bustling streets of Okinawa and Tokyo come to life in stunning detail with reimagined combat taking brutal brawling action to the next level. Added scenes deliver more depth and emotion to the beloved story with new and enhanced side experiences that immerse you in the world like never before, and more. DARK TIES Experience the brand-new tale of Yoshitaka Mine from Yakuza 3 in an included separate game. Having once led a successful startup company, he plunged himself into the dark world of the yakuza by choice after losing everything. Left with an empty heart, the pursuit to find true bonds drives him forward once again in a dramatic journey colored by exhilarating boxing-based combat, and a variety of engaging side experiences. Two men will walk different paths that converge to shake the very foundations of fate. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & VanBuuren for the Files with DLCs",
+    "publisher": "SEGA of America, Inc.",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2026-02-12",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202602/1722/c3c2660948b5560746ea5d98ac9f4fdb6b8b591917ad0bcf.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "23046093-f615-42aa-b59e-d24bb5afbf79",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?ufrc0ikdiqt098p2htx3",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "eb6c8eab-e68d-4cf1-b76e-ddee97fabefd",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA30223_Yakuza_Kiwami_3_Dark_Ties",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

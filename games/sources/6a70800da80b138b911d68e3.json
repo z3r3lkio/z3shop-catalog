@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a70800da80b138b911d68e3",
+    "title_id": "PPSA04933",
+    "title": "Who Wants To Be A Millionaire New Edition",
+    "version": "01.008",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 2340757176
+  },
+  "metadata": {
+    "description": "Put your general knowledge and your reflection skills to the test in « Who wants to be a millionaire? - New Edition », the official game for PlayStation®5! Gather all your knowledge and get the jackpot while avoiding all the trick questions facing you! With 15 questions to answer, it will become harder and harder to increase the prize fund: over 8,000 themed questions waiting to be answered (geographic, science, history, but also entertainment or arts), a growing difficulty and the pressure from the audience and the host… All the ingredients are here to put the player under pressure! 6 iconic countries are represented in the game, each with its own set and with a batch of 2,000 dedicated questions: the United Kingdom, the USA, Spain, Italy, France and Germany!",
+    "notes": "DLCs Merged",
+    "credits": "",
+    "publisher": "Microids",
+    "developer": "Palm Beach Studios",
+    "players": "10",
+    "genres": [
+      "Family"
+    ],
+    "release_date": "2021-12-01",
+    "store_url": "https://store.playstation.com/en-us/product/UP1475-PPSA04933_00-NEWWTBAMPS5000US",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202101/2100/GHKOXFdZpSz8RMogMHrnIZre.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "04ebef9e-f018-430c-80f2-47d75bc66e7e",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/u2QRZbEkGU",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "6d348401-e53e-4559-a292-924ce683b6b3",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA04933_Who_Wants_To_Be_A_Millionaire",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

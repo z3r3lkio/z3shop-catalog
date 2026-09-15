@@ -1,0 +1,96 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028b8",
+    "title_id": "PPSA31246",
+    "title": "Resident Evil Requiem Deluxe Edition",
+    "version": "1.200",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 82688857866
+  },
+  "metadata": {
+    "description": "Resident Evil Requiem Deluxe Edition. Includes the full game and the Deluxe Kit. A must have for true survivors. The Deluxe Kit contains the following content: - Grace's Costume: Dimitrescu - Grace's Costume: Film Noir - Leon's Costume: RE4 - Leon's Costume: Apocalypse - Leon's Costume: Film Noir - Screen Filter: Apocalypse - Screen Filter: Film Noir - Four weapon skins including S&S M232 Weapon Skin: Apocalypse - Mr. Raccoon Charm - DSO Emblem Charm - Audio Pack: Raccoon City Classic - Files: Letters from 1998 A new era of survival horror arrives with Resident Evil Requiem, the latest and most immersive entry yet in the iconic Resident Evil series. Experience terrifying survival horror with FBI analyst Grace Ashcroft, and dive into pulse-pounding action with legendary agent Leon S. Kennedy. Both of their journeys and unique gameplay styles intertwine into a heart-stopping, emotional experience that will chill you to your core. Bonus content can be found in-game as noted below: - Costumes, weapon skins, screen filters and custom sounds can be used by selecting Bonuses from the title screen, then Bonus Settings. - Charms will be added to your inventory when you start the game, or to the item/supply boxes if your inventory is already full. - \"Letters from 1998\" unlocks once a certain file in Raccoon City is located. Finding and reading all the files to the end will grant a special charm. *The items in this set can be purchased individually. Please be careful not to purchase the same item twice.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & SiESPta for the Files, High-Speed007 for DLCs and BestPig for the BackPort",
+    "publisher": "Capcom U.S.A., Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2026-02-27",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202512/1207/9cc3d41bf5f9ae706bbe58e3431d05bd071e9c3f82afbe90.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "3bdde535-c13b-4e1a-ac35-30e9217c540a",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/LQDphOA8yK",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "a643ea0d-88f5-48dd-8c6e-0d3175641596",
+      "provider": "FileKeeper",
+      "url": "https://filekeeper.net/zryo7xuq6kbh/PPSA31246_-_Resident_Evil_Requiem.ffpfsc",
+      "mode": "direct-file",
+      "direct": true,
+      "archive": false,
+      "extension": ".ffpfsc",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "6e5a3bb5-f2ec-4989-8560-92a956740f61",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?51czgw5qb1f906qia9vg",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "3a28bcc1-ca83-4af6-9a77-8883764b4147",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA31246_RE_Requiem",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a967c26b0a31dad5b0fe921",
+    "title_id": "PPSA05975",
+    "title": "BloodRayne 2: Revamped",
+    "version": "01.001.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 8890582303
+  },
+  "metadata": {
+    "description": "Rayne is a dhampir, born from the unnatural union of vampire and human. Her mixed heritage grants her vampiric powers and superior resistance to sunlight and water, but curses her with the bloodthirst of a vampire. She has defeated countless monsters both demonic and human, but now faces her most personal battle yet. Rayne must hunt down her very own siblings, who have banded together and pledged to carry on their father's legacy of creating a new era of vampire supremacy in which humans are mere cattle. BloodRayne is back with new acrobatic movements, rail sliding, fast-paced blade and gun combat and fatal finishing moves. Use Rayne’s dhampir powers like time dilation to rack up points in the extensive combo system in this brutally satisfying continuation of the iconic series. Features: • The original BloodRayne 2 returns to consoles with upgraded graphics and cinematics. • Get a clear view of every merciless kill in high definition. • Soak in the atmosphere with improved lighting, shadows, textures, and reflections.",
+    "notes": "",
+    "credits": "Thanks to amRAM1312 for the game files",
+    "publisher": "Ziggurat Interactive, Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "release_date": "2022-02-18",
+    "store_url": "https://store.playstation.com/en-us/product/UP6261-PPSA05972_00-3116549526563399",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202202/1700/On9LmtJd2Mf9Q6oDmFlm1Q33.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "5a833795-a24e-48ac-8e46-dc3cb631ad3d",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/Sup5onLM66",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "7e1a2399-be9a-4660-89eb-202ae94ab66c",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/ex5z259WD3Kq/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "42d44ecc-3e5e-4074-8cd8-e5b137b8f2d7",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA05975_BloodRayne_2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

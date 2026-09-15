@@ -1,0 +1,126 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a8c6548b0a31dad5b0fe904",
+    "title_id": "PPSA07837",
+    "title": "WILD HEARTS Karakuri Edition",
+    "version": "01.033",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 74088185856
+  },
+  "metadata": {
+    "description": "Join the hunt with EA Play. Members can play up to the gates of Minato and battle the Kemono. If you decide to buy, your progress carries over to the full game. WILD HEARTS™ is a twist on the hunting genre where technology gives you a fighting chance against giant nature-infused beasts. For a while, none could stand against the Kemono's overwhelming might. But hope arrives in the form of a formidable hunter, armed with deadly weapons and ancient technology called Karakuri that could turn the tide of battle. Leave a lasting impression on your fellow hunters with the WILD HEARTS™ Karakuri Edition which includes the base game and six items: Karakuri Samurai and Karakuri Ninja cosmetic armor sets, a decorative Tsukumo Lantern, and three Emotes. WILD HEARTS™ Karakuri Edition includes: - 2 x full cosmetic armor sets (Karakuri Samurai + Karakuri Ninja) - Decorative Tsukumo Lantern - 3 x Emotes (Fighting Spirit, Grovel, Conch) Developed for this generation of platforms by Omega Force, the Japanese studio behind the DYNASTY WARRIORS franchise, WILD HEARTS™ takes you on an epic adventure set in a fantasy world inspired by feudal Japan.",
+    "notes": "",
+    "credits": "Thanks to Psykzhack & DUPLEX for the Files and DecKerr97 for the BackPort",
+    "publisher": "Electronic Arts Inc",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "2023-02-17",
+    "store_url": "https://store.playstation.com/en-us/product/UP0006-PPSA07837_00-DELUXEEDITION000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202210/2615/mcD2KpJwWOmFGEEQE9MRv7us.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "d34094fe-cde9-4c09-90c0-62abdb89fec5",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA07837_WILD_HEARTS",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "6192af23-441f-49fb-bf8a-98a036d76fe7",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/X43SadFu63",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "9c960b3e-f6fd-4653-a7c3-4e5e62cb2b7a",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/0PdzyXpAL3eA/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "8e4be930-7cff-488b-977c-13f5ed7b3676",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/M2BGwPdXDmj4/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "bd3d14f8-46c4-4169-a83b-3e1c0515b88a",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/EL73g7Wq939B/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 3,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "c039ccd0-077b-434b-95ec-29711402a6c7",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/QN9mEqWNxm6d/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 4,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a686da43d4889f7e22e8b6c",
+    "title_id": "PPSA07618",
+    "title": "Train Sim World 3",
+    "version": "1.001",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 34037615821
+  },
+  "metadata": {
+    "description": "Experience Sand Patch Grade in modern and powerful equipment and embark on new journeys with a classic twist in the Sand Patch Grade & CSX SD40 bundle! CSX tonnage traffic on Sand Patch is heavy, frequent, and diverse. Railroad giants such as the AC4400CW haul everything from coal, grain, oil, autos and intermodal traffic. Modern units are supported by the veteran SD40-2, offering their power on mountain-climbing duties. Meanwhile, the classic GP38-2 keeps busy in Cumberland Yard, sorting cars and preparing trains for onward delivery. Potent diesel power with a heritage twist comes to life on Sand Patch Grade with the venerable SD40, resplendent in its early CSX Blue & Gray scheme. CSX Transportation was formed 1986, and the new freight giant soon ushered in this two-toned livery across their fleet. Take charge of heavy freight and switching operations with this all-time American classic.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Dovetail Games",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Simulation",
+      "Simulator"
+    ],
+    "release_date": "2022-11-22",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202303/2112/e6b625c2b26434bb9f3ec672472d1cb446f1186745bffb11.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "03d8d824-df70-41d7-9bc3-4dc3391cb55a",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/UqpKqG4jZ3",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "710c6752-c302-4735-b915-ab01f466cdfe",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA07618_Train_Sim_World_3",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

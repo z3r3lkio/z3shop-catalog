@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a965e11b0a31dad5b0fe91e",
+    "title_id": "PPSA29141",
+    "title": "LEGO® Party!",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 6947109601
+  },
+  "metadata": {
+    "description": "LEGO® Party! is a 4-player party game that’s built different! Compete against your friends in wacky Challenge Zones and 60 hilarious minigames from across your favorite LEGO sets like LEGO Pirates, LEGO Space, LEGO NINJAGO® and more. Join your friends online no matter their platform, or get together for a LEGO Party game night. With multiple game modes and tons of minifigures to unlock, you’ll have all the bricks to build the ultimate party! Challenge players near or far, customize your character and compete in a variety of awesome minigames to get as many Golden Bricks as you can, by any means necessary! But beware, watch out for monsters, traps and flying roast turkeys on your way to become the next star of LEGO Party! Play your way: Bring your friends and enjoy the mayhem in couch multiplayer or with cross-platform online multiplayer for up to 4 players. Whether it's competing for the perfect score in Rocketball, practicing against that pesky kraken in Kraken Up or boogieing down in Dance Off, you can enjoy LEGO Party! together or solo! Go for the gold: In LEGO Party! you have one goal: to become the player with the most Golden Bricks! Use power-ups to gain the advantage and set up traps to sabotage your opponents across a range of customizable LEGO themed Challenge Zones. Everything is awesome: Put your speed, wits, and LEGO expertise to the test across a variety of crazy minigames. Race to make dinner for aliens, run through collapsing tombs and skid round the track in rally races and so much more across 60 different wildly fun minigames. You do you: With over 1 billion minifigure combinations from iconic LEGO sets, you can go with a classic look or design your own unique and outlandish minifigure. Show off your creation at the next party!",
+    "notes": "",
+    "credits": "Thanks to DecKerr97 for the Files with BackPort and Pippo for the exfat file",
+    "publisher": "Fictions",
+    "developer": "SMG Studio",
+    "players": "4",
+    "genres": [
+      "Party"
+    ],
+    "release_date": "2025-09-30",
+    "store_url": "https://store.playstation.com/en-us/product/UB1599-PPSA29140_00-LEGOPARTYSIEA000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202509/3016/fda6a2f7f9bf1b890ecf06b8af9a504ca50287ca96bc4b92.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a0672d31-2e7a-4e4a-80b7-9c48b0af0054",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/EL73g78ry39B/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "53ab20e3-a977-47a0-b38b-f413b0de3e88",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/tB7bphEI19",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

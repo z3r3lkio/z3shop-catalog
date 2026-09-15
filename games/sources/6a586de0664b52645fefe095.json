@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a586de0664b52645fefe095",
+    "title_id": "PPSA02259",
+    "title": "Oddworld Soulstorm",
+    "version": "1.160",
+    "pack": "pfs",
+    "region": "EUR",
+    "size_bytes": 17931488461
+  },
+  "metadata": {
+    "description": "Join the Revolution! Abe returns in Oddworld: Soulstorm Enhanced Edition, complete with \"Toby's Escape\", a new game mode that creates an even more explosive and exciting Soulstorm experience. Soulstorm combines intense action-adventure platformer gameplay with a twisted tale of a society on the brink of revolution, where your moment to moment in-game choices will impact its outcome and there is more than one possible ending to experience. A revolution needs a leader. A leader needs followers. You will help guide Abe on his journey to save them all. Along the way, you face nearly impossible odds in a massive 2.9D world where death is the most likely outcome. Every moment is another choice between raining down brute force upon your oppressors or executing stealth manoeuvres to avoid detection. You will face off against a profiteering class armed with a sinister plan that threatens the very existence of an enslaved species. Scavenge for ingredients to cook up powerful weaponry and arm your followers to help in the fight. Keep in mind, the more you save, the better the outcome. If you have what it takes, you might even be able to unlock hidden playable levels. And, you might have what it takes to lead a revolution and achieve leader board status.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX for the Files",
+    "publisher": "Oddworld Inhabitants Inc",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2021-04-06",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202104/0709/KUCzsKlYq5coHHuzUPiSmSLM.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "7b0b6299-ca68-464f-8261-29e6302204c4",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/Avo9qLcoY2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "gh0st",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "f795c933-10a7-4c07-9ca9-da229cc9c37a",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA02259_Odd",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

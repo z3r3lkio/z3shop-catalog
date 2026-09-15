@@ -1,0 +1,68 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3e246230a44e5ee17d6681",
+    "title_id": "PPSA08084",
+    "title": "Dragon Ball Z Kakarot",
+    "version": "01.040",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 61160334295
+  },
+  "metadata": {
+    "description": "Relive the story of Goku and other Z Fighters in DRAGON BALL Z: KAKAROT! Beyond the epic battles, experience life in the DRAGON BALL Z world as you fight, fish, eat, and train with Goku, Gohan, Vegeta and others. Explore the new areas and adventures as you advance through the story and form powerful bonds with other heroes from the DRAGON BALL Z universe.",
+    "notes": "DLCs Unlocked",
+    "credits": "",
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games",
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2023-01-13",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202301/1305/f0RfO07R8zAzwd5aN5ULDuxB.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "84deac0c-0398-4941-a640-4ba868b265b3",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/oITxBgTtv0",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "1c044e38-4f9c-4de5-bf21-2aaa6b226deb",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA08084_Dragon_Ball_Z_Kakarot_4.xx",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": ".xx",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

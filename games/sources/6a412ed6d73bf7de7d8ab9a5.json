@@ -1,0 +1,52 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a412ed6d73bf7de7d8ab9a5",
+    "title_id": "PPSA24478",
+    "title": "Like A Dragon: Pirate Yakuza in Hawaii",
+    "version": "01.014",
+    "pack": "pfs",
+    "region": "JPN",
+    "size_bytes": 47459388621
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4® version and the digital PS5® version of this game. A new legend begins as you step into the steel toe boots of Goro Majima, a man who has lost his memory and reinvents himself as a pirate on the open sea. Embark on an over-the-top, modern-day pirate adventure with an ex-yakuza, now pirate captain and his crew as they engage in exhilarating combat on land and sea in the hunt for lost memories and a legendary treasure. ■ PIRATE YAKUZA ADVENTURE AHOY! Goro Majima, a notorious ex-yakuza suddenly finds himself shipwrecked on a remote island in the Pacific. Unable to remember even his own name, he sets sail in search of clues to his lost memories, accompanied by a boy named Noah who saved his life. Before long, they’re caught up in a conflict between cutthroat criminals, modern-day pirates, and other scoundrels over a legendary treasure. ■ GET YOUR SHIP TOGETHER Assemble a one-of-a-kind crew while upgrading your ship as you explore the open sea and forge your legend in the cannon fire of foes, unexpected friendships, and immense riches made along the way. When an enemy pirate ship catches you in their sights, an exhilarating real-time cannon battle breaks out. Quickly maneuver into position while avoiding fire, then deliver devastating damage to board the enemy ship and take down the captain in all-out crew vs. crew brawls. Conquer the seas, discover hidden islands and acquire loads of loot like a true yakuza pirate! ■ KICK ARRRSS WITH CREATIVE COMBAT Dynamically switch between the “Mad Dog” and “Sea Dog” fighting styles to mix-up attacks and deliver explosive combos, juggles, and aerial takedowns that reward your creativity with over-the-top action. With “Mad Dog” style, utilize speed, agility, and flair to deliver precise yet powerful blows that stun your enemies into submission. Or make enemies walk the plank with the “Sea Dog” style that has you dual-wielding short swords and deploying tricky pirate tools to kick some serious booty. This product contains a standalone game. Please be aware there are other editions of the game that include add-on content, and additional content is also sold separately. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files, Pippo for DLCs",
+    "publisher": "SEGA CORPORATION",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2025-02-21",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202502/2820/9d7b5c4f154cb79efdd18198a88f548084fde2c54789ca6a.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "241d5e02-c8ec-4067-b95f-0b680a36e63e",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA24478-Like-A-Dragon-Pirate-Yakuza-in-Hawaii",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

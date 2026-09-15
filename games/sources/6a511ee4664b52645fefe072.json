@@ -1,0 +1,96 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a511ee4664b52645fefe072",
+    "title_id": "PPSA15657",
+    "title": "Disney Epic Mickey Rebrushed",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 23407571763
+  },
+  "metadata": {
+    "description": "Disney Epic Mickey: Rebrushed brings the magic of Disney to life in a vibrant 3D platformer. This beautiful remake sends Mickey Mouse on an epic journey through Wasteland, a realm of forgotten Disney characters. As Mickey, you will dive into a fantastical world and, armed with paint and thinner, shape your adventure and the fate of this alternate world. Every stroke of your magic brush matters! Use paint to restore beauty and harmony or thinner to alter your environment and uncover hidden secrets. Your choices influence Mickey's destiny and change the outcome of this artistic odyssey. Will you become the epic hero Wasteland needs? Encounter various iconic characters like Oswald the Lucky Rabbit, Walt Disney’s first creation, as you travel between lands in Wasteland. Collect virtual Disney pins, tackle creative challenges, and uncover secrets, all while exploring classic platforming levels inspired by animated films and shorts. Originally envisioned by Warren Spector, reimagined by Purple Lamp, Disney Epic Mickey: Rebrushed employs state-of-the-art visuals and improved controls to breathe new life into a beloved classic. Experience new movement skills for Mickey, such as dash, ground pound and sprinting. The game’s compelling story makes it an unforgettable adventure for long-time fans and newcomers alike. Join Mickey Mouse and unravel the mysteries of Wasteland in this homage to Disney's legacy. - Explore a reimagined Wasteland, full of Disney's timeless characters and stories. - Wield the magic brush: Paint to create, thinner to alter. Every choice shapes your story. - Meet Oswald the Lucky Rabbit, Disney's original star, in a rich, narrative-driven world. - Enjoy advanced gameplay with new abilities and enhanced visuals in a classic setting. - Mickey has new moves such as dash, ground pound and sprinting. - High replayability with multiple endings based on your unique playstyle and decisions. -- Includes PS4™ and PS5® versions of the game",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & Jose Carrion for the Files and DecKerr97 for the BackPort",
+    "publisher": "THQ Nordic",
+    "developer": "Purple Lamp GmbH, Austria",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2024-09-23",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202402/2014/f9fffafed6d237297b81a01e496f3cbcd0e25fbda5f53156.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "44d997a1-991a-4df9-af81-77771694f520",
+      "provider": "Data - DLC by Psykzhack",
+      "url": "https://datanodes.to/9tfbd4v4urlj/DLC_Psykzhack.rar",
+      "mode": "archive",
+      "direct": false,
+      "archive": true,
+      "extension": ".rar",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "c0969345-536b-4e85-a636-fc9367ac4e49",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/yOA6MIaH5X",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "249f49b3-d8e3-42c5-922f-97463d20dc3c",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?jxe1tppfw0224n3e92gn",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "cf461854-967b-440f-bb65-0c9b0bc21608",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA15657_Disney_Epic",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

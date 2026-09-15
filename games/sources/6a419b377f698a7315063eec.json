@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a419b377f698a7315063eec",
+    "title_id": "PPSA03396",
+    "title": "The Last of Us Part I",
+    "version": "02.000",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 84288733184
+  },
+  "metadata": {
+    "description": "Edition includes: - Complete The Last of Us™ single-player story (PS5™). - Celebrated prequel chapter, Left Behind, which explores the events that changed the lives of Ellie and her best friend Riley forever. Experience the emotional storytelling and unforgettable characters in The Last of Us, winner of over 200 Game of the Year awards, now rebuilt from the ground up for the PlayStation®5 console. In a ravaged civilization, where infected and hardened survivors run rampant, Joel, a weary protagonist, is hired to smuggle 14-year-old Ellie out of a military quarantine zone. However, what starts as a small job soon transforms into a brutal cross-country journey. - Completely rebuilt using Naughty Dog’s latest PS5 engine technology with advanced visual fidelity, fully integrated DualSense™ wireless controller features and more. - A total overhaul of the original experience, faithfully reproduced but incorporating modernized gameplay mechanics, improved controls and expanded accessibility options. - Feel immersed in improved environmental storytelling, effects, facial animations and enhanced exploration and combat.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files and BestPig for the BackPort",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Naughty Dog LLC",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2022-09-02",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202206/0721/hcnlDVKZnvn2BNZZnQ6apW61.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "2cc3180a-e095-489a-b7bb-59491e92b43a",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA03396_Tlou_Part1",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

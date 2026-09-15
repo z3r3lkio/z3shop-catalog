@@ -1,0 +1,53 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a526204664b52645fefe07a",
+    "title_id": "PPSA07411",
+    "title": "Resident Evil 4 Gold Edition",
+    "version": "01.590",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 87402584474
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. Notes: - Items contained in this set can be purchased individually. Please take care to avoid duplicate purchases. - Please update Resident Evil 4 to the latest patch before playing Separate Ways or using the Extra DLC Pack. Resident Evil 4 Gold Edition includes Resident Evil 4 and two additional items of content: Separate Ways, where you experience the story through Ada Wong's perspective, and the Extra DLC Pack, which contains additional character outfits as well as useful weapons and items. [Resident Evil 4] 6 years have passed since the biological disaster in Raccoon City. Leon S. Kennedy tracks the president's missing daughter to a secluded European village, where there is something terribly wrong with the villagers. Featuring modernized gameplay, a reimagined storyline, and vividly detailed graphics, Resident Evil 4 marks the rebirth of an industry juggernaut. Relive the nightmare that revolutionized survival horror. [Separate Ways] Play as Ada Wong in this additional scenario, filling in unanswered questions posed in the main story. With her mission to retrieve the Amber looming over her, which path will she choose? [Extra DLC Pack] - Leon & Ashley Costumes: 'Casual' - Leon & Ashley Costumes: 'Romantic' - Leon Costume & Filter: 'Hero' - Leon Costume & Filter: 'Villain' - Leon Accessory: 'Sunglasses (Sporty)' - Deluxe Weapon: 'Sentinel Nine' - Deluxe Weapon: 'Skull Shaker' - 'Original Ver.' Soundtrack Swap - Treasure Map: Expansion",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files",
+    "publisher": "Capcom U.S.A., Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Horror",
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2024-02-09",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202210/2408/GaM9sg4vnaM42w0pwujriNR0.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4815b6b9-9b7e-4095-bac4-6a3258f4a909",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA07411-RE4",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4361712c7f0f3bd0848641",
+    "title_id": "PPSA04263",
+    "title": "Grand Theft Auto V",
+    "version": "01.010.002",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 101898099098
+  },
+  "metadata": {
+    "description": "When a young street hustler, a retired bank robber, and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government, and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city in which they can trust nobody — least of all each other. Experience GTA Online, a dynamic and ever-evolving online universe for up to 30 players, where you can rise from street-level hustler to become a kingpin of your own criminal empire.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX for the Files, Ciss84 for the BackPort and Pippo for the exfat file",
+    "publisher": "Rockstar Games",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2022-06-16",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202312/1411/5fa8f17c4c81cf21a277e64f8a4031eabd7a119700ae45db.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "b5d6fcd0-d198-4796-8754-76ad906603a5",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA04264_GTAV",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "a67df452-2509-48a8-b67c-ed68673aa707",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/ceAk9gkHpo",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

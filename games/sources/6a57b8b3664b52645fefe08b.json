@@ -1,0 +1,68 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a57b8b3664b52645fefe08b",
+    "title_id": "PPSA06568",
+    "title": "Sword Art Online Fractured Daydream",
+    "version": "01.001",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 52183852646
+  },
+  "metadata": {
+    "description": "Galaxia, a new system allowing players to relive the past, has been added to ALfheim Online; however, Galaxia spins out of control causing players from all over time and space to be displaced! To set the timeline back on track, Kirito must work with fallen friends... and foes. A total of 21 characters from the SAO series, each with their own unique role, will join him in a battle beyond memory. In addition to single-player mode, team up with up to 20 players worldwide and stand united against powerful enemies. • Single-Player Mode - Story mode A one-player experience featuring an original story. Characters from across time and space, each with their own destiny, gather to confront the anomaly in the VR world. • Online-Only Modes - Boss raid An online-exclusive mode where up to 20 players in five parties of four players each challenge a gigantic boss. This mode heralds the return of powerful bosses that once stood against Kirito and his friends. Join players from around the world to overcome these life-or-death battles. - Co-Op Quest An online-exclusive mode to challenge up to 20 players in five parties of four-players each. The five parties start separated but gradually unite with one another as the quest progresses. In the last area of the map, a final showdown against the boss awaits, requiring the combined efforts of all participants. *If the number of participants is insufficient for Boss Raid or Co-Op Quest, NPCs will be added until the total reaches 20. - Free Roam An online-exclusive mode where players can freely explore a vast map filled with powerful bosses and treasure chests. Up to 20 players can participate in one map, allowing for one-time adventures with randomly selected players. *Online-exclusive modes can be played solo through matchmaking. *Deluxe Edition and Premium Edition versions are also available. Please take care to avoid duplicate purchases.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files, Pkykzhack for DLCs and DecKerr97 for the BackPort",
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Role Playing Games"
+    ],
+    "release_date": "2024-10-04",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202403/1818/e4cb3ae6317cf794fe00c581d8662805c521190b33bfcb7e.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "72e29626-4ecf-4c0a-b5f2-4065631cbaf9",
+      "provider": "Data",
+      "url": "https://datanodes.to/a532zssbly0n/All_6DLCs_Psykzhack.rar",
+      "mode": "archive",
+      "direct": false,
+      "archive": true,
+      "extension": ".rar",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "46e63208-d4c9-4d75-ab09-e7e60e74f249",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA06568-SAO-Fractured-Daydream",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

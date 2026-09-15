@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028d1",
+    "title_id": "PPSA02015",
+    "title": "Death Stranding 2 On The Beach",
+    "version": "1.013",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 101436390113
+  },
+  "metadata": {
+    "description": "Edition includes: DEATH STRANDING 2: ON THE BEACH full game for PS5®. Embark on an inspiring mission of human connection beyond the UCA. Sam—with companions by his side—sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected? Step by step, legendary game creator Hideo Kojima changes the world once again.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-06-26",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202402/0618/9a18ef29e2da1478a2f12816cf49342b7a91c16a6f163259.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a606c0e9-119e-485f-95f0-1e260dc7b281",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/AyKewnOhkn",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

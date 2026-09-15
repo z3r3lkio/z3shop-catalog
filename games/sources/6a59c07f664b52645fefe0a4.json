@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a59c07f664b52645fefe0a4",
+    "title_id": "PPSA01628",
+    "title": "Call of Duty Black Ops Cold War",
+    "version": "01.040",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 296578229207
+  },
+  "metadata": {
+    "description": "Buy this digital PS4® version of Call of Duty®: Black Ops Cold War from the PlayStation™Store and download the PS5® version at no extra cost. Includes: - Cross Gen Bundle of Call of Duty®: Black Ops Cold War game -- Includes PS4® version of game and PS5® version - Confrontation Weapons Pack - includes 2 weapon blueprints - Legendary Captain Price Operator Skin* Black Ops Cold War drops you into the volatile geopolitical battle of the early 1980s. In a gripping single-player Campaign, where players will come face-to-face with historical figures and hard truths, as they battle around the globe through iconic locales like East Berlin, Vietnam, Turkey, Soviet KGB headquarters and more. If you already own the PS4® version of this game, you can get the PS5® digital version for a discounted price and you do not need to purchase this product. Owners of a PS4®-disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4®-game-disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version for the discounted price.",
+    "notes": "Mode Available: Campaign, Zombie and Multiplayer. np-fake-signin required for playing.",
+    "credits": "Thanks to High-Speed007 for the Files",
+    "publisher": "Activision",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Shooter"
+    ],
+    "release_date": "2020-11-13",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202012/2405/9zcnPAFU8EkBZ4LcZ1XN1MN4.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "0a6d2f9c-e0ce-428b-91d6-7364648123b7",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/UHpNrjm2FU",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "T4MAGO",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "1279a04f-5e61-4b90-8609-7efd5f4cf926",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01628-COD.COLDWAR",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": ".coldwar",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

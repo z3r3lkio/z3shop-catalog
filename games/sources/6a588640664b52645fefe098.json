@@ -1,0 +1,52 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a588640664b52645fefe098",
+    "title_id": "PPSA03174",
+    "title": "Astria Ascending",
+    "version": "01.000",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 9771050598
+  },
+  "metadata": {
+    "description": "Explore the vast and beautiful world of Orcanon. Visit five different cities populated by unique creatures and solve more than 20 dangerous dungeons. With over 50 hours of gameplay and a range of fun mini-games - including shoot ‘em ups, an original fantasy-themed card game and challenging environmental puzzles. A grand tale of fate and sacrifice Immerse yourself in a fascinating narrative rife with betrayal, sacrifice and terrors. A story based around adult characters, Astria Ascending offers a more mature experience and extensive dialog. A rewarding turn-based combat system. Fight over 200 different monsters in captivating turn-based combat. Collect and summon legendary beasts into the fight and build up your power to wield legendary Cosmo Breaks. Meet an unforgettable cast of characters Pick from eight customisable player characters spanning a range of fantastical races and skills, and assemble a heroic team that must sacrifice everything to save the world. With 20 classes to pick from and an array of unique skills to command, their fates are doomed, but the world is not. A hand-drawn adventure crafted with skill and passion. From a team featuring developers from Final Fantasy, Nier Automata and Bravely Default, Astria Ascending includes full voice acting in Japanese and English, a traditionally animated fully hand-drawn 2D world and a dynamic weather system.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files",
+    "publisher": "Dear Villagers",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games",
+      "Adventure"
+    ],
+    "release_date": "2021-09-30",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202109/1510/ixxqHT29SaJPmwbHqK1xt7pv.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "08add40d-7d85-4ceb-a9bd-3179d370102d",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA03174-Astria-Ascending",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

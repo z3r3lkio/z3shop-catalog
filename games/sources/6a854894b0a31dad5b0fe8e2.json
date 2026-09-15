@@ -1,0 +1,83 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a854894b0a31dad5b0fe8e2",
+    "title_id": "PPSA05595",
+    "title": "Kao The Kangaroo",
+    "version": "01.007",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 10307921510
+  },
+  "metadata": {
+    "description": "Kao the Kangaroo is a beautiful 3D platformer jam-packed with fun, exploration, adventure, and mystery! Join Kao, the feisty furball, as he embarks on an unforgettable quest to uncover the secrets surrounding the disappearance of his father. He’ll traverse rich environments, filled with hazards, puzzles, and foes. Each turn uncovers another clue as well as revealing a secret world bubbling under the surface. Key Features: A love letter to the golden age of 3D platformers, Kao the Kangaroo is packed with pulsating platforming action, cool combat, and more! Beautiful and bright diverse worlds packed with secrets and fun just waiting to be explored A memorable cast of characters, both good guys and bad guys, that breathe life into the world! Join Kao in an epic story as he searches for his missing father while learning about himself along the way Master and uncover the truth around ancient elemental powers held within a pair of magical boxing gloves Accessible and engaging gameplay that’s fun for all ages! Unique boss battles with their own style and offense that will test Kao’s abilities! A character-driven 3D platformer starring the cheeky, determined, feisty furball Kao as he embarks on a life-changing journey",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, Pkykzhack for DLCs and Pippo for the exfat file",
+    "publisher": "Tate Multimedia Sp. z o.o.",
+    "developer": "Tate Multimedia S",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual"
+    ],
+    "release_date": "2022-05-27",
+    "store_url": "https://store.playstation.com/en-gb/product/EP4385-PPSA05594_00-7584196509987040",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202205/2712/WRlrNtcOyXOfws53AH3Ti689.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a7401812-a60f-4fe9-b0a7-4943dca078ad",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/xSg93wSTYG",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "fa735fd0-8103-40b1-a34f-20df882c16f1",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/2WVGrdveE3kx/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "cbc77f8e-59ee-4c67-ab79-64662cde92d1",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/qPez4abMaGOY/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

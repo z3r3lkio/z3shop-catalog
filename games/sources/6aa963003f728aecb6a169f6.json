@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa963003f728aecb6a169f6",
+    "title_id": "PPSA07570",
+    "title": "Mortal Kombat 1",
+    "version": "1.010.001",
+    "pack": "fpkg",
+    "region": "USA",
+    "size_bytes": 174193136108
+  },
+  "metadata": {
+    "description": "It’s In Our Blood! Discover a reborn Mortal Kombat™ Universe created by the Fire God Liu Kang. Mortal Kombat™ 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, Pkykzhack for DLCs and BestPig for the BackPort and @HRAbedi and @scuyin for the fpkg file",
+    "publisher": "Warner Bros. Interactive",
+    "developer": "NetherRealm Studios",
+    "players": "2",
+    "genres": [
+      "Fighting"
+    ],
+    "release_date": "2023-09-19",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202310/0322/ccd9f0f412382a3fa020226e6a04131a2ad191d91d3287a9.mp4",
+    "available_at": "",
+    "uploading": true
+  },
+  "sources": [
+    {
+      "id": "0d57fe69-8334-408a-8479-0cfe03d8b645",
+      "provider": "Mega",
+      "url": "https://mega.nz/folder/iEYVUCST#DGAD-LxqHQzMD3L9i_3ZuA",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

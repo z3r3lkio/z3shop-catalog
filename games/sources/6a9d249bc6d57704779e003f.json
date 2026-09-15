@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a9d249bc6d57704779e003f",
+    "title_id": "PPSA13927",
+    "title": "Tintin Reporter - Cigars of the Pharaoh",
+    "version": "01.010",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 28239409971
+  },
+  "metadata": {
+    "description": "Tintin and his faithful companion Snowy are going to experience some extraordinary adventures…After meeting Professor Sarcophagus whilst cruising the Mediterranean Sea, the famous reporter sets out in search of the tomb of the Pharaoh Kih-Oskh. What are the dark secrets hidden in the tomb? From Egypt to India, passing through Arabia, Tintin & Snowy will end up investigating a gigantic drug trafficking network throughout the East. FEATURES A colorful adventure faithful to the book - Rich in every aspect of the Tintin universe and with a story full of twists and turns which are part of Hergé’s great creative legacy, this game plunges you into the heart of mysterious Egypt and other lands of infinite beauty. “Cigars of the Pharaoh”, is the fourth adventure in the series. A video game filled with adventures to live - Join Tintin in action-packed and thought-provoking stages as he tries to solve an international drug trafficking case by exploring the East, a tomb, a stretch of desert, the depths of a lush jungle, or other places fraught with pitfalls. A multitude of different gameplays to master - A unique and innovative gameplay combining all the best elements of adventure and investigative games. A game that invites you to dress up as a detective/reporter: search, infiltrate to find clues and solve puzzles with the help of investigative dialogue sumptuously enriched with breathtaking video sequences. - Riddles, search or stealth phases, plane and car chases, investigative dialogues… a unique and innovative gameplay which allows everyone to experience the adventure like a real reporter!",
+    "notes": "",
+    "credits": "Thanks to @DLPS Team for the game files",
+    "publisher": "Microids",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "2023-11-07",
+    "store_url": "https://store.playstation.com/en-us/product/UP1475-PPSA13928_00-TINTINCOPPS500US",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202310/3116/2ea31de01b459cfd486ff298ac1c74566a43fd24806d3d1e.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "80333862-911b-4966-93c8-f3a3c5605d31",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/CViUMsHaSU",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

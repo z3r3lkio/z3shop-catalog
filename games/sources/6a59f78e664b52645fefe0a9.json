@@ -1,0 +1,53 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a59f78e664b52645fefe0a9",
+    "title_id": "PPSA31977",
+    "title": "Darksiders Warmastered Edition",
+    "version": "01.000",
+    "pack": "pfs",
+    "region": "EUR",
+    "size_bytes": 28561532518
+  },
+  "metadata": {
+    "description": "Experience the classic Action-Adventure on a new generation of consoles! Deceived by the forces of evil into prematurely bringing about the end of the world, War – the first Horseman of the Apocalypse – stands accused of breaking the sacred law by inciting a war between Heaven and Hell. In the slaughter that ensued, the demonic forces defeated the heavenly hosts and laid claim to the Earth. Brought before the sacred Charred Council, War is indicted for his crimes and stripped of his powers. Dishonored and facing his own death, War is given the opportunity to return to Earth to search for the truth and punish those responsible. Hunted by a vengeful group of Angels, War must take on the forces of Hell, forge uneasy alliances with the very demons he hunts, and journey across the ravaged remains of the Earth on his quest for vengeance and vindication. FEATURES: • Native 4k Rendering (on PS5) • Smooth and stable 60 FPS gameplay • Photo Mode (on PS5) • DualSense® and Activities support (on PS5)",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files and DecKerr97 for the BackPort",
+    "publisher": "THQ NORDIC GMBH",
+    "developer": "KAIKO",
+    "players": "1",
+    "genres": [
+      "Fighting",
+      "Action",
+      "Action"
+    ],
+    "release_date": "2026-05-19",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202605/1913/74506da6c2dd6325dceed2e10ffc164a8f90b92d07a244f7.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "77e1c941-8369-4eea-a778-2a78bb064062",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA31977-Darksiders-Warmastered-Edition",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

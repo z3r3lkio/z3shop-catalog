@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028c9",
+    "title_id": "PPSA02100",
+    "title": "Stray",
+    "version": "1.005.000",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 8504035246
+  },
+  "metadata": {
+    "description": "Lost, alone and separated from family, a stray cat must untangle an ancient mystery to escape a long-forgotten city. Stray is a third-person cat adventure game set amidst the detailed, neon-lit alleys of a decaying cybercity and the murky environments of its seedy underbelly. Roam surroundings high and low, defend against unforeseen threats and solve the mysteries of this unwelcoming place inhabited by curious droids and dangerous creatures. See the world through the eyes of a cat and interact with the environment in playful ways. Be stealthy, nimble, silly, and sometimes as annoying as possible with the strange inhabitants of this mysterious world. Along the way, the cat befriends a small flying drone, known only as B-12. With the help of this newfound companion, the duo must find a way out. Stray is developed by BlueTwelve Studio, a small team from the south of France mostly made up of cats and a handful of humans.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Annapurna Interactive",
+    "developer": "BlueTwelve Studio, a small team from the south of France mostly made up of cats and a handful of humans",
+    "players": "1",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "2022-07-19",
+    "store_url": "",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "6bebfefa-f2d1-43da-9e5a-9657b0c8e986",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/69ol5PZtYf#PPSA02100",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "Jason",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "346469fa-28d4-4af2-a137-a65aa78c7c84",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA02100_stray",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

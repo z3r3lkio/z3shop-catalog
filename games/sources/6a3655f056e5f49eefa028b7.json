@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028b7",
+    "title_id": "PPSA02384",
+    "title": "Yakuza Like A Dragon Hero Edition",
+    "version": "1.003",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 45634027520
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. Yakuza: Like a Dragon Hero Edition includes Job Set and Management Mode Set DLC. RISE LIKE A DRAGON Ichiban Kasuga, a low-ranking grunt of a low-ranking yakuza family in Tokyo, faces an 18-year prison sentence after taking the fall for a crime he didn't commit. Never losing faith, he loyally serves his time and returns to society to discover that no one was waiting for him on the outside, and his clan has been destroyed by the man he respected most. Confused and alone, he embarks on a mission to discover the truth behind his family's betrayal and take his life back, becoming an unlikely hero for the city’s outcasts on his journey. LEVEL UP FROM UNDERDOG TO DRAGON IN DYNAMIC RPG COMBAT Experience dynamic RPG combat like none other. Switch between 19 unique Jobs ranging from Bodyguard to Musician, and use the battlefield your weapon. Take up bats, umbrellas, bikes, street signs, and everything else at your disposal to crack some skulls! ENTER THE UNDERWORLD PLAYGROUND When you're not busy bashing heads, relax by hitting up the local arcade for some classic SEGA games, compete with locals in a no holds barred go-kart race around Yokohama, complete 50 unique substories, or just take in the scenery of a modern-day Japanese city. There’s always something new around the corner. • Become Ichiban Kasuga, a yakuza grunt betrayed by the man he trusted most • Crack skulls in dynamic RPG combat • Recruit up to 7 party members from the outskirts of society • Spend time with party members to develop their abilities and unlock powerful combo skills • Find, forge, and upgrade equipment to take on the strongest foes • 19 Unique Jobs (+2 DLC Jobs) • 100+ Combat Skills • Over 15 Hilarious Mini-Games • 50 optional Substories breathe life into the city of Yokohama, Japan This game does not support the transferring of Save Data between the PlayStation®4 and PlayStation®5 versions of the game If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "",
+    "publisher": "SEGA of America, Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Unique"
+    ],
+    "release_date": "2021-03-02",
+    "store_url": "https://store.playstation.com/en-us/product/UP0177-PPSA02383_00-YLADH00000000000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202011/2400/Zr4BWNQUOfVY11KfKYL3Vioz.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "0262c94b-c0ef-44e0-8766-920654af8209",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/wxtB6QNfD9",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "2bf9c149-8d2e-4a44-bdfb-f32b045fc3ab",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA02384_Yakuza_Like_A_Dragon_Hero_Edition",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

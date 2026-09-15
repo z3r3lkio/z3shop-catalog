@@ -1,0 +1,111 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa01e50e7a6fda1fdb37b6e",
+    "title_id": "PPSA27676",
+    "title": "Painkiller",
+    "version": "01.007",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 26414048870
+  },
+  "metadata": {
+    "description": "Painkiller is a modern reimagining of the classic franchise, featuring online co-op for up to three players and offline play. Battle hordes of demons and titanic terrors across richly detailed gothic environments. Trapped in Purgatory, you are sentenced for your transgressions against Heaven. But the Voice of the Creator gives you a chance to redeem yourself. As one of the Champions, you are to stop the fallen angel Azazel who is about to unleash his demonic armies onto Earth. You will face hordes of enemies, demons with unique powers and three monstrous children of Azazel - the Nephilim. Will you succeed in your mission and earn your salvation? Purgatory Is Your Playground - Jump, dash, and hook across vast biomes while fighting enemies with a host of new and classic Painkiller weapons. Grotesque Terrors Await - Challenge a variety of enemies ranging from hordes of smaller demons to titanic terrors. Unleash The Pain - Utilize tarot cards to enhance your abilities and combine them with other players to obliterate your foes. Choose Your Character Wisely - Play as one of four distinctive characters - Ink, Void, Sol and Roch - and take advantage of their unique perks to boost your energy, health, power and damage. Rogue Angel Mode – Step beyond the main campaign and into a new realm of Purgatory. Team up with your friends and fight for survival in handcrafted randomized arenas.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & SiESPTA for the Files, Pkykzhack for DLCs and DecKerr97 for the BackPort",
+    "publisher": "Saber Interactive, Inc",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-10-21",
+    "store_url": "https://store.playstation.com/en-gb/product/UP6856-PPSA27676_00-PAINKILLER000000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202506/2009/cf2629930bacc25fd73a5bb2b78799bb40324ae6b93853b7.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "532efea9-c09d-4ded-9bbe-1eb7e1ad3f33",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/9AqGQZoKNmMn/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "15261a45-0b18-47c4-bd2c-2570b67851cc",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/wgWGq7Nka34o/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "8df5f646-6fe1-426a-9002-4c318f60fb30",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/APVmabo6j3Xo/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "40d6b16a-f352-496e-9049-a1841497a3e7",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/5pVzNAZRp37w/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 3,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "121ef028-33a1-436f-b539-6120cd72231c",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA27676_Painkiller",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

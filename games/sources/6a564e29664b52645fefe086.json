@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a564e29664b52645fefe086",
+    "title_id": "PPSA17597",
+    "title": "Sonic X Shadow Generations Deluxe Edition",
+    "version": "01.012",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 31353261261
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4® version and the digital PS5® version of this game. Purchase the SONIC X SHADOW GENERATIONS Digital Deluxe Edition and receive additional iconic music tracks from previous Sonic and Shadow games, a Terios skin based on Shadow’s original concept, behind-the-scenes art, the Sonic the Hedgehog 3 Movie Pack featuring the voice of Keanu Reeves, and more! It includes: • Base Game • Digital Deluxe Season Pass: o Sonic the Hedgehog 3 Movie Pack o Terios Skin o Extra BGM Pack o Digital Art Book + Soundtrack o Skill Points (Sonic Generations) Shadow the Hedgehog is back with Classic and Modern Sonic in SONIC X SHADOW GENERATIONS, an all-new collection featuring two unique experiences! Play as Shadow in a brand-new story campaign featuring never-before-seen abilities that prove why he’s known as the Ultimate Life Form! Speed through iconic stages from Shadow’s history, discover hidden secrets in an expansive hub world, and unlock new powers to take on Black Doom and save the world. SONIC X SHADOW GENERATIONS also includes a complete remaster of the highly acclaimed SONIC GENERATIONS, a time-traveling adventure featuring a greatest-hits collection of 3D and 2D Sonic stages, now with upgraded visuals and new bonus content. Join Shadow as he embarks on a mission of discovery with bonus Playstation-exclusive extended prologue animations, featuring never-before-seen deleted scenes. The Return of Shadow In this new standalone campaign, Shadow’s nemesis, Black Doom, has reemerged and threatens to take over the world once again. Shadow must journey into his past, confront his painful memories, and unlock new dark powers to save the world. Shadow Evolved Harness Shadow’s new Doom Powers to battle hordes of enemies and tackle platforming challenges like never before. Surf on water, fly over obstacles, and stop time with the return of Chaos Control! A Journey Through Time and Dimensions Relive signature levels from Shadow’s previous adventures and accelerate through mind-bending stages in both 3D and 2D, warped by Black Doom’s influence as Shadow works to piece together the timeline and thwart his evil plans. Explore the New White Space Stretch your legs in an all-new hub world inspired by the open-zone gameplay of Sonic Frontiers. As Shadow gains new powers, he can explore further and uncover the secrets hidden throughout! An Epic Time-Traveling Sonic Adventure Past meets present in SONIC GENERATIONS! When Dr. Eggman teams up with his past self and the mysterious Time Eater to erase their past defeats and rewrite history, they scatter Sonic and his friends across space and time. Now, Modern and Classic Sonic will have to team up to defeat this dastardly trio and restore their timeline to normal! The Best of Both Worlds, Remastered Spin dash through a greatest-hits collection of 3D and 2D versions of iconic stages from past Sonic games, now with updated visuals and reworked cinematics. More Collectibles, Bonus Content, and more! Rescue Chao hiding in every level, rack up the highest pinball score in the Casino Nights Zone, and check out the museum for behind-the-scenes art, music, and more! If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, Pkykzhack for DLCs",
+    "publisher": "SEGA of America, Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2024-10-25",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202604/2300/7e04215e7b84eb40709f987677118ae00277947f11379636.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a8c4677d-05f4-4dd4-ada6-f9ff70106885",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA17597-Sonic-X-Shadow-Generations",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

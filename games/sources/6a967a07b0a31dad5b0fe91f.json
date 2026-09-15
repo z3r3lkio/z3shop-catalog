@@ -1,0 +1,83 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a967a07b0a31dad5b0fe91f",
+    "title_id": "PPSA01913",
+    "title": "The Persistence Enhanced",
+    "version": "01.600.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 2491081032
+  },
+  "metadata": {
+    "description": "Fight to save a doomed deep space colony starship infested with murderous clone printed mutations of the former crew. Gather resources, upgrade your abilities and unlock an arsenal of weaponry on each run as you repeatedly head deeper and deeper into the decks of 'The Persistence' to repair the systems and prevent the ship from being torn apart by a black hole. The Persistence Enhanced brings improved lighting and particle effects with further UX & UI refinements. A Raytracing enabled 'Quality' Mode is also included alongside immersive, haptic feedback via Dualsense™. Please note that PlayStation®VR is not natively supported in The Persistence Enhanced.",
+    "notes": "",
+    "credits": "Thanks to amRAM1312 for the game files",
+    "publisher": "Firesprite Limited",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Horror",
+      "Unique"
+    ],
+    "release_date": "2021-06-04",
+    "store_url": "https://store.playstation.com/en-us/product/UP3536-PPSA01916_00-PERSISTENCEX2020",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202106/1111/F250IJdGTVJu6IfHfsYBMmiu.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "d0fcc511-2b9f-44a3-9e9d-0723190a7261",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/E9Qz9Xo2w3OL/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "cd5c0055-f1e1-4598-bd9f-aea22fa2302a",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/50UvRhe9T9",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "1fe26fb0-33ca-4c11-b6e8-509fcb2ddced",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01913_The_Persistence_Enhanced_Edition",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

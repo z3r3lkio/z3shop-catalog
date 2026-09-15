@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028d4",
+    "title_id": "PPSA03016",
+    "title": "Marvels Spider Man 2 Deluxe Edition",
+    "version": "1.004.003",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 123952756163
+  },
+  "metadata": {
+    "description": "Edition includes: - Marvel’s Spider-Man 2 full game for PS5®. - Arachknight Suit for Peter early unlock (includes three colour variants). - Shadow-Spider Suit for Miles early unlock (includes three colour variants). - Web Grabber gadget early unlock. - 10 unique suits (five each for Peter and Miles). - Additional Photo Mode items. - +5 Skill Points. Spider-Men Peter Parker and Miles Morales face the ultimate test of strength inside and outside the mask as they fight to save the city, each other and the ones they love, from the monstrous Venom and the dangerous new symbiote threat. Explore an expansive Marvel’s New York with faster web-swinging and the all-new Web Wings, quickly switching between Peter and Miles to experience different stories, epic new abilities and high-tech gear. Wield Peter’s symbiote abilities and Miles’ explosive bio-electric powers in battle against new and iconic Marvel Super Villains – including an original take on a symbiote-infused Venom, the ruthless Kraven the Hunter, the volatile Lizard, and more from the Marvel Rogues’ Gallery. Feel the true power of Spider-Man in your hands! - Haptic feedback: experience the full force of Peter’s and Miles’ new abilities at your fingertips with responsive vibrations. - Adaptive triggers: master acrobatic moves, execute thrilling combos, and discover the breathtaking excitement of web-swinging traversal. Live the Super-Hero life! - Tempest 3D AudioTech: pinpoint the sounds of webs, bio-electric powers, bustling traffic, responsive New Yorkers, and dangerous enemy attacks.* - Stunning visuals: explore beautifully vibrant new environments and locations, including Brooklyn and Queens – as well as locations like Coney Island. *3D Audio via built-in TV speakers or analogue/USB stereo headphones.",
+    "notes": "How to play: Make sure you manually save the game before exit.",
+    "credits": "Thanks to High-Speed007 for the Files with DLCs and BestPig for the BackPort",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Insomniac Games, Inc",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2023-10-20",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202310/1911/fb2f220794d266ba4464b861d87c5ccd0deda4f591098a99.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "5570f920-389f-4de0-aac7-44a6d969645a",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/vJKpra1Gr9",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "11bec1d4-da22-4afe-b999-1c7c81a2c7b1",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA03016_spiderman2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

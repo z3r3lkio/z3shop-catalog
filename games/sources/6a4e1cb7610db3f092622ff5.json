@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4e1cb7610db3f092622ff5",
+    "title_id": "PPSA21915",
+    "title": "Undisputed",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 15676630630
+  },
+  "metadata": {
+    "description": "Become Undisputed and rule the ring in the most authentic boxing game to date! Featuring true to life visuals, bone-jarring action, and more licensed boxers than ever before, Undisputed gives you unprecedented control to master every inch of the ring. More than 60 individual punches. Punch from multiple angles and directions. Feint to set up a trap and counter. Revolutionary footwork mechanics, including a Loose Movement toggle to help you get around the ring with ease, and Flat-Footed Movement when your stamina drops. All the tools needed to be a defensive wizard. Slip punches, weave, dodge, and block. 50 Attributes & Traits to differentiate styles and capabilities of fighters. 70+ licensed fighters – with more to come! From legendary names like Muhammad Ali and Sugar Ray Robinson to boxing’s modern champions, including Canelo Álvarez, Terence Crawford, and Tyson Fury. Play through the epic journey from amateur boxing tournaments, all the way to becoming Undisputed Champion, in the true-to-life Career Mode. Create your own fighter with Character Creator, customizing everything from build, to tattoos, to shorts and gloves.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Deep Silver",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Fighting"
+    ],
+    "release_date": "2024-10-11",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202405/0209/d5afce38ab8348f0068a2eee52731e312e20d1dab8c11e61.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "d6bf407e-7d82-49c9-a56e-1f0dd81be3f5",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA21915_Undisputed",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "482d495d-be1e-4cd5-94ed-8e26ccfea354",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/p7Z2fyzsbL",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "f096d3a7-e217-4aed-83fc-879b3af3cf92",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/62jckQlXo8",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

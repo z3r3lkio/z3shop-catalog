@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a68ca6e3d4889f7e22e8b71",
+    "title_id": "PPSA04203",
+    "title": "Sid Meier's Civilization® VII Founders Edition",
+    "version": "01.019",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 16642998272
+  },
+  "metadata": {
+    "description": "Expand the strategic horizons of your empire and enjoy more options for your reign with Sid Meier's Civilization® VII Settler's Edition! Purchasing Sid Meier's Civilization VII Settler's Edition entitles digital versions of the game on both PlayStation®5 and PlayStation®4! Sid Meier's Civilization VII Settler's Edition is the ideal way for new players to start their journey through history with a treasure trove of additional content. If you already own Sid Meier's Civilization VII Standard or Deluxe Edition, you can individually purchase the DLC included in the Settler's Edition. Settler's Edition includes: • Full base game • Tecumseh and Shawnee Pack • Crossroads of the World Collection: - 2 leaders: Ada Lovelace, Simón Bolívar - 4 civilizations: Carthage, Great Britain, Nepal, Bulgaria - 4 Natural Wonders: Machapuchare, Mount Fuji, Vihren, Vinicunca - 1 badge cosmetic bonus • Right to Rule Collection: - 2 leaders: Genghis Khan, Lakshmibai - 4 civilizations: Assyria, Dai Viet, Qajar, Silla - 4 Wonders: Grand Bazaar, Mausoleum at Halicarnassus, Ubudiah Mosque, Wat Xieng Thong - 1 badge cosmetic bonus • 4 leader Personas: - Ashoka (World Conqueror) Persona - Friedrich (Baroque) Persona - Himiko (High Shaman) Persona - Xerxes (The Achaemenid) Persona • Deluxe Cosmetics Pack - 4 profile customizations - 1 alternate scout skinRows 53,",
+    "notes": "",
+    "credits": "",
+    "publisher": "2K",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "2025-09-23",
+    "store_url": "https://store.playstation.com/en-us/product/UP1001-PPSA04203_00-CIV7CROSSGENPS50",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202408/2220/7b6834ea73414c69f9e0193729a2e01b0d6bd37d173280f9.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "34ad9725-8a93-44c2-91c8-29836e9424c5",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/ehVBlZEiY8",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "91c612cb-6e7e-4dae-a112-ddb8ce9f0935",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA04203_Civilization_VII",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

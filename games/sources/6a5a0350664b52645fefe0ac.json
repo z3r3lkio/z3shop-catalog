@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5a0350664b52645fefe0ac",
+    "title_id": "PPSA12507",
+    "title": "Synapse®",
+    "version": "01.002.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 20078972109
+  },
+  "metadata": {
+    "description": "A DEADLY STATE OF MIND Dual-wield brutal firepower and surging telekinesis in the ultimate mind-breaking VR action shooter. Unleash your inner anti-hero and invade the twisted subconscious of a notorious enemy of the state. From the award-winning team behind Fracked, Phantom: Covert Ops and Far Cry VR: Dive into Insanity comes the next generation of immersive VR action. THE MIND IS A BATTLEFIELD Become a mind-breaking operative and wreak havoc on the enemy’s mind with deadly weaponry in one hand and expressive telekinetic abilities in the other. Dual-wield and combine your powers to overcome formidable defences and delve deeper into a hostile mindscape. ONLY POSSIBLE ON PS VR 2 Enter a breath-taking surreal mindscape crafted for the PS VR2’s stunning 4K HDR display. Feel every moment of adrenaline-fuelled action through the PS VR2’s next gen Sense controllers, adaptive triggers, and headset feedback. BECOME AN UNSTOPPABLE FORCE Evolve and master your own combat style by combining increasingly sophisticated skills and abilities. Risk everything on a desperate, final mission into the darkest corners of a corrupted mind. Visceral, fast-paced and visually explosive, Synapse is a never-before-seen experience created exclusively for PlayStation®VR2.",
+    "notes": "PSVR2 required to play",
+    "credits": "Thanks @Vins for the game files",
+    "publisher": "NDREAMS LTD",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2023-07-04",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202307/0323/aec11439c5a81b5251b750b6fb47f9dcc0504e631d5065c7.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "b1d68154-83ab-40a6-9dc8-ec6a4d5d20f5",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA12507-Synapse",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

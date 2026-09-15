@@ -1,0 +1,52 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a8d6387b0a31dad5b0fe909",
+    "title_id": "PPSA13197",
+    "title": "Stellar Blade™ Complete Edition",
+    "version": "01.014.001",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 44130788966
+  },
+  "metadata": {
+    "description": "Ravaged by strange, powerful creatures, Earth has been abandoned, and what is left of the decimated human race has fled to a Colony in outer space. After travelling from the Colony, EVE arrives on the desolate remains of our planet with a clear-cut mission: to save humankind by reclaiming Earth from the Naytiba – the malevolent force that has devastated it. But as EVE tackles the Naytiba one-by-one, piecing together the mysteries of the past in the ruins of human civilization, she realizes that her mission is far from straightforward. In fact, almost nothing is as it seems… A thrilling slice of razor-sharp action Engage in blisteringly fast combat as you slash a path through the remnants of Earth in an all-new action adventure on PS5. Unleash graceful yet brutal attacking combos, unlock new moves and weapon upgrades, and face epic boss encounters that will challenge both brain and brawn in equal measure. An incredible visual experience Become immersed in a highly detailed post-apocalyptic world that blends beauty and horror to spectacular effect. Explore breathtaking science fiction-inspired environments, brought to life via the graphical power of PS5. A deep, unforgettable adventure Unravel a gripping human fate story, with mature themes, a thought-provoking narrative and emotionally-charged revelations from beginning to end. New content • Test your skill and strength against the fearsome warrior Mann, the leader of the Sentinels in Boss Challenge Mode. • Chinese voice over and lip-sync support. • 25 costumes, three pairs of glasses and six pairs of earrings to unlock in New Game Plus.",
+    "notes": "All currently released DLC for the game is already included",
+    "credits": "Thank @DUPLEX for the files",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2025-06-11",
+    "store_url": "https://store.playstation.com/en-us/product/UP9000-PPSA13196_00-STELLARBLADECE00",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202212/2003/zXTQBfIcrIuMs81gFvrlRyMi.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a883f827-3c60-4d64-8c46-3653963b2163",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/OJaTx9u6Lv",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "Jmc Workz",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

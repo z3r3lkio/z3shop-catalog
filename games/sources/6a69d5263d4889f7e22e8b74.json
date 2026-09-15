@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a69d5263d4889f7e22e8b74",
+    "title_id": "PPSA25319",
+    "title": "MotoGP 25",
+    "version": "01.013",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 21689584845
+  },
+  "metadata": {
+    "description": "Get ready to take part in MotoGP™25! FEEL EVERY DETAIL OF THE 2025 SEASON Join the official Championship and step into the boots of your favorite riders to master the most iconic bikes and tracks of the season. Live the most realistic race thrills ever thanks to Unreal Engine 5, MotoGP™ Stewards ensuring fair battles, and an overhauled sound design, recorded on-site from official bikes. FORGE YOUR RACING LEGACY Your path to becoming a MotoGP™ Legend starts here! Deep dive into your bike's evolution, choose your own career Turning Points during the season and develop social relationships off track, then watch how these choices evolve over the weekend. Master the Riders Market dynamics to make your journey always unique. MASTER YOUR CRAFT Train like a champion with the new Race Off disciplines available in Career and Quick Modes. Ride Motard, Flat Track and Minibikes bikes on 4 dedicated tracks across 2 original environments. Take on exciting challenges, boost your rider's fitness, unlock accessories and sharpen your skills to dominate the track! RACE YOUR OWN WAY Maximum playability or full-sim challenge? Jump right into the action with the new Arcade Experience for immediate adrenaline-pumping fun. Or master every detail of the track, fuel consumption, and electronics in the Pro Experience, for an authentic MotoGP™ realism! Take full control of your bike with an improved Adaptive Difficulty Mode, Neural Aid System and new Tutorial. DOMINATE THE SCENE Ranked races and full cross-play will let you challenge friends and opponents with similar skills, no matter what platform* they race on. Unleash your creativity and show the world your style thanks to a full set of in-game editors. *Nintendo Switch excluded",
+    "notes": "",
+    "credits": "",
+    "publisher": "Milestone",
+    "developer": "Milestone S",
+    "players": "2",
+    "genres": [
+      "Sport",
+      "Driving/Racing"
+    ],
+    "release_date": "2025-04-30",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202504/3007/acebf5ea701c786d9d8bc9a387ebc2a385943091f905fd9e.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "7f10daea-7e5a-467a-85a6-447fba61548b",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA25319_MotoGP25",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "c3f1e171-b401-408c-a06e-bdb6be470cb4",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/KIgLGjybD6",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

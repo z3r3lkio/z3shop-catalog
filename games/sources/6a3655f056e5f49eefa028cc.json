@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028cc",
+    "title_id": "PPSA17905",
+    "title": "Horizon Forbidden West",
+    "version": "1.030",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 128902705971
+  },
+  "metadata": {
+    "description": "Join Aloy as she braves the Forbidden West, a deadly frontier that conceals mysterious new threats. This Complete Edition allows you to enjoy the critically acclaimed Horizon Forbidden West™ in its entirety with bonus content, including the Burning Shores story expansion that picks up after the main game. - Brave an expansive open world – discover distant lands, new enemies, rich cultures and striking characters. - A majestic frontier – explore the lush forests, sunken cities and towering mountains of a far-future America. - Confront new dangers – engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts. - Unravel startling mysteries – uncover the secret behind Earth’s imminent collapse and unlock a hidden chapter in the ancient past… one that will change Aloy forever.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, b0mba1992 for DLC and BestPig for the BackPort.",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Guerrilla",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2023-10-06",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202202/1800/DlwAV5n4tG4ZycFimuEJChSJ.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "f777fd3d-8d23-46bb-ad68-b96af4d91780",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/FxhEnVhBgt",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "819b6085-76df-4fcb-912f-0388676830d2",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?1fmz658bbxhrlvthywrm",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "5cca620f-11cb-46eb-b5bc-c0f0815d9a63",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA17905-Horizon-Forbidden-West",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

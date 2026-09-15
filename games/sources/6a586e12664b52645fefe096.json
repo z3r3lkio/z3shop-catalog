@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a586e12664b52645fefe096",
+    "title_id": "PPSA13794",
+    "title": "Phantom Breaker Battle Grounds Ultimate",
+    "version": "1.000",
+    "pack": "pfs",
+    "region": "EUR",
+    "size_bytes": 1717986918
+  },
+  "metadata": {
+    "description": "Phantom Breaker: Battle Grounds Ultimate is a side-scrolling beat'em up with the heart of a fighting game, supporting cross-platform pixel art anime action with up to 8P online multiplayer and all the characters from Phantom Breaker: Battle Grounds Overdrive! REVAMPED GAMEPLAY Gameplay has been rebuilt from scratch in Unreal Engine 5, giving smoother gameplay and flashier special attacks. ONLINE CO-OP AND VS MODES Team up with friends in local co-op or challenge up to 8 fighters from around the world with cross-platform online play. PLAY AS THE ENEMY Take on the role of powerful adversaries from the Phantom Breaker: Battle Grounds universe, each with their own distinct combat style and abilities in Arcade Mode. REMASTERED SOUNDTRACK Players can choose an all-new soundtrack composed by all-girl J-rock band The Phantom Breakers or the classic versions from PBBG or PBBG Overdrive. STORY Japan's capital, Tokyo. The mysterious man, Phantom, has been operating in the shadows in order to regain his immense powers, which have been sealed. He granted a weapon called FA (Fu-mension Artifact) to young talented individuals, and enticed them into battle by promising them to grant their wish if they win in battle. This is because the clash between the FAs will generate a distortion in space and time, creating an opening that leads to an alternate world. This opening will eventually unseal his powers. Waka, the young daughter from the Kumon family belonging to a clan of exorcists rebelling against Phantom, and Mikoto, who offered cooperation, tried to stop this conspiracy, but lost him just before defeating him. In addition, Waka's younger sister Nagi has been kidnapped by Phantom. Itsuki, who yearns to become the hero of Justice, and Yuzuha, a ninja who once managed to escape Phantom's seduction, also joins the fight, and the 4 girls set out on a search mission to track down Phantom and save Nagi.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files and BestPig for backport",
+    "publisher": "ROCKET PANDA GAMES, INC.",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-04-16",
+    "store_url": "https://store.playstation.com/en-gb/concept/10007347/",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202503/1209/c69f71a71ee58d0dc68ee7539917989efe326b2fe477413f.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "119a9c5a-e823-462a-ba85-7a31d7ca4622",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/bSZjGt4l96",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "gh0st",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "1a27fc81-d3e7-4265-b8cb-ccf3fd073694",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA13794_Phantom_Breaker",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

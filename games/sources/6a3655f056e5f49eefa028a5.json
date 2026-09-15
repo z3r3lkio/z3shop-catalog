@@ -1,0 +1,97 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028a5",
+    "title_id": "PPSA07809",
+    "title": "Crisis Core Final Fantasy VII Reunion",
+    "version": "1.004",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 23407571763
+  },
+  "metadata": {
+    "description": "CRISIS CORE –FINAL FANTASY VII– REUNION is the HD remaster version of the smash hit prequel to FINAL FANTASY VII. In addition to all graphics being remastered in HD, fully voiced dialogue and new soundtrack arrangements make for a dynamic new retelling of a beloved classic. CRISIS CORE –FINAL FANTASY VII– REUNION follows the story of Zack Fair, a young warrior admired by the boy destined to save the world, trusted by men renowned as heroes of legend, and loved by the girl who holds the fate of the planet in her hands. The tale of Zack's dreams and honor—the legacy that connects him to Cloud—is revealed in full in this grand saga that has broken the limits of an HD remaster. - All graphics fully remastered in HD, bringing the game to the latest console generation - Renewed 3D models, including characters and backgrounds, enriching the visual experience - Improved battle system providing a vastly smoother gameplay experience - Fully voiced dialogue in both English and Japanese - A newly arranged soundtrack from the original composer, Takeharu Ishimoto In the mako-powered metropolis of Midgar stands the headquarters of Shinra, a powerful company with a formidable private army. Zack Fair is a promising young operative in the Shinra military's elite unit, SOLDIER. Together with his mentor, SOLDIER 1st Class Angeal, and the SOLDIER hero Sephiroth, Zack begins an investigation into the recent mass disappearance of SOLDIER operatives. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "SQUARE ENIX CO. LTD.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Role Playing Games"
+    ],
+    "release_date": "2022-12-13",
+    "store_url": "https://store.playstation.com/en-us/concept/10004142",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4aedfbf6-44e1-413a-9281-591396301b2c",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/6GQGPiFE0g",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "11df661c-eb6f-4575-8945-b7f1cf93826c",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/EL73g7k9839B/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "fadd3050-06c1-40ff-afbb-7b733d48c3f3",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/vgKGxX7E6G8Q/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "0158404e-3131-4d15-9f56-f8a31ee3216d",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/gXeGOAeDN3Aa/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 3,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

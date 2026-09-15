@@ -1,13 +1,228 @@
 {
   "name": "Z3Shop Games",
-  "version": 2,
+  "version": 3,
   "source": "gfs-pfs-library",
   "page": 13,
   "page_size": 24,
-  "total": 367,
+  "total": 373,
   "pages": 16,
-  "generated": "2026-09-15T12:32:10.396Z",
+  "generated": "2026-09-15T16:49:00.615Z",
   "games": [
+    {
+      "id": "6a562660664b52645fefe082",
+      "title_id": "PPSA18010",
+      "title": "Tony Hawks Pro Skater 3 + 4",
+      "version": "01.003",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 55512452301,
+      "size_label": "51.7 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2101/322f386a7ffa30527e27e60a04e80016fa6c692dd339962a.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2100/5a082446577b5f38ca04bf9bac67726fcbe0bc61baf6de7b.png",
+      "updated_at": "2026-07-14T12:06:56.219Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Archive",
+        "1fichier"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a562660664b52645fefe082.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a562660664b52645fefe082-ce6cbe274b3f.png",
+      "icon_bytes": 71937
+    },
+    {
+      "id": "6a5625eb664b52645fefe081",
+      "title_id": "PPSA16738",
+      "title": "Transformer Galactic Trails",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 4187593114,
+      "size_label": "3.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0808/66b34f040681df81e699dbe06ef16ea28293867dae4eba2c.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0808/8769a18ae0c94464f80b241adbba171c488fdf564e62bd36.png",
+      "updated_at": "2026-07-14T12:04:59.338Z",
+      "source_count": 1,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a5625eb664b52645fefe081.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5625eb664b52645fefe081-c8beb87703f1.png",
+      "icon_bytes": 85299
+    },
+    {
+      "id": "6a562596664b52645fefe080",
+      "title_id": "PPSA22102",
+      "title": "Squirrel With A Gun",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 3414499000,
+      "size_label": "3.2 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0621/147539c5727b2ea03f910ceeac00d201b4ac641eefd2a86a.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0621/4a03117b549b3c536046a9ec03d21a150cc54b418733eb36.jpg",
+      "updated_at": "2026-07-14T12:03:34.294Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Archive",
+        "1fichier"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a562596664b52645fefe080.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a562596664b52645fefe080-340d60d2717e.png",
+      "icon_bytes": 43595
+    },
+    {
+      "id": "6a5624ed664b52645fefe07f",
+      "title_id": "PPSA09259",
+      "title": "Hell Is Us",
+      "version": "01.006",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 24588687770,
+      "size_label": "22.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1909/3e387e59545ff37d4312cef4c0d25d6eee3156e003b3eded.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1909/52572774943ea3ca312959d17abf127eef87ec6548cde92f.jpg",
+      "updated_at": "2026-07-14T12:00:45.675Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "1fichier",
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a5624ed664b52645fefe07f.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5624ed664b52645fefe07f-515098e23a38.png",
+      "icon_bytes": 62271
+    },
+    {
+      "id": "6a549a97664b52645fefe07e",
+      "title_id": "PPSA06955",
+      "title": "Granblue Fantasy Relink",
+      "version": "01.003.002",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_label": "7.xx+",
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 73014444032,
+      "size_label": "68.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0411/d00d5e76883b89b7d56344d4cf650bd02b4c7b879f94b14d.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0411/1d57aaaac896cd92f6b488ee9c5f1af372a6fc4a4695dfd7.png",
+      "updated_at": "2026-07-13T07:58:15.154Z",
+      "source_count": 1,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a549a97664b52645fefe07e.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a549a97664b52645fefe07e-361c46fbe7fe.png",
+      "icon_bytes": 79344
+    },
+    {
+      "id": "6a509118664b52645fefe06e",
+      "title_id": "PPSA14299",
+      "title": "Mafia The Old Country: Deluxe Edition",
+      "version": "01.006",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 43057047142,
+      "size_label": "40.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2416/044c29ea5623bbb31fc1b2db8577621ba7f035b4c679cfdc.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2416/a625fb3c2a502faa490d2ab220fdbdd41f33a77dc41d328c.jpg",
+      "updated_at": "2026-07-13T05:59:27.028Z",
+      "source_count": 3,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Akirabox",
+        "Archive (Game + DLC)",
+        "Viki"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a509118664b52645fefe06e.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a509118664b52645fefe06e-8775db8085fb.png",
+      "icon_bytes": 49906
+    },
     {
       "id": "6a3655f056e5f49eefa028d5",
       "title_id": "PPSA02530",
@@ -30,12 +245,17 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2605/b7ec5836e23affe26c8ad00124a1eddddab5e1bad456c03e.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2605/903271eb79de107c27515fd04ee6f9e9cfdf2d6028a48673.png",
       "updated_at": "2026-07-12T12:51:51.149Z",
-      "link_count": 3,
+      "source_count": 3,
+      "usable_source_count": 2,
+      "direct_source_count": 1,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
       "providers": [
         "Viki",
         "FileKeeper",
         "Akirabox"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028d5.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028d5-8471a574b391.png",
       "icon_bytes": 57547
@@ -62,10 +282,15 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2708/ympJiu4PTXE1CtMHfLoHoK3E.png",
       "updated_at": "2026-07-12T03:23:29.791Z",
-      "link_count": 1,
+      "source_count": 1,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
       "providers": [
         "Archive"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a526204664b52645fefe07a.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a526204664b52645fefe07a-44a183715a70.png",
       "icon_bytes": 65848
@@ -92,11 +317,16 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2102/87b721c5b7abc54f1c6f2cdf907066d8d00c9b8d73359754.png",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2304/fcfc13cd93d861454433fcaf8b9a727cb24258783175100e.png",
       "updated_at": "2026-07-12T03:23:25.335Z",
-      "link_count": 2,
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
       "providers": [
         "1fichier",
         "Viki"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a526095664b52645fefe079.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a526095664b52645fefe079-f7b0fcc41969.png",
       "icon_bytes": 57629
@@ -123,12 +353,17 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2807/f02fd98c805c78ff1c56aec62054d04fbecf1fc5ba9eeee5.png",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0516/996f36ddaec3215095425ca966f46a1990540f36f61069c8.png",
       "updated_at": "2026-07-11T15:32:41.062Z",
-      "link_count": 3,
+      "source_count": 3,
+      "usable_source_count": 3,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 3,
       "providers": [
         "Gofile",
         "Buzzheavier",
         "1fichier"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a525f0e664b52645fefe078.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a525f0e664b52645fefe078-ee4b5308c0e1.png",
       "icon_bytes": 80670
@@ -155,11 +390,16 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0121/23971a265ea7bb4dbdbfd05bc97694494f17ef0acf320702.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0121/b8c685da41fe9e1573879c83ede4b2e15eca3c20d407fe22.jpg",
       "updated_at": "2026-07-11T15:13:02.686Z",
-      "link_count": 2,
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
       "providers": [
         "1fichier",
         "Archive"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a525d7e664b52645fefe077.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a525d7e664b52645fefe077-dae9866ee6cb.png",
       "icon_bytes": 50842
@@ -186,10 +426,15 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0207/01Slmbo3uyEiyiomq7TxBBLl.png",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0911/nps4KsXSulAMlTEsleylGkTM.jpg",
       "updated_at": "2026-07-11T13:41:32.289Z",
-      "link_count": 1,
+      "source_count": 1,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
       "providers": [
         "Archive"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a40adc041d4f7b0f7bf92c9.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a40adc041d4f7b0f7bf92c9-4cd10bda1d5e.png",
       "icon_bytes": 74206
@@ -216,13 +461,18 @@
       "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1717/qHFrrJINxIfsvIyudYAyjfDq.png",
       "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1717/brIXKBE5BqYgBSrsDn6Wo18O.png",
       "updated_at": "2026-07-11T06:55:49.421Z",
-      "link_count": 4,
+      "source_count": 4,
+      "usable_source_count": 3,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 3,
       "providers": [
         "Gofile",
         "Akirabox",
         "1fichier",
         "Archive (Game + DLC)"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a51ab15664b52645fefe076.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a51ab15664b52645fefe076-599a1b6b8022.png",
       "icon_bytes": 79982
@@ -249,11 +499,16 @@
       "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202201/1616/THJbARAq2YiRVUv5abCQ8GYQ.png",
       "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202201/1716/GjKNa6S5Y1kQ2PXlrzitZOj0.png",
       "updated_at": "2026-07-11T06:55:45.513Z",
-      "link_count": 2,
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
       "providers": [
         "1fichier",
         "Archive"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a51aacc664b52645fefe075.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a51aacc664b52645fefe075-e8dfe1d7caa2.png",
       "icon_bytes": 58321
@@ -280,11 +535,16 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0123/bF1qmEL5RM6aMfL0oLcxRe8B.png",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2000/aPVbncDz3LjjQpNQW6LhzNSK.jpg",
       "updated_at": "2026-07-11T06:54:57.806Z",
-      "link_count": 2,
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
       "providers": [
         "1fichier",
         "Archive"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a38ec5b42def9b2bc43f90e.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a38ec5b42def9b2bc43f90e-1c7ffa94959e.png",
       "icon_bytes": 84185
@@ -311,13 +571,18 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0507/8f003c35d3efd3f4d124b483e6efcf50d51fab23b01dc888.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0507/2a04ca0b5ea1a4ea1d446a4f84a347129491745b9c4dd704.jpg",
       "updated_at": "2026-07-10T16:33:40.148Z",
-      "link_count": 4,
+      "source_count": 4,
+      "usable_source_count": 3,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 3,
       "providers": [
         "Data - DLC by Psykzhack",
         "Viki",
         "1fichier",
         "Archive (Game + DLC)"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a511ee4664b52645fefe072.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a511ee4664b52645fefe072-8b66dfd778b2.png",
       "icon_bytes": 44048
@@ -344,10 +609,15 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2013/45afd93d4a7c78d0ebfa3a4b441ce1f9ccbf59ec8b79c9fa.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2013/45afd93d4a7c78d0ebfa3a4b441ce1f9ccbf59ec8b79c9fa.jpg",
       "updated_at": "2026-07-10T15:32:13.624Z",
-      "link_count": 1,
+      "source_count": 1,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
       "providers": [
         "Archive (Game + DLC)"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a51107d664b52645fefe071.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a51107d664b52645fefe071-07452b2bf145.png",
       "icon_bytes": 34144
@@ -374,11 +644,16 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0222/9h423wCC1FFb8tknYFAU4NC9.png",
       "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/0222/NMwFZ00J50ctQEHdRGGg7IBg.png",
       "updated_at": "2026-07-10T09:30:40.862Z",
-      "link_count": 2,
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
       "providers": [
         "Viki",
         "Archive"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a503aa6664b52645fefe06a.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a503aa6664b52645fefe06a-3dbf68caf113.png",
       "icon_bytes": 80422
@@ -405,11 +680,16 @@
       "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0302/eK0TNeaxIR1ajS2iaoH29hwh.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/3002/5yRvEJERrFUHQKoyISq3ezo1.jpg",
       "updated_at": "2026-07-10T07:22:12.367Z",
-      "link_count": 2,
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
       "providers": [
         "Archive",
         "Viki"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a38c27c6e92a31626525cc9.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a38c27c6e92a31626525cc9-819839eb87c6.png",
       "icon_bytes": 62440
@@ -436,11 +716,16 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1717/5fJ3kW3Q3iEfNP9NpJybaKsq.jpg",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1717/KJvdh38WMEDQQJFEUnmqwSt0.jpg",
       "updated_at": "2026-07-10T06:24:23.739Z",
-      "link_count": 2,
+      "source_count": 2,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
       "providers": [
         "Archive",
         "Viki"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028a1.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028a1-ed4b8c403a65.png",
       "icon_bytes": 62889
@@ -467,10 +752,15 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2216/l786jmG4WHmfCcfiVyiL9xSQ.jpg",
       "banner_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA10812_00/3/i_a4d09cfb51b390c3d5f3ea77531bc847294e59386ed520f6edeb6ef377a3b4d7/i/pic0.png",
       "updated_at": "2026-07-10T06:23:15.575Z",
-      "link_count": 1,
+      "source_count": 1,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
       "providers": [
         "Archive (Game + DLC)"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028a2.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028a2-d9011309745d.png",
       "icon_bytes": 63011
@@ -497,12 +787,17 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/0309/9c9610f649ad2e980b5bd94676a5b71a23e9d799e440be42.png",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/0309/2b867587851f9c1c568f0ac39dc028571488bd50d14d4591.jpg",
       "updated_at": "2026-07-10T03:19:40.990Z",
-      "link_count": 3,
+      "source_count": 3,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
       "providers": [
         "Akirabox",
         "1fichier",
         "Archive"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a38d682120612b86638fd54.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a38d682120612b86638fd54-6fb9ce46f373.png",
       "icon_bytes": 74192
@@ -529,11 +824,16 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0513/826f1fca50b94407783d34055362d0aae870396e5289d427.png",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2904/c3b03866a52355a930da191cf2e823c2b79e7d3f4533ef32.jpg",
       "updated_at": "2026-07-09T13:39:19.605Z",
-      "link_count": 2,
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
       "providers": [
         "1fichier",
         "Archive"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a4fa487664b52645fefe067.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4fa487664b52645fefe067-7a473939c661.png",
       "icon_bytes": 70829
@@ -560,201 +860,19 @@
       "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/0506/374afc9357bfe0b613fd1ce97776c267e216d6e802ebaa54.png",
       "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/0506/d83e94e7fe5335874b30f57d5bbe394e4d1768b4676988c1.png",
       "updated_at": "2026-07-09T12:21:04.033Z",
-      "link_count": 2,
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
       "providers": [
         "1fichier",
         "Archive"
       ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3c7bea8c7b3435462bf6c0.json",
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3c7bea8c7b3435462bf6c0-c0a0db88912f.png",
       "icon_bytes": 49137
-    },
-    {
-      "id": "6a4c97042860efac54e4aaa1",
-      "title_id": "PPSA17525",
-      "title": "Gears of War Reloaded",
-      "version": "01.008.001",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 69363721830,
-      "size_label": "64.6 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2818/65c55d8745cd383304d6d60619d3be97c3f56ded6f058291.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2818/0171e27b9115928a9f9276f00f7c65a0ba5a23e70b6f34d2.png",
-      "updated_at": "2026-07-07T07:00:23.345Z",
-      "link_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4c97042860efac54e4aaa1-ac34284b84dd.png",
-      "icon_bytes": 72803
-    },
-    {
-      "id": "6a4c967a2860efac54e4aaa0",
-      "title_id": "PPSA20800",
-      "title": "Metaphor ReFantazio",
-      "version": "01.013",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "8.xx+"
-      ],
-      "firmware_label": "8.xx+",
-      "firmware_raw": [
-        "8.xx +"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 47996259533,
-      "size_label": "44.7 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2406/e148dc7fa4658360199188e1ed14f9d79d3adeec84c82162.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1109/649928118198ca08607e8178ddd87df2e07928b528771e95.png",
-      "updated_at": "2026-07-07T06:38:57.768Z",
-      "link_count": 2,
-      "providers": [
-        "1fichier",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4c967a2860efac54e4aaa0-ba366cbb2bbc.png",
-      "icon_bytes": 90794
-    },
-    {
-      "id": "6a3c632884cdb9e48a39c84f",
-      "title_id": "PPSA13427",
-      "title": "Horizon Zero Dawn Remastered",
-      "version": "01.008.001",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "9.xx+"
-      ],
-      "firmware_label": "9.xx+",
-      "firmware_raw": [
-        "9.xx +"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": true,
-      "size_bytes": 98784247808,
-      "size_label": "92.0 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2716/b23608e3b46e3b1f6aebb78a4aa9b1bf4f72a1d99f42ed01.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2716/7e28e0e7be91ad15ccac327e137831d5067c084c6cb5b6f1.jpg",
-      "updated_at": "2026-07-07T06:06:39.525Z",
-      "link_count": 2,
-      "providers": [
-        "1fichier",
-        "Archive"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3c632884cdb9e48a39c84f-9997546791e2.png",
-      "icon_bytes": 59811
-    },
-    {
-      "id": "6a3655f056e5f49eefa028c7",
-      "title_id": "PPSA08560",
-      "title": "Split Fiction",
-      "version": "1.500",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 85620173046,
-      "size_label": "79.7 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2918/2f22fe90e5d24b586128d129bd40fe6a336a6803b4cf36aa.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2918/887820d47d0128244ee4a4b52b1b9dbf27e93b9c690b5627.png",
-      "updated_at": "2026-07-07T05:15:10.250Z",
-      "link_count": 3,
-      "providers": [
-        "Viki",
-        "FULL GAME UNLOCK (DUPLEX – PKG)",
-        "1fichier"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028c7-a750f558ee4b.png",
-      "icon_bytes": 73577
-    },
-    {
-      "id": "6a4bbd562860efac54e4aa9c",
-      "title_id": "PPSA01593",
-      "title": "Hogwarts Legacy",
-      "version": "01.010",
-      "pack": "unknown",
-      "region": "USA to EUR Languages",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx BackPort"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 124210454200,
-      "size_label": "116 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/f6b1e4512ee6061913f7d604da8f5f39566be56ca32a68ee.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1901/e1182ef9aaa8146659f4773852304e49e8f3213432c45fa4.jpg",
-      "updated_at": "2026-07-06T14:36:06.345Z",
-      "link_count": 2,
-      "providers": [
-        "Viki"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4bbd562860efac54e4aa9c-909b20214227.png",
-      "icon_bytes": 70749
-    },
-    {
-      "id": "6a4b21bf2860efac54e4aa98",
-      "title_id": "PPSA08330",
-      "title": "God Of War Ragnarok",
-      "version": "05.005",
-      "pack": "pfs",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx+"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 117037858816,
-      "size_label": "109 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1117/4uH3OH4dQtHMe2gmdFuth02u.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2016/1f4bf1ee42276b3841e71ebb812510493ce78bfc307d3296.jpg",
-      "updated_at": "2026-07-06T03:32:15.595Z",
-      "link_count": 4,
-      "providers": [
-        "Akirabox",
-        "1fichier",
-        "Archive",
-        "Data"
-      ],
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4b21bf2860efac54e4aa98-7e4dae12b707.png",
-      "icon_bytes": 62253
     }
   ]
 }

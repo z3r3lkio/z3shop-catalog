@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a622c843d4889f7e22e8b4e",
+    "title_id": "PPSA02385",
+    "title": "Farming Simulator 22",
+    "version": "01.070",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 12992276070
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. Take on the role of a modern farmer! Agriculture, animal husbandry and forestry offer a huge variety of farming activities while you face the challenges of the four seasons, especially when winter sets in. Creatively build your own farm and extend your farming operations with production chains - forming an agricultural empire! Even run your farm together with friends and enjoy crossplatform multiplayer together. Whether you create a lush vineyard or an olive orchard in the Mediterranean south of France, a vast farmland full of wheat, corn, potatoes and cotton in the US-Midwest or a lively animal farm in the hilly landscape of the European Alpine region: More than 400 machines and tools from over 100 real agricultural brands like Case IH, CLAAS, Fendt, John Deere, Massey Ferguson, New Holland, Valtra and many more are available for your farm. Farming Simulator 22 brings a multitude of new gameplay features and offers more content and player freedom than ever before, including new ground working features like mulching or stone picking, an improved build-mode adding greenhouses and beehives, as well as a new character creator to bring your own, individual farmer to life. A large variety of free community-created modifications, officially tested by the developer GIANTS Software, will extend your farming experience many times over. Rise to the challenges of becoming a successful farmer, start farming and let the good times grow!",
+    "notes": "",
+    "credits": "",
+    "publisher": "GIANTS Software",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Simulator",
+      "Simulation"
+    ],
+    "release_date": "2021-11-22",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202208/0310/dv12fJq8AWtUSynR4rYmPbdZ.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "856b7c9d-6185-4f67-9aae-2466134b1336",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/GxfO8xEAZd",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "68cb36de-075b-4d9b-94e5-ac73130b0393",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA02385_Farming_Simulator_22",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

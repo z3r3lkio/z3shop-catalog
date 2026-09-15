@@ -1,0 +1,52 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa89bd73f728aecb6a169ed",
+    "title_id": "PPSA06955",
+    "title": "Granblue Fantasy: Relink",
+    "version": "01.003.002",
+    "pack": "lz4",
+    "region": "EUR",
+    "size_bytes": 82678120448
+  },
+  "metadata": {
+    "description": "Granblue Fantasy: Relink Standard Edition Content • Granblue Fantasy: Relink Game • Granblue Special Item Set: Relink Pack* *The Granblue Special Item Set: Relink Pack contains the following items that can be used in the browser/mobile game, Granblue Fantasy: 1. Main Character Outfit: Rebelwear x 1 2. Eternals' Transcendence Set or Evokers' Domain Set To receive the items from the Granblue Special Item Set: Relink Pack, it must be purchased by 11:59 p.m., May 31, 2024 (Local). This pack originally had a redemption deadline of 6:59 a.m. on December 31, 2024 (PT), but it has since been extended to be redeemable after 2025. A Granblue Fantasy account is required to receive these items. For more information, please refer to the Granblue Fantasy: Relink official site (https://relink.granbluefantasy.jp/en/products/?download-ps). (Updated Dec 20, 2024) The disc PS4™ game can be upgraded to the digital PS5™ version at no additional cost. You will need to keep the PS4™ disc inserted in order to play the digital PS5™ version of the game. A PlayStation®5 Console is required to upgrade the PS4™ game on disc to the digital PS5™ version. Additionally, the digital PS4™ version of the game can be upgraded to the digital PS5™ version at no additional cost. The digital edition of the game contains both the PS4™ and PS5™ versions of the game (the main game on the PlayStation™Store and additional downloadable content). Some content may be inaccessible without an internet connection. Online multiplayer requires a PlayStation®Plus subscription. 3D audio requires built-in TV speakers or analog/USB stereo headphones.",
+    "notes": "",
+    "credits": "Thanks to DLPS Team for the files and Drakmor for the Lz4 tool and apr emu",
+    "publisher": "Cygames, Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games",
+      "Action"
+    ],
+    "release_date": "2024-01-29",
+    "store_url": "https://store.playstation.com/en-us/product/UP5460-PPSA06954_00-GBRELINKDGTLSTD1",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202605/1208/f1203bf2427ac7f8223e0565e2d20e84556594e1953db338.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4527c89a-0725-4f68-a604-015fd2b69131",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/El92irbPcg#LIZARD",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

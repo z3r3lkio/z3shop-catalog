@@ -1,0 +1,52 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a549a97664b52645fefe07e",
+    "title_id": "PPSA06955",
+    "title": "Granblue Fantasy Relink",
+    "version": "01.003.002",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 73014444032
+  },
+  "metadata": {
+    "description": "*This product is intended for players who already own Granblue Fantasy: Relink. *The Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit can be used to upgrade your copy of Granblue Fantasy: Relink on the same platform. Known for its dynamic combat, ensemble of versatile characters, and thrilling online co-op, Relink returns with expanded solo and multiplayer content, bringing endless adventure to skyfarers both new and old. Major Additions in Endless Ragnarok From new stories to game modes, Relink has been refined and revamped for the ultimate action RPG experience. Embark on new adventures. Although the Astral Lilith's machinations lay thwarted, winds of change begin to stir within the Zegagrande Skydom... Strange beings called the \"ragnalia\" herald the end times. Mysterious gateways beckon would-be challengers into a realm of chaos. And even the mighty Beelzebub, with his wings of steel, descends upon Zegagrande. Call in the big guns. During their journey, players will unlock the ability to equip and call forth summons, adding a new dimension to battle strategy. Once channeled by Lyria, some summons can be temporarily controlled by the player; but if certain conditions are met, others will make a spectacular entrance alongside a new type of chain burst—the \"primal burst.\" More to master, more to play. • New co-op quest tiers and additional bosses. • The Conflux, an all-new solo mode where unpredictable challenges and enigmatic powers lurk within its depths. • The introduction of master traits to push characters beyond their limits. • Summons to expand on tactical options. All of these features—and more—ensure that even after the credits roll, Relink's skies remain vast! Play across boundaries. Relink's thrilling 4-player online co-op combat reaches new heights with crossplay across all platforms! *An active Internet connection and a PlayStation®Plus membership is required for online features. *The PS4® version of Granblue Fantasy: Relink can be upgraded to the PS5® version at no extra cost. Players who already own the PS4® version do not need to purchase this product. *Content and specifications are subject to change without prior notification.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & VanBuuren for the Files",
+    "publisher": "Cygames, Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games",
+      "Action"
+    ],
+    "release_date": "2026-07-09",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202605/1208/f1203bf2427ac7f8223e0565e2d20e84556594e1953db338.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4527c89a-0725-4f68-a604-015fd2b69131",
+      "provider": "Archive",
+      "url": "https://archive.org/details/ppsa-06955-granblue-fantasy-relink-01.003.002",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": ".002",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

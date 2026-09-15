@@ -1,0 +1,82 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7f13c2b0a31dad5b0fe8b8",
+    "title_id": "PPSA04220",
+    "title": "JoJos Bizarre Adventure All Star Battle R",
+    "version": "02.330",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 5121748500
+  },
+  "metadata": {
+    "description": "Well known for its charismatic heroes, striking art style, and unforgettable catch phrases (“Yare yare daze…”), another installment of JoJo’s Bizarre Adventure is coming! JoJo's Bizarre Adventure: All-Star Battle R! • Stunning visuals authentic to Hirohiko Araki’s Style JoJo’s Bizarre Adventure: All-Star Battle R captures the over-the-top art style that is vintage JoJo, allowing you to experience the JoJo universe with powerful imagery as if Hirohiko Araki's manga had come to life. Now you too can freely move the characters created by Hirohiko Araki with your own hands, and feel as if you’re inside the manga where graphics and text meet to invoke the characteristic “ゴゴゴゴゴ“. • 50 playable characters from all JoJo arcs Jonathan Joestar, Jotaro Kujo, DIO, Jolyne Cujoh, and other characters from JoJo's Bizarre Adventure gather across multiple generations! With 50 playable characters from all arcs, you can experience popular battles from each story, and see characters from different universes interact for the first time! • A variety of game modes JoJo's Bizarre Adventure: All-Star Battle R consists of All-Star Battle Mode, Arcade Mode, Online Mode, Versus Mode, Practice Mode, and Gallery Mode. The main mode, All-Star Battle Mode, features not only clashes between characters from the original game, but also brand new battles that are unique to All-Star Battle R. You can play through over 100 battles with various settings and conditions. All-Star Battle Mode also offers special cosmetic skins for characters and unique illustrations that can be enjoyed in gallery mode. • How the game has evolved from the original All-Star Battle Based on the All-Star Battle system released in 2014, the game design of JoJo’s Bizarre Adventure: All-Star Battle R reinvigorates the experience with adjustments to the fighting tempo and the addition of hit stops and jump dashes. With new audio recordings from the Part 6 anime voice actors, the full atmosphere of the animated series is realized. Both fans who have played the original All-Star Battle and newcomers will be able to enjoy the experience.",
+    "notes": "",
+    "credits": "Thanks to SkexIsDead for the Files, Pippo for DLCs & exfat file and Chedolor1988 & Vittorio120 for the BackPort",
+    "publisher": "Bandai Namco Entertainment Inc.",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "release_date": "2022-08-31",
+    "store_url": "https://store.playstation.com/en-sg/concept/10001302/",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202205/3004/5RQNIDN5o0Dnr1W1v7CQjrDE.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "2675fef7-23f9-49db-8d95-d4858b05ccee",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA04220_JoJo",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "f763ab7c-4b07-4ace-ada2-482402c7468b",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/5yElNDqCTd",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "a81745ae-c589-4c44-a4b4-dbefab08b388",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/E9Qz9XP9K3OL/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a51ab15664b52645fefe076",
+    "title_id": "PPSA01342",
+    "title": "Demon's Souls",
+    "version": "01.005",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 58411555226
+  },
+  "metadata": {
+    "description": "From PlayStation Studios and Bluepoint Games comes a remake of the PlayStation classic, Demon’s Souls. Entirely rebuilt from the ground up and masterfully enhanced, this remake introduces the horrors of a fog-laden, dark fantasy land to a whole new generation of gamers. Those who’ve faced its trials and tribulations before, can once again challenge the darkness in stunning visual quality and incredible performance. In his quest for power, the 12th King of Boletaria, King Allant channelled the ancient Soul Arts, awakening a demon from the dawn of time itself, The Old One. With the summoning of The Old One, a colorless fog swept across the land, unleashing nightmarish creatures that hungered for human souls. Those whose souls were stripped from them, lost their minds – left only with the desire to attack the sane that remained. Now, Boletaria is cut off from the outside world, and the knights who dare penetrate the deep fog to free the land from its plight, are never seen again. As a lone warrior who has braved the baneful fog, you must face the hardest of challenges to earn the title “Slayer of Demons” and send The Old One back to its slumber.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, Pkykzhack for DLCs and BestPig for the BackPort",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2020-11-12",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202008/2215/1eFnuCqsKZiYXTwbYQ1JuMfU.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "1d078a88-d244-449b-b67c-621555de10fa",
+      "provider": "Gofile",
+      "url": "https://gofile.io/d/DuTIVw",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "59bb7f16-f3fc-4a90-9dcf-2578eac15924",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/M2BGwWrlPGj4/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "1828359a-e027-4e62-ba33-c3934cf01d39",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?170w38oj2g58e6cpf404",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "3f1908ab-16fc-4ffa-af99-9b9fad89edb7",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA01342_demon_soul",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

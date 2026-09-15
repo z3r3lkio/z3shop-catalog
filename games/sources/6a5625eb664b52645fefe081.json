@@ -1,0 +1,53 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5625eb664b52645fefe081",
+    "title_id": "PPSA16738",
+    "title": "Transformer Galactic Trails",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 4187593114
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4® version and the digital PS5® version of this game. Roll out for an intense fusion of arcade racing and combat in the TRANSFORMERS Galactic Trials! Evil NEMESIS PRIME has stolen the Prime Relics, which bestow incredible powers on whoever possesses them. Now the AUTOBOTS and DECEPTICONS are in an explosive race to recover the relics – the future of Cybertron is in your hands! Choose your character from icons like BUMBLEBEE, MEGATRON, and OPTIMUS PRIME. Speed into action on battle- race circuits, drift and boost to charge up Energon, then unleash devastating special moves in battle. And use your experience to unlock new skills, characters, and skins. It’s the ultimate test of your favorite TRANSFORMERS’ abilities, which will decide the future of Cybertron! CHOOSE YOUR SIDE – Stop Nemesis Prime as an Autobot or Decepticon BATTLE TO THE FINISH – Compete in a frenetic fusion of racing and combat LEVEL YOUR CHARACTER – Level up and customize 11 iconic Transformers SPEED TO VICTORY – Drift and boost around 10 action-packed tracks LOCAL MULTIPLAYER – Battle-race a friend in Versus mode If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files and DecKerr97 for the BackPort",
+    "publisher": "Outright Games LLC",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Family",
+      "Action",
+      "Driving/Racing"
+    ],
+    "release_date": "2024-10-11",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202410/1100/29a1472487ee7291637d427dfbca6e6085c6c065222db2b3.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4e19e4a9-95cb-46f7-a6c3-5d373a99a2cb",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA16738",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

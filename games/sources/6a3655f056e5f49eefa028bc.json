@@ -1,0 +1,97 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028bc",
+    "title_id": "PPSA28180",
+    "title": "Days Gone Remastered",
+    "version": "1.036.178",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 38386270208
+  },
+  "metadata": {
+    "description": "Edition includes: Days Gone Remastered Ride into a desperate, dog-eat-dog world in the definitive Days Gone experience, remastered for the PlayStation®5 console. Fight to survive an environment ravaged by a deadly pandemic as former outlaw biker, Deacon St. John. Risk the threats of the Broken Road on the back of your trusty Drifter bike as you face terrifying hordes of relentless feral Freakers – as well as dangerous gangs of humans. Unpredictable weather and different times of day and night can cause incredible danger and shocking surprises… and everything wants you dead. - Appreciate enhanced graphical fidelity, increased foliage draw distance, plus improved shadow and lighting quality – with the potential for smooth, seamless performance made possible by a variable refresh rate, for TVs or displays that support VRR.1 - Select your preferred playing experience, between Quality mode for increased resolution or Performance mode for improved framerates. - Feel every moment of survival through the DualSense® wireless controller’s haptic feedback and adaptive triggers. From the rumble of your bike’s engine, to traversing the Broken Road… 1 Compatible TV or display required.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files and BestPig for the BackPort",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Bend Studio",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2025-04-25",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202011/0517/9LMitWIh8xkIhfpOjDJlShFz.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "7dbbfcbb-974b-4802-aa8a-e65adccd3e7c",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/qAEkKPkCDJ",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "4dfd697b-dcad-492b-84ef-1432e806b2f8",
+      "provider": "FileKeeper",
+      "url": "https://filekeeper.net/2pv6qkzn55cv/PPSA28180_-_Days_Gone_Remastered.ffpfsc",
+      "mode": "direct-file",
+      "direct": true,
+      "archive": false,
+      "extension": ".ffpfsc",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "786d2d81-c4d2-424c-b3c4-90fc1af00bdb",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?wi4iw6iog0k9ue988r05",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "71a23146-5503-4bd2-bed0-29ab60c5f60d",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA28180_Days_Gone",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a85373ab0a31dad5b0fe8dc",
+    "title_id": "PPSA05591",
+    "title": "Q.U.B.E. 10th Anniversary",
+    "version": "01.000.000",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 7902739825
+  },
+  "metadata": {
+    "description": "Q.U.B.E. 10th Anniversary brings refined visuals, completely redesigned and revised sections to all of the content that launched in both the original release, and 2014’s Q.U.B.E: Director's Cut - which itself added a completely new story by award-winning writer Rob Yescombe. Q.U.B.E. 10th Anniversary also includes new content, including an entirely brand new chapter called Sector 8, featuring an additional 4-6 hours of gameplay unlocked after the main campaign has been completed. Q.U.B.E. 10th Anniversary is set to serve as the ultimate celebration of Q.U.B.E.’s ten-year run.",
+    "notes": "",
+    "credits": "Thanks to Amiibohound for the Files",
+    "publisher": "Toxic Games Ltd",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "release_date": "2023-01-20",
+    "store_url": "https://store.playstation.com/en-gb/product/EP4011-PPSA05590_00-0398464444018069",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202211/2522/N8S48ouAAsYQhp18zc7Lx9R3.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "789fdf34-0e4d-4a71-83dd-cd64cc4eabfd",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/akUXkjDZXG",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "0f4d6715-8d18-4b69-8aba-8d23f3ecc87c",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/M2BGwPx1Mmj4/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

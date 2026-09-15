@@ -1,0 +1,53 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a57b8f0664b52645fefe08c",
+    "title_id": "PPSA01462",
+    "title": "Borderlands 3",
+    "version": "01.900",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 55190329754
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. PlayStation®4 copies of Borderlands 3 include a digital upgrade to the fully optimized for PlayStation®5 version! Experience the game in gorgeous 4K resolution at up to 60 fps in single-player and online co-op. Add more couch co-op mayhem with expanded local splitscreen support for up to 4 players. Borderlands 3 Ultimate Edition is the quintessential Borderlands 3 experience, featuring the award-winning base game plus all 6 content add-ons and the full collection of bonus cosmetic packs! Blast through multiple worlds as 1 of 4 Vault Hunters – the ultimate treasure-seeking badasses of the Borderlands. Season Pass includes four campaign add-ons: • Moxxi’s Heist of the Handsome Jackpot • Guns, Love, and Tentacles: The Marriage of Wainwright & Hammerlock • Bounty of Blood • Psycho Krieg and the Fantastic Fustercluck Season Pass 2 includes: • Designer's Cut content add-on, featuring brand new mode 'Arms Race' and an additional skill tree for each Vault Hunter • Director's Cut content add-on, featuring a raid boss, new story missions, behind-the-scenes extras, and three Vault Cards • All four Multiverse Final Form Cosmetic Packs • All four Multiverse Disciples of the Vault Cosmetic Packs Additional Bonus Content: • Butt Stallion Pack: Weapon skin, trinket, Butt Stallion grenade mod • Retro Cosmetic Pack • Neon Cosmetic Pack • Gearbox Cosmetic Pack • Toy Box Weapons Pack • Equippable XP & Loot Drop Boost Mods If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 & SuperPSX for the Files",
+    "publisher": "2K",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Shooter",
+      "Unique",
+      "Action"
+    ],
+    "release_date": "2020-11-12",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202202/0402/e1JymOhrLEsSDRwjamJkfMSz.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "cc397d38-7765-41a7-8b22-2c6ee787a646",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01462-Borderlands-3",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

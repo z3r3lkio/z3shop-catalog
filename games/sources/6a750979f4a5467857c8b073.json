@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a750979f4a5467857c8b073",
+    "title_id": "PPSA21165",
+    "title": "Rune Factory: Guardians of Azuma",
+    "version": "01.001.003",
+    "pack": "unknown",
+    "region": "JPN",
+    "size_bytes": 17716740096
+  },
+  "metadata": {
+    "description": "Choose from one of two protagonists whose destinies are intertwined by mysterious forces. Use sacred treasures to fight against the Blight’s many forms to restore the people, and even gods, to their natural glory. Take farming further, as you’ll manage more than a plot, rebuilding entire villages and cultivating new allies and resources along the way. Explore seasonal-themed villages heavily inspired by traditional Japanese culture, each with brand-new festivals and revamped fan-favourites, as well as charming romance candidates. Key Features ■Bold New Abilities and Weapons As an Earth Dancer, use the power of dance, sacred treasures, and fresh weapons like the Bow and Talisman to purify the land, your farms, and undo the Blight’s damage. ■It Takes a Village Don’t just mind the farm—rebuild entire villages! Construct and place buildings, enticing people to return to the villages and contribute. Revive the gods to bring vitality and valuable resources back to the plagued lands. ■Your Fantasy Japanese Life Experience beautiful Japanese-inspired character designs and aesthetics—from festivals to events to monsters. Explore Azuma’s natural landscapes and its seasonal-themed locales steeped in tradition. ■Classic Romance and Relationships Choose between male and female protagonists, then befriend or romance any of the eligible candidates in fully voiced scenarios. Recruit these new friends to aid you in battle, too!",
+    "notes": "",
+    "credits": "Thanks to DLPS team for the Dump",
+    "publisher": "Marvelous USA (XSEED)",
+    "developer": "Marvelous",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2026-02-13",
+    "store_url": "https://store.playstation.com/en-us/product/UP1023-PPSA26677_00-RYUNOKUNI0000001",
+    "trailer": "https://www.youtube.com/watch?v=aAX3E-rHaZo",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "dac7f625-95d9-4abd-8ace-3e69ee11cda0",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA21165_GOA",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "PapaYas",
+      "firmware": "",
+      "created_by": "6a42905bcd61e0bcf63ddeca"
+    },
+    {
+      "id": "4bd80738-7d25-4a20-9666-ea8b48d49b6b",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/xWiIoGpylR",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "eb8d4116-e885-4e20-99a1-25f71fbca91d",
+      "provider": "Filekeeper",
+      "url": "https://filekeeper.net/k61p2t48zt5i/PPSA21165%2520Guardians%2520of%2520Azuma.ffpfsc",
+      "mode": "direct-file",
+      "direct": true,
+      "archive": false,
+      "extension": ".ffpfsc",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

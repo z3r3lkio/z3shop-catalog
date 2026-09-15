@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7c9fabfe3be883510b9a35",
+    "title_id": "PPSA21904",
+    "title": "Once Upon A Katamari",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "HK",
+    "size_bytes": 2630667469
+  },
+  "metadata": {
+    "description": "Once upon a time a katamari rolled through both past and present. In this story across time, the adage endures: Let The Good Times Roll! Now onward through new worlds to roll up thy heart's desires and to restore the stars! • A Shiny New Katamari Damacy Adventure Awaits Experience new stages and a fabulous new soundtrack! Behold a fresh rolling experience, with never-before-seen support tools like the magnet to draw in nearby objects! How...attractive! • Roll Through the Ages The King was so well-behaved until he mistakenly crushed the Earth, the Moon, and numerous planets while fiddling with a peculiar scroll. Now roll your katamari through the Jurassic Era, Ice Age, historic Japan, and more eras to rebuild the sky's dazzling field of stars. • Keep the Family Close With Cousin Customization Play as The Prince, or choose among his 68 cousins and kin to play as. Customize their colors and faces to create as many original Cousin designs as there are stars in the sky. • Compete in Celestial 4-Player KatamariBall Conquer the game of KatamariBall, the galactic sport of choice across the Cosmos! Compete online against cousins around the world, or hone your skills with scintillating offline play against CPU opponents. *The King of All Sounds Edition is also available. Be careful of duplicate purchases.",
+    "notes": "Screen language : Simplified Chinese, Traditional Chinese, Korean",
+    "credits": "Thank @DLPS Team",
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Casual",
+      "Action"
+    ],
+    "release_date": "2025-10-24",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202508/2720/5fb23d2adca2120ebf79e1bdb16dfa706010b33a416a7f35.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "5d8a6ba5-b282-42c7-804b-28d1f733c21a",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/zo0gCtB7b3",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "359a077e-8508-4aec-802a-81d9c2d8c356",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA21904_Once_Upon_A_Katamari",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

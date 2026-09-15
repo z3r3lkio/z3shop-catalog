@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a853b37b0a31dad5b0fe8df",
+    "title_id": "PPSA13790",
+    "title": "NASCAR Arcade Rush",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 5422396211
+  },
+  "metadata": {
+    "description": "The thrill of NASCAR meets the rush of arcade racing in a new game that puts you in the driver’s seat of a completely new NASCAR experience with re-imagined, iconic racetracks in unmatched high-speed, wheel-to-wheel action! Key Game Features: - Real-World NASCAR locations completely re-imagined with twists, jumps, nitro-boosts and high-speed fun! Experience Talladega Superspeedway, Daytona International Speedway, Darlington Raceway, Martinsville Speedway, Homestead-Miami Speedway, and more in a whole new, fun and dynamic way! - HUGE Selection of Horsepower! Choose among a full array of vehicle models spanning 75 years of stock car racing from the 50’s to today! - 1000’s of customization combinations ranging from paint schemes and new rims to spoilers, visual effects, and more! Plus driver suit designs, colors, and helmets! - Robust Single Player Modes: Career NASCAR Cup Series, Quick Race, and Time Attack modes. - Thrilling head-to-head local multiplayer plus 12 player online multiplayer fun.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "GAMEMILL ENTERTAINMENT",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Driving/Racing"
+    ],
+    "release_date": "2023-09-14",
+    "store_url": "https://store.playstation.com/en-gb/product/EP0281-PPSA13791_00-NASCARARCADERUSH",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202309/1509/757a2086d138d7dddb3612c71f8cff1254ba7d40fedb3fb2.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "c4f4445b-c797-436f-86ae-b291fbfb431b",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/wcDHRF5mcl",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "4b3ca5cc-b8e4-4e23-acbb-b2207c7fbae6",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/N2p3DP0yA3Ma/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

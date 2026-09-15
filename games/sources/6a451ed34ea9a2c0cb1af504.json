@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a451ed34ea9a2c0cb1af504",
+    "title_id": "PPSA02113",
+    "title": "Werewolf The Apocalypse Earthblood",
+    "version": "01.005",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 9814000271
+  },
+  "metadata": {
+    "description": "A unique experience full of savage combat and mystical adventures, inspired by the famous role-playing game. You are Cahal, a powerful Garou who chose to go into exile after losing control of his destructive rage. On his quest for redemption and blood, Cahal plays a crucial role in the great war between the Garous and Endron, a powerful oil company that serves the Wyrm, whose destruction is ravaging the planet. He can transform into a wolf and a Crinos, a huge ferocious beast. Each form has its advantages: the wolf can sneak around undetected, Cahal as a human can interact with other people, and the Werewolf can unleash its rage to tear enemies apart.",
+    "notes": "",
+    "credits": "Thank @BedroZen",
+    "publisher": "NACON SA",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Unique"
+    ],
+    "release_date": "2021-02-04",
+    "store_url": "https://store.playstation.com/en-us/product/UP4008-PPSA02114_00-WTASIEA000000000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202012/0418/eSJtIjenJQ2ekpXYV1gffk0U.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "b1749dcf-8696-4629-8b98-4589fceeb852",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/CzuoKOvH3N",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "23520e66-007e-4219-a2b6-53e53e2c7140",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/jJD3VvrXr3a5/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "121f6dd9-9589-4b69-b939-80fefb9bcf18",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA02113_Werewolf_The_Apocalypse",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

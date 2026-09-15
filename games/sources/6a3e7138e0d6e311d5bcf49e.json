@@ -1,0 +1,83 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3e7138e0d6e311d5bcf49e",
+    "title_id": "PPSA08240",
+    "title": "Alone In The Dark",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 35755602739
+  },
+  "metadata": {
+    "description": "Alone in the Dark weaves a chilling tapestry of psychological horror and Southern Gothic charm, reimagining the iconic game that set the benchmark for the genre. We invite you to join us on a journey into madness, where each encounter could be your last. With each step you take closer to unravelling Derceto's mystery, the eyes that watch from the darkness grow hungrier. Every bullet means the difference between survival and an unthinkable end. The next door you unlock could lead to a nightmarish realm offering nothing but slashing claws, grasping tentacles, and frayed sanity. Journey to interbellum Louisiana, where an era of decadence hides a darker tale - of escape from past traumas and an intolerant society, into the waiting grasp of something darker, something that has patiently lurked for impossible eons. This is Alone in the Dark as you've never seen it - a skillfully-woven narrative of Southern Gothic elegance and eldritch madness that pays homage to its legendary origins while taking the next step forward in survival horror storytelling. A Haunting Tale of Mystery and Madness Step inside Derceto Manor, an asylum shrouded in intrigue, guarding a terrible secret. Client Emily Hartwood and private investigator Edward Carnby embark on a harrowing quest for answers; Emily to the mystery of her missing uncle, Edward to the toughest case he will ever face, and both to questions they dare not ask themselves. This re-envisioned classic invites you to explore an unforgettable single player adventure rich with suspense, frights, and revelations that will test the limits of your imagination. Featuring Hollywood Talent Experience some of the greatest acting survival horror has ever seen through the performances of award-winning actors Jodie Comer (Killing Eve, Free Guy) and David Harbour (Stranger Things, Black Widow) in their first videogame roles. Jodie and David’s immaculately captured likenesses breathe life into Emily Hartwood and Edward Carnby, lending a deeply personal aspect to Alone in the Dark’s story that demands it be played twice to get the full experience. A Tribute to Horror Pioneers Rediscover the essence of psychological horror in a game that respectfully nods to its 1992 origin, the game that established the survival horror genre. Alone in the Dark is your gateway to an experience steeped in the atmospheric dread of classic horror, with next-generation storytelling and gameplay. A must-play for fans of twisted tales, nerve-wracking exploration, and desperate combat. A Story That Challenges Reality Envisioned by Mikael Hedberg, acclaimed writer behind modern horror classics “SOMA” and “Amnesia”, Alone in the Dark’s intricate web of mystery delves into themes of trauma, faith, evil, and abandonment. Whether you choose to brave the nightmare as Emily or Edward, you will uncover secrets that defy everything you thought about videogame storytelling.",
+    "notes": "",
+    "credits": "Thanks By High-Speed007 and DLPS Team for the files",
+    "publisher": "THQ Nordic",
+    "developer": "Pieces Interactive",
+    "players": "1",
+    "genres": [
+      "Horror",
+      "Adventure",
+      "Puzzle"
+    ],
+    "release_date": "2024-03-20",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202403/2014/ea071e7372f0f8abeede9ea7de22130df4c98b00a0f2d230.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "c09ec266-df3c-43d2-858e-3649055b48e2",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/MiRB90kBv0",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "7fa413e5-854c-419b-bdcb-a3760e8bc93a",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/1IQQUGjlBq",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "T4MAGO",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "63fa1238-448f-4603-a1b7-c89d2f912be6",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA08135_AloneInTheDark",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

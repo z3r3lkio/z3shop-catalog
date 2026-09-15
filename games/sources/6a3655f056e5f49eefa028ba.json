@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028ba",
+    "title_id": "PPSA01474",
+    "title": "Ratchet & Clank Rift Apart",
+    "version": "1.005.003",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 47040629309
+  },
+  "metadata": {
+    "description": "BLAST YOUR WAY THROUGH AN INTERDIMENSIONAL ADVENTURE Ratchet and Clank are back! Help them stop a robotic emperor intent on conquering cross-dimensional worlds, with their own universe next in the firing line. Witness the evolution of the dream team as they’re joined by Rivet – a Lombax resistance fighter from another dimension. - Blast your way home with an arsenal of outrageous weaponry. - Experience the shuffle of dimensional rifts and dynamic gameplay. - Explore never-before-seen planets and alternate dimension versions of old favorites. PS5™ FEATURES: - Feel in-game actions through the haptic feedback of the DualSense™ wireless controller. - Take full control of advanced weapon mechanics, made possible by adaptive triggers. - Planet-hop at hyper-speed via the near-instant loading of the PS5™ console’s SSD. - Immerse your ears with Tempest 3D AudioTech* as you work to save the universe. - Enhanced lighting and ray tracing render dazzling in-game worlds – displayed in crisp, dynamic 4K and HDR**. - Choose Performance Mode to enjoy targeted 60 frames per second gameplay***. Celebrate 20 years of Ratchet & Clank with five brand-new armor sets inspired by games of the past. Download the game update* at no extra cost and receive: - Holoflux armor - Quest armor - Marauder armor - Commando armor - Clank armor *Game update v.1.004 requires internet connection.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & SiESPta for the Files and BestPig for the BackPort",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Insomniac Games, Inc",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2021-06-11",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202106/0822/5fZi1yQQzch81CPPZ4ml7w65.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "17faf390-b89d-4c3e-8172-1f93a41eeadb",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/SDlchIQVC5#PPSA01474",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "Estong",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "f66c9971-a277-499e-a972-e560230e51c0",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?44ihfarxlzoebhaq1wkm",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a6f6bd4a80b138b911d68da",
+    "title_id": "PPSA16387",
+    "title": "Hitman World of Assassination Deluxe Edition",
+    "version": "01.038",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 76128295322
+  },
+  "metadata": {
+    "description": "Enter the world of the ultimate assassin. Step into the shoes of Agent 47 in the definitive World of Assassination collection. Featuring over 20 iconic locations, hundreds of challenges, and all premium downloadable content in one definitive package. Deluxe Edition includes: HITMAN World of Assassination HITMAN 2 Expansion Pack - 2 x Locations (New York & Haven Island) - 2 x Sniper Assassin maps (Hantu Port & Siberia) - Winter Sports Pack - Smart Casual Pack - Executive Pack - Collector’s Pack - Special Assignments Pack 1 + 2 HITMAN 3 Deluxe Pack - 6 x Deluxe Escalation Contracts - Deluxe Suits and Items - Digital Soundtracks + Director Commentary - Digital “World of HITMAN” Book HITMAN 3 Seven Deadly Sins Collection - 7 x Themed Escalation with unique suit and weapon unlocks",
+    "notes": "All DLCs unlocked included Hitman 1, Hitman 2, Hitman 3.",
+    "credits": "",
+    "publisher": "IO Interactive A/S",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2023-12-05",
+    "store_url": "https://store.playstation.com/en-us/product/UP4572-PPSA01768_00-0000000000000WOA",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202607/2712/773e7aa8d9b986de8ef1f14c9fee0f20846ec2ef305a37eb.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "07f51646-0d7c-426a-9aec-7bdf3bf84d07",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/9rGb9X2AHl",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "f6415fa9-73e5-4273-a77a-bc34691a3eef",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA16387_Hitman_World_of_Assassination",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4a78f62860efac54e4aa80",
+    "title_id": "PPSA02154",
+    "title": "Little Nightmares 2",
+    "version": "01.001",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 5808943268
+  },
+  "metadata": {
+    "description": "The Deluxe Content Bundle includes the following digital content: - The Nome's Attic DLC Follow the Nomes to find this special in-game puzzle and unlock the Nomes’ hat as a reward upon completion. - Full Digital Soundtrack Enjoy the full Little Nightmares II soundtrack, composed by Tobias Lilja from Tarsier Studios. - “The Art of Little Nightmares II” Digital Artbook Dive into the making of Little Nightmares II with this 56-page artbook full of sketches, artwork, and design decisions by the Tarsier Studios art team. - Dynamic Theme - 2 Avatars",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & Dorukhan & SPX for the Files and Pkykzhack for DLCs",
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "2021-08-25",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202011/1923/0XkGsBGzD0EOazmnenH4wk8D.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "9018823e-b5ca-4591-b0dc-07f7afa8cf3e",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/5okhvMCWfY",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "T4MAGO",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "23a4527b-153e-400c-ba77-6629f33d38f6",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA02154_Little.Nightmares.2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": ".2",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "f64f9939-e5f0-413a-9d9f-c66157579905",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/N2p3DQ5PdzMa/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

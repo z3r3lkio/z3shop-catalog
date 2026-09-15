@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028c7",
+    "title_id": "PPSA08560",
+    "title": "Split Fiction",
+    "version": "1.500",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 85620173046
+  },
+  "metadata": {
+    "description": "Jump into mind-blowing moments as you experience the many worlds of Split Fiction, a boundary-pushing co-op adventure from the studio behind It Takes Two. Mio and Zoe are contrasting writers who become trapped in their own stories after being hooked up to a machine designed to steal their creative ideas. They’ll have to rely on each other to break free, working together to master a variety of abilities and overcome diverse challenges while jumping between sci-fi and fantasy worlds in this unexpected story of friendship. • TRUE CO-OP ADVENTURE – This split-screen adventure is tailored for two. Experience co-op gameplay where you’ll have to coordinate your actions and timing as well as work together to overcome challenges. Invite a partner to join you for free, for cross-platform play, with the Friend's Pass*. • UNPARALLELED VARIETY – Discover new mechanics and abilities in every level of your adventure, which will alternate between sci-fi and fantasy settings. Escape a sun that’s going supernova, challenge a monkey to a dance battle, try out some cool hoverboard tricks, fight an evil kitty and more. Experience worlds that are entirely different from each other, unexpected new abilities, and a range of gameplay that includes platforming, stealth, puzzles, and more.",
+    "notes": "Note: Install the title (.pfs) then FULL GAME UNLOCK by DUPLEX.",
+    "credits": "Thanks to DUPLEX & SiESPTA for the Files, DUPLEX for DLCs and Kira for the BackPort",
+    "publisher": "Electronic Arts Inc",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "2025-03-06",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202503/1910/7a236beefab733d7b08e48570cebaa4284d4ca10a4bf1834.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "b2532a3f-95e6-4034-92c9-97675ea377d5",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/qukz5gIJzB",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "59e5c9a1-056d-419f-b89a-1633fb468077",
+      "provider": "FULL GAME UNLOCK (DUPLEX – PKG)",
+      "url": "https://akirabox.to/0KezkDbW1GD1/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "67720e5a-8929-4ecd-a701-a5a9d7477c32",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?pfc2kefmhldpi3o3tw1z",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

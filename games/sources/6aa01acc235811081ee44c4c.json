@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa01acc235811081ee44c4c",
+    "title_id": "PPSA22265",
+    "title": "FANTASIAN Neo Dimension",
+    "version": "01.300",
+    "pack": "pfs",
+    "region": "EUR",
+    "size_bytes": 12025908429
+  },
+  "metadata": {
+    "description": "The Father of FINAL FANTASY, Hironobu Sakaguchi, and renowned composer Nobuo Uematsu return to deliver an original RPG story. Mechteria—a deathly mechanical infection that robs humans of their emotions and lives—is slowly engulfing the world. The protagonist Leo awakens with only one memory left to him in a strange land abundant with machines . The human world, threatened by mechteria... a machine world, filled with mysteries... and the unseen dimensions that lie beyond both. Using the Warp Device that was left behind, Leo must now embark on an interdimensional journey to reclaim his lost memories and save the world from the mechteria infection.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files and DecKerr97 for the BackPort",
+    "publisher": "Square Enix LTD",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2024-12-05",
+    "store_url": "https://store.playstation.com/en-gb/product/EP0082-PPSA22265_00-0844530154487925",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202410/1110/0ce54455fa0204127142593cd8035799b928ee50471c219a.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "dc17d03e-4711-4315-b2c9-3b42eaac0991",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/Y2xm0o8OKGRO/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "df1f279e-0ab3-4248-8a73-801441c3e1d4",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA22265_FANTASIAN",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

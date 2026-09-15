@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a8fc47fb0a31dad5b0fe911",
+    "title_id": "PPSA30279",
+    "title": "Taxi Chaos 2",
+    "version": "01.007",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 4874787881
+  },
+  "metadata": {
+    "description": "Classic gameplay. Modern polish. Taxi Chaos 2 builds on old school arcade taxi racing roots with tighter pacing, a clear shift system, and deeper progression. Each run focuses on fast decisions, risky routes, and keeping passengers happy under pressure. A living city called San Valeda. Step into San Valeda, a vertical city packed with traffic, hazards, and unpredictable events. Streets change during your shift. Routes close. Shortcuts appear. Time of day shifts from morning to dusk, changing visibility, traffic flow, and challenge level. Even the passengers you pick influence how the city reacts. Drive beyond the streets. Jump rooftops, scale terrain, smash through traffic, and find hidden paths. Vertical exploration rewards bold driving and sharp route choices. Face the TaxiBots. TaxiBot Corp controls the streets. Their fleet hunts fares, blocks routes, and attacks your taxi. Outsmart them, avoid them, or fight back. TaxiBots range from aggressive rival cabs to rammers, disruptors, sentry towers, and even armored TaxiTanks. Pick your fares wisely. Not every customer plays fair. Some add conditions mid ride. Others turn your taxi into a rocket powered risk. High reward fares bring higher danger. Two ways to play. Story Mode Follow Vinny through a chapter based story driven by shift based gameplay. - Play 12 minute shifts split into morning, midday, and dusk - Complete objectives to raise your Driver Rank - Unlock new customer types, upgrades, and mechanics - Invest earnings into taxis, abilities, and Taxi Company upgrades Arcade Mode Pure score chasing chaos. - Beat the clock and clear level objectives - Stack cash, upgrade abilities, and survive escalating pressure - TaxiBots grow more aggressive every level - Push for high scores and climb the leaderboards Upgrade and customize. Earn cash to unlock new vehicles, abilities, and cosmetics. Choose between 10 taxis across three classes. - Drift. Agile and sharp for dense city driving - Heavy. Slower but powerful, built to shove traffic aside - Sports. High speed and fast acceleration Abilities change how you play. Work with Cleo to unlock combat and utility abilities. - Combat abilities like Sonic Blast and Tesla Shock - Utility abilities like Turbo Boost, Hacking Key, and Aqua Wheels - Use them to reach shortcuts, counter TaxiBots, and survive tougher shifts. Every shift is different. San Valeda never settles. Roadblocks, accidents, city wide events, and demand spikes force constant adaptation. No two runs follow the same flow. Taxi Chaos 2 delivers fast arcade racing, constant pressure, and pure taxi driving chaos. Pick up and play. Chase higher scores. Outdrive the city.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files",
+    "publisher": "Current Games B.V.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Driving/Racing",
+      "Arcade"
+    ],
+    "release_date": "2026-01-13",
+    "store_url": "https://store.playstation.com/en-us/concept/10015238",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202602/1817/fe3cf5e7588d916ba7d6c10cdef93503cf4f0a543bcf1626.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "543d79d0-1f6e-4452-b07e-5639dbd29fe3",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/0PdzyX5e43eA/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "6115fd37-4e94-4bb1-a03c-381ae3dbed6d",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA30279_Taxi_Chaos_2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a853a8eb0a31dad5b0fe8de",
+    "title_id": "PPSA09149",
+    "title": "The Crown of Wu",
+    "version": "01.008",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 10619306639
+  },
+  "metadata": {
+    "description": "Get ready to explore a new world inspired by Journey to the West, a traditional Chinese tale about the Monkey King, Sun Wukong. You’ll explore the future-past fantasy world as Sun Wukong, fighting alone against enemies and overcoming complex obstacles to retrieve the great Crown stolen by the antagonist Zhu. With Zhu waiting to fight and kill you, will you be able to get back the Crown and save your world from destruction? The Game World Immerse yourself in a great land that is both old and new. Inspired by Chinese mythology and created to tell a new story of Sun’s journey from anti-hero to hero, this is a world where legend meets reality. Attributes & Abilities Harness the powers of air, fire, earth, and lightning. Each of your powers gives you a way to work with the environment or against your enemies. Attack with Air, Fire, and Lightning. Defend with Earth. Invoke your powers to defeat enemies and move through dangerous abysses. Combat System Discover a fresh and easy combat system that grants you incremental powers as you journey across this terrible land to solve the mystery of the stolen Crown. Get ready to jump, run and parkour your way across this new world while solving intricate puzzles and overcoming increasingly complex tests as you advance through the different levels.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & VanBuuren for the Files, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "Meridiem Games S.L",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2023-03-24",
+    "store_url": "https://store.playstation.com/en-gb/product/EP0811-PPSA09149_00-6325620128595149",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202303/2512/6a69d1bfa646b70c0ecd42d6be8dc4edacf22bc764135ab4.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "398af13c-c5e7-4db7-a7fb-9b59e7767147",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/6zKHN4U9Xq",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "4e6f1c6c-4455-4ba1-a5c6-aa8c163f807e",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/vgKGxXB84G8Q/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

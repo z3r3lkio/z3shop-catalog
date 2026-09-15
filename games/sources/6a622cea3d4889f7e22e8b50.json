@@ -1,0 +1,68 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a622cea3d4889f7e22e8b50",
+    "title_id": "PPSA08772",
+    "title": "Wo Long Fallen Dynasty",
+    "version": "01.027",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 56049323213
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4® version and the digital PS5® version of this game. From the depths of darkness, a dragon soars. A new dark fantasy Three Kingdoms action RPG from Team NINJA, the developers of Nioh. 184 AD, Later Han Dynasty China. The land is overcome by chaos and destruction. The imperial dynasty that prospered for many years is now about to collapse. Wo Long: Fallen Dynasty is a dramatic, action-packed story of a nameless militia soldier fighting for survival in a dark fantasy version of the Later Han Dynasty where demons plague the Three Kingdoms. Players fight off deadly creatures and enemy soldiers using swordplay based on the Chinese martial arts, attempting to overcome the odds by awakening the true power from within. Wo Long refers to a crouching dragon, and also refers to a hero or person of greatness who is not yet known. This is the story of officers, who will later become heroes, during their ‘unknown’ period, and also the story of a protagonist’s rise from being a ‘nobody’. Note: You must have an internet connection in order to use various content. Note: This is the standard edition of the game. The Complete Edition is also available. Note: In order to enjoy online multiplayer, you must be subscribed to the PlayStation®Plus service (paid subscription). If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "",
+    "publisher": "KOEI TECMO America",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Unique",
+      "Role Playing Games",
+      "Action"
+    ],
+    "release_date": "2023-03-03",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202303/0702/fa8183a5ff9f2340454068ad25e53a080d8ae2c54fe437c7.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "f6270e75-8096-4541-a255-674bae234114",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/8KO9NgxeFA",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "86568771-319e-41e0-a21f-469157a7cc4f",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA08772_Wo_Long",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

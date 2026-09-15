@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a562754664b52645fefe084",
+    "title_id": "PPSA28209",
+    "title": "MindsEye",
+    "version": "01.011",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 41983305318
+  },
+  "metadata": {
+    "description": "MindsEye is an ever-expanding gameplay experience with a story campaign and an endless stream of new playable content delivered regularly. Fresh missions, races, puzzles, and challenges from the BARB team bring new surprises that keep the world evolving long after the credits roll. Your journey starts with the campaign, where you step into the role of Jacob Diaz, a former soldier with a mysterious neural implant and fractured memories. As Jacob, you’ll navigate covert missions, restore fragmented memories of your past, and uncover a conspiracy involving rogue AI, corporate greed, and unchecked military power in a cinematic, story-driven action-adventure thriller.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Build a Rocket Boy Limited",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-06-10",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202506/1316/df323785e5149c053b7e445d674c7415d9027d68303d482a.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "fd39e1d4-dd4b-4a22-b1ff-4a2a7bb02b58",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/obj3jl259GDx/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "85787d1d-e314-4cb9-8491-738730500d6b",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA28209-MindsEye",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "81625413-e766-4a85-a6f3-50fd7c15f4a2",
+      "provider": "Gofile",
+      "url": "https://gofile.io/d/384Ztr",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

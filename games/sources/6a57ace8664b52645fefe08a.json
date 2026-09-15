@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a57ace8664b52645fefe08a",
+    "title_id": "PPSA01687",
+    "title": "Call of Duty Vanguard",
+    "version": "01.026",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 89872190669
+  },
+  "metadata": {
+    "description": "Buy this digital PS5™ version of Call of Duty®: Vanguard from the PlayStation™Store and download the PS4™ version at no extra cost. Cross-Gen Bundle includes: - Call of Duty®: Vanguard -- Includes PS4™ and PS5™ versions of the game - 5 hours of weapons 2XP - Digital Exclusive - Frontline Weapons Pack Rise on every front: Dogfight over the Pacific, airdrop over France, defend Stalingrad with a sniper’s precision and blast through advancing forces in North Africa. The Call of Duty® franchise returns with Call of Duty®: Vanguard, developed by Sledgehammer Games, where players will be immersed in visceral WWII combat on an unprecedented global scale. Call of Duty®: Vanguard includes a deeply engaging single player Campaign, a massive Multiplayer offering featuring over 20 maps including 16 built for core Multiplayer and an exciting new Zombies experience developed by Treyarch. Call of Duty®: Vanguard features cross-progression and cross-generation play, in addition to Multiplayer maps, modes and more.",
+    "notes": "You need active fake account if you don't have one very simple just send payload np-fake-signin.elf and restart ps5 and then run game",
+    "credits": "Thanks to High-Speed007 for the Files with DLCs",
+    "publisher": "Activision",
+    "developer": "Sledgehammer Games, where players will be immersed in visceral WWII combat on an unprecedented global scale",
+    "players": "2",
+    "genres": [
+      "Shooter"
+    ],
+    "release_date": "2021-11-05",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202112/1723/Se8iaRSgTFpK8ZBWLled37o4.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "19af6026-c6fd-4470-bd9e-e5aaa456be31",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01687-Call-of-Duty-Vanguard",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "35fb6378-b1b2-40e7-ae68-a49bad1b94e6",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?44ytrgggjcj1dguoe009",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

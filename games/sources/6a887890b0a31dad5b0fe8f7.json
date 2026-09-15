@@ -1,0 +1,111 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a887890b0a31dad5b0fe8f7",
+    "title_id": "PPSA01695",
+    "title": "Back 4 Blood Ultimate Edition",
+    "version": "01.011",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 72048076390
+  },
+  "metadata": {
+    "description": "Buy Back 4 Blood: Ultimate Edition and get: • Base Game • Annual Pass: Three upcoming downloadable content drops with New Story, Playable Characters, Special Mutated Ridden, and more • 4 Character Battle Hardened Skin Pack • Additional digital in-game items: Rare Banner, Emblem, Spray, Title Back 4 Blood is a thrilling cooperative first-person shooter from the creators of the critically acclaimed Left 4 Dead franchise. You are at the center of a war against the Ridden. These once-human hosts of a deadly parasite have turned into terrifying creatures bent on devouring what remains of civilization. With humanity's extinction on the line, it's up to you and your friends to take the fight to the enemy, eradicate the Ridden and reclaim the world. Cooperative Campaign Fight your way through a 4-player co-op story campaign where you must work together to survive increasingly challenging missions. Play with up to 3 of your friends online or go solo and lead your team in battle. Choose from 8 customizable Cleaners and a range of lethal weapons and items to strategize against an ever-evolving enemy. Competitive Multiplayer Play with or against friends in PVP. Switch between playing as a Cleaner and the horrific Ridden. Both sides come with unique weapons, abilities, and perks. Extreme Replayability A new \"rogue-lite\" Card System creates different experiences each time, putting you in control to undertake more demanding fights. The Game Director is constantly adjusting to player actions, ensuring exciting fights, extreme gameplay diversity and tougher legions of Ridden. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files with DLCs and Pippo for the exfat file",
+    "publisher": "Warner Bros. Interactive",
+    "developer": "",
+    "players": "",
+    "genres": [
+      "Shooter"
+    ],
+    "release_date": "2021-10-07",
+    "store_url": "https://store.playstation.com/en-us/product/UP1018-PPSA01695_00-BACK4BLOODULTIMA",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202106/1321/WvqwoZSQ23xNq4l8njZDZR3j.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a77a5356-e8fc-486f-a004-dce9d74bb395",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/KpuCFMPtBl",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "a4f567e9-bd2e-4ec0-86de-0361edae3a54",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/ex5z25a753Kq/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "e42e2faf-4f89-430f-8e93-4c17446c6ddd",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/0JgG75e7l3oY/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "e3c7011f-459c-4e23-bee1-2a1ae2205507",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/ex5z25axy3Kq/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 3,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "a3e8f4f5-f060-4b09-accd-64bf5cbaf637",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/dZxG5oLdR3Vj/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 4,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

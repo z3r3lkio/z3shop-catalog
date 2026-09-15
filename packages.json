@@ -268,7 +268,7 @@
       "url": "https://pfs-library.xetdy-am.workers.dev/api/packages",
       "homepage": "https://pfs-library.xetdy-am.workers.dev/",
       "mode": "discovery",
-      "entries": 367
+      "entries": 373
     },
     {
       "id": "nexgen-aio-pkg",
@@ -300,7 +300,7 @@
     "featured": 6,
     "apps": 10,
     "ffspsc": 3,
-    "discovered_games": 367,
+    "discovered_games": 373,
     "icons": 13,
     "icon_bytes": 701117,
     "pkg_icon_attempts": 6,
@@ -309,26 +309,26 @@
     "pkg_icons_fih": 3,
     "icons_unresolved": 0
   },
-  "_generated": "2026-09-15T12:32:09.539Z",
+  "_generated": "2026-09-15T16:48:57.641Z",
   "_discovery": {
     "pfs_library": {
       "source_name": "GFS Catalog",
       "homepage": "https://pfs-library.xetdy-am.workers.dev/",
       "api": "https://pfs-library.xetdy-am.workers.dev/api/packages",
       "mode": "discovery-metadata-only",
-      "packages": 367,
-      "unique_title_ids": 341,
-      "explicit_pack_entries": 68,
+      "packages": 373,
+      "unique_title_ids": 344,
+      "explicit_pack_entries": 74,
       "unspecified_pack_entries": 299,
       "pack_counts": {
         "unspecified": 299,
         "pfs": 48,
-        "fpkg": 10,
+        "fpkg": 16,
         "lz4": 10
       },
       "region_counts": {
-        "USA": 174,
-        "EUR": 153,
+        "USA": 177,
+        "EUR": 156,
         "JPN": 22,
         "ASIA": 5,
         "USA to EUR Languages": 4,
@@ -341,8 +341,8 @@
       "firmware_counts": {
         "4.xx": 87,
         "4.xx +": 50,
+        "4.xx+": 29,
         "4.xx BackPort": 28,
-        "4.xx+": 25,
         "7.xx": 17,
         "4.xx Backport": 12,
         "4.xx BackPork": 9,
@@ -361,11 +361,11 @@
         "10.xx+": 4,
         "11.xx": 4,
         "9.xx and beyond": 4,
+        "9.xx+": 4,
         "1.xx +": 3,
         "11.xx +": 3,
         "3.xx": 3,
         "6.xx +": 3,
-        "9.xx+": 3,
         "1.xx": 2,
         "10.xx, 4.xx": 2,
         "11.xx+": 2,
@@ -383,6 +383,7 @@
         "2.XX +": 1,
         "2.xx above": 1,
         "2.xx BackPort": 1,
+        "2.xx+": 1,
         "2xx": 1,
         "5.xx +, 4.xx BackPort": 1,
         "5.xx and beyond": 1,
@@ -426,19 +427,19 @@
         "lz4": false,
         "fpkg": false
       },
-      "dlcs_merged": 72,
-      "download_links": 882,
+      "dlcs_merged": 75,
+      "download_links": 895,
       "link_provider_counts": {
-        "Viki": 301,
+        "Viki": 305,
         "Archive": 242,
-        "Akirabox": 200,
+        "Akirabox": 206,
         "1fichier": 40,
         "Archive (Game + DLC)": 25,
-        "Data": 14,
+        "Data": 15,
         "Buzzheavier": 7,
+        "Gofile": 5,
         "Download": 4,
         "Filekeeper": 4,
-        "Gofile": 4,
         "Archive - 4.xx Backport": 3,
         "FileKeeper": 3,
         "1fichier (Backport 4.xx)": 2,
@@ -465,6 +466,7 @@
         "DLCs (PKG – DUPLEX)": 1,
         "FileKeeper - 5.xx": 1,
         "FULL GAME UNLOCK (DUPLEX – PKG)": 1,
+        "Mega": 1,
         "Rootz": 1,
         "Viki - 4.xx": 1,
         "Viki - 4.xx Backport": 1,
@@ -472,9 +474,128 @@
         "Vikingfile - 4.xx Backport": 1,
         "vikingfile.com": 1
       },
-      "posters": 367,
-      "banners": 367,
+      "posters": 373,
+      "banners": 373,
       "latest": [
+        {
+          "id": "6aa973733f728aecb6a169f9",
+          "title_id": "PPSA08668",
+          "title": "Final Fantasy VII Rebirth",
+          "version": "01.080",
+          "pack": "fpkg",
+          "region": "EUR",
+          "firmware": [
+            "9.xx+"
+          ],
+          "apr": false,
+          "apr_version": "",
+          "dlcs_merged": false,
+          "size_bytes": 147918673674,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3005/537b5208a8ee42935286a44b3b981da86d976bf54899bf98.jpg",
+          "updated_at": "2026-09-15T16:33:55.089Z"
+        },
+        {
+          "id": "6aa968303f728aecb6a169f7",
+          "title_id": "PPSA20396",
+          "title": "Assassins Creed Shadows",
+          "version": "1.019.076",
+          "pack": "fpkg",
+          "region": "USA",
+          "firmware": [
+            "4.xx+"
+          ],
+          "apr": false,
+          "apr_version": "",
+          "dlcs_merged": false,
+          "size_bytes": 165141492531,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1815/33f39cad34ac468a040ffed5a43149fb4329ec6c73326838.jpg",
+          "updated_at": "2026-09-15T15:45:52.113Z"
+        },
+        {
+          "id": "6aa963003f728aecb6a169f6",
+          "title_id": "PPSA07570",
+          "title": "Mortal Kombat 1",
+          "version": "1.010.001",
+          "pack": "fpkg",
+          "region": "USA",
+          "firmware": [
+            "4.xx+"
+          ],
+          "apr": false,
+          "apr_version": "",
+          "dlcs_merged": false,
+          "size_bytes": 174193136108,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1515/93797636f47b37b74e9d3740e17ae1306aaf539c7952a703.jpg",
+          "updated_at": "2026-09-15T15:23:44.884Z"
+        },
+        {
+          "id": "6aa95f313f728aecb6a169f5",
+          "title_id": "PPSA30803",
+          "title": "Resident Evil Requiem",
+          "version": "01.200",
+          "pack": "fpkg",
+          "region": "USA",
+          "firmware": [
+            "4.xx+"
+          ],
+          "apr": false,
+          "apr_version": "",
+          "dlcs_merged": true,
+          "size_bytes": 81604378624,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/e0364b3089bbbad7e0a04f87cab6c273172515a134efdf88.png",
+          "updated_at": "2026-09-15T15:07:29.253Z"
+        },
+        {
+          "id": "6aa95d333f728aecb6a169f4",
+          "title_id": "PPSA03274",
+          "title": "Unbound: Worlds Apart",
+          "version": "01.000",
+          "pack": "fpkg",
+          "region": "EUR",
+          "firmware": [
+            "2.xx+"
+          ],
+          "apr": false,
+          "apr_version": "",
+          "dlcs_merged": false,
+          "size_bytes": 1535450808,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202201/0513/DYG2ZAClpLZ77rxzTIdj9Qws.jpg",
+          "updated_at": "2026-09-15T14:58:59.519Z"
+        },
+        {
+          "id": "6aa95c7b3f728aecb6a169f3",
+          "title_id": "PPSA13579",
+          "title": "Blasphemous 2",
+          "version": "1.007.000",
+          "pack": "fpkg",
+          "region": "EUR",
+          "firmware": [
+            "4.xx+"
+          ],
+          "apr": false,
+          "apr_version": "",
+          "dlcs_merged": true,
+          "size_bytes": 2738041651,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1714/1cf876354773c8b7b1aa710ebf69f7dd739769839beebf16.jpg",
+          "updated_at": "2026-09-15T14:55:55.337Z"
+        },
+        {
+          "id": "6aa95c473f728aecb6a169f2",
+          "title_id": "PPSA10665",
+          "title": "Final Fantasy XVI Complete Edition",
+          "version": "01.003.004",
+          "pack": "fpkg",
+          "region": "EUR",
+          "firmware": [
+            "4.xx+"
+          ],
+          "apr": false,
+          "apr_version": "",
+          "dlcs_merged": true,
+          "size_bytes": 136365211648,
+          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0604/ccaacba7eb692a3765a8ccb2f09bc29280eab92505eabaf5.jpg",
+          "updated_at": "2026-09-15T14:55:03.893Z"
+        },
         {
           "id": "6aa9051a3f728aecb6a169f1",
           "title_id": "PPSA04029",
@@ -559,125 +680,6 @@
           "size_bytes": 40372692582,
           "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2416/044c29ea5623bbb31fc1b2db8577621ba7f035b4c679cfdc.jpg",
           "updated_at": "2026-09-15T01:08:55.536Z"
-        },
-        {
-          "id": "6aa872a13f728aecb6a169ea",
-          "title_id": "PPSA04892",
-          "title": "Tchia",
-          "version": "01.011",
-          "pack": "fpkg",
-          "region": "EUR",
-          "firmware": [
-            "9.xx+"
-          ],
-          "apr": false,
-          "apr_version": "",
-          "dlcs_merged": false,
-          "size_bytes": 3994319585,
-          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2409/NAM99EYphvYksee7eOGTtLCE.JPG",
-          "updated_at": "2026-09-14T22:18:09.297Z"
-        },
-        {
-          "id": "6aa871703f728aecb6a169e9",
-          "title_id": "PPSA04892",
-          "title": "Tchia",
-          "version": "01.011",
-          "pack": "pfs",
-          "region": "EUR",
-          "firmware": [
-            "9.xx+"
-          ],
-          "apr": false,
-          "apr_version": "",
-          "dlcs_merged": false,
-          "size_bytes": 3715146711,
-          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2409/NAM99EYphvYksee7eOGTtLCE.JPG",
-          "updated_at": "2026-09-14T22:13:04.016Z"
-        },
-        {
-          "id": "6aa81d6b3f728aecb6a169e6",
-          "title_id": "PPSA03190",
-          "title": "MultiVersus",
-          "version": "01.055",
-          "pack": "pfs",
-          "region": "EUR",
-          "firmware": [
-            "4.xx+"
-          ],
-          "apr": false,
-          "apr_version": "",
-          "dlcs_merged": true,
-          "size_bytes": 19971597926,
-          "poster_url": "https://upload.wikimedia.org/wikipedia/fi/9/98/MultiVersus.jpg?utm_source=fi.wikipedia.org&utm_campaign=index&utm_content=original",
-          "updated_at": "2026-09-14T16:14:35.563Z"
-        },
-        {
-          "id": "6aa81cc73f728aecb6a169e5",
-          "title_id": "PPSA09518",
-          "title": "WUCHANG Fallen Feathers Deluxe Edition",
-          "version": "01.013",
-          "pack": "pfs",
-          "region": "USA",
-          "firmware": [
-            "4.xx+"
-          ],
-          "apr": false,
-          "apr_version": "",
-          "dlcs_merged": true,
-          "size_bytes": 18253611008,
-          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0311/9ae422106574a80dc231d257d458c2a967fe7f0bac58c9e7.png",
-          "updated_at": "2026-09-14T16:11:51.709Z"
-        },
-        {
-          "id": "6aa811f9e8c33db6afb892db",
-          "title_id": "PPSA01473",
-          "title": "Ratchet & Clank Rift Apart",
-          "version": "1.005.003",
-          "pack": "lz4",
-          "region": "USA",
-          "firmware": [
-            "10.xx+"
-          ],
-          "apr": true,
-          "apr_version": "apr-emu-v0.4.2.1",
-          "dlcs_merged": false,
-          "size_bytes": 59055800320,
-          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/CrGbGyUFNdkZKbg9DM2qPTE1.jpg",
-          "updated_at": "2026-09-14T15:25:45.534Z"
-        },
-        {
-          "id": "6aa7b26b792e471937d0b01c",
-          "title_id": "PPSA01746",
-          "title": "Kena Bridge of Spirits",
-          "version": "02.008",
-          "pack": "fpkg",
-          "region": "USA",
-          "firmware": [
-            "4.xx+"
-          ],
-          "apr": false,
-          "apr_version": "",
-          "dlcs_merged": false,
-          "size_bytes": 20712479785,
-          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2307/5DwFII1MYsBn48HjmvUu0TEd.jpg",
-          "updated_at": "2026-09-14T08:38:03.193Z"
-        },
-        {
-          "id": "6aa7add5792e471937d0b01b",
-          "title_id": "PPSA01411",
-          "title": "Marvel's Spider-Man Miles Morales",
-          "version": "01.015.001",
-          "pack": "fpkg",
-          "region": "EUR",
-          "firmware": [
-            "5.xx+"
-          ],
-          "apr": false,
-          "apr_version": "",
-          "dlcs_merged": false,
-          "size_bytes": 56371445760,
-          "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1420/HcLcfeQBXd2RiQaCeWQDCIFN.jpg",
-          "updated_at": "2026-09-14T08:18:29.454Z"
         }
       ]
     }

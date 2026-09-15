@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4a71bf2860efac54e4aa7a",
+    "title_id": "PPSA02015",
+    "title": "Death Stranding 2 On The Beach Deluxe Edition",
+    "version": "01.013",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 101468602368
+  },
+  "metadata": {
+    "description": "Edition includes: DEATH STRANDING 2: ON THE BEACH full game for PS5®. 48h early access Machine Gun [MP] (Lv.1) early unlock Patch 70: Quokka Patch 71: Chiral Cat Patch 72: Why Me? Battle Skeleton: Gold (Lv.1)(Lv.2)(Lv.3) Boost Skeleton: Gold (Lv.1)(Lv.2)(Lv.3) Bokka Skeleton: Gold (Lv.1)(Lv.2)(Lv.3) Embark on an inspiring mission of human connection beyond the UCA. Sam—with companions by his side—sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected? Step by step, legendary game creator Hideo Kojima changes the world once again.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files and Kira & BestPig for the BackPort",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-06-24",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202402/0618/9a18ef29e2da1478a2f12816cf49342b7a91c16a6f163259.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "6e532656-832e-462f-9aeb-c47b8c9badf4",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA02015_DEATH_STRANDING_2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3e722c9ed762de5f291cd7",
+    "title_id": "PPSA06255",
+    "title": "Biomutant",
+    "version": "01.003",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 13207024435
+  },
+  "metadata": {
+    "description": "\"BIOMUTANT® is an open-world, post-apocalyptic Kung-Fu fable RPG, with a unique martial arts styled combat system allowing you to mix melee, shooting and mutant ability action. A plague is ruining the land and the Tree-of-Life is bleeding death from its roots. The Tribes stand divided. Explore a world in turmoil and define its fate – will you be its saviour or lead it to an even darker destiny? KEY FEATURES - Experience maximum freedom of movement while mixing shooting, melee and powers from your mutations - Re-code your genetic structure to change the way you look and play with mutations like the Turtleform and Mucus Bubble - Explore a vibrant open world by foot, mech, jet-ski, air-balloon or area unique mounts - Mix and match parts to create your own unique slash, crush and pierce melee weapons, revolvers, rifles, shotguns and more - A storyteller narrates every step of your journey, but it’s your actions and choices that’ll decide how your story of survival ends\" Experience BIOMUTANT®’s incredible story and expansive world on PlayStation®5! Now smoother and more beautiful than ever with ultra-fast loading times, native 4k resolution, HDR support and with up to 60 FPS. Choose between three different graphic modes: • Quality: 30 fps @ 4k resolution • Quality Unleashed: 40+ fps, averaging 50-60 fps, up to 4k resolution • Performance: 60 fps locked @ 1440p BIOMUTANT® on the PS5 unleashes not only framerates, but also the power of the DualSenseTM. Feel even more immersed with haptic feedback, adaptive triggers, motion control and speaker sound. On top of that the PlayStation exclusive Activity Cards will also offer a variety of different ways to jump straight back into BIOMUTANT®. If you already own the PlayStation®4 version, you will be able to upgrade to this enhanced version for free and you can even bring those delicious PS4 save files with you! This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 & TRIFECTA for the Files and Pkykzhack for DLCs",
+    "publisher": "THQ Nordic",
+    "developer": "Experiment 101 AB",
+    "players": "1",
+    "genres": [
+      "Unique"
+    ],
+    "release_date": "2022-09-06",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202103/2514/6SKySOSlwwEZ4aW9pyqpizOQ.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "7b33981e-e806-45a3-a2b6-842f24f8e214",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA06255-Biomutant",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

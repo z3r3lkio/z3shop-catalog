@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7b087f15892f8818a051f5",
+    "title_id": "PPSA03859",
+    "title": "MechWarrior 5: Mercenaries",
+    "version": "01.0019",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 38225208934
+  },
+  "metadata": {
+    "description": "BE YOUR OWN WEAPON OF WAR Welcome to the year 3015! It’s a hell of a time to be alive. Humanity has colonized thousands of star systems, war is everywhere, and the battlefields of the future are dominated by hulking machines known as BattleMechs. It’s dangerous work for the elite pilots of these metal monstrosities, but that’s why a power hungry MechWarrior like you came here, right? If you’re looking to blast, wreck, stomp - and profit - step inside! A World of Destruction – Level entire cities and decimate armies of enemy forces while piloting hundreds of unique BattleMech variants. Hunt The Truth – Pursue a path of interstellar intrigue in a quest for glory and revenge as the leader of a mercenary company reborn in the flames of destruction. The Merc Life – Manage the intricacies of running an expanding mercenary company - from the maintenance and acquisition of BattleMechs to the hiring of fellow MechWarrior allies. Fight Together – Fight alongside your friends with four-player PvE co-op support.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, DecKerr97 for the BackPort and Pippo for exfat file",
+    "publisher": "Piranha Games Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Shooter"
+    ],
+    "release_date": "2021-09-23",
+    "store_url": "https://store.playstation.com/en-us/product/UP2660-PPSA03858_00-MWARRIOR5SIEAPS5",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202210/1309/eLTyBzFO6X6Xp8xoc1ppWcmi.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "716a95f2-5d99-43fe-a270-458ea4551428",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA03859_MechWarrior_5",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "c738a71e-68f7-4ac4-ad06-6bc8c91ba3aa",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/mLjX1ByzbQ",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a86b034b0a31dad5b0fe8e9",
+    "title_id": "PPSA03026",
+    "title": "The Forgotten City",
+    "version": "01.005",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 13958643712
+  },
+  "metadata": {
+    "description": "The Forgotten City is a mystery adventure game of exploration and deduction, and a re-imagining of the critically acclaimed mod that won a national Writers’ Guild award and racked up over 3 million downloads. Combat is an option, but violence will only get you so far. Only by questioning an intertwined community of colourful characters, cleverly exploiting the time loop, and making difficult moral choices can you hope to solve this epic mystery. Here, your decisions matter. The fate of the city is in your hands. • Explore an open-world ancient Roman city with historically authentic art, architecture, costumes and customs • Investigate a gripping, non-linear mystery with multiple endings • Become entwined in the lives of richly detailed, deeply interactive characters • Grapple with moral dilemmas which have life-and-death consequences • Play as whoever you want, by choosing your character’s gender, origin and backstory • Solve problems with reason, charm, bribery, intimidation, violence, or by cleverly exploiting the time-loop",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & SiESPTA for the Files and Pippo for the exfat file",
+    "publisher": "Dear Villagers",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "2021-07-28",
+    "store_url": "https://store.playstation.com/en-us/product/UP1309-PPSA03026_00-THEFORGOTTENCITY",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202107/2610/wENGrYQ4yaID89VGrQnNS2Zd.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4b774754-a224-4b81-ad06-4bc317e51f4c",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/T59HKP0H1C",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "20617a50-c2ce-4c94-ad89-c16a996d8438",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/0rpmvpn4BzRg/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

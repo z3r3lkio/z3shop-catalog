@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa7add5792e471937d0b01b",
+    "title_id": "PPSA01411",
+    "title": "Marvel's Spider-Man Miles Morales",
+    "version": "01.015.001",
+    "pack": "fpkg",
+    "region": "EUR",
+    "size_bytes": 56371445760
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. In the latest adventure in the Marvel’s Spider-Man universe, teenager Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. But when a fierce power struggle threatens to destroy his new home, the aspiring hero realizes that with great power, there must also come great responsibility. To save all of Marvel’s New York, Miles must take up the mantle of Spider-Man and own it. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the game files and Drakmor for the FPKG tool",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Insomniac Games, Inc",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2020-11-12",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202011/1104/qlEQ0WiMbRdt5xZOs3FzPdUl.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a3120786-1d65-4d3a-b017-9bb8735d2ae5",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/pTCubFW6TG",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "35638f2e-ef06-4af9-b362-7d8c7bb3693a",
+      "provider": "Archive",
+      "url": "https://archive.org/details/SMMiles_PKG",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

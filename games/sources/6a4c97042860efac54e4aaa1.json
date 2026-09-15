@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4c97042860efac54e4aaa1",
+    "title_id": "PPSA17525",
+    "title": "Gears of War Reloaded",
+    "version": "01.008.001",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 69363721830
+  },
+  "metadata": {
+    "description": "OPTIMIZED FOR PLAYSTATION PS5®: Experience features specific to the PlayStation® 5 platform such as DualSense® wireless controller integrations including haptic feedback, controller speaker support and adaptive triggers. PS5® Pro Enhanced: Enjoy PlayStation Super Spectral Resolution support as well as improved shadow and reflections quality. Stunning gameplay: The iconic original now looks and plays better than ever with no load times, 4K assets plus remastered textures, lighting, shadows and reflections, HDR, Dolby Atmos, Variable Refresh Rate as well as up to 120 FPS in multiplayer.* THE DEFINITIVE RELEASE The Original, Remastered: Powered by Unreal Engine, Gears of War: Reloaded is a remaster of the blockbuster first Gears of War, now fully optimized for the latest generation of gaming platforms. All Included: Gears of War: Reloaded delivers all post-launch content for the original title, including a bonus campaign act, multiplayer maps, plus characters and cosmetics, at no additional cost. Refined Controls: Newcomers can choose a modern, streamlined control layout, while veterans can relive the classic feel they love. BUILT FOR BROTHERHOOD Campaign Co-Op: Crush the Locust threat together through campaign split-screen or online co-op. Fight on with your squad in Versus multiplayer running at up to 120fps with unmatched clarity and visual fidelity.* Cross Play: Gears of War: Reloaded supports cross-play across all platforms, allowing you and your friends to squad-up, regardless of where you play.* Cross Progression: Jump from one platform to another and your campaign saves as well as multiplayer progression will come with you. Signing in with your Microsoft Account required is for cross progression.*",
+    "notes": "External Drive only.",
+    "credits": "Thanks to High-Speed007 for the Files and BestPig for the BackPort",
+    "publisher": "Microsoft Corporation",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Shooter"
+    ],
+    "release_date": "2025-08-26",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202506/0819/a56a3592b49e17c7db117918546c453284f6decc8f142558.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "742a43b4-8da9-429b-a76f-7e3b9e722172",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA17525-Gears-of-War-Reloaded",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

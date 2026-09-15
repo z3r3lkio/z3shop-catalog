@@ -1,0 +1,68 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a705fbaa80b138b911d68df",
+    "title_id": "PPSA07905",
+    "title": "Still Wakes The Deep",
+    "version": "01.001",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 9298604196
+  },
+  "metadata": {
+    "description": "STILL WAKES THE DEEP is a return to the first-person narrative horror genre for The Chinese Room, creator of critically acclaimed games such as Amnesia: A Machine for Pigs, Everybody’s Gone to the Rapture, and Dear Esther. You are an offshore oil rig worker, fighting for your life through a vicious storm, perilous surroundings, and the dark, freezing North Sea waters. All lines of communication have been severed. All exits are gone. All that remains is to face the unknowable horror that’s come aboard. GAME FEATURES • Explore a stunningly realised offshore oil rig in 1970’s Scotland that evolves throughout the story • World-class visuals, audio, writing from award-winning studio The Chinese Room • Star-studded cast of voice-actors: Alec Newman, Neve McIntosh, and more • World-class, haunting soundtrack by Jason Graves • Six hours of terrifying gameplay • Brace yourself for a symphony of action, trepidation and awe LIVE THE HORROR • An immersive disaster story aboard an authentic North Sea oil rig • Face a terrifying, unrelenting foe • Pray that, one day, you get to see your family again • Experience the beauty and ferocity of the sea, as it rips apart one of humanity’s strongest structures and its steadfast crew ESCAPE THE RIG • Avoid, distract, and sneak around in best attempts to survive • No weapons. No powers. Just your wits and determination • Run, climb, and swim through the flooding corridors and storm-lashed outer decks • Struggle for survival, as one wrong step could be your last",
+    "notes": "",
+    "credits": "",
+    "publisher": "Secret Mode Limited",
+    "developer": "",
+    "players": "",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Horror"
+    ],
+    "release_date": "2024-06-18",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202403/2121/832b4b9a64a56e2a4c56b7235a4b5b686c28e1ed0b590326.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "72a2bc78-11d7-4cc6-aa78-023be23278c0",
+      "provider": "Viki",
+      "url": "https://archive.org/details/PPSA07905_Still_Wakes_The_Deep",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "edfdc8a2-12c9-41db-abdd-5281badbfd85",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/nU6UnpUdUn",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

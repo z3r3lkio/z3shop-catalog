@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a60a7ac20ce6441f5b9a13a",
+    "title_id": "PPSA03718",
+    "title": "The Medium",
+    "version": "01.007",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 26091926323
+  },
+  "metadata": {
+    "description": "You are Marianne, a medium haunted by visions you cannot explain. Drawn to an abandoned communist-era resort, you set out to uncover the origins of your powers and solve the mystery that has followed you your entire life. Your gift allows you to interact with two worlds simultaneously. The physical realm shows you the remnants of what once was, while the spirit world reveals what lies beneath the surface: hidden truths, lingering emotions, and horrors born from tragedy. As you walk between these realities, you will use your abilities to investigate, solve puzzles, and protect yourself from threats that only someone like you can perceive. In this haunting tale brought to you by the masters of horror at Bloober Team, every step forward brings you closer to the heart of a story shaped by trauma, sorrow and the echoes of the past. Game Features: •Wield Your Dual Reality – Experience a unique dual-perspective mechanic that lets you explore two worlds at once. Shift between realms or navigate both simultaneously to uncover secrets invisible to others. •Harness Medium Powers – Use your supernatural abilities to manipulate the environment, shield yourself from hostile forces, and unleash spirit blasts to break through obstacles or escape deadly entities. •Descend Into the Spirit World – Enter a haunting dimension inspired by nightmarish art and distorted memories. Encounter tormented souls, navigate twisted landscapes, and confront a relentless being that feeds on fear. •Uncover a Dark Mystery – Piece together a story that spans both worlds. Explore abandoned halls, forgotten chambers, and memories left behind to understand the origins of the resort – and your own past.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Bloober Team",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Horror"
+    ],
+    "release_date": "2021-09-03",
+    "store_url": "https://store.playstation.com/en-us/product/UP4176-PPSA03717_00-5917275044455248",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202109/0214/DU4GqSk0INWtCubyuj3MwA0z.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "6d103fb2-ceda-4952-b5fa-cf569635c750",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/i5MZsOsts6",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "37333850-d0f8-41aa-8286-3ae4515529cf",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA03718_The_Medium",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

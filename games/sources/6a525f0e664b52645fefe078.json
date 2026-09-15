@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a525f0e664b52645fefe078",
+    "title_id": "PPSA09706",
+    "title": "Persona 5 Tactica Deluxe Edition",
+    "version": "01.000.300",
+    "pack": "unknown",
+    "region": "JPN to EUR Languages",
+    "size_bytes": 24266565222
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4® version and the digital PS5® version of this game. Join the Phantom Thieves as they lead an uprising of the heart! Assemble a team of beloved heroes in a brand-new story in this thrilling combat adventure set in Persona’s iconic universe. The Persona 5 Tactica: Digital Deluxe Edition includes the following content: • Base Game • Persona 5 Tactica: Repaint Your Heart Challenge Pack • Persona 5 Tactica: Weapon Pack • Persona 5 Tactica: Picaro Summoning Pack + Raoul Persona If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "",
+    "publisher": "SEGA of America, Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "2023-11-17",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202311/2718/2895098d0f545372c6c010e776df400c94f7f562a306f12f.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a7a56e6c-7aa9-4c2c-8c82-f45e97d8043e",
+      "provider": "Gofile",
+      "url": "https://gofile.io/d/QHLW9d",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "0b4392c1-4f81-403e-8117-0293918df6f1",
+      "provider": "Buzzheavier",
+      "url": "https://buzzheavier.com/xpa639f1shlq",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "7cd4c5e1-f30a-436c-a6a7-67099a56fa0d",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?k6yztrtz1fs1ld2a3ypg",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

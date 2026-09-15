@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028c1",
+    "title_id": "PPSA15211",
+    "title": "Dragon Ball Sparking Zero",
+    "version": "2.017",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 33500744909
+  },
+  "metadata": {
+    "description": "DRAGON BALL: Sparking! ZERO takes the legendary gameplay of the Budokai Tenkaichi series and raises it to whole new levels. Become a super warrior and experience the earth-shaking, limit-breaking power of Dragon Ball battles! THE BIGGEST ROSTER IN HISTORY Unleash the strength of over 180 fighters from Dragon Ball Z, Dragon Ball Super, Dragon Ball GT, and selected Dragon Ball movies, all in the base game! Each character comes with their own signature abilities, transformations, and techniques. Make the destructive power of the strongest fighters ever to appear in Dragon Ball yours! BREATHTAKING 3D FIGHTS Engage in heart-pounding, high-speed 3D battles that stay true to the anime and video game series, with breathtaking visuals and authentic combat moves like beam clashes, rush attacks, movements too quick for the eyes to see, and planet-razing ultimate attacks. RIVALS MAKE YOU STRONGER Challenge other players online to test your skills, or sit down with friends offline to hone your skills! Fight your way to become a champion across various tournament modes and victory conditions. BLAZE A NEW PATH Conquer the action-packed battles from the beloved original story, or discover and unlock new encounters for your favorite Z-Fighters and more. Relive your favorite moments from the series through cutscenes you can experience from the perspectives of eight characters! CREATE, PLAY, AND SHARE Recreate your favorite battles from throughout the Dragon Ball story, or set up your dream story battle with your favorite characters! Share your creations with other fans and experience the battles brought to life by imaginations around the world. *In addition to this edition, Deluxe Edition and Ultimate Edition are also available. Please be careful not to purchase the same content twice.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2024-10-10",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202410/1722/a170cc11a3bcf051d59ee1152555b2257a696f6b6079fdbc.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "896ade0a-824b-43de-9e76-cd4dea19ce81",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA15211_DRAGONBALL_Sparking_ZERO",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

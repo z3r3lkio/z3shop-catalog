@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a59f6c3664b52645fefe0a7",
+    "title_id": "PPSA14501",
+    "title": "Brothers A Tale of Two Sons Remake",
+    "version": "02.000",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 18575733555
+  },
+  "metadata": {
+    "description": "Guide two brothers on an epic fairy tale filled with discovery, loss, adventure, and mystery. With their father suffering from a deadly illness, two brothers must bravely set out to find the “Water of Life,” the one cure that can save him. With no option for failure the brothers must rely on each other using their individual skills to protect one another and overcome the obstacles ahead in this unforgettable journey. A TIMELESS CLASSIC REMADE Hailed by critics when it was originally released, Brothers: A Tale of Two Sons is back! Faithful to the gameplay and touching story from 2013, Brothers: A Tale of Two Sons Remake features rebuilt characters and landscapes based on the original and has been updated to the latest generation of graphics, performance, and gameplay. Paired with a re-recorded soundtrack with a live orchestra, prepare for an emotional experience that will take your adventure to all new heights. EMBARK ON A FANTASTICAL EPIC Solve puzzles, discover hidden stories, traverse dangerous locations, and fight deadly bosses. In single-player mode, navigate this story as both brothers in tandem or play in local co-op with a friend, each controlling one of the brothers as you play together. GET IMMERSED IN THE EMOTIONAL WORLD OF BROTHERS Brothers: A Tale of Two Sons is full of hidden details that reward those who seek them out. In addition to the original hidden treats and rich storyline, the remake has added new secrets to be discovered.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files and DecKerr97 for the BackPort",
+    "publisher": "505 Games",
+    "developer": "Avantgarden SRL",
+    "players": "2",
+    "genres": [
+      "Adventure",
+      "Adventure"
+    ],
+    "release_date": "2024-02-28",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202312/0800/9508510a969e9d0b83635e74dd5d5f9d427a5edf71de2efb.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4839875a-aff4-4b26-93e5-880793c9cdc0",
+      "provider": "Archive - 7.xx",
+      "url": "https://archive.org/details/PPSA14501-Brothers-A-Tale-of-Two-Sons-Remake",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "f944fc4c-e750-4f8d-903a-a639c0cc8db0",
+      "provider": "Archive - 4.xx Backport",
+      "url": "https://archive.org/details/BrothersATaleofTwoSonsRemake_4xx",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

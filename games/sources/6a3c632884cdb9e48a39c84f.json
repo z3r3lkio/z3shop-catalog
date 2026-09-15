@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3c632884cdb9e48a39c84f",
+    "title_id": "PPSA13427",
+    "title": "Horizon Zero Dawn Remastered",
+    "version": "01.008.001",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 98784247808
+  },
+  "metadata": {
+    "description": "Edition includes: Horizon Zero Dawn™ Remastered Earth is ours no more. Experience the critically acclaimed Horizon Zero Dawn™ with stunning new visuals and upgraded features. In a far future where colossal machines roam and rule the Earth, pockets of humanity survive in unique tribes among the lush, overgrown ruins of our long-lost civilization. Take up bow and spear as Aloy, a young machine hunter and outcast of her tribe, as she discovers her origins, the truth of this mysterious world, and her own destiny to save it from impending doom. On her journey, Aloy will come across unique tribes, lively settlements, and compelling characters and companions. But this open world is also teeming with wildlife and danger. Awe-inspiring yet deadly hostile machines patrol the majestic landscape, corrupted by an unknown force. In combat, you will unleash devastating, tactical attacks utilizing an exciting arsenal of weapons against fearsome machines and nefarious rival factions. Horizon Zero Dawn™ is a multi-award-winning action role-playing game and this Remastered Edition brings to life the beloved wilds of Aloy’s world in even higher fidelity with the power and potential of the PlayStation®5 console. PlayStation®5 Features • Breathtaking visuals with 4K and HDR support • Near-instant load times with Ultra High-Speed SSD • Fully immersive sound via PS5® Tempest 3D AudioTech1 • Feel every thrill with the DualSense® wireless controller’s adaptive triggers and haptic feedback Existing owners of Horizon Zero Dawn (PS4)* and/or Horizon Zero Dawn Complete Edition (PS4, PS5) can upgrade to the digital version of Horizon Zero Dawn Remastered on PlayStation 5 console. This includes fans who added the game to their libraries during PlayStation’s Play At Home initiative.**[1] *Owners of the Horizon Zero Dawn PS4 game disc can access this offer by inserting the game disc into their PS5 console (and will need to keep the disc inserted each time to play the game). PS4 game disc owners who buy the PS5 Digital Edition disc-free console will not be able to access the upgrade offer.[1][2] **Redemptions via PlayStation Plus are not eligible to upgrade.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files with DLCs",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Guerrilla",
+    "players": "1",
+    "genres": [
+      "Role Playing Games",
+      "Action"
+    ],
+    "release_date": "2024-10-31",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202011/1122/pRp8fuMNHQThujc1hNhBk05y.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "f19fbf11-ac21-4989-bd6d-ed75091ce5e9",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?x58uo1spb9n93aqiyk3t",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "532933c1-6325-4dc0-b60f-c0d518f61fd4",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA13427_Horizon_Zero_Dawn_Remastered",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

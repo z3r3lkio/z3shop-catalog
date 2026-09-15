@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5ba0dc664b52645fefe0bc",
+    "title_id": "PPSA10695",
+    "title": "EA Sports WRC",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 97066260890
+  },
+  "metadata": {
+    "description": "Elevate your rally experience with the WRC 2024 Season Expansion! Discover thrilling new locations, Tet Rally Latvia and the Orlen 80th Rally Poland. Drive the latest high-performance vehicles including the Ford Fiesta Rally3 Evo and Toyota GR Yaris Rally1 HYBRID '24. Customize your rally cars with more than 50 new liveries and compete against 52 official crews. Buckle up and get ready to embark on your rally journey. • MAKE YOUR OWN - Design and drive your dream rally car through Builder mode • REWRITE HEADLINES - Race and overcome recent events alongside real-world highlights and nostalgic throwbacks in Moments mode • DYNAMIC HANDLING SYSTEM - Codemasters’ renowned multi-surface handling model is improved for WRC. Tailor it to match your skill level and put it to the test on surface degradation • IMMERSIVE - Revel in euphoric moments as you battle the elements across dirt, snow, and asphalt in the pursuit of the perfect run • AUTHENTICITY - Experience 25 years of rally heritage by driving WRC, WRC2, and Junior WRC cars from the 2024 season, along with 70 historic vehicles • AROUND THE WORLD - From Monte Carlo and Portugal to Kenya and Japan, battle 20 current and former WRC locations with over 200 stages • THE COMPLETE EXPERIENCE - Career, Championship, Time Trial, Cross-platform Multiplayer, Regularity Rally, a detailed livery editor, and more",
+    "notes": "",
+    "credits": "",
+    "publisher": "Electronic Arts Inc",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Driving/Racing"
+    ],
+    "release_date": "2023-10-31",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202503/2017/52692b9dcde9056837cd07f7d9e3d62db32f1c9d67e3adc3.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "43cefa39-2f83-4f1c-8422-f0ec502006a3",
+      "provider": "Buzzheavier",
+      "url": "https://buzzheavier.com/ztnv9y9rqdz0",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "a69d0ae5-be78-4a46-b652-3313debd6c75",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA06092-WRC",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

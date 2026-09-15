@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a8bfa73b0a31dad5b0fe901",
+    "title_id": "PPSA22520",
+    "title": "Animal Well",
+    "version": "01.000.011",
+    "pack": "unknown",
+    "region": "JPN",
+    "size_bytes": 101275329
+  },
+  "metadata": {
+    "description": "In Animal Well there is more than what you see. Explore a dense interconnected labyrinth, and unravel its many secrets. Collect items to manipulate your environment in surprising and meaningful ways. Encounter creatures both beautiful and unsettling, and try to survive what lurks in the dark.",
+    "notes": "",
+    "credits": "Thanks to DLPS Team for the Files, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "Bigmode",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Horror",
+      "Adventure"
+    ],
+    "release_date": "2024-05-09",
+    "store_url": "https://store.playstation.com/en-us/concept/10004542/",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202405/0614/c2152e498c429c29a03d6a4c741bbcd6cd4a95f66129f1bd.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "22c96c7d-7720-4b0f-8405-ce28907b1381",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/6axFUe1tEQ",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "45434f0b-78dd-485b-9325-db90738a30cc",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/0JgG75Y053oY/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

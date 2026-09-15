@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5a07c6664b52645fefe0ad",
+    "title_id": "PPSA19359",
+    "title": "FATAL FURY: City of the Wolves",
+    "version": "01.009",
+    "pack": "pfs",
+    "region": "JPN",
+    "size_bytes": 43701292237
+  },
+  "metadata": {
+    "description": "SNK’s beloved Fatal Fury series first hit the market in 1991, spearheading the fighting game boom of the 1990s that swept the industry thereafter. GAROU: MARK OF THE WOLVES (released in 1999) has, for some time, served as the franchise’s most recent installment. But that is all about to change: 26 years on, a brand-new entry—FATAL FURY: City of the Wolves—is set to arrive on the scene! ■All-new REV System supercharges the excitement! Introducing the REV System, a brand-new toolset that offers unique offensive options from the moment the battle begins! Use REV Arts, REV Accel, REV Blows (while S.P.G. is active), and more until you hit your limit and the REV Meter overheats. The all-new REV System—fight at full throttle and supercharge the excitement! ■Two control schemes—fun for newcomers and veterans alike! Choose from two control schemes: Arcade Style is based on precise, technical inputs, while Smart Style lets you perform flashy special moves and combos using directional inputs and single button presses. From fighting game newcomers to seasoned veterans, there’s plenty of fun and excitement to be had—tailored specifically to your level! ■Strive for supremacy in EPISODES OF SOUTH TOWN, a single-player RPG mode! Introducing “Episodes of South Town” (EOST)—a solo RPG adventure where you’ll square up against contenders under various fight conditions, earning XP and other rewards for your efforts. Level up your fighter, build out a diverse kit of skills, and dominate the opposition on your way to the top. Dreams and ambitions run rampant in South Town; now is the time to chase the city’s crown and carve a legend all of your own! * To play EOST you’ll first need to connect to the Internet and update the game.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files and realromhunter for DLCs.",
+    "publisher": "SNK CORPORATION",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Fighting"
+    ],
+    "release_date": "2025-04-24",
+    "store_url": "",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "fad643ca-0158-4c59-bf08-49fbb837e50f",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA19359-FATALFURY",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

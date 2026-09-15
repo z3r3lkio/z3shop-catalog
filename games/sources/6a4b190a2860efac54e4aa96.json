@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4b190a2860efac54e4aa96",
+    "title_id": "PPSA06899",
+    "title": "TOPSPIN 2K25",
+    "version": "01.017",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 37151467110
+  },
+  "metadata": {
+    "description": "The Cross-Gen Edition includes TopSpin 2K25 for PlayStation®5 and PlayStation®4. AUTHENTIC GAMEPLAY Advanced gameplay mechanics, realistic physics, and immersive visuals are at the heart of TopSpin 2K25. Several playable pros in TopSpin 2K25 have a custom forehand, backhand, and serve animation that’s been fine-tuned to replicate their real-life form. On clay, sliding across will kick up dust and leave scuff marks along the ground you’ve covered while on grass the court wear becomes more noticeable as you progress through a tournament. Deliver pinpoint precision on the court with the all-new Timing Meter, and hit the perfect serve with the new Serve Mechanic. LOCAL MULTIPLAYER Gather your friends and family to compete in intense, head-to-head matches on the same screen. Offline Exhibition supports up to two players in singles and up to four players in doubles, offering endless fun and rivalry. EXPERIMENT WITH PLAYSTYLES Do you gravitate toward a strong defensive strategy or will you lean more on dominating serves? TopSpin 2K25 features four different playstyles, each with their own upsides and unique Skills. Choose from All-Round, Offensive Baseline, Defensive Baseline, and Serve & Volley playstyles. Lean in to the playstyle of your favorite Pro or experiment and create hybrid MyPLAYERs based on these core playstyles. WIN THE CAREER GRAND SLAM® Travel the world as an up-and-coming pro, go toe-to-toe with the biggest names in tennis, and take Centre Court at Wimbledon, Roland-Garros, the US Open, and the Australian Open as you strive to become a Grand Slam® Champion online in MyCAREER. DOMINATE THE COURT ONLINE Test your MyPLAYER's mettle and showcase your tennis prowess on the World Tour or step into the 2K Tour as a playable pro challenging players around the world with cross-play support. Alternatively, have a friendly and invite your 2K friends and platform friends to online private singles matches in Online Exhibition!",
+    "notes": "",
+    "credits": "",
+    "publisher": "2K",
+    "developer": "Hangar 13",
+    "players": "4",
+    "genres": [
+      "Sport"
+    ],
+    "release_date": "2024-04-26",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202404/2607/00fc0086a334fe878d28e6bdbc1baecad85d781bd9dd6a2e.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "3a0ca0a2-9215-4aee-b5bf-ad2d0de9a9ae",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA06899_TopSpin_2K25",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

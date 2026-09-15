@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a854a12b0a31dad5b0fe8e3",
+    "title_id": "PPSA05027",
+    "title": "Gear.Club Unlimited 2 - Ultimate Edition",
+    "version": "01.001",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 11950746501
+  },
+  "metadata": {
+    "description": "With the pedal to the metal, race along more than 3,000 kilometers of tracks that await you! On the mountainside, through a nature park, in the middle of the desert or along the coast, defend your position in more than 250 races, with championships, exhibition races and Grand Prix. Find all the Gear Club Unlimited 2 content and discover new driving sensations: on simple roads & on tracks, for speed and endurance challenges… but always with prestigious vehicles! It’s up to you to dominate the races and settle your supremacy on your opponents! Embark the Porsche Series and drive legendary Porsche cars such as the 911 930 Turbo, drive iconic endurance cars such as the Ford GT40 MK I Gulf on the official 24H Le Mans racetrack in the Endurance Championship… or just drive for pleasure on multiple surfaces! You will need a lot of talent and persistence, and a big push on the throttle to be the best! Drive legendary vehicles in a huge game area with rich & diverse environments with remastered graphics for an intense experience! In Career mode, you can save the family racing team from bankruptcy by challenging charismatic drivers of various nationalities. Discover the Porsche Series mode and drive the famous manufacturer’s most prestigious vehicles, to get the chance to drive the iconic 911 930 Turbo. Try the Endurance Championship mode, focused on motorsport, in a campaign dedicated to the 24H Le Mans race: prepare for the race, manage your fuel level, your tires’ erosion and pit stops. Create and manage your Club and recruit the best players who cross your path. You can take on rival clubs from around the world as you lead your crew to the top of the leaderboard. Manage your garage and make it your space! Admire the racing cars acquired along the races. Gear.Club Unlimited 2 offers over 50 licensed vehicles from the world's most prestigious manufacturers. Alone or with friends: the game offers many multi-player possibilities, with up to 4 players in local split-screen mode. Find all Gear.Club Unlimited 2 DLCs for the most complete racing experience and hours of fast-paced driving!",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files and Pippo for the exfat file",
+    "publisher": "Microids",
+    "developer": "Eden Games",
+    "players": "4",
+    "genres": [
+      "Unique"
+    ],
+    "release_date": "2021-12-07",
+    "store_url": "https://store.playstation.com/en-gb/product/EP4295-PPSA05026_00-GCUHDPS5000000EU",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4dcf79aa-3cf1-4c1b-aa97-339cbdec7eae",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/hgcpKZK4ND",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "6f95e99c-fcec-4cac-9290-41672cc71761",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/LK0G1baJJm91/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

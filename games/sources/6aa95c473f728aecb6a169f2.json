@@ -1,0 +1,142 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa95c473f728aecb6a169f2",
+    "title_id": "PPSA10665",
+    "title": "Final Fantasy XVI Complete Edition",
+    "version": "01.003.004",
+    "pack": "fpkg",
+    "region": "EUR",
+    "size_bytes": 136365211648
+  },
+  "metadata": {
+    "description": "An epic dark fantasy world where the fate of the land is decided by the mighty Eikons and the Dominants who wield them. This is the tale of Clive Rosfield, a warrior granted the title “First Shield of Rosaria” and sworn to protect his younger brother Joshua, the dominant of the Phoenix. Before long, Clive will be caught up in a great tragedy and swear revenge on the Dark Eikon Ifrit, a mysterious entity that brings calamity in its wake.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & @SiESPta Team for the game files, @Deckerr97 for backport, Drakmor for the FPKG tool and Aigars Uze for the FPKG file",
+    "publisher": "SQUARE ENIX CO. LTD.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Role Playing Games"
+    ],
+    "release_date": "2023-06-22",
+    "store_url": "https://store.playstation.com/en-us/product/UP0082-PPSA10664_00-FF16SIEA00000002",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202312/0804/9c5edd1301f69c3366287aba17d5ae9ffcb23c26a53e06c4.mp4",
+    "available_at": "",
+    "uploading": true
+  },
+  "sources": [
+    {
+      "id": "89b36376-ccde-44ec-8df8-ea3f1ef9ea3e",
+      "provider": "Viki",
+      "url": "",
+      "mode": "unresolved",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "59cee314-4a6d-4897-a863-c0d7b622ac14",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/QN9mEqpLwm6d/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "55983cf7-cb85-4a8f-81ef-1be3c8f2f4fd",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/0rpmvp2M7zRg/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "57bae87b-97e0-4351-b192-d2345f8af322",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/RMKGJKMnWm1o/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 3,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "26463d4a-a69a-45ef-b293-86d2774960fe",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/b5OzdVK6AmB8/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 4,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "69825cf0-8ba5-4a62-ab36-22a61e02bc75",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/0Kezk72gnzD1/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 5,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "f2d9253d-408f-463c-97a7-b2799507c1ad",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/k0embbM4WmVb/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 6,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

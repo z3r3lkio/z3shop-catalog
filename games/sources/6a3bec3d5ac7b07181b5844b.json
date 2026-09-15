@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3bec3d5ac7b07181b5844b",
+    "title_id": "PPSA28420",
+    "title": "Suicide Squad Kill The Justice League",
+    "version": "01.024",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 119614839194
+  },
+  "metadata": {
+    "description": "From Rocksteady Studios, the creators of the Batman: Arkham series, Suicide Squad: Kill the Justice League is a genre-defying third-person action shooter where the ultimate band of misfits must do the impossible to save the world: Kill the Justice League. Join the newly “recruited” members of Amanda Waller’s infamous Task Force X (aka the Suicide Squad), Harley Quinn, Deadshot, Captain Boomerang and King Shark, as they set out on an impossible mission to Kill the Justice League. Drop into an expansive and dynamic open-world Metropolis ravaged by Brainiac’s invasion and terrorized by the heroes who once protected it. Each Squad member brings their own traversal mechanics to help them navigate a sprawling and battle-torn Metropolis, combining free-roaming exploration and combat verticality for an unforgettable experience. Players are free to experiment with a variety of different play styles to unleash maximum damage on their enemies. Whether in single player or online with up to three of your friends, players can take on this suicide mission their own way. Post-launch, players can expect a continuously evolving Metropolis with free new playable villains, environments, weapons, in-game events, and more, all included with purchase of the base game.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, ps3120 for the BackPort and Pippo for the exfat files",
+    "publisher": "Warner Bros. Interactive",
+    "developer": "ROCKSTEADY STUDIOS",
+    "players": "",
+    "genres": [
+      "Shooter"
+    ],
+    "release_date": "2024-02-02",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202402/0210/ab264f0997a972b925f81e99d652922271d4f6c549a79deb.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "49416a77-e5b5-4973-97bb-496126a97bc2",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/eXKiUDMYek",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "1dd7167a-ea58-47bb-8d61-24fc596c94fb",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA02182_Suicide_Squad",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

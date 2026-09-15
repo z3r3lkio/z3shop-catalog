@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa01a4a235811081ee44c4b",
+    "title_id": "PPSA09845",
+    "title": "Roadcraft",
+    "version": "01.009.610",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 31997506355
+  },
+  "metadata": {
+    "description": "Reshape the aftermath You run a disaster recovery company, specialized in restoring sites devastated by natural disasters. Many tasks await you to restart the local industry: clearing debris, replacing faulty equipment, rebuilding roads and bridges damaged by weather, and much more! With your vehicles, choose carefully your itinerary through abandoned factories, submerged dams, or out-of-service solar fields. As the operations manager, guide your transport trucks by plotting their routes on the map and ensure no obstacles block their way! Experience a new generation of advanced simulation developed by Saber Interactive, the creators of MudRunner and SnowRunner. - Rebuild devastated areas alone or in co-op up to 4 players in an advanced physics simulation. - Operate over 40 vehicles, from bulldozers to construction cranes. - Intervene in various regions around the world across 8 maps, each 4 km² in size. - Manipulate elements like wood, sand, and asphalt powered by Saber Interactive's new physics engine. - Construct new roads and bridges to ease travel across rough terrain. - Plot point-to-point routes on your map to guide your logistics convoys, and recycle every piece of debris into reconstruction material.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, Pkykzhack for DLCs and DecKerr97 for the BackPort",
+    "publisher": "Focus Entertainment",
+    "developer": "Saber Interactive, the creators of MudRunner and SnowRunner",
+    "players": "1",
+    "genres": [
+      "Simulation"
+    ],
+    "release_date": "2025-05-19",
+    "store_url": "https://store.playstation.com/en-gb/concept/10006025/",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202603/2416/43317b544c528fd7f7d3e8237e96cf26fbc3f8d05b30692e.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4deb1809-a1fc-4e29-9357-6e378c87af79",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA09845_Roadcraft",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "c4f35e82-45e6-4a02-85f7-5a50aa9063a0",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/rk9zKWkELz0l/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "dc3e2f2d-75ca-4cdb-988c-3b1d0af6abe0",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/l76mZr8Zbman/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5a5b95664b52645fefe0b2",
+    "title_id": "PPSA24157",
+    "title": "My First Gran Turismo",
+    "version": "01.010",
+    "pack": "pfs",
+    "region": "EUR",
+    "size_bytes": 14925011354
+  },
+  "metadata": {
+    "description": "My First Gran Turismo is a free-to-play, beginner-friendly introduction to the world of racing, crafted to bring the excitement of Gran Turismo to new players. Whether you’re a parent introducing your family to racing or a longtime fan revisiting the series, My First GT captures the essence of those unforgettable first laps in a streamlined, approachable experience. In My First Gran Turismo, players can unlock achievements by completing a variety of fun and engaging challenges that introduce essential racing techniques, such as cornering, braking, and acceleration. As you progress at each level, you will encounter increasingly intricate tracks and vehicles, each designed to build confidence and refine your driving skills, from basic to more advanced techniques, all in pursuit of mastering the craft of racing. -Find your Line as you unlock various achievements and set record times across an array of challenges, including three Race Events, Time Trials and License Tests. -Feel the exhilaration of driving 18 unique cars through a variety of scenarios that sharpen your racing craft on three iconic Gran Turismo circuits: Kyoto Driving Park, Deep Forest Raceway, and Trial Mountain Circuit.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, DecKerr97 for the BackPort and Pippo for the exfat",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Driving/Racing"
+    ],
+    "release_date": "2024-12-06",
+    "store_url": "",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "e85e430e-05cc-4c47-83bc-59bafe603590",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA24157-My-First-Gran-Turismo",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

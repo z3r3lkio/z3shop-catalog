@@ -1,0 +1,52 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4515a0e703eacbc3d2368d",
+    "title_id": "PPSA28068",
+    "title": "Mortal Kombat Legacy Kollection",
+    "version": "01.000",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 12133282611
+  },
+  "metadata": {
+    "description": "Step into the arena and choose your fighter! Mortal Kombat: Legacy Kollection includes all the essential games from Mortal Kombat's early years. Experience the legendary origins of the franchise with the iconic arcade classics that started it all—alongside a curated selection of most-loved home versions and rare, fan-favorite releases—a celebration of the franchise’s groundbreaking legacy. Digital Eclipse's interactive documentary format explores how Mortal Kombat changed the way society perceived video games. By using digitized humans as player sprites in an over-the-top, martial-arts fighter, the game thrilled players, shocked critics, and laid the foundation for a franchise that has thrived for more than 30 years. Hear firsthand from the original dev team of Ed Boon, John Tobias, John Vogel, and Dan Forden, along with other exclusive interviews, rare concept art, vintage marketing materials, and archival video footage. Mortal Kombat: Legacy Kollection also lets players explore Mortal Kombat lore, with a timeline of the original series' storyline and comprehensive character histories that offer stories, secrets, and glimpses behind the scenes at their creation. Features Multiple Iconic Editions Experience the legendary origins of Mortal Kombat with the iconic arcade classics along with well loved home versions and rare, fan-favorite releases. Online Play Engage in online battles enhanced by rollback netcode— engineered to preserve the precision of every attack, even with players across vast distances. No More Secrets At the touch of a button, unlock all secret characters, change game settings, and access the buried developer menus to play the games your way. Interactive Documentary Deep behind-the-scenes content chronicles the history of the franchise, featuring exclusive new interviews with original MK developers Ed Boon, John Tobias, Dan Forden, John Vogel, and dozens more. The Full Story Detailed character histories and timelines trace the epic narrative of Earthrealm, Outworld, and Edenia through the arcade era.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files and BestPig for the BackPort",
+    "publisher": "Atari Inc.",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Fighting",
+      "Action"
+    ],
+    "release_date": "2025-10-30",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202510/3020/6e7c9f7b3054eaf40791476fec17197aa34c6b105f1bdc15.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "d42df75d-8331-4cba-b0d4-37b9ad70b317",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA28068-Mortal-Kombat-Legacy-Kollection",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

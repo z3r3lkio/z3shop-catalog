@@ -1,0 +1,82 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a967aa9b0a31dad5b0fe920",
+    "title_id": "PPSA11142",
+    "title": "Killzone: Liberation",
+    "version": "01.000.004",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 1728724337
+  },
+  "metadata": {
+    "description": "Experience Killzone™: Liberation originally released on the PSP™ (PlayStation®Portable) system, enhanced with up-rendering, rewind, quick save, and custom video filters. Death has a thousand faces, evil only one. The Helghast return, stronger than ever under the brutal leadership of General Armin Metrac. As the fate of the planet hangs in the balance, one soldier is sent on an impossible mission… Metrac must be defeated! This title has been converted from the PSP™ (PlayStation®Portable) version to the PlayStation®4 and PlayStation®5 consoles and provides newly added features. Consequently, there may be times where the title plays differently from the PSP™ (PlayStation®Portable) version, or where some features may cause the title to not function properly. This version does not support the PSP™ (PlayStation®Portable) system’s peripherals, therefore some functionality may not be available.",
+    "notes": "",
+    "credits": "Thanks to amRAM1312 for the game files",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "release_date": "2025-03-07",
+    "store_url": "https://store.playstation.com/en-us/product/UP9000-PPSA11141_00-UCUS986460000000",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "fa996b73-5f6b-4e89-be69-f924e12a556a",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/Y2xm0oy20GRO/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "2adcde0f-2f19-442e-9d24-520d23219b10",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/vZHJxJOJpD",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "34a38826-b175-4762-a392-e732b64b9f96",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA11142_Killzone_Liberation",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

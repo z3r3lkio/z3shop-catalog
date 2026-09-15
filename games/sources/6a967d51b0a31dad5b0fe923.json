@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a967d51b0a31dad5b0fe923",
+    "title_id": "PPSA26525",
+    "title": "Heretic + Hexen",
+    "version": "01.003.000",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 1073741824
+  },
+  "metadata": {
+    "description": "Forged by Raven Software on a modified DOOM engine, Heretic and Hexen were released in 1994 and 1995, pushing first person shooters into bold new territory. These innovative cult classics introduced groundbreaking features like inventory systems, vertical aiming, and distinct character classes, reshaping first person action games for generations to come. This enhanced restoration makes Heretic + Hexen available to new audiences and long-time fans with expanded accessibility across more platforms and languages than ever before. Whether you're returning to these shadowy realms or discovering them for the first time, an epic legacy awaits. Owners Receive • Heretic: Shadow of the Serpent Riders • Hexen: Beyond Heretic • Hexen: Deathkings of the Dark Citadel • Two all-new episodes created in collaboration between individuals at id Software + Nightdive Studios: o Heretic: Faith Renewed o Hexen: Vestiges of Grandeur",
+    "notes": "",
+    "credits": "Thanks to amRAM1312 for the game files and DLPS Team",
+    "publisher": "Bethesda Softworks",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-08-07",
+    "store_url": "https://store.playstation.com/en-us/product/UP1003-PPSA26525_00-MEDUSA0000000000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202508/0416/40d6127770673cabe42a84b52657e81033e1dee5f9057fb0.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "8855a56b-ad8a-4357-9da7-a77c1cc65d93",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/qw1zeb8vVGXy/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "9add9835-5a02-4e5e-97fd-bed5539f51a4",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/XqkFQkInyI",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "3856ae87-e03b-4879-82a8-5380dfa8e864",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA26525_Heretic_Hexen",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

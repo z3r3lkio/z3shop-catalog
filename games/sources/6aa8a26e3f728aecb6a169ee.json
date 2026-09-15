@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa8a26e3f728aecb6a169ee",
+    "title_id": "PPSA09091",
+    "title": "Fairy Fencer F: Refrain Chord",
+    "version": "01.000.001",
+    "pack": "lz4",
+    "region": "USA",
+    "size_bytes": 3221225472
+  },
+  "metadata": {
+    "description": "Long ago, the people were given knowledge by the Goddess, and civilization flourished. They built towers stretching toward the heavens, and a weapon so powerful, they could pierce the gods themselves. However, that civilization was decimated shortly after a violent conflict between the Goddess and the Vile God. Ages have passed since then. Our story begins with a young man named Fang who had become a Fencer, a swordsman who has the ability to wield a special weapon imbued with a Fairy known as a Fury. Along with his companions, Fang is on a journey to find the Furies, and resurrect the Goddess. One day, he encounters a woman who can save people with her song, and another who can brainwash people with her song. Along with the mysterious power of the women who call themselves Muses, Fang's destiny begins to unfold... Key Features FFF Tactics?! – Strategize to capitalize with an all-new Tactical RPG battle system! Use terrain, and objects such as rocks, boxes, and grass to your advantage. Strategic positioning on the battlefield can raise your evasiveness, or lower your movement speed, among other effects. Plus, Avalanche Attack and Fairize battle mechanics return! Fairies, Fencers, Furies...and Muses? – With the introduction of the two Muses, all-new battle mechanics are at your command. Use the power of their song to buff allies or combine both area of effect boosts for an even more DRAMATIC buff! But beware, enemies within the area can also benefit. Hidden Fairies, Locations and Treasure! – Break new ground with this fresh take on \"World Shaping.\" With \"Location Shaping,\" use your collected Furies by stabbing them in various locations of the world map. Doing so can unlock items, hidden locations, or even Fairies. Activate a chain to stab more locations without using up your limited Locate Energy! All-New Story With Multiple Routes! – Follow Fang and his friends through multiple routes in this all-new story, as they continue their search for Furies in order to resurrect the Goddess. Will you find harmony or dissonance when fate lies in your hands?",
+    "notes": "",
+    "credits": "Thanks to DLPS Team for the files and Drakmor for apr emu and lz4 tool",
+    "publisher": "Idea Factory International Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games",
+      "Strategy"
+    ],
+    "release_date": "2023-04-25",
+    "store_url": "https://store.playstation.com/en-us/concept/10004532",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202304/2123/f87f16fdb846e7eae3dacce86a825a1b96f967e8c4d9947a.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "06ec1f63-20e1-499f-bb02-88e68e001853",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/HTbSbiienO",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "d0c537c0-e8ac-44b3-b8ec-619049291d9a",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/FRAFIh8cUU#LIZARD",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "DLPS Team",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

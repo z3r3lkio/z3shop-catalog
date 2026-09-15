@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5ba16d664b52645fefe0bd",
+    "title_id": "PPSA21732",
+    "title": "STALKER Call of Prypiat Enhanced Edition",
+    "version": "01.009",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 5443871048
+  },
+  "metadata": {
+    "description": "Back to where it all started — the S.T.A.L.K.E.R. Trilogy, one of the most visionary and groundbreaking survival first-person-shooters of all time returns. Now upscaled, enhanced must-play journey for a new generation. S.T.A.L.K.E.R.: Call of Prypiat follows the story of special service agent Major Degtyarev as he investigates the fate of a lost expedition. Rich with colorful characters, memorable side stories, and the spirit of true freedom, this chapter delivers a powerful and unforgettable conclusion to the Legends of the Zone Trilogy. ENTER UNCHARTED LANDS Explore the previously inaccessible core regions of the Zone. Traverse the marshlands of Zaton, investigate the abandoned industrial complex at Jupiter, wander through the ghostly remains of Prypiat city, and descend into long-forgotten underground catacombs, sealed away for ages. FACE NEW DANGERS The Zone is more unpredictable than ever, its anomalies warping reality in deadly ways. Seek cover from sudden emissions and prepare to confront new mutant threats: stealthy alpha-predator Chimera and sinister Burer, whose telekinetic abilities turn shadowed undergrounds into a nightmare. CONCLUDE THE JOURNEY Immerse yourself in a unique blend of action, horror, survival, and RPG elements within the hauntingly realistic Eastern European dark science fiction world. Your choices will influence the destinies of those you encounter and shape your own survival. Enhanced Edition Features: ● Atmospheric visual enhancements including God Rays, Dynamic Screen Space Reflections, and Advanced Global Illumination effects. ● Redesigned water shaders, upgraded skyboxes, and wetness effects. ● Improved visuals with upscaled textures featuring more detailed NPCs and environment. ● Upgraded weapon Field of View and models. ● Multiple bugfixes and quality of life tweaks. Good Hunting, stalker. The features included in S.T.A.L.K.E.R.: Legends of the Zone – Enhanced Edition are exclusive to the PlayStation®5 platform. These graphic enhancements are not available on the PlayStation®4 version.",
+    "notes": "",
+    "credits": "",
+    "publisher": "GSC Game World Global LTD",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-05-20",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202011/1212/Aek0yiD6qcsgcQ5thzEllWkz.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "bf5ee028-a13b-41b5-b740-089512aa478f",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA21732-STALKER-Call-of-Prypiat",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

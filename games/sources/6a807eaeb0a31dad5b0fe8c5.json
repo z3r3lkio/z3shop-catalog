@@ -1,0 +1,82 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a807eaeb0a31dad5b0fe8c5",
+    "title_id": "PPSA19990",
+    "title": "Tales of Graces F Remastered",
+    "version": "01.000.006",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 11596411699
+  },
+  "metadata": {
+    "description": "Tales of Graces f is back with a beautiful and easier-to-play version! The game also includes Lineage and Legacies, an after-story to the main scenario! Tales of Graces f is an action RPG about adventure in fantasy worlds and overcoming obstacles through friendship and determination. • A child’s promise is the world’s last hope On a lush green planet called Ephinea, three young children make a promise to each other that could save the future. Asbel, heir to a local lord, Richard, prince of the Windor kingdom, and Sophie, a strange girl with no known past, all swear a special friendship oath after helping each other survive a dangerous attempt on Richard’s life in the land of Lhant. Years later, the world has changed. Asbel and his friends must face grave danger when Lhant becomes the battleground for a power grab among the three great nations of Ephinea. It is at this moment when an even greater threat is revealed and the bonds between the young heroes are put to the test with everything at stake. • Exhilarating continuous action with two styles to choose from! The Style Shift Linear Motion Battle System allows players to switch between two very different battle styles, Artes and Burst. You can choose the strength and range of the party’s attacks, the size of the attack, and how close or far away you need to be to the enemy for maximum effectiveness. • Addition of convenient functions and improved graphics Quality-of-life functions have been added, such as auto-save, various skip functions, the ability to turn off enemy encounters in fields and dungeons, and more. • Full character development and item elements There are more than 100 different equipable titles that players can rank up through battles, allowing them to learn various skills and techniques that strengthen their stats. • Lineage and Legacies depicts the world after the ending Six months have passed since the journey around the world. Sophie is troubled by uncomfortable thoughts about her eventual future and she is determined to find a way out. At the same time, strange changes spread throughout Ephinea once again. While Asbel is concerned about Sophie, she and her friends set out to investigate the cause of the anomaly... If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files, BestPig for the BackPort and Pippo for the exfat file",
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Role Playing Games",
+      "Action"
+    ],
+    "release_date": "2025-01-17",
+    "store_url": "https://store.playstation.com/en-us/product/UP0700-PPSA19991_00-TALESOFGRACESF00",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202410/1801/53362c4c8e69f43aee3a18f501d535eb89782d7c20b11c97.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "eb6f4ef9-8964-4e1a-a07c-0a4f3de2fc36",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/PQABRXRX4z",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "90b319f7-6589-4282-a7b7-9852f0e3246a",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/5pVzNAA0J37w/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "26eefe0d-35cf-4308-b1b8-2c2ee321ccfd",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA19990_Tales_of_Graces_f",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

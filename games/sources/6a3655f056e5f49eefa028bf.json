@@ -1,0 +1,97 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028bf",
+    "title_id": "PPSA13195",
+    "title": "Stellar Blade",
+    "version": "1.014.001",
+    "pack": "unknown",
+    "region": "JPN",
+    "size_bytes": 44409961841
+  },
+  "metadata": {
+    "description": "Edition includes**: • Stellar Blade™ full game for PS5®. The future of humanity is balanced on the edge of a blade. Ravaged by strange, powerful creatures, Earth has been abandoned, and what is left of the decimated human race has fled to a Colony in outer space. After travelling from the Colony, EVE arrives on the desolate remains of our planet with a clear-cut mission: to save humankind by reclaiming Earth from the Naytiba – the malevolent force that has devastated it. But as EVE tackles the Naytiba one-by-one, piecing together the mysteries of the past in the ruins of human civilization, she realizes that her mission is far from straightforward. In fact, almost nothing is as it seems… A thrilling slice of razor-sharp action Engage in blisteringly fast combat as you slash a path through the remnants of Earth in an all-new action adventure on PS5®. Unleash graceful yet brutal attacking combos, unlock new moves and weapon upgrades, and face epic boss encounters that will challenge both brain and brawn in equal measure. An incredible visual experience Become immersed in a highly detailed post-apocalyptic world that blends beauty and horror to spectacular effect. Explore breathtaking science fiction-inspired environments, brought to life via the graphical power of PS5®. A deep, unforgettable adventure Unravel a gripping human fate story, with mature themes, a thought-provoking narrative and emotionally-charged revelations from beginning to end. Designed for PS5® Experience cutting-edge gaming performance with rapid load times, and support for immersive features including the DualSense wireless controller’s haptic feedback and adaptive triggers, and Tempest 3D AudioTech.* *3D Audio via built-in TV speakers or analogue/USB stereo headphones. **Pre-order bonuses can be found when arriving at Adam's safehouse.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2024-04-26",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202212/2003/zXTQBfIcrIuMs81gFvrlRyMi.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "8add7c56-5545-4cbe-bdef-05668420bbd3",
+      "provider": "Viki (9.xx)",
+      "url": "https://vikingfile.com/f/CL1r9ruPip",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "51a3b1ec-e55f-455f-80eb-ee50d08737fd",
+      "provider": "Viki (Backport 4.xx)",
+      "url": "https://vikingfile.com/f/K7oX5Vzv8V",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "TeamPHU",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "6ebd8f70-97d9-411f-a9be-b91a53ce40a2",
+      "provider": "FileKeeper (Backport 4.xx)",
+      "url": "https://filekeeper.net/aeuety0ooh6a/STELLAR-BLADE-PPSA13195.ffpfsc",
+      "mode": "direct-file",
+      "direct": true,
+      "archive": false,
+      "extension": ".ffpfsc",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "1b2d58f3-544d-41be-8f5d-939f423616e3",
+      "provider": "1fichier (Backport 4.xx)",
+      "url": "https://1fichier.com/?vyck63d81al39v6fjbyq",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

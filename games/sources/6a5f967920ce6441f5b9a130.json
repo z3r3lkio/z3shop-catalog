@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5f967920ce6441f5b9a130",
+    "title_id": "PPSA12771",
+    "title": "Horizon Chase 2",
+    "version": "01.007",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 4617089843
+  },
+  "metadata": {
+    "description": "ARCADE RACING FOR EVERYONE Horizon Chase 2 is the evolution of the award-winning racing franchise. Born under the arcade sign, this game fulfills your senses through immersive and high-speed gameplay. This is the golden era of arcade racing brought to life over a modern and completely evolved experience. TRULY CLASSIC GAMEPLAY The classic 90's signature gameplay keeps you in complete control of your cars at all times. Forget complex setups: you are one tick away from overtakes, forks, and nitrous. Surpass your rivals in the blink of an eye. Easy to play, but hard to master, this game demands sharp racing skills and quick reflexes to beat your opponents and cross the finish line. ALL-IN MULTIPLAYER Play every game mode with your friends! Join them on the couch with the split-screen multiplayer or assemble an Online Crew to race for bragging rights. You can decide to compete head-to-head for glory or progress together in the World Tour. No matter where you are, it's Arcade racing for everyone. THRILLING ONLINE RACES & CHALLENGES Unleash the thrill of competition with Playground, our adrenaline-fueled game mode designed for ultimate online racing and exhilarating challenges. Take on opponents from multiple locations in heart-pounding Online Races. Test your mettle with electrifying Challenges where every turn brings new surprises. Step into the driver's seat, embrace the competition, and let your racing prowess shine in the Playground. THE ART OF TOURING Race through an entirely 3D world, each turn revealing a distinct artistic style. Soak in the pulsating hues of each terrain, from sunlit plains to thunderous storm clouds, all enhanced by a soundtrack from the legendary Barry Leitch. This game takes arcade play and morphs it into an artistic marvel. New horizons will steer you to the beauty of a stunning and inviting visual trip and there's no turning back. YOUR RIDE, YOUR STYLE Red or blue? Solid paint jobs or complex decals? When visiting the Garage Shop, you can customize your car to match your own personal style. Unlock new cosmetic items, and upgrade your stats throughout the World Tour. Race all game modes to achieve your full collection of car customizations. Winning never felt so good. WHY PLAY HORIZON CHASE 2 - A True Arcade Spirit Game - Classic Arcade Racing Signature Gameplay - Online Multiplayer: play every game mode with your friends - Local Multiplayer: bring back the classic couch multiplayer experience - Playground: race online against other players in challenging tracks - Unique Art Style and Immersive 3D Environments - Original Soundtrack by Barry Leitch - Race through dynamic weather conditions that alter how you approach each track - Friends and Global Leaderboards competition - Car Customization: cosmetic items for every vehicle - Upgrade your Car's performance in the Garage",
+    "notes": "",
+    "credits": "",
+    "publisher": "Epic Games",
+    "developer": "Aquiris Game Studio LLC and published by Epic Games Inc",
+    "players": "4",
+    "genres": [
+      "Driving/Racing"
+    ],
+    "release_date": "2024-05-30",
+    "store_url": "https://store.playstation.com/en-us/product/UP1477-PPSA12771_00-HORIZONCHASE2000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202405/1517/edb5d4df0c8523eb4b0ff5fbebc14fded6e35fa0b7c925c5.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "921ab1d3-4a50-4b74-878b-abaf69ff4432",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/o3ho25NNxW",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "dc26d4a5-cf6d-4ba8-a3af-1c027e75fd25",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA12771_Horizon_Chase_2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

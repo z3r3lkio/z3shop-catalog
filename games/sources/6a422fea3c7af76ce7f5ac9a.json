@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a422fea3c7af76ce7f5ac9a",
+    "title_id": "PPSA16265",
+    "title": "Like A Dragon Gaiden: The Man Who Erased His Name Deluxe Edition",
+    "version": "01.022",
+    "pack": "unknown",
+    "region": "JPN",
+    "size_bytes": 59195386757
+  },
+  "metadata": {
+    "description": "ERASE YOUR PAST TO PROTECT YOUR FUTURE Once a legendary yakuza, Kazuma Kiryu faked his own death and abandoned his name for the sake of protecting his family. Now, he is thrust into conflict by a mysterious figure attempting to drive him out of hiding. Under the codename “Joryu,” Kiryu embarks on a gripping action narrative with bone-shattering combat in vibrant locations filled with exciting characters and activities. ULTIMATE COMBAT WITH TWO HIGH-IMPACT FIGHTING STYLES Dynamically switch between the Yakuza and Agent fighting styles in visceral melee combat. With the Yakuza style, strike fear into enemies by unleashing wildly aggressive moves powered by Kiryu’s unparalleled strength and flair. Or up the ante with the Agent style by delivering blows with absolute speed and precision, while using an array of high-tech gadgets like electrified bind wires to stun enemies then send them flying. Strategically adapt to the situation and leverage both styles to dominate and destroy hordes of enemies. ENDLESS ENTERTAINMENT Whether you're brawling in the secret Battle arena, singing a new karaoke song, enjoying a drink at the live-action cabaret club, or racing in the pocket circuit, the world offers a variety of immersive experiences. An intriguing informant named Akame also provides thrilling sub-missions, drawing you into an epic showdown that unfolds the more you explore and enjoy Sotenbori and Yokohama. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to DLPS Team for the Files and links, Pkykzhack for DLCs and ManwonHp for the BackPort",
+    "publisher": "SEGA of America, Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2023-11-09",
+    "store_url": "https://store.playstation.com/en-us/product/UP0177-PPSA16268_00-LIKEADRGNGAIDEN0",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "47c2bf01-2b08-4511-a280-b5da2059b5ee",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/eNvUTejFGp#PPSA16265",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "DLPS Team",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "e79c08ed-effa-4ad5-a680-364cb02ffe39",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA16265_Like_A_Dragon_Gaiden",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

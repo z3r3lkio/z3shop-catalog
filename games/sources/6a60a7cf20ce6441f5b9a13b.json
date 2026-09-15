@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a60a7cf20ce6441f5b9a13b",
+    "title_id": "PPSA10872",
+    "title": "Persona 3 Reload",
+    "version": "01.008",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 31568009626
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. Step into the shoes of a transfer student thrust into an unexpected fate when entering the hour \"hidden\" between one day and the next. Awaken an incredible power and chase the mysteries of the Dark Hour, fight for your friends, and leave a mark on their memories forever. Persona 3 Reload is a captivating reimagining of the genre-defining RPG, reborn for the modern era. Key Features: - Experience the pivotal game of the Persona series faithfully remade with cutting-edge graphics, modernized quality-of-life features, and signature stylish UI. -Fully immerse yourself in an emotional, gripping journey with new scenes, character interactions, and additional voiceover. - Choose how to meaningfully spend each day through various activities from exploring the Port Island to forging genuine bonds with beloved characters. - Build and command your optimal team to take down otherworldly Shadows and climb closer to the truth. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "",
+    "publisher": "SEGA of America, Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2024-02-02",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202308/2218/db5365376e535fd8c971d968beff3da0b493c882a75aada7.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "0fc1e47b-7b27-428b-96eb-a79ef7468e90",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/tTBLdUJFAF",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "22767fcb-71f7-4b4b-8c85-96efdf3cfb76",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/t6LKPgoNQm",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "ccb36cee-c1d0-48ab-8bf5-6303e62dfaf9",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA10872_Persona_3_Reload",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

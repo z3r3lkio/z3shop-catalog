@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3c61cc84cdb9e48a39c84e",
+    "title_id": "PPSA26873",
+    "title": "Monster Hunter Stories 3 Twisted Reflection",
+    "version": "01.002",
+    "pack": "unknown",
+    "region": "JPN",
+    "size_bytes": 40587440947
+  },
+  "metadata": {
+    "description": "The third entry in the Monster Hunter Stories RPG series is here! Twin Rathalos, born in a twist of fate. Monster Hunter Stories is an RPG series set in the Monster Hunter world, where you can become a Rider, raising and bonding with your favorite monsters. The Story Azuria and Vermeil: two countries, on a path to destruction. When all hope seems lost, an egg is found. Inside is a Rathalos, a species thought to be extinct. But this quavering light of hope is quickly extinguished, giving way to the darkness of despair. Born from the egg is not a single Rathalos, but twins, bearing the Skyscale marking that hearkens back to the disastrous civil war of 200 years prior. The natural world teeters on the verge of destruction, with countless monster species facing extinction. In the shadow of these dark times, the flames of war rekindle. Two countries, and two Rathalos. A Rider and their trusted Rathalos, buffeted by the winds of fate, set out on a journey for the truth. *There are other bundles that include this product. Please be careful of duplicate purchases. Agreement to the End User License Agreement is required to play this title. (https://manual.capcom.com/eula/game/)",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & SiESPTA for the Files",
+    "publisher": "Capcom U.S.A., Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2026-03-13",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202603/1604/51930139786fdbccf5369bd385959bbdc299feba2b9ddfaf.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "e8a706d9-7b34-4909-ad05-0035e41d2baa",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?ockudzc3boqf93y42e4r",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "86063aa6-1134-495f-84e6-848356325888",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA26873_Monster_Hunter_Stories_3",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

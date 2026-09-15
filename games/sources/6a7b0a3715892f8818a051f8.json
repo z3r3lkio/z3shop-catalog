@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7b0a3715892f8818a051f8",
+    "title_id": "PPSA03845",
+    "title": "Dead Space",
+    "version": "01.000.006",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 33178622362
+  },
+  "metadata": {
+    "description": "Isaac Clarke is an everyman engineer on a mission to repair a vast mining ship, the USG Ishimura, only to discover something has gone horribly wrong. The ship's crew has been slaughtered and Isaac’s beloved partner, Nicole, is lost somewhere on board. Now alone and armed with only his engineering tools and skills, Isaac races to find Nicole as the nightmarish mystery of what happened aboard the Ishimura unravels around him. Trapped with hostile creatures called Necromorphs, Isaac faces a battle for survival, not only against the escalating terrors of the ship but his own crumbling sanity.",
+    "notes": "If save didn't load close the game then try again and finally game will load save files after couple of try.",
+    "credits": "Thanks to High-Speed007 for the Files, Pkykzhack for DLCs, bbaderlink for the BackPort and Pippo for the exfat file",
+    "publisher": "Electronic Arts Inc",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Horror"
+    ],
+    "release_date": "2023-01-27",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202210/2615/MaUMSsdsHOXj8G2Onb8OjqHQ.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "d636b998-67ca-4872-abf9-30d4c69f3d1c",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/N2p3DQrLpzMa/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "3021cd28-c8cc-4b7a-9ce8-8e61fe727712",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/4akTidhWuq",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "071e8f8f-8a9d-484c-92ea-04a8412ab7fa",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA03845_Dead_Space",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

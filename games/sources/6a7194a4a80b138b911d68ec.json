@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7194a4a80b138b911d68ec",
+    "title_id": "PPSA14632",
+    "title": "LEGO Horizon Adventures",
+    "version": "01.004",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 15354508083
+  },
+  "metadata": {
+    "description": "Edition includes: LEGO® Horizon Adventures™ Journey to a distant future, where the land is made of LEGO bricks and lush nature has reclaimed the Earth. Meet the Nora tribe who live in the settlement of Mother’s Heart, and catch your first glimpse of the incredible dinosaur-like machines that roam the forests, mountains, and deserts that stretch beyond the village walls... The LEGO adventure of a lifetime Join hunter Aloy as she battles to save Earth from an ancient digital demon, and a gang of sunworshippers who want to live in a world without shade so they can soak up the rays while everything burns. Play alone or with friends Hunt machines on your own as Aloy, or unlock colourful heroes Varl, Teersa, and Erend, and use their unique skills to defeat enemies and overcome challenges. Share the fun with another player online**, or via innovative couch co-op on a single screen, so you’re always in the same world together. Customize your home and your characters Give the village of Mother’s Heart a unique makeover, decorating it in delightful ways to unlock unique LEGO buildings and ornaments. You can even dish out hilarious outfits for your friends to wear! For LEGO and Horizon fans new and old Uncover secrets from Aloy’s mysterious past as you explore stunning LEGO locations inspired by the world of Horizon, including thriving forests and soaring mountains. Delve deep into the underground Cauldrons or climb the iconic Tallnecks – all beautifully recreated in LEGO bricks. Need an extra challenge? Replay levels that change to test your skills and unlock new surprises, or check the Mother's Heart Community Board for ways to help the village. See if you've got what it takes to ace every aspect of the game!",
+    "notes": "",
+    "credits": "",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2024-11-14",
+    "store_url": "",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "f2a772ad-6f76-4060-81c8-8c9726c8d854",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA14632_LEGO_Horizon_Adventures",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "827c8470-579d-4f48-9a47-6611c8720cf5",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/9IYEGISIQN",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

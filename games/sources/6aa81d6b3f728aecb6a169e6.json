@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa81d6b3f728aecb6a169e6",
+    "title_id": "PPSA03190",
+    "title": "MultiVersus",
+    "version": "01.055",
+    "pack": "pfs",
+    "region": "EUR",
+    "size_bytes": 19971597926
+  },
+  "metadata": {
+    "description": "MultiVersus (MVS) is a 2024 free-to-play fighting game developed by Player First Games and published by Warner Bros. Games. The crossover game features characters and stages from and inspired by Warner Bros. franchises, including the company's film series, Looney Tunes, Game of Thrones, the DC Universe, Scooby-Doo and Cartoon Network franchises. As a platform fighter, the game primarily revolves around dealing sufficient damage to opponents in order to force them beyond the stage's boundaries, with particular emphasis on cooperative play. Officially announced in November 2021 following online rumors and leaks,[2] early access and open beta versions of the game ran from July 2022 to June 2023. The game then re-entered development until it was officially released on May 28, 2024, for PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S.[3][4] New characters and stages were added until the beginning of Season 5 on January 31, 2025.[5] MultiVersus received mixed reviews and was a commercial failure, following a period of initial success. Its open beta received praise for its team-oriented gameplay, presentation and faithfulness to the represented franchises, with minor criticism for its microtransactions. The latter, alongside technical issues, became a more prominent point of criticism upon the game's full release, with critics opining that its monetization mechanics were aggressive, including time-limited cosmetics. MultiVersus was delisted and its servers were permanently closed on May 30, 2025, remaining playable through its offline modes.",
+    "notes": "",
+    "credits": "Thanks to dunaevnick for the Files and DecKerr97 for the BackPort",
+    "publisher": "Warner Bros. Games",
+    "developer": "Player First Games",
+    "players": "1-4",
+    "genres": [
+      "Platform fighter"
+    ],
+    "release_date": "2024-05-28",
+    "store_url": "",
+    "trailer": "https://www.youtube.com/watch?v=-jpZPe0zblM",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "610446ef-143f-4fe3-9353-057532fe60a4",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/lbUstXaBpC",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "6a42905bcd61e0bcf63ddeca"
+    }
+  ]
+}

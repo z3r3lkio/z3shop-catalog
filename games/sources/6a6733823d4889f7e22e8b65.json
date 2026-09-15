@@ -1,0 +1,68 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a6733823d4889f7e22e8b65",
+    "title_id": "PPSA32802",
+    "title": "Fatal Frame 2 Crimson Butterfly Remake Deluxe Edition",
+    "version": "01.002.002",
+    "pack": "unknown",
+    "region": "JPN",
+    "size_bytes": 18360985190
+  },
+  "metadata": {
+    "description": "Together, always. FATAL FRAME II: Crimson Butterfly Beautifully Remade The graphics, sound, and controls have all been rebuilt from the ground up. Character textures, including skin and clothing, have been refined to the highest detail, and Minakami Village has been meticulously recreated with a focus on light and shadow, bringing its dark and ominous atmosphere to life with stunning realism. With 3D sound, you can feel the presence of spirits more vividly and closely. Immerse yourself in the chilling experience of exploring a haunted village. Side stories and new areas have been added, offering players a deeper and more immersive experience in the world of FATAL FRAME II: Crimson Butterfly. FATAL FRAME II: Crimson Butterfly REMAKE Digital Deluxe Edition Contents FATAL FRAME II: Crimson Butterfly REMAKE Full Game Digital Art Book Digital Soundtrack - These contents cannot be downloaded as separate files (PDF, MP3, etc.). - Some of the materials featured in the content are closely tied to important story elements. Please keep that in mind before viewing the content. Digital Deluxe Edition Bonuses - Accessories Lace Gloves (White) Lace Gloves (Black) - Costumes Japanese Gothic Dress (Left Wing) Japanese Gothic Dress (Right Wing) - Other Deluxe Charm Notes: - The effects assigned to Digital Deluxe charms may also be obtainable through normal gameplay progression. The standard edition of FATAL FRAME II: Crimson Butterfly REMAKE is also available. Please be careful to avoid duplicate purchases. This item includes the same content as the FATAL FRAME II: Crimson Butterfly REMAKE Digital Deluxe Upgrade. Please be careful to avoid making a redundant purchase. For more information, visit the official website: https://www.koeitecmoamerica.com/fatalframe/crimson-re/us/ FATAL FRAME II: Crimson Butterfly REMAKE Supported Languages: Japanese, English, French, Italian, German, Spanish, Korean, Arabic Digital Artbook and Digital Soundtrack Supported Languages: Japanese, English, French, Italian, German, Spanish, Traditional Chinese, Simplified Chinese, Korean, Arabic",
+    "notes": "DLCs Merged",
+    "credits": "",
+    "publisher": "KOEI TECMO America",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Horror",
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2026-03-12",
+    "store_url": "https://store.playstation.com/en-us/product/JP0106-PPSA32802_00-CRIBATTFFF000020",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202509/0406/b447ba6e87b9dfebe0c5a654e77179c143911cc6e5bcb1d1.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "1d817e8e-41f2-4a57-b21e-2218a050c04d",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/KM4bHE0KbE",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "932f8a9e-0f41-4170-b393-8f333e9a353f",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA32802_Fatal_Frame_2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

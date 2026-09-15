@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a958952b0a31dad5b0fe91b",
+    "title_id": "PPSA01325",
+    "title": "Astros Playroom",
+    "version": "01.905",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 13207024435
+  },
+  "metadata": {
+    "description": "From the team behind the original THE PLAYROOM and the critically acclaimed ASTRO BOT Rescue Mission, comes a brand new platformer preloaded on your PS5™ console. Take control of ASTRO and feel the world through your DualSense™ Wireless Controller: every step you take, every jump you make, and every enemy you defeat are felt in a whole new way thanks to the immersive haptic feedback technology. On your way, use new power ups that show the potential of the dynamic adaptive triggers, motion sensor, touchpad and integrated speaker working together to deliver a totally new gameplay experience. Take time to enjoy the many hidden references to PlayStation® history and collect timeless artifacts to display in your beloved PlayStation Labo!",
+    "notes": "",
+    "credits": "Thanks to DLPS Team for the Files and DecKerr97 for the BackPort",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2020-11-12",
+    "store_url": "https://store.playstation.com/en-us/product/IP9100-PPSA01325_00-PREINMASTER00000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202009/1215/s6uKelpERuW91eVrDsR8ntQF.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "790925ea-3412-4259-91d2-3dd0bb2e7b8c",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/kaGPpGluPv",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "DK Ricasa",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "5cbaa3d8-c197-4f0e-9936-bb66efd39285",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/9AqGQZrr0mMn/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a86b662b0a31dad5b0fe8eb",
+    "title_id": "PPSA25859",
+    "title": "EA SPORTS™ College Football 26",
+    "version": "01.020",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 46493020979
+  },
+  "metadata": {
+    "description": "In EA SPORTS™ College Football 26, the road to the National Championship is yours. Rise from high school recruit to Heisman legend, or take the reins as head coach and guide your program through bowl games and playoff battles. Chase greatness and bring glory home with rivalries, traditions and unforgettable moments. Reinforce your lineup for the season’s defining moments in EA SPORTS™ College Football 26 with the Extra Credit Pack! Log in to College Football Ultimate Team and receive three 89 OVR BND Legends to add to your lineup: Brian Cushing, Earl Thomas and Chris Johnson*. GAMEPLAY FEATURES: TRUE COLLEGE FOOTBALL GAMEPLAY Rep your colors across 136 FBS schools featuring over 300 authentic coaches, 2,700 new plays, and thousands of college athletes with upgraded abilities. MORE LIKE SATURDAY From intense White Out games in Happy Valley to new crimson light shows in Tuscaloosa. With new situation and stadium-specific music, fight songs, and commentary, the electricity of game day comes alive like never before. OVER 300 REAL-WORLD COACHES Go toe-to-toe with current coaches who bring distinctive playstyles to the field. Strategize like they would with their unique playbooks for a more authentic coaching experience. WEAR & TEAR EVERYWHERE Manage fatigue strategically and save your favorite playmakers for key moments with Dynamic Substitutions that allow you to rotate players in and out on the fly. HOME FIELD ADVANTAGE Rivalry games, the College Football Playoff, and other high-stakes matchups are now more affected by Stadium Pulse and Confidence & Composure. This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items, including a random selection of virtual in-game items.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX for the Files, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "Electronic Arts Inc",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Sport"
+    ],
+    "release_date": "2025-07-07",
+    "store_url": "https://store.playstation.com/en-us/product/UP0006-PPSA25859_00-COLLEGEFOOTBAL26",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202506/0314/886efb56ff4642c37312aa3dd4007b8c3223057ab2d4bdec.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "7c30256f-4918-489e-9a9c-7dbed0bd358a",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/xipu2xSqGl",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "0b02724d-c44e-4ea2-902e-322c864f93f0",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/APVmabd263Xo/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "649871d8-df54-4729-80b7-8d29f80fa51f",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/0JgG75wD13oY/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "818687fd-bfbc-43df-b77a-6b08cdbf2989",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/ex5z256M83Kq/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 3,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "4c79c8b9-d19c-4bcb-afb0-d1e5ca697956",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/jJD3VDlrOGa5/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 4,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "f9e00c65-2607-4491-af99-cd071f9a3963",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/0PdzyXn243eA/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 5,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

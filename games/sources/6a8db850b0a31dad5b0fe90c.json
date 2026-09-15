@@ -1,0 +1,52 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a8db850b0a31dad5b0fe90c",
+    "title_id": "PPSA22826",
+    "title": "Tales of Berseria Remastered",
+    "version": "01.002",
+    "pack": "unknown",
+    "region": "ASIA",
+    "size_bytes": 11703785882
+  },
+  "metadata": {
+    "description": "Tales of Berseria returns with enhanced playability and quality-of-life enhancements! Engage in the ultimate quest for self-discovery, remastered for the first time. The sacred kingdom awaits the arrival of its savior, and a lone woman named Velvet is marked by traumatic deceit. Join Velvet on her journey for vengeance, along with her cast of eccentric companions, as they sail through the archipelago which comprises the kingdom of Midgand. • A Tale of Emotion Versus Reason Let emotions guide your destiny, or maintain order with the power of reason. Witness the eternal struggle between the head and the heart as Velvet is challenged to stand by her convictions while the world around her compresses into a system of order. • An Exhilarating Combat System Freely choose Artes to suit your playstyle and perform a variety of combos. Collect enemy Souls to unleash a barrage of attacks for a thrilling battle experience. • A Modern, High-Quality Retelling Useful features like destination markers and the ability to disable enemy encounters make traversing the islands of Midgand all the more enticing. Visit the famous Grade Shop from the game's opening. Get a smooth play experience only found in this remaster! • Access DLC from the First Iteration This version features several DLC from the original 2016 version. A treasure trove of content awaits you, such as outfits for your characters from the previous Tales Of games along with useful equipment for your travels. *A Deluxe Edition is also available. Be careful of duplicate purchases.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Role Playing Games",
+      "Action"
+    ],
+    "release_date": "2026-02-27",
+    "store_url": "https://store.playstation.com/en-us/product/UP0700-PPSA22828_00-TALESOFBERSERIAR",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202602/2501/9dd50c260655e71d97b36edc4355763980828ef665ff87cb.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "0ba5b6e6-b298-4265-9268-f4049a34ac8b",
+      "provider": "Download",
+      "url": "https://vikingfile.com/f/3iamji3iKO",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "JMCworkz",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

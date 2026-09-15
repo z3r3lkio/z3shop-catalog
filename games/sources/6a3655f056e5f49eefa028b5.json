@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028b5",
+    "title_id": "PPSA01870",
+    "title": "FarCry 6",
+    "version": "1.000.013",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 124221191619
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4® version and the digital PS5® version of this game. Take down Castillo’s regime in this first-person open world guerrilla shooter set in the island nation of Yara. SCRAPPY AND EXPLOSIVE FIRST-PERSON GUERRILLA COMBAT Build improvised weapons like missile backpacks or motorbike engine miniguns and fight alongside unique animal companions who distract, scout, or tear through enemy squads. With the “Resolver” mindset, anything goes if it means weakening Castillo’s rule. TAKE BACK OPEN WORLD YARA YOUR WAY Capture bases, clear routes, and unlock new tools to carve your path through jungles, beaches, farmland, and a fortified capital. Explore FARCRY’s biggest world so far your way: ride horses, fly in helicopters, roll in scrappy buggies, and more. LEAD THE REBELLION Meet rebel groups, farmers, smugglers, and outcasts who fuel the revolution. Take on missions, unlock upgrades, craft gear, and strengthen your network as every community you help pushes Castillo’s regime closer to collapse. PLAY THE FULL CAMPAIGN IN CO-OP Play the entire campaign with a friend in 2-player co-op for twice the firepower and twice the chaos. Coordinate attacks, combine powerful Supremo backpack weapons, and take down Castillo together. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to Psykzhack for the Files with DLCs and DecKerr97 for the BackPort",
+    "publisher": "Ubisoft",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Unique"
+    ],
+    "release_date": "2021-10-07",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202607/3018/411d98bd728b0400577bf08401c9de291807e8370d50a50e.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "dd592d6f-7098-4027-83f7-5533f2c6131f",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?87wue38ie7h1f5goyyxw",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "dd111c36-25c1-45d1-83b6-70dcd2271565",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01870_FC6",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

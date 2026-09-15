@@ -1,0 +1,53 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa7963e792e471937d0b01a",
+    "title_id": "PPSA19446",
+    "title": "Boti Byteland: Overclocked",
+    "version": "01.004",
+    "pack": "pfs",
+    "region": "EUR",
+    "size_bytes": 3113851290
+  },
+  "metadata": {
+    "description": "Dive into a classic 3D platformer experience with Boti: Byteland Overclocked. Explore the stylized insides of a computer with Boti and save Byteland from an ominous threat. Play solo or team up with a friend in co-op. Comes with the main game and all 4 add-on DLCs, soundtrack, digital artbook and avatars. A Unique Blend of Nostalgic and Fresh 3D Platformer Experience Boti: Byteland Overclocked combines classic 3D platforming with a splash of innovation. Double jump, dash, hover, and glide through vibrant levels, discovering fantastic combos inspired by the very essence of computers and technology. Co-operative Fun with Friends Enjoy the pure delight of gaming together in our drop-in, drop-out co-operative mode. Bond with a friend on your quest to save Byteland, with the gameplay seamlessly adapting between solo and two-player modes. Because everything is better… TOGETHER! Meet The Cheerful Trio Join Boti, the endearing data bot, and his charming companions, Zero and One, on an enchanting quest to rid Byteland of bugs, viruses, and glitches. Their cute, quirky dialogues will make you chuckle. Uncover creative gameplay features Experience a neat twist on classic platforming. Master creative arcade elements, such as rhythm-driven musical slides and magnetic gameplay, to explore and conquer challenges like never before. Vibrant, colorful world inspired by computers and technology Dive into Byteland, exploring the secrets of a cyber-world inspired by computers and technology both new and old. You’ll find a plethora of collectibles and data to assemble and relocate to their proper places inside the byte-tastic world of Boti! All add-on DLCs and extras included",
+    "notes": "",
+    "credits": "Thanks to dunaevnick for the Files and DecKerr97 for the BackPort",
+    "publisher": "Untold Tales S.A.",
+    "developer": "Purple Ray Studio",
+    "players": "2",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual"
+    ],
+    "release_date": "2025-09-26",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202501/0923/b12695ec5cabe0bd491dc2ab06d129e12733b2274e4d3a9b.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "b86fb969-332a-4ed7-92ab-11f09c4f129a",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/xNoExVZDb7",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "6a42905bcd61e0bcf63ddeca"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a59ff59664b52645fefe0aa",
+    "title_id": "PPSA09165",
+    "title": "Rez Infinite",
+    "version": "01.008.000",
+    "pack": "pfs",
+    "region": "ASIA",
+    "size_bytes": 730144440
+  },
+  "metadata": {
+    "description": "Prepare yourself for the ultimate version of Rez, a thrilling journey of sights, sounds and shooting action. Experience 360 degrees of mind-blowing synesthesia as you blast your way through waves of enemies and massive transforming bosses, with your every move triggering colors and sounds that sync and blend to the beat of Rez’s legendary techno soundtrack. • Enhanced Soundscapes and Visuals Maxed-out to razor-sharp 4K resolution, silky-smooth 60 frames per second motion, and full 5.1/7.1 surround sound support on PS5 for what’s widely acknowledged as one of the greatest gaming soundtracks ever made. Next-gen resolution of 2000x2040 per eye, running in smooth 120fps with full 3D audio for Area X's incredible music and sound effects on PS VR2. • The Ultimate Package Fully remastered classic Rez levels Areas 1 through 5, and the widely acclaimed free-flying experience Area X made with VR in mind. === Play in 2D or fully immerse yourself in VR and enjoy the new features exclusive to PS5™ and PS VR2. • Eye Tracking For the first time, PS VR2's eye-tracking technology allows you to track and aim at enemies using just your eyes. • Enhanced Haptic Feedback The dynamic haptics of both the DualSense controller and the PlayStation VR2 Sense controllers make Rez Infinite an even more tactile experience than ever before. From locking onto enemies in Rez to accelerating through Area X, haptic vibrations truly bring the action to life. • PS VR2 Headset Feedback In addition to the vibrations of the PlayStation®VR2 Sense controllers, players will also feel subtle haptics in their PS VR2 headsets for a deeper, more physical sensory experience. • HDR Rez HDR comes to Rez Infinite for the first time on PS5™. • Transfer save data from the PS4™ version to PS5™ Download and transfer your PS4™ save data to the PS5™ using cloud or extended storage or connect to the same network and transfer data directly from PS4™ to PS5™. Rez Infinite includes the remastered version of the beloved psychedelic rail-shooter adventure Rez, originally released in 2001 by Sega, as well as the all-new, free-movement shooting-adventure pseudo-sequel-stage, Area X. Buy Rez Infinite digital version for PlayStation®VR from the PlayStation™ Store and you can claim Rez Infinite digital version for PlayStation®VR2 at a discounted price. If you already own the PlayStation®VR version of this game, you can get the PlayStation®VR2 digital version for a discounted price and you do not need to purchase this product. Owners of a PlayStation®VR disc copy must insert it into the PS5 every time they want to download or play the PlayStation®VR2 digital version. PlayStation®VR game disc owners who buy the PS5 Digital Edition disc-free console will not be able to get the PlayStation®VR2 version for the discounted price.",
+    "notes": "PSVR2 optional",
+    "credits": "Thanks @Vins for the game files",
+    "publisher": "Enhance Games",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Shooter",
+      "Music/Rhythm",
+      "Action"
+    ],
+    "release_date": "2023-02-22",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202303/0222/944c47eccd0528f5f718ebd5b9a8ef6133ec80d910011b5e.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "8ca11e77-bad7-4445-aa93-b2fbf8c9878e",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA09165-Rez-Infinite",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

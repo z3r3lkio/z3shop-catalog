@@ -1,0 +1,68 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a706a56a80b138b911d68e2",
+    "title_id": "PPSA17221",
+    "title": "Minecraft",
+    "version": "01.044",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 891205714
+  },
+  "metadata": {
+    "description": "CREATE Build whatever you can imagine in your own infinite world that’s unique in every playthrough. EXPLORE Discover biomes, resources and mobs, and craft your way through a world filled with surprises in the ultimate sandbox game. SURVIVE Experience unforgettable adventures as you face mysterious foes, traverse exciting landscapes, and travel to perilous dimensions. PLAY TOGETHER Have a blast with friends, whether you’re sitting on the same couch in split screen or miles apart in cross-platform play for console, mobile and PC. Connect with millions of players on community servers or subscribe to Realms Plus to play with up to 10 friends on your own private server. VIBRANT VISUALS Vibrant Visuals is Minecraft’s biggest official visual enhancement – delivering a dazzling cosmetic upgrade with a new modern graphics pipeline and an array of visual improvements. Sunrises are more vivid, water reflects, forests become shaded, and more! EXPERIENCE MORE Get creator-made add-ons, thrilling worlds, and stylish cosmetics on the Minecraft Store. Subscribe to Marketplace Pass (or Realms Plus) to access 150+ worlds, skin & textures packs, and more – refreshed monthly. Marketplace Add-Ons, Skins, and Persona items will work with Vibrant Visuals, however, Worlds and Texture Packs are not compatible with the new mode at this time. Splitscreen multiplayer is not supported with Vibrant Visuals and the game will switch to Fancy or Simple rendering if multiple players are joined locally.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Mojang",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Adventure",
+      "Arcade",
+      "Unique"
+    ],
+    "release_date": "2024-10-22",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202501/3121/bae1bbdccaf8f2e0165d068a180769ccfb4da1bd4ecab910.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "7c1ba2ec-dadc-4a66-9cc9-79c229708f3a",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA17221_Minecraft",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "7bfba2a3-9625-41a6-9237-f5325523f7cd",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/mKvO6uGjYf",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

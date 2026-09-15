@@ -1,0 +1,82 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a511f34664b52645fefe073",
+    "title_id": "PPSA10696",
+    "title": "Atomic Heart",
+    "version": "01.015.100",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 69685844378
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. Welcome to a utopian world of wonders and perfection, in which humans live in harmony with their loyal and fervent robots. Well, that's how it used to be. With the launch of the latest robot-control system mere days away, only a tragic accident or a global conspiracy could disrupt it… The unstoppable course of technology along with secret experiments have brought rise to mutant creatures, terrifying machines and superpowered robots—all suddenly rebelling against their creators. Only you can stop them and find out what lies behind the idealized world. Using the combat abilities granted by your experimental power glove, your arsenal of blades and cutting-edge weaponry, fight for your life in explosive and frenetic encounters. Adapt your fighting style to each unique opponent. Combine your skills and resources, use the environment and upgrade your equipment to overcome challenges and fight for good. • An utopian world, both mad and sublime • Visceral, spectacular and unforgiving combat • Blast giant machines and mutants using your multiple skills and advanced weapons • Upgrade your arsenal and equipment If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "DLCs Merged",
+    "credits": "",
+    "publisher": "Focus Entertainment",
+    "developer": "Mundfish and published by Focus Entertainment",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Role Playing Games"
+    ],
+    "release_date": "2023-02-21",
+    "store_url": "https://store.playstation.com/en-us/product/UP4133-PPSA10696_00-ATOMICHEARTGAME0",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202302/1715/afdfbeb771dc7688b72d4d254b9f2c25088e6ef2c2b5a23e.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "42d5246d-3eff-49e8-a67f-927d878ce22f",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA10696_Atomic_Heart_Premium_Edition",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "ad732308-2bc4-4c84-bd6f-4e6f462c024d",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/NWSxsNFyr2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "fe46f148-ba09-4d34-b1b0-110bc53690fb",
+      "provider": "Filekeeper",
+      "url": "https://filekeeper.net/barldqpmglyv/PPSA10696_Atomic_Heart_Premium_Edition",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

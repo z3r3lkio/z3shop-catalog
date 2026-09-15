@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7c939746eb68666c6cca11",
+    "title_id": "PPSA17181",
+    "title": "Luto",
+    "version": "01.007",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 14388140442
+  },
+  "metadata": {
+    "description": "Luto is a psychological horror experience where you take on the role of someone unable to leave their home. Every attempt to escape will lead you deeper into the unknown, where nothing is as it seems and everything will test your senses. What lies behind loss: feel the void left by the absence of a loved one, where despair grows, fed by anxiety and depression. Day after day... Between reality and fiction: delve into an enigmatic place and explore its labyrinthine paths full of secrets. The truth has many faces, and you might not like the one you find. Will not let you go: experience unsettling terror that envelops your senses, with fears lurking around every corner. Darkness does not only dwell in shadows. Never. =",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "SELECTAVISION, S.L.U.",
+    "developer": "Broken Bird Games, a registered trademark of Broken Bird S",
+    "players": "1",
+    "genres": [
+      "Horror"
+    ],
+    "release_date": "2025-07-21",
+    "store_url": "https://store.playstation.com/en-us/product/UP6326-PPSA17180_00-0910114513696489",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202507/2212/7403ad0213e1e68bd25a264b79cb2867a3b1211cec4006ff.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "5e6a709f-6fbc-49e4-83e6-69bf3163ed24",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA17181_Luto",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "6345add2-1f80-4d21-874f-51eb2f1bf3ee",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/EZd9Q4pE2p",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

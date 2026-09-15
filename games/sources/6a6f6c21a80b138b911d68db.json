@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a6f6c21a80b138b911d68db",
+    "title_id": "PPSA03098",
+    "title": "Dead Island 2 Ultimate Edition",
+    "version": "01.000.011",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 79456894976
+  },
+  "metadata": {
+    "description": "The much-loved zombie saga is back with a unique formula of horror, dark humor and over the top zombie-slaying, spanning an epic pulp adventure. Dead Island 2 is a thrilling First-Person Action RPG, stylish, vibrant and flooded with zombie infection. Explore iconic, gore-drenched Los Angeles. Meet larger-than-life characters. Slay countless foes in exquisitely bloody detail. And evolve to become the ultimate Zombie Slayer. New Ways to Slay - Join the Bobcats, in a new co-op horde mode! And continue your adventure in New Game+, featuring new zombies, abilities, weapons and more. The Ultimate Edition features the PS4 and PS5 versions of the game, both epic story expansions plus special weapons and stylish gear to unleash a new level of carnage. The Ultimate Edition includes: - Haus and SoLA expansions - Memories of Banoi Pack - Golden Weapons Pack - Pulp Weapons Pack - Red’s Demise Katana - 6 Premium Character Packs - Kingdom Come: Deliverance II Pack Players using PS5 and PS4 Pro consoles can host and join co-op sessions. PS4 players can join co-op sessions, but due to technical limitations they can host sessions for only one joining player. For customers in Germany - Once zombies are defeated, players can no longer deal damage to or further dismember zombie corpses. USK players can play co-op sessions with international players through friend invites and joining friends. For public matchmaking, USK players can only play with other USK players.",
+    "notes": "DLCs Merged",
+    "credits": "",
+    "publisher": "Deep Silver",
+    "developer": "Deep Silver Dambuster Studios",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Action"
+    ],
+    "release_date": "2023-04-21",
+    "store_url": "https://store.playstation.com/en-us/product/UP2047-PPSA03098_00-DI2GEDITPS5SIEA0",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202410/2215/6119bcc3ff0f1aa08090a311f9e1c32b1d368e65cb63f4c0.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4b31df29-5d5c-46b2-b839-10d987e586b3",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/abQ0u7JIfl",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "db854307-629b-4a9f-837e-823666f1a2af",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA03098_Dead_Island_2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

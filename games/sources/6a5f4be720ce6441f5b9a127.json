@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5f4be720ce6441f5b9a127",
+    "title_id": "PPSA01507",
+    "title": "Immortals Fenyx Rising",
+    "version": "04.040",
+    "pack": "unknown",
+    "region": "USA to EUR Languages",
+    "size_bytes": 34789235098
+  },
+  "metadata": {
+    "description": "Unlock extra items and resources with this bundle of 1,000 + 50 bonus Immortals Fenyx Rising™ Credits (1,050 Credits). Requires Immortal Fenyx Rising on applicable platform (download separately). Credits purchased on one platform are not redeemable on other platforms. This purchase is not eligible for refund.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Ubisoft",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Role Playing Games"
+    ],
+    "release_date": "2020-12-03",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202011/1302/fQ8JiWkC2BrjtgtFIjGcLNTb.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "5f7b99cd-abe9-4aa0-bb4b-831278a3e631",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01507_Immortals_Fenyx_Rising",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "5b0a9c3a-7427-4f13-9f8e-810b184bd9d3",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/vlQ45advEy",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a490ec72860efac54e4aa72",
+    "title_id": "PPSA15508",
+    "title": "The Last of Us Part II Remastered",
+    "version": "02.001.010",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 120473832653
+  },
+  "metadata": {
+    "description": "Edition includes: The Last of Us™ Part II Remastered full game for the PS5® console Experience the winner of over 300 Game of the Year awards now with an array of technical enhancements that make The Last of Us Part II Remastered the definitive way to play Ellie and Abby’s critically acclaimed story. Native PS5 enhancements Built for the PS5 console, The Last of Us Part II Remastered enhances the original PS4 game in ways not possible before, including: • A host of graphical improvements bring the beautiful-yet-dangerous world to life. • Visual performance now outputs at 4K in Fidelity Mode. • Improved loading times more quickly let you jump into action. • Full DualSense™ wireless controller integration. Patch v.2.0.0 Update* • In the first major update since No Return launched, unlock new characters Bill and Marlene, take on four new maps, and earn new Trophies. • In addition to the above, use your earned points to redeem a brand new item, Jordan A. Mun’s Jacket from Intergalactic: The Heretic Prophet™** as a skin for Ellie. No Return – A Roguelike Survival Mode Experience The Last of Us Part II’s deep combat via an entirely new mode! Survive as long as you can in each run, as you choose your path through a series of randomized encounters. Play as a host of different unlockable characters, some never-before playable in The Last of Us franchise, each with unique gameplay traits. The variety of challenges feature different foes and memorable locations from throughout Part II, all culminating in tense boss battles. New ways to play Delve deeper into this beloved adventure and learn how the original game was created. • Lost Levels lets you explore early-development versions of three new levels not seen in the original. • Enjoy hours of new developer commentary to hear insights into Part II’s development as you experience the game. • Live up to your musical potential with Guitar Free Play, which includes new unlockable instruments, or take on the new Speedrun Mode*** and post your best times. • Descriptive Audio**** and Speech to Vibrations have also been added to Part II's suite of accessibility features. • The Last of Us Part II Remastered also features brand new unlockable character and weapon skins for players to use for both Ellie and Abby. *Internet connection and an account for PlayStation™Network required. **Intergalactic: The Heretic Prophet is in development for the PS5 console. ***Game progression required to unlock. ****Only available for audio supported languages",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files and BestPig & DecKerr97 for the BackPort",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Naughty Dog LLC",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2024-01-19",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202311/1600/61c155be3eb8f3f60162aaab10e8b84612572e29e47e3f21.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "66844b49-452d-4572-b15e-8a6fa61d5b0e",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/cUtYU4EjlZ",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "T4MAGO",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

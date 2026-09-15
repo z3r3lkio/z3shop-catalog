@@ -1,0 +1,111 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a8534eab0a31dad5b0fe8da",
+    "title_id": "PPSA09850",
+    "title": "Overpass 2",
+    "version": "01.004",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 24803436134
+  },
+  "metadata": {
+    "description": "Identify the best routes and balance of power, speed and precision to overcome obstacles at the controls of a UTV, ATV or Rock Bouncer. In both solo and multiplayer mode, your talent and choices of technique will make the difference. The only simulation that blends racing and obstacles is back with new content and game modes. Put your skills to the test in 5 game modes in which you have to come to grips with demanding challenges: off-road sprint, off-road circuit, hill climb, obstacle course, closed circuit. Your results will depend on how well you can analyse the course and pick the best routes. At the controls of powerful buggies and quads from major manufacturers such as Yamaha, Arctic Cat and Suzuki, you will travel across 30 routes in 5 regions: Baja Desert, East Central US, Johnson Valley, Utah Desert and Western Europe. Rise to the challenge of the ultra-comprehensive career mode! Manage your team, sponsors and budget while making the right research and development choices so you can upgrade your vehicles to meet your objectives, all while mapping out your team's progress using the skill tree. Rocks, tree trunks, mud and many more natural and artificial obstacles will slow you down during the various races and could damage your vehicle. Find the best way to get around them and reach the finish line at the controls of over 30 official vehicles, each with its own specific technical characteristics. The biggest manufacturers are represented: Polaris, Yamaha, Arctic Cat, Kawasaki and Suzuki, including, for the driver's equipment, Alpinestars, Arai, Sparco, Stilo, Stand 21 and many more. Take advantage of a wide range of settings to adapt your vehicle to the terrain and improve the performance. It's up to you to manage the power, motor functions and transmission so you can be as fast as possible according to the conditions (terrain, surface, type of race, etc.). To be even more competitive, bear in mind that precision and regularity are better than pure speed. This is the challenge that awaits you in OVERPASS 2. • 30 vehicles from official manufacturers, in 3 categories: UTV, ATV, Rock Bouncer • 5 types of races: off-road sprint, off-road circuit, hill climb, obstacle course, closed circuit • Official manufacturers, equipment and sponsors • 4 types of environments: desert, forest, mountain, circuits • A comprehensive career mode with team and calendar management • Advanced vehicle and driver customisation • Online races for up to 8 players.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, Pkykzhack for DLCs and Pippo for the exfat file",
+    "publisher": "NACON SA",
+    "developer": "Neopica",
+    "players": "2",
+    "genres": [
+      "Driving/Racing"
+    ],
+    "release_date": "2023-09-28",
+    "store_url": "https://store.playstation.com/en-gb/product/EP6665-PPSA09849_00-OP20000000000000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202308/3014/8246c67ad4e65dedcf16e92764f29a6e9b67011609df8baf.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "ec56c753-ddf5-4878-9acc-7045a0c0af41",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/zrXICsTvmE",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "aa6523fa-5975-4638-96b8-2cf9a5ebcde0",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/qLQ36q5YKm19/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "bbfc9acb-3f37-4e8a-a115-c1cc9ee41654",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/gXeGOAbMA3Aa/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "c69ee650-5ab8-4bc7-b7b1-319f56ed4945",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/ex5z25L0B3Kq/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 3,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "c4c057d4-d164-42a0-bab7-449154c45bdb",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/APVmapRdVGXo/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

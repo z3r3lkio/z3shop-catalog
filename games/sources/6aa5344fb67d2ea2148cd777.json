@@ -1,0 +1,53 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa5344fb67d2ea2148cd777",
+    "title_id": "PPSA13934",
+    "title": "Spirit of the Island",
+    "version": "01.000.000",
+    "pack": "lz4",
+    "region": "EUR",
+    "size_bytes": 2147483648
+  },
+  "metadata": {
+    "description": "There’s an old tradition running in your homeland: to become an adult and complete the coming of age ritual, you must go on a journey of discovery. Your adventure begins on a distant island, deep in a tropical Archipelago. What was once a prosperous tourist destination is now a shade of its former glory: and it’s your job to bring it back to life! Explore the Archipelago, meet the locals, and lend them a hand to restore the tourist paradise… while you try to uncover the mysteries of your past! SETTLING IN A NEW PLACE Your tropical life will be a busy one, so grab your tools and let’s get started! First things first: you’ll need a source of food, a place to spend the night in, and some resources to build a farm and kickstart your tropical journey. So what are you waiting for — time to explore your lands! A PLETHORA OF ACTIVITIES There’s plenty to do in Spirit of the Island! No matter how you choose to spend your time, you will gain experience and improve your skills, unlock new recipes, and become more efficient at everything you do, which will make your new life easier. Spirit of the Island features 10 unique skills, such as farming, mining, foraging, social, and even fishing, which comes as its own special mini-game. Will you become a true master of all? YOUR JOURNEY TO A TOURIST PARADISE Make your island not only a welcoming home but also a booming tourist paradise, with fancy shops and landmarks. The more tourists you get, the better your economy will be, which is a crucial step to fund your journeys to the faraway Islands. But how do you please them all, and what do you sell in your stores? That’s where your skills will come in handy! Sell local produce; open museums to display the treasure and secrets you uncover on your adventures. We bet some of your visitors could even buy a couple of quality wooden planks, so do your best to improvise! THE BEST TRIP EVER Each tourist will have a chance to love your Island so much that they’ll decide to stay, adding to the Town’s population. This part is crucial since you can hire them to do various things for you, such as tending to your shops and helping you maintain the Island. So do your best to make their trip a fantastic one! THE POWER OF TWO One of the main features of Spirit of the Island is a 2-player cooperative mode, where you can do… everything together! You will have all single-player mode features available in online play with its own unique story. Grow crops, set up a store, and sell your produce to tourists, explore the vast Archipelago, and discover the secrets of the tropical paradise together with a friend! VAST TROPICAL ARCHIPELAGO Spirit of the Island features 14 explorable islands, each with its own fauna, secrets, and dangers. Information on who - or what - inhabits these islands has been lost to history, but you will find mysterious caves guarded by ancient creatures — are you brave enough to explore them and uncover the mysteries within? Doing so will net you neat rewards and help you proceed towards your final goal: revealing the secret of your past. THE LOCAL COMMUNITY The Archipelago is bustling with life! Meet more than 14 unique characters, each with its own distinct traits and quirks. And yes, there are romance options as well! Depending on your character, you’ll be able to romance and marry different NPCs and hold a grandiose wedding in the end! AN EVENTFUL LIFE One of the unique features of Spirit of the Island is events — a series of recurring occurrences happening through each in-game year (4 months). They will come in various forms: from birthdays and traditional Holidays to your own unique events. There’s always something fun happening in Town, so make sure to check your calendar often!",
+    "notes": "",
+    "credits": "Thanks to DLPS Team for the files and Drakmor for the lz4 tool and apr emu",
+    "publisher": "Plug In Digital",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Simulation",
+      "Party"
+    ],
+    "release_date": "2023-10-19",
+    "store_url": "https://store.playstation.com/en-us/product/UP1309-PPSA13935_00-0832639392306271",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202310/1712/1fcaea03a1b41613fdf56de28ce3b94960d626c29481d19e.mp4",
+    "available_at": "2026-09-12T16:00:00.000Z",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "2f424394-824e-464d-a3f7-915398d1083c",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/4zzCih5Lsv#LIZARD",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

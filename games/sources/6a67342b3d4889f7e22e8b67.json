@@ -1,0 +1,53 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a67342b3d4889f7e22e8b67",
+    "title_id": "PPSA02110",
+    "title": "No Mans Sky",
+    "version": "06.024",
+    "pack": "unknown",
+    "region": "USA to EUR Langs",
+    "size_bytes": 25877177958
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4® version and the digital PS5® version of this game. No Man’s Sky comes complete with all 28 major updates up to and including Worlds Part I (5.0). No Man’s Sky is an epic science fiction adventure set across an infinite universe, in which every star is the light of a distant sun, orbited by planets filled with life – each yours to visit. Explore never before seen worlds, discover unique lifeforms and trade, fight and survive on a galactic scale. A mystery lies at the center of the galaxy, an irresistible pulse that draws you on an epic voyage to discover the true nature of the cosmos. Your journey will be charged with danger, encountering hostile creatures and fierce pirates in order to survive, you will need to prepare, upgrading your ship, suit and weapons. Whether you choose to fight, trade or explore, every decision you make has consequences, shaping your journey as you travel ever deeper into No Man's Sky. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4®-game-disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Hello Games LTD",
+    "developer": "Hello Games Ltd",
+    "players": "1",
+    "genres": [
+      "Unique",
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2020-11-12",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202508/2714/3c4fce937c8654f1a2bc90a04a1e30af0101ee86c5d242e6.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "81b31195-fabd-4f22-aa85-0516e7a87d1b",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/ELCjHQF2Ty",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

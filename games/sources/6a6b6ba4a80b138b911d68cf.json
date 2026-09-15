@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a6b6ba4a80b138b911d68cf",
+    "title_id": "PPSA01552",
+    "title": "Dirt 5",
+    "version": "06.005",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 59914793779
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. Celebrate the festive period in style with the Snow Limits pack for DIRT 5, available for free to all players! Included as part of the latest game update, the Snow Limits pack contains an array of festive new objects to use in DIRT 5's Playgrounds mode, a brand new Sprint race event on the ice at Roosevelt Island, and some fresh customisation options for your profile and liveries, including holiday liveries for the Ford Mustang GT4 and Porsche Cayenne Transsyberia. DIRT 5 is the most ambitious title yet in Codemasters’ legendary off-road franchise. With brand new features and breathtaking action, DIRT 5 creates a vibe that delivers big on epic racing, pure expression, and unbridled style. o Master over 70 routes in 10 global locations. From ice racing in New York to the marble mines of Italy, to twisting through the favelas of Brazil, conquer dynamic weather and hazardous terrain across all corners of the world. o Create highlight-reel moments with a stunning selection of cars – from classic rally icons to unlimited trucks, to 900bhp sprint cars. o Rise to stardom in a story-driven Career starring world-renowned voice talents Troy Baker and Nolan North. Prove your worth, earn sponsorships and defeat a fierce rival in an atmospheric world of off-road racing. o Eight race event types to experience, including boulder-conquering Stampedes across the most extreme surfaces, winding Land Rush circuits, point-to-point Sprint routes, and the return of Gymkhana arenas. o Take the fun online with events designed for action-packed racing, or try something different with objective-based modes that test your driving skills. o Photo Mode captures your greatest moments, a livery editor offers near-unlimited design options, and more new features encourage you to play and create. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "",
+    "publisher": "ELECTRONIC ARTS",
+    "developer": "Codemasters",
+    "players": "4",
+    "genres": [
+      "Unique"
+    ],
+    "release_date": "2020-11-12",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202105/1415/ciStyDVfMFnuvd8469WocLwV.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "2d055379-667f-45b2-a2e1-3e47278d6a8a",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/lv3MpjkYP1",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "82cf0e8f-60b1-42a8-8962-856f6cf9697c",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01552_DIRT5",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

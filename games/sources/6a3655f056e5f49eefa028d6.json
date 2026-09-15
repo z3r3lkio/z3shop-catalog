@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028d6",
+    "title_id": "PPSA05521",
+    "title": "PAW Patrol Grand Prix",
+    "version": "1.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 2168958484
+  },
+  "metadata": {
+    "description": "No track is too big, no racer too small! Race around Adventure Bay with all your favorite PAW Patrol pups and up to 4 players at once – but look out for the obstacles left by mischievous Mayor Humdinger! WIN THE PUP CUP! The PAW Patrol are on their fastest mission yet – To win the Pup Cup! Drive around iconic locations including Adventure Bay, Jake’s Snowboarding Resort and The Jungle to find out who will be crowned the winner. 4-PLAYER CHAMPIONSHIP Play with friends in this multiplayer championship, where you can pick any of your favorite pups including Chase, Skye or Marshall. But watch out, because sneaky Mayor Humdinger could be just around the corner to turn your race into a crazy catastrophe! COLLECT PUP TREATS Give your pup power ups including water balloons and snowballs. Plus, unlock special character skills such as Chase’s siren to slow down the racers around you. FOR KIDS OF ALL AGES This kart racer includes an easy control option for little ones with auto-acceleration to guide them around the track, as well as a hard mode for experienced track stars. So, buckle up for a PAWsome race around 11 tracks with your best pup pals! This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost. PS5™ features: Faster Loading Times 4K resolution Up to 60 fps",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & Jose Carrion for the Files and DecKerr97 for the BackPort",
+    "publisher": "Outright Games LLC",
+    "developer": "© 2022 3DClouds",
+    "players": "4",
+    "genres": [
+      "Family",
+      "Driving/Racing"
+    ],
+    "release_date": "2022-09-30",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202208/0308/haWqZS8bZl450U7Yw2ojLVaY.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "2c6ed837-9734-4ffa-9336-b109df396589",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/03K7riEzBl",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "270c8f09-8ad9-48c2-b8b6-709a393e7f43",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA05521_PAW_Patrol_Grand_Prix",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

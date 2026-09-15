@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a904a65b0a31dad5b0fe915",
+    "title_id": "PPSA13715",
+    "title": "Star Ocean The Second Story R",
+    "version": "01.00",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 15891378995
+  },
+  "metadata": {
+    "description": "Save data played in the PS4® download version can be transferred to the PS5® download version within the game. Subtitles also available in French, Italian, German and Spanish with software update The highly acclaimed second instalment in the STAR OCEAN series, returns as STAR OCEAN THE SECOND STORY R. Brought to life with a unique 2.5D aesthetic, which fuses 2D pixel characters and 3D environments, this remake includes everything that made the original release so great while adding new elements too! Experience new battle mechanics, full Japanese and English voice overs, original and re-arranged music, fast-travel and so much more! Discover the definitive version of a classic but modernized JRPG that’s perfect for newcomers and long-time fans alike. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files and ManwonHp for the BackPort",
+    "publisher": "Square Enix LTD",
+    "developer": "tri-Ace Inc",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2023-11-02",
+    "store_url": "https://store.playstation.com/en-gb/concept/10007308/",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "471ea79b-e86b-488b-a08b-ae4b410db409",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/hiAMYFlj37",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "JMCworkz",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

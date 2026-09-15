@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a85c39fb0a31dad5b0fe8e6",
+    "title_id": "PPSA22946",
+    "title": "LEGO® Harry Potter™ Collection",
+    "version": "01.001",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 13851269530
+  },
+  "metadata": {
+    "description": "The LEGO® Harry Potter™ Collection brings LEGO® Harry Potter™: Years 1-4 and LEGO® Harry Potter™: Years 5-7 remastered! This compilation unites the creative prowess of LEGO and the expansive world of Harry Potter, with an exciting journey full of spell-casting, potion-making, puzzle-solving, lessons, dueling and much more for players of all ages to enjoy.",
+    "notes": "",
+    "credits": "Thanks to DLPS Team for the Files and DecKerr97 for the BackPort",
+    "publisher": "Warner Bros. Interactive",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2016-10-18",
+    "store_url": "https://store.playstation.com/en-us/product/UP1018-CUSA05954_00-HARRYPOTTER17000",
+    "trailer": "https://apollo2.dl.playstation.net/cdn/UP1018/CUSA05954_00/FREE_CONTENTB0UumjQjtCk039QF04jz/PREVIEW_GAMEPLAY_VIDEO_128490.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "c4c7e0ad-2521-4d05-b648-5df6b786e6ad",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/T0gqa4rMct",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "1ae91317-f2f7-4795-8327-0691c3c7c7a5",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/Zvqzl71wB3aD/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

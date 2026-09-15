@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a765334e76beadd88604bf9",
+    "title_id": "PPSA27625",
+    "title": "Fantasy Life i The Girl Who Steals Time",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "JPN",
+    "size_bytes": 10200547328
+  },
+  "metadata": {
+    "description": "Step into this Slow-Life RPG where you can freely switch between 14 unique jobs, so called \"Lives,\" and enjoy a carefree life in a fantasy world. Fish, cook, shape the island to your liking, or team up with friends to battle monsters across the vast world. It's up to you to choose what kind of Life you'll live! ■A Dragon Guides You to a Mysterious Island You are an adventurer who sets sail with the archaeologist Edward and his team. Following the light emanating from a dragon's fossil, you discover an uncharted, deserted island. A vast abyss, a dragon made of bone, and a girl's message that begs you to save the world... Travel between the island that thrived 1,000 years ago and the present-day island to unravel the mystery of its downfall! ■14 Unique Lives to Make Yours Brighter In this world, a \"Life\" is the equivalent of a job. Each has its own characteristics and provides various ways to enjoy yourself. Collect ingredients or materials with Gathering Lives, create weapons or cook dishes with Crafting Lives, or fight monsters with Combat Lives. You can switch between any Life at any time, creating a life that's uniquely yours. ■Shape the Island! Create Your Town! Use Lives to gather materials and restore the island to its former glory! Not only can you place houses and objects, but you can also alter the landscape and draw rivers and roads to create a truly unique island. Expand your house, place some furniture, and decorate the interior however you like! ■Embark on an Open-World Adventure! Freely explore the largest continent in the series! Climb ledges, swim across rivers and lakes, or ride on mounts - With these new actions you can explore the world without limits! ■Endless Fun with Multiplayer! Enjoy multiplayer with up to 4 players! Invite friends to your island, explore dungeons, or find your own ways to have fun together! If you have two controllers, you can also use the 2 Player Family Co-op feature where one player can join the adventure as your travel companion without needing to connect online!",
+    "notes": "",
+    "credits": "Thanks to DLPS team for the Dump",
+    "publisher": "LEVEL5 Inc.",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2025-05-21",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202502/1308/a2624783dd6c1b28b8cd068b0d891e655ddcd7a139a61a20.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "c6e470e7-a46e-48a6-bbd0-229f67be709a",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA27625-FLi",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "PapaYas",
+      "firmware": "",
+      "created_by": "6a42905bcd61e0bcf63ddeca"
+    },
+    {
+      "id": "4e4fbdea-2ff7-4c68-b758-13a642eaf20e",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/Fxmno7gevc",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

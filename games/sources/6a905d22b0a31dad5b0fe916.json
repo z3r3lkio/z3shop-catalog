@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a905d22b0a31dad5b0fe916",
+    "title_id": "PPSA01528",
+    "title": "Overcooked! All You Can Eat",
+    "version": "01.015",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 8997956485
+  },
+  "metadata": {
+    "description": "This does not apply to those redeeming through PS Plus. Overcooked!, Overcooked! 2 and all additional content are blended together and remastered in this delicious definitive edition! Enjoy hundreds of levels of cooperative cooking chaos across increasingly perilous and obscure kitchens. Overcooked! Goes Online For the first time ever, online multiplayer has been fully integrated into Overcooked! Revisit your favourite kitchens from the first game in stunning 4K and ONLINE! A Visual Feast! Both games have been taken to the next level with stunning, enhanced 4K visuals - this is the best that the Overcooked! series has ever looked. Tasty New Content! New levels, new chefs and new mayhem - all exclusive to Overcooked! All You Can Eat. Multiple Modes! Players can enjoy campaign, survival and practice modes, and new to All You Can Eat - assist mode! Assist mode offers a number of options to allow for a less frantic game including slower recipe timeout, increased round timers and the option to skip levels. Accessible For All! Overcooked! All You Can Eat contains a features to allow as many players as possible to join in the food frenzy! Scalable UI, dyslexia friendly text and colour blindness options are all available. Journey back to the Onion Kingdom for a feast of epic proportions in Overcooked! All You Can Eat. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to DecKerr97 for the Files and Pippo for DLCs",
+    "publisher": "Team 17 Digital LTD",
+    "developer": "Team17 Digital Ltd and Ghost Town Games Ltd",
+    "players": "4",
+    "genres": [
+      "Family",
+      "Simulation"
+    ],
+    "release_date": "2020-11-12",
+    "store_url": "https://store.playstation.com/en-gb/product/EP4064-PPSA01528_00-0538983162460184",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202011/2700/EAChph27jqAETH2pRyMTgu46.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "1615a9cc-897a-4ff6-b23c-c04380e856b1",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/LJlGn75LVm15/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "62228e42-1af6-4b0e-b6ec-31cc78fb7bab",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01528_Overcooked_All_You_Can_Eat",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

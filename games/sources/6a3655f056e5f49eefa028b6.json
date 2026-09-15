@@ -1,0 +1,96 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028b6",
+    "title_id": "PPSA26344",
+    "title": "Ghost of Yotei: Deluxe Edition",
+    "version": "1.008.000",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 102961103503
+  },
+  "metadata": {
+    "description": "Edition includes: • Ghost of Yōtei™ • The Snake Armor • Digital Deluxe Armor Dye • Digital Deluxe Horse & Saddle • Sword Kit • Traveler’s Maps (Early Unlock) • Charm Set aside the order of the Edo period. Become a different kind of ghost and witness a bold new story set against the stunning backdrop of northern Japan’s rugged landscapes. Taking place 300 years after the critically acclaimed Ghost of Tsushima, this standalone experience follows a haunted, lone mercenary named Atsu in the 1600s. Thirsty for revenge, she sets out to hunt down those who killed her family many years prior. Her quest across Ezo will take her to unexplored lands as she seeks out a gang of six outlaws. Along the way, she’ll encounter far more than she could have wagered for at the journey’s outset. Help her find unlikely allies, forge lasting bonds and build a path towards healing and redemption. - Feel the thrill of combat; the haptic feedback of the DualSense® wireless controller brings Atsu’s katana combat to your fingertips. - Master the bow and arrow or grappling hook, experience the excitement of battle, and explore various types of terrain – all accentuated by the DualSense wireless controller’s adaptive triggers. - Appreciate the power of the PlayStation®5 console with lightning-fast load times rapidly transporting you to the beautiful surroundings of northern Japan. - Explore lush, vibrant environments rendered with stunning visuals, as Atsu travels through snowy ridges, fields of wildflowers and rocky terrain – amongst others. - Tempest 3D AudioTech: Immerse yourself in 1600s Japan as 3D spatial audio creates unique soundscapes all around you.¹ ¹3D audio via built-in TV speakers or analog/USB stereo headphones. Setup required.",
+    "notes": "DLC pkg is required for the game to work. For FW 11.x, download the 11.x file. The 4.xx backport will not work on FW 11.x.",
+    "credits": "",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Sucker Punch Productions",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-10-02",
+    "store_url": "https://store.playstation.com/en-us/product/UP9000-PPSA26344_00-GHOST2CE00000000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202510/0200/5fd5e1262c2d81f4b04a93eeae348893adba3385d4b0c210.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "3c47af7b-bcb8-41c9-adfc-64d72eaefcf0",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/6r4wU2G8gC",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "11.xx+",
+      "created_by": "admin"
+    },
+    {
+      "id": "c42cb270-19dc-4ed5-ada5-fc3fad487d87",
+      "provider": "Akira",
+      "url": "https://akirabox.to/qLQ36x4d7G19/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "12f739c5-b9dd-48cc-a9fc-6aa783e3e7f8",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA26344_Ghost_of_Yotei_11xx",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "11.xx+",
+      "created_by": "admin"
+    },
+    {
+      "id": "6e6635c4-490b-4979-8cf3-89684090a3ac",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA26344_Ghost_of_Yotei_4xx",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "4.xx+",
+      "created_by": "admin"
+    }
+  ]
+}

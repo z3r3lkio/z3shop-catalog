@@ -1,0 +1,53 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a59f675664b52645fefe0a6",
+    "title_id": "PPSA15368",
+    "title": "Contra Operation Galuga",
+    "version": "01.003",
+    "pack": "pfs",
+    "region": "EUR",
+    "size_bytes": 9631464161
+  },
+  "metadata": {
+    "description": "*The products in this bundle may also be purchased separately. Please take care not to purchase multiple copies of this product. [Title lineup] ・ Contra: Operation Galuga (PS4 & PS5) ・ Contra Anniversary Collection (PS4) ■Contra: Operation Galuga The legendary Contra series returns! This reimagining of the classic run-'n'-gun action game from the ‘80s features new stages, new enemies, new play mechanics, and co-op combat for up to 4 players! ■Contra Anniversary Collection The Contra Anniversary Collection brings this classic Run and Gun franchise back to modern platforms and a new generation of players. Grab power ups and blast your way through waves of menacing enemies and bosses that will put your reaction skills to the test. Also included is a digital Bonus Book with tons of concept documents and sketches, the official chronology of the franchise, an exclusive interview with the veteran producer of the series, and more!",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & VanBuuren for the Files",
+    "publisher": "KONAMI",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Shooter",
+      "Arcade",
+      "Action"
+    ],
+    "release_date": "2024-09-17",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202309/0809/84c48a008fece55774b37d2b0522e469907e12b9285a0c55.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "0c5eac13-adea-408a-b15b-6eb832676f30",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA15368-Contra",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5b7f11664b52645fefe0bb",
+    "title_id": "PPSA10528",
+    "title": "Prince of Persia: The Lost Crown Complete Edition",
+    "version": "01.004.001",
+    "pack": "pfs",
+    "region": "EUR",
+    "size_bytes": 28346784154
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4® version and the digital PS5® version of this game. Discover the critically acclaimed Metroidvania with the Complete Edition. The Complete Edition includes: • Prince of Persia™: The Lost Crown main game • Mask of Darkness Story DLC • Two Thrones outfit • Dark Prince outfit • Immortals outfit • Prosperity Bird amulet • Fariba's Notebook digital adventure guide* MASTER A DEEP AND FUN COMBAT SYSTEM Use your Time Powers, combat, and platforming skills to perform stylish combos. Defeat a huge variety of enemies and challenging mythological bosses in Souls-like combats. EXPLORE THE MANY BIOMES OF MOUNT QAF Discover a unique Persian-inspired world filled with mythological landmarks. Find your way into a variety of interconnected biomes with their own identity and level design. Use your wits to solve puzzles and find hidden treasures. BE PART OF A CAPTIVATING STORY Immerse yourself in the story of Sargon, a young member of The Immortals. Travel to the time-cursed citadel of Mount Qaf to rescue the kidnapped Prince Ghassan. INNOVATIVE QUALITY-OF-LIFE FEATURES Get the thrill of exploration without frustration thanks to master level design and optional accessibility features. *Available for download and streaming from the official website, princeofpersia.com, in Chinese, English, French, German, Italian, Japanese, Portuguese, or Spanish. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA & DUPLEX for the Files with DLCs",
+    "publisher": "Ubisoft",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2024-09-17",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202306/1607/0ea7a7e2d6bc1b17b3f820922a2941ca4181ba12d4212cbf.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "85a3ab74-e6b2-493c-a6f5-a32d5cb7b448",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA10528-Prince-of-Persia",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "41d32b9c-c445-44cd-92dd-7fc991bd3072",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/RMKGJO771m1o/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

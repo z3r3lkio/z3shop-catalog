@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a75adbbe76beadd88604bf1",
+    "title_id": "PPSA03686",
+    "title": "Art of Rally",
+    "version": "01.007",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 3242700308
+  },
+  "metadata": {
+    "description": "\"To do something dangerous with style is art...\" art of rally is a stylized experience inspired by the golden era of rally from the creator of Absolute Drift. Race across the world through colourful and stylized environments in top-down view. Compete for first place in the leaderboards with daily and weekly challenges. Will you master the art of rally? - Experience the golden era of rally in Career mode, travelling across 91 stages from Finland to Sardinia, Norway, Japan, Germany, Kenya and Indonesia. - Get behind the wheel of your favourite vintage cars, ranging from the 60’s to the 80’s, Group B, Group S and Group A. - From beginner-friendly options to driving modes that’ll challenge the most expert drivers, all players can tackle the races using their favourite rally driving tricks: Scandinavian flick, counter steering, left foot braking, handbrake turns. - Get your name out at the top of the Leaderboard in our daily and weekly challenges. - Show off your driving skills, or simply your favourite landscapes, with the integrated Photo and Replay mode.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, DUPLEX for DLCs, DecKerr97 for the BackPort and Pippo for the exfat",
+    "publisher": "Funselektor Labs Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Driving/Racing"
+    ],
+    "release_date": "2021-10-06",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202108/2014/xMz0wGs4pISKHpS0fA4M8syH.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "5fe5c676-29ac-46d9-ae9c-3237b52c51e8",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA03686_Art_of_Rally",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "072430ed-dec9-4678-a323-0701e0d533e3",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/XtxQPt6hw6",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "93f7ed18-0489-4423-a65a-d809c4a130d7",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/QoQGxfzXhG",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

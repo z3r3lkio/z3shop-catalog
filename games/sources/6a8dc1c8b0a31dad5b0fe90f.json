@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a8dc1c8b0a31dad5b0fe90f",
+    "title_id": "PPSA26354",
+    "title": "Triangle Strategy",
+    "version": "01.001",
+    "pack": "unknown",
+    "region": "HK",
+    "size_bytes": 9030168740
+  },
+  "metadata": {
+    "description": "A brand-new tactical RPG from the team behind the BRAVELY and OCTOPATH TRAVELER series. Experience the dramatic story of war-torn Norzelia from different perspectives in stunning HD-2D, with a complex turn-based battle system. The World In the land of Norzelia, the Holy State of Hyzante controls the realm's supply of salt; the snowswept Grand Duchy of Aesfrost, its veins of iron; and between the two lies the Kingdom of Glenbrook, a land of verdant forests and rivers. These nations waged what came to be known as the Saltiron War. After the war ended, the three nations maintained a tenuous peace. Yet a looming event threatens to destroy that balance... Multiple Stories, Multiple Endings • A tale that will challenge your convictions You will face many difficult choices as the three nations conspire against each other. Making value judgments and decisions based on the ideals of Utility, Morality, and Liberty will determine your Conviction. These parameters will affect how the story branches, and which companions join your party. • Voting affects your fate Important decisions affecting the fate of the protagonists are made through a voting process employing the Scales of Conviction. You must persuade allies, each with their own values and opinions, to cast their coin upon the scales to see your desired goals achieved. Where will your convictions lead you? Tactical Battles Make use of the terrain and field elevation, coordinate attacks between your units, surround your foes on both sides to perform follow-up attacks, and more. Create a party from 30 different characters with diverse skills to take on complex battles and emerge victorious. The Latest HD-2D Graphics Advanced pixel graphics as previously featured in the OCTOPATH TRAVELER series, DRAGON QUEST III HD-2D Remake, and LIVE A LIVE bring the story to life in beautiful HD-2D. 3DCG image effects are added to retro graphics to create an immersive world full of character and delightful detail. To Fans of Tactical RPGs Square Enix presents a brand-new tactical RPG to fans of games like Tactics Ogre: Let Us Cling Together, Tactics Ogre: Reborn, and FINAL FANTASY TACTICS: The War of the Lions.",
+    "notes": "",
+    "credits": "",
+    "publisher": "SQUARE ENIX CO. LTD.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games",
+      "Role Playing Games"
+    ],
+    "release_date": "2025-08-20",
+    "store_url": "https://store.playstation.com/en-us/product/UP0082-PPSA26352_00-0066466457920105",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202508/0603/a5a248fc172b7dba1a8ff5728297e68db355f330433e4e3f.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "dfacff32-13b1-49bc-8853-9de8bbc0303c",
+      "provider": "Download",
+      "url": "https://vikingfile.com/f/6xDfbIzWG9",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "JMCworkz",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "b7c6ae42-4d5f-4395-a153-3cd613fa47b9",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/wgWGq7RLq34o/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

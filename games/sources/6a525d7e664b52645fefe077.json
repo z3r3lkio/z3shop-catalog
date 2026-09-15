@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a525d7e664b52645fefe077",
+    "title_id": "PPSA09911",
+    "title": "Ghostrunner 2",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 14710262989
+  },
+  "metadata": {
+    "description": "Experience an electrifying cyber thrill ride with the Ghostrunner Game Bundle, featuring the adrenaline-pumping original Ghostrunner and its highly anticipated sequel, Ghostrunner 2. With this bundle, you'll unlock high-octane action and breathtaking visuals, immersing yourself in the cutting-edge gameplay that defines the Ghostrunner series. Get ready to run, leap, and slash as you embark on a double-dose of Dharma in this must-have cyber ninja experience. *Bundle includes Ghostrunner and Ghostrunner 2 Base Games. Ghostrunner and Ghostrunner 2 Season Pass, DLC, and soundtracks not included.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files and DecKerr97 for the BackPort",
+    "publisher": "505 Games",
+    "developer": "„One More Level” S",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2024-02-15",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202305/2318/7543ccc109217deb187e6e50b8dbcfea52744af0c0ddf7eb.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a536726c-21df-4cae-a632-d18fecd9e30c",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?82uyot68pl06deicuoir",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "cfe53798-a745-4223-9f23-a961af67ea10",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA09911_Ghostrunner_2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028a4",
+    "title_id": "PPSA06774",
+    "title": "Armored Core 6 Fires of Rubicon",
+    "version": "1.009",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 49123688448
+  },
+  "metadata": {
+    "description": "The Deluxe Edition includes: • Full game • Exclusive Digital Artbook & Original Soundtrack Allows players to view concept art and listen to in-game music. Combining FromSoftware’s longstanding expertise in mech games with their signature action gameplay, ARMORED CORE VI FIRES OF RUBICON brings a brand-new action experience to the series. Dynamic, Omni-directional Battles Players will pilot their mech in fast-paced, omni-directional battles, taking advantage of massive stages and their mech’s mobility on land and in the air to ensure victory. Customized Parts for Individual Battle Styles Customize Armored Core parts to suit a large variety of playstyles. Selecting different parts not only changes the mech’s attacks, but also directly affects its movement and battle style, so each mission can be approached with a unique mech strategy. Thrilling Boss Battles Deploy a wide variety of offensive and defensive tactics at close and long range to take down powerful enemy bosses.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2023-08-25",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202302/0209/b7b0bb978e2d9623f2beffd48844d673649b745ec6d1c434.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "d1c0dce0-7ca0-4539-826b-4fc145ed894d",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/g8tWHXgyNf",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "b1903691-55b9-4355-8f3f-d29f6f81fb9e",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?ayw8es7k6gj4jesjw6cs",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

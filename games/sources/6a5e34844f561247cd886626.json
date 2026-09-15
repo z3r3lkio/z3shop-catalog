@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5e34844f561247cd886626",
+    "title_id": "PPSA23012",
+    "title": "Call of Duty Modern Warfare 2",
+    "version": "01.001",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 123480309760
+  },
+  "metadata": {
+    "description": "Includes: - Cross Gen Bundle of Call of Duty®: Modern Warfare® II -- Includes PS4™ and PS5™ versions of the game Call of Duty®: Modern Warfare® II drops players into an unprecedented global conflict that features the return of the iconic Operators of Task Force 141. From small-scale, high-stakes infiltration tactical ops to highly classified missions, players will deploy alongside friends in a truly immersive experience. Modern Warfare® II includes a globe-trotting single-player campaign, immersive Multiplayer combat, and a narrative-driven, co-op Special Ops experience.",
+    "notes": "np-fake-signin required for playing.",
+    "credits": "",
+    "publisher": "Activision",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2022-10-28",
+    "store_url": "https://store.playstation.com/en-us/product/UP0002-PPSA01649_00-CODMW2CROSSGEN01",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202605/2821/ba137e634b399af9ef219d908c97205e4d4d88c206d0cb74.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "62a344de-1412-4268-90dc-609862b23116",
+      "provider": "Buzzheavier",
+      "url": "https://buzzheavier.com/ka52my2sv8tj",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "a7d8f516-8562-4f1d-8b1f-d365b0121694",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA23012_COD_MW2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a57b921664b52645fefe08d",
+    "title_id": "PPSA05991",
+    "title": "Cygni All Guns Blazing",
+    "version": "01.002",
+    "pack": "unknown",
+    "region": "USA to EUR Languages",
+    "size_bytes": 23407571763
+  },
+  "metadata": {
+    "description": "An unrelenting onslaught of eye-popping visuals, ear bursting soundscapes and mind-melting action makes CYGNI the vanguard for the next generation of Shoot-em Ups. Gameplay Outgunned and outmanned, plunge into a sky teeming with danger in a last-ditch battle for survival. Choose to route power between weapons or shield systems and go up against unrelenting waves of ground and aerial enemies. Upgrade your ship by picking up new tech and take down colossal alien bosses in visceral combat; do whatever it takes to survive. CYGNI is an exhilarating space shooter elevating the genre to a truly next-generation experience. Discover the world of Cygni Prime Encamped within the remains of a long-lost civilization on the planet CYGNI, Earth forces are decimated by a surprise attack from a powerful, biomechanical alien race. As one of the last pilots on the last carrier in the fleet, you are the only line of defence against the unyielding alien bombardment.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files and DecKerr97 for the BackPort",
+    "publisher": "KONAMI",
+    "developer": "KeelWorks Ltd",
+    "players": "2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2024-08-06",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202306/1209/fa2e85382a606feb81c498b793e8b00d34e8af885fe6488f.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "499fa315-cb0f-483d-90bf-bc0b396bf8fc",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA05991-Cygni-All-Guns-Blazing",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "b990e205-5008-47a7-adbf-f45fcdd02fd2",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?t4ta4k26ayo1uvslufjo",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

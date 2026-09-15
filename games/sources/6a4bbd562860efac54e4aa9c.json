@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4bbd562860efac54e4aa9c",
+    "title_id": "PPSA01593",
+    "title": "Hogwarts Legacy",
+    "version": "01.010",
+    "pack": "unknown",
+    "region": "USA to EUR Languages",
+    "size_bytes": 124210454200
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. Hogwarts Legacy is an open-world action RPG set in the world introduced in the Harry Potter books. Explore and discover magical beasts, customize your character and craft potions, master spell casting, upgrade talents and become the wizard you want to be. Experience Hogwarts in the 1800s. Make allies, battle Dark wizards, and ultimately decide the fate of the wizarding world. Your legacy is what you make of it. Live the Unwritten. The Hogwarts Legacy Digital Deluxe Edition Includes: -Thestral Mount -Dark Arts Battle Arena -Dark Arts Cosmetic Set -Dark Arts Garrison Hat -PS4™ and PS5™ Digital Versions Includes Haunted Hogsmeade Shop Quest which grants access to an additional dungeon, Shopkeeper’s Cosmetic Set, and in-game Hogsmeade shop New cosmetic items now available to all players: The Glasses That Lived, Azkaban Prisoner Uniform and Coat, Onyx Hippogriff Mount, Felix Felicis Potion Recipe, Dark Wizard Brooms (2) If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product.",
+    "notes": "",
+    "credits": "Thanks High-Speed007 for the files, Psykzhack for DLC and Bestpig for backport",
+    "publisher": "Warner Bros. Interactive",
+    "developer": "Avalanche Software",
+    "players": "1",
+    "genres": [
+      "Unique"
+    ],
+    "release_date": "2023-02-10",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202604/0123/7742fc1849dea6b011c1fc98d1ffee1514e331a5ebdf9664.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "ffea2829-3200-485e-92b6-264aba33c9bd",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/taZRFJ8Sx0",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "PapaYas",
+      "firmware": "",
+      "created_by": "6a42905bcd61e0bcf63ddeca"
+    },
+    {
+      "id": "050385ba-cba4-4944-b665-d34616f83b9d",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/j8fKjsj3vS",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "PapaYas and Psykzhack",
+      "firmware": "",
+      "created_by": "6a42905bcd61e0bcf63ddeca"
+    }
+  ]
+}

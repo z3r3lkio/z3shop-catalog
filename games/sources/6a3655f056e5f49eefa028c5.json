@@ -1,0 +1,96 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028c5",
+    "title_id": "PPSA28101",
+    "title": "Life is Strange Reunion",
+    "version": "1.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 22774064087
+  },
+  "metadata": {
+    "description": "Chloe Price was Max Caulfield’s partner in time… Losing her is Max’s greatest regret. Now Chloe has come to Caledon University. Haunted by nightmares and impossible memories, Chloe needs Max’s help. But Max is already in crisis: in three days, a deadly inferno will destroy the campus. Max’s Rewind power has bought her time – but she can’t prevent the blaze alone. The fire will force Max and Chloe to make devastating decisions. Can they find a future together… Before everything burns? AN EPIC FINALE The saga of Max and Chloe, and the fate of Caledon, is yours to decide! Play as both Max and Chloe as an all-new story builds towards an epic climax. REWIND RETURNS Max’s iconic power is back! Undo and redo every decision, change the course of conversations, and manipulate your environment to solve four-dimensional puzzles. PLAYABLE PUNK As the Backtalk-wielding Chloe, you'll rely on your wits, guile, and barbed put-downs as you race to unravel the secrets of her nightmares and double memories. LIFE, DEATH, AND CONSEQUENCES No one is safe from the coming blaze: identify the culprits before your friends at Caledon meet their fiery demise. Who will survive? That’s down to you! EXCLUSIVE SOUNDTRACK A rich original score and songs, and licensed tracks both nostalgic and new.",
+    "notes": "",
+    "credits": "Thanks @DUPLEX and SiESPta Team for the files and BestPig for the backport",
+    "publisher": "SQUARE ENIX CO. LTD.",
+    "developer": "Deck Nine Games",
+    "players": "1",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "2026-03-26",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202603/3012/60193e30995fdece36fcc133ade9337b568a5c95abe14091.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "26483eb0-6ae4-43a4-971d-9bbe14df21de",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/WdMukTe5ZQ",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "e2aaf401-42a5-49e0-9ab9-30ba1c6b4427",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?9kv60ias62r98qxzpvfj",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "43c1e33d-1ad9-4e5f-9035-5c900be682ef",
+      "provider": "DLCs (PKG – DUPLEX)",
+      "url": "https://akirabox.com/1RgzRNPLVzbp/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "3473a0b7-e40a-4672-bda9-549ab2e53aa9",
+      "provider": "1fichier - DLCs (PKG – DUPLEX)",
+      "url": "https://1fichier.com/?8k5zfucqdjk55cfbfimk",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

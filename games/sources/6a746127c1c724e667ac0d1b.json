@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a746127c1c724e667ac0d1b",
+    "title_id": "PPSA01649",
+    "title": "Call of Duty Modern Warfare 3",
+    "version": "01.055",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 161061273600
+  },
+  "metadata": {
+    "description": "ADAPT OR DIE IN A FIGHT AGAINST THE ULTIMATE THREAT In the direct sequel to the record-breaking Call of Duty®: Modern Warfare® II, Captain Price and Task Force 141 face off against the ultimate threat. The ultranationalist war criminal Vladimir Makarov is extending his grasp across the world causing Task Force 141 to fight like never before. IT’S TIME TO SETTLE OLD SCORES AND START NEW ONES Modern Warfare® III celebrates the 20th anniversary of Call of Duty® with one of the greatest collections of Multiplayer maps ever assembled - both fan favorites and all new ones. This includes all 16 launch maps from the original Modern Warfare® 2 (2009), modernized with new modes and gameplay features, as well as multiple new core 6v6 maps. ALL NEW OPEN WORLD ZOMBIES For the first time, team up with other squads to survive and fight massive hordes of the undead. Modern Warfare® Zombies (MWZ) tells a new Treyarch Zombies story with missions, core Zombies features, and secrets to discover.",
+    "notes": "There is issue with campaign not launch. How to fix first: make sure turn off internet in network settings then launch game and choose offline mode and go to campaign MW3. You need keep press X few times to launch Campaign.",
+    "credits": "Thanks to High-Speed007 for the Files with DLCs and Pippo for the exfat",
+    "publisher": "Activision",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2023-11-02",
+    "store_url": "https://store.playstation.com/en-us/product/UP0002-PPSA01649_00-CODMW3CROSSGEN01",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202605/2821/ba137e634b399af9ef219d908c97205e4d4d88c206d0cb74.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "f6d55eab-8b1c-488e-95da-5a9425679bd5",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/dgWNtnKcFI",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "5a42842a-1e4e-427a-976c-c9ca2cb9216e",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01649_CODMW3",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

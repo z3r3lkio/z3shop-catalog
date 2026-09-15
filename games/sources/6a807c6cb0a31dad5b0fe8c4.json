@@ -1,0 +1,82 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a807c6cb0a31dad5b0fe8c4",
+    "title_id": "PPSA09384",
+    "title": "The Caligula Effect Overdose Deluxe Edition",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 13099650253
+  },
+  "metadata": {
+    "description": "School is back in session! The Caligula Effect: Overdose boasts enhanced visuals and gameplay, including new characters, new scenarios, new endings, and the mysterious 'Forbidden Musician Route'! Play as the newly-added female protagonist, develop and execute flawless battle strategies with the Imaginary Chain, befriend and recruit over 500 students to your cause, or turn the tables and sabotage the Go-Home Club's efforts to return to the real world!",
+    "notes": "",
+    "credits": "Thanks to DUPLEX for the Files, Pippo for DLCs & exfat file and DecKerr97 for the BackPort",
+    "publisher": "NIS America Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Role Playing Games"
+    ],
+    "release_date": "2019-03-12",
+    "store_url": "https://store.playstation.com/en-us/product/UP1063-CUSA13817_00-CALIGULAOD000001",
+    "trailer": "https://apollo2.dl.playstation.net/cdn/UP1063/CUSA13817_00/FREE_CONTENT1oVDr2iHPYzXpNkh6yZB/PREVIEW_GAMEPLAY_VIDEO_174299.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "dbb73a4f-1ca6-4540-b11e-beda4c3c779a",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/7d5GLZZgQ3xR/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "c801dc30-6744-462b-a54c-6c9004a05cee",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/TDlzbiFog4",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "eaff89fd-fb13-41bd-a7de-1c6214e19669",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA09384_The_Caligula_Effect_Overdose",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

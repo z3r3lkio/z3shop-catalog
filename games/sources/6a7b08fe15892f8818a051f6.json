@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7b08fe15892f8818a051f6",
+    "title_id": "PPSA24203",
+    "title": "THE HOUSE OF THE DEAD 2: Remake",
+    "version": "02.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 8482560410
+  },
+  "metadata": {
+    "description": "THE HOUSE OF THE DEAD 2: Remake is a remake of the second entry in the well-known and popular rail-shooter series. Take on the lone role of a secret agent as James or Gary, or team up in co-op mode to neutralize the dangerous undead monsters standing in your way. Story: In February 2000, a small city was suddenly overrun by hostile creatures. Two AMS agents, James Taylor and Gary Stewart, were sent to investigate. Upon arrival, they noticed that the situation resembled the Curien Mansion incident from 1998. Determined to uncover the source of the infestation, they began shooting their way through hordes of creatures. Game Features: • Remastered music (with the classic soundtrack also available in the game) • Modern graphics • Gameplay faithful to the original game • Co-op mode • Multiple endings and branching levels Various Game Modes: • Classic Campaign: Almost two years after the events of the first installment, AMS agents James Taylor and Gary Stewart are deployed to investigate a city seized by undead creatures. • Boss Mode: Take on the challenge of defeating the game’s bosses as fast as you can. • Training Mode: Polish your skills in several available training scenarios to improve your abilities before deploying on a mission.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & SiESPta for the Files, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "FOREVER ENTERTAINMENT S. A.",
+    "developer": "MegaPixel Studio S",
+    "players": "2",
+    "genres": [
+      "Shooter"
+    ],
+    "release_date": "2025-10-24",
+    "store_url": "https://store.playstation.com/en-us/product/EP3948-PPSA24204_00-0545907925007602",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202510/1613/9bc3dba4334f99768fc8dc67a7b5e8a1aa9a2558e80b3136.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a2c01222-bf45-4b5f-82a3-2d8d5cc2c5db",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA24203_The_House_of_the_Dead_2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "8e068f5b-bfd7-4e41-b546-40c4cd6ae557",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/mVm5Telz4l",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

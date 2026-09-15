@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4a77de2860efac54e4aa7e",
+    "title_id": "PPSA02433",
+    "title": "Crash Bandicoot 4 Its About Time",
+    "version": "01.000.002",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 22645215068
+  },
+  "metadata": {
+    "description": "If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Buy digitally and get the Totally Tubular Skins for Crash and Coco*. Get time-shattering skins 'Marsupus Erectus' and 'Serious Upgrade', first on PlayStation®**. It’s About Time - for a brand-wumping new Crash Bandicoot™ game! Crash fourward into a time shattered adventure with your favorite marsupials. Neo Cortex and N. Tropy are back at it again and launching an all-out assault on not just this universe, but the entire multiverse! Crash and Coco are here to save the day by reuniting the four Quantum Masks and bending the rules of reality. New abilities? Check. More playable characters? Yep. Alternate dimensions? Obviously. Ridonkulous bosses? For sure. Same awesome sauce? You bet your sweet jorts. Wait, are they actually jorts? Not in this universe!",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 & TheRadziu for the Files and Pkykzhack for DLCs",
+    "publisher": "Activision",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2021-03-12",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202009/2807/7fMNVQ1y1r759qUk2cFb5mO6.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "7b4f4078-12d0-45b1-8bd4-a936bb71a005",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/NM8lsWpGM9",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "T4MAGO",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "e4f884e0-e1c5-4a33-9bd6-692836daaed3",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/jar3X6OJjG2d/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

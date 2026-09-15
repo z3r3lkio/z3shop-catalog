@@ -1,0 +1,112 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a8083c9b0a31dad5b0fe8c6",
+    "title_id": "PPSA09790",
+    "title": "Dragon Ball Fighter Z",
+    "version": "01.010",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 9556302234
+  },
+  "metadata": {
+    "description": "DRAGON BALL FighterZ is born from what makes the DRAGON BALL series so loved and famous: endless spectacular fights with its all-powerful fighters. Partnering with Arc System Works, the game maximizes high end Anime graphics and brings easy to learn but difficult to master fighting gameplay. 3vs3 Tag/Support Build your dream team and sharpen your skills to master high-speed tag combinations. Thrilling Online Features Ranked matches, interactive lobby, crazy 6-player Party Match... There is something for every taste! Exclusive Story Mode Discover a never-seen-before scenario featuring Android 21, a brand new character whose creation was supervised by Akira Toriyama himself.",
+    "notes": "Thanks to High-Speed007 for the Files, romhunter for DLCs and Pippo for the exfat file",
+    "credits": "",
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Fighting",
+      "Fighting"
+    ],
+    "release_date": "2024-02-29",
+    "store_url": "https://store.playstation.com/en-us/product/UP0700-PPSA09790_00-DBPROJECTZGOKU18",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202103/2623/Oz3WXZKaLHhoHZPdfqrVM6BC.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "659ecc6c-8214-4f02-bc53-5a0ac5deedb1",
+      "provider": "Data",
+      "url": "https://datanodes.to/lnmf4nvps7wn/All_35DLCs_realromhunter.rar",
+      "mode": "archive",
+      "direct": false,
+      "archive": true,
+      "extension": ".rar",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "416b116b-a680-4a38-8a42-f87f2da1d570",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/jar3Xll6Q32d/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "ac1493ee-9663-4a37-8fd2-2fd98e6b28cc",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/go5HntJXP0",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "13cd9024-d366-4352-969c-771c1642532f",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/9QWmpAARk3EB/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "a9a08a53-91f1-46e4-8022-ac91b76b951f",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA09790_DRAGON_BALL_FighterZ",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028c6",
+    "title_id": "PPSA30094",
+    "title": "High on Life 2",
+    "version": "1.100.100",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 62620623176
+  },
+  "metadata": {
+    "description": "An intergalactic conspiracy threatens the fate of humanity! Team up with a wide cast of talking alien guns as you shoot, stab, and skate your way through the exotic locales to take down the bad guys and save your favorite species (humans)!",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files and BestPig for the BackPort",
+    "publisher": "Squanch Games, Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "release_date": "2026-02-13",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202602/1803/3ed924f931af4ea311250102056710659d0e05dd0ff6e0d2.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "99fd109b-5c6d-4d96-9acb-56b37c2990c8",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/XxSu4FyN8E",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "6809b545-fe91-4e0e-9024-6b06449b0474",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?eyqoo4p3ds7szt1s5pcl",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "0c3be505-8847-46f3-a914-cc0021683010",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA30094_High_on_Life_2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

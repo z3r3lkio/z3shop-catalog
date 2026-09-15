@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a6f6b85a80b138b911d68d9",
+    "title_id": "PPSA08592",
+    "title": "Monster Energy Supercross The Official Videogame 6",
+    "version": "01.008",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 22333829939
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. Mud, sweat, fun and adrenaline: find the rider in you and jump into the action with Monster Energy Supercross 6! Live all the emotions of the Monster Energy Supercross 2022 Championship with the official bikes, riders, and tracks. Take advantage of the wide range of settings to customize every detail of your game experience, freely choosing the amount of realism and riding ease. This year, Supercross 6 follows an entirely new and unique perspective – yours! YOUR PERSONAL COACH Leave your mark in the Supercross world with the aid of your coach and mentor, the legendary Jeremy McGrath! Learn all of his tricks in the Supercross Academy and rely on his teachings to reach the peak of the Championship in a Career mode that is more immersive than ever. Rack up successes, impress the sponsors, race through unique rivalries, and become the Supercross world champion! LET'S GO FOR A RIDE From the airport to the mine, from the mountain to the stadium, the new Supercross Park offers unique locations to explore on your own or with friends! Every area is connected by Supercross circuits and motocross tracks that you can use to practice, perform stunts, or simply take in the view. RHYTHM ATTACK You. Your opponent. A straight road. Everything else is superfluous. Open the throttle and follow the flow to cross the finish line first in the new Rhythm Attack mode. Prove your worth, race after race, in the single elimination tournaments that take place in breathtaking locations like canyons and forests. YOUR CHALLENGE, YOUR JOURNEY Customize every part of your climb until you become the world champion! Choose how to develop your rider's skills and adjust each detail of your bike's setup. And that’s not all! Build your ideal track with the Track Editor, create an unmistakable style with the Helmet Editor and customize the rider and the bike thanks to a wide range of accessories. FIRST TIME IN THE SADDLE? Don't let the turns and bumps scare you – the new riding aids will pull you right into the action from the first race. Thanks to Assisted Braking, Steering, and Acceleration, you will be able to become familiar with the track and discover the best trajectories to follow in order to reach the goal – winning! RACE ONLINE Crossing the finish line before everyone else, performing perfect maneuvers, riding for hundreds of miles on your bike – thanks to the new online ranking system, you can earn points and climb the leaderboards with these or other activities, or even by specializing in the ones you prefer. And everything is integrated with the new cross-play function, so you can play with your friends on any console! If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™-game-disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Milestone",
+    "developer": "Milestone S",
+    "players": "2",
+    "genres": [
+      "Driving/Racing"
+    ],
+    "release_date": "2023-03-09",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202303/0907/793a388bcaace41f8eae7b1e34e6aea3ee77b30b491bcd11.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "0d6e24a0-d0ae-4785-abd9-44095b7dc6c8",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/784KpeLFXk",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "ee09a02c-8ee4-4da7-a58f-76d6154db3d0",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA08592_Monster_Energy_Supercross",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

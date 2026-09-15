@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a740fe6ad740911cff8917c",
+    "title_id": "PPSA16033",
+    "title": "The Alters",
+    "version": "01.000.013",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 60580513710
+  },
+  "metadata": {
+    "description": "The Alters is an ambitious sci-fi survival game with a unique twist. You play as Jan Dolski, the lone survivor of a crash-landed expedition on a hostile planet. To survive, you must form a new crew for your mobile base. Using a substance called Rapidium, you create alternative versions of Jan—THE ALTERS—each one shaped by a different crucial decision from the protagonist’s past. As you navigate through survival and moral dilemmas, you will explore a branching narrative filled with captivating character dynamics and challenging decisions. Features: • Craft items and build your base. • Gather resources to escape the deadly sun. • Survive on a hostile planet. • Create Alters and manage their needs. At the same time, you’re challenged to reflect on one of life’s fundamental questions – do we shape our destiny or does it shape us? This makes your bid for survival a deeply personal experience. Create Your Alters Use the quantum computer onboard your base to simulate alternate outcomes of your past choices and uncoverJan’s different life paths. Each Alter brought to life thanks to the remarkable properties of Rapidium comes with unique skills and emotional depths. These variantions offer both opportunities and challenges as you navigate personal struggles and manage the fragile dynamics of your crew. Survival Mechanics To operate the mobile base, you’ll need to explore the planet’s surface in search of precious resources, like metals and organics. Yet venturing outside the safe haven comes with the risk of exposing you and your Alters to various deadly anomalies as well as the ever-present radiation of the sun. That’s why you must pay attention to the in-game day and night cycle and plan your daily activities wisely! Branching Storylines Navigate a narrative rich with moral dilemmas and branching paths. Your choices will shape Jan’s relations with his Alters which then will impact their journey and lead you to multiple outcomes and endings. Expand your base Gathered resources can be used in different ways – create necessary items or develop your base with additional modules like Research Lab or Social Room. Sometimes you will have to choose between creating items specially for your Alters and ones that could push the mission forward, like Anomaly Detectors or Radiation Filters. The burden of every decision lies solely on your shoulders as you will never be able to satisfy everyone’s needs. The emotional sci-fi story Jan Dolski is about to face the answers to the essential “what if?” question in the form of alternative versions of himself. This makes the predicament he is in even more daunting as you slowly discover the impact every choice has on Jan’s survival.",
+    "notes": "",
+    "credits": "Thanks to DLPS team for the Dump",
+    "publisher": "11 Bit Studios S.A.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "2025-06-13",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202506/1210/be99a58b653725684c3cefa54561ab07771aeddf49fed9fb.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "2753d2a1-d090-47f3-896f-ca8e592b1548",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/z5g69P2Xud",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "PapaYas",
+      "firmware": "",
+      "created_by": "6a42905bcd61e0bcf63ddeca"
+    },
+    {
+      "id": "38548372-6d43-4b09-86c8-a041c513a4cd",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA16033_The_Alters",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

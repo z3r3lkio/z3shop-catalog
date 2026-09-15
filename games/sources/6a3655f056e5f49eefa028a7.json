@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028a7",
+    "title_id": "PPSA01716",
+    "title": "Need for Speed Unbound",
+    "version": "1.029",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 33554432000
+  },
+  "metadata": {
+    "description": "Race against time, outsmart the cops, and take on weekly qualifiers to reach The Grand, Lakeshore's ultimate street racing challenge. Pack your garage with precision-tuned, custom rides and light up the streets with your style, exclusive fits, and a vibrant global soundtrack that bumps in every corner of the world Updates to the game come in the form of Volumes - as the game builds towards becoming the Ultimate NFS Experience in one place for the first time VOL. 9: LOCKDOWN Ride or die with your crew - break into Lockups using NFS's first motorbike and claim the Hot rides inside, plus the arrival of the fully customizable Subaru Impreza WRX STI ’99 and Honda Integra Type R ’98 VOL. 8: COPS VS. RACERS Relive the original thrill of the chase - with the return of Hot Pursuit mode, Pursuit Tech, and all-new Cop Progression, plus the arrival of the fully customizable Porsche 959 S ‘87 and Lotus Evija ‘23 VOL. 7: DRIFT & DRAG Discover new feels for classic skills - featuring the reintroduction of Drift and Drag modes and League progression, and the arrival of the fully customizable Ford Mustang Dark Horse '24 and BMW M3 Competition Touring '23 VOL. 6: HEAD TO HEAD Jump straight into the competition with a new dedicated PVP mode featuring weekly playlists, crush your rivals with the introduction of three fully customizable Audi cars VOL. 5 Show that you’ve reached the top of the scene VOL. 4 Celebrate 75 years of Porsche VOL. 3 Work together to crush intense stunt-based challenges VOL. 2 Head back into the city as Lakeshore evolves",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files and BADERLINK for the BackPort",
+    "publisher": "Electronic Arts Inc",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Driving/Racing"
+    ],
+    "release_date": "2022-12-02",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202412/1315/9f0ba4827c128407bd70e833c19b21f63d3cce8c8b6b7b52.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "2bf70d88-dbb7-46ed-9191-6982e4e2adbf",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/DoFiSw8eYH",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "4a01f6b9-e8fa-4303-a5bd-97dd6d400b4f",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01716-NfS-Unbound",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

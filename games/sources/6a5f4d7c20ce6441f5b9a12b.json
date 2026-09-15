@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5f4d7c20ce6441f5b9a12b",
+    "title_id": "PPSA25646",
+    "title": "Tetris Forever",
+    "version": "01.007",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 5443871048
+  },
+  "metadata": {
+    "description": "2025 BAFTA Games Awards Nominee - 'Game Beyond Entertainment' • Celebrating 40 captivating years of Tetris®! • Includes more than 15 playable classic Tetris games, and an all-new Tetris game – Tetris Time Warp. Unrivaled after four decades, Tetris Forever celebrates the original, genre-inspiring puzzle game that escaped from behind the Iron Curtain, onto the world stage, and into our cultural consciousness! More than 15 playable classic games from the series' history are featured, including many being released for the first time outside Japan. Battle your friends in the multiplayer cult favorite Tetris Battle Gaiden, create massive explosions to clear lines in Super Bombliss, and see where it all began in 1984 with an accurate recreation of the first version of Tetris on the Electronika 60 computer. As the next release in Digital Eclipse's acclaimed Gold Master Series, Tetris Forever includes more than an hour of all-new documentary featurettes exploring the lifelong friendship and creative partnership between Tetris creator Alexey Pajitnov and The Tetris Company founder Henk Rogers, as they share the extraordinary but true story about Tetris that you never knew. And as this celebration wouldn’t be complete without an all-new Tetris experience, prepare to enter the… Tetris Time Warp! Up to four players will \"warp\" between different eras of Tetris in real time to experience a variety of classic graphic styles and play mechanics! In a world where games come and go – Tetris is Forever!",
+    "notes": "",
+    "credits": "",
+    "publisher": "Atari Inc.",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Puzzle",
+      "Arcade"
+    ],
+    "release_date": "2024-11-12",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202411/1217/983b2e2fd167c2349d3bb4c4f6e32afacd7f4b4c54370f56.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4fb40d38-c8f5-4064-9d99-1c3560303fea",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA25646_Tetris_Forever",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "53b6fcb7-a147-451b-8fc1-84d760cbd387",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/qJNNTgzkSU",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

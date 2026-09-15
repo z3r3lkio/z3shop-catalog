@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a75af9de76beadd88604bf5",
+    "title_id": "PPSA03847",
+    "title": "Assetto Corsa Competizione",
+    "version": "01.042",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 19756849562
+  },
+  "metadata": {
+    "description": "Born from KUNOS Simulazioni's long-term experience in recreating top-grade driving simulations, Assetto Corsa Competizione allows you to feel the real atmosphere of the GT3 championship, competing against official drivers, teams, cars & circuits reproduced in-game with the highest level of accuracy ever achieved on console. Using sophisticated mathematical models, the engine carefully simulate tyre grip, aerodynamic impact, engine parameters, suspensions and electronics systems that determine vehicle balance, as well as the influence of mechanical damage on the car's drivability. Sprint, Endurance and Spa 24 Hours races come to life with an incredible level of realism, in both single and multiplayer modes. Offering photorealistic weather conditions and graphics, night races, motion capture animations, it's a new standard in terms of driving realism and immersion. There's no better time than now to #beACC. The next generation of simulation racing is here. Assetto Corsa Competizione for PlayStation 5 boasts Improved frame rate and upgraded visuals giving racers the most immersive racing experience to date. - Includes the Fanatec GT World Challenge Europe 2024 season (new entries, liveries, drivers, and the full championship season)* -Smooth 60 FPS gameplay -Free private multiplayer lobbies -Free upgrade for existing owners -4k visuals -2021, 2022, 2023, 2024 liveries -Multiplayer up to 30 racers -New BMW M4 GT3 *Note: Certain entries may require ownership of specific DLCs",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files and Pippo for the exfat files",
+    "publisher": "505 Games",
+    "developer": "KUNOS Simulazioni Srl",
+    "players": "1",
+    "genres": [
+      "Driving/Racing"
+    ],
+    "release_date": "2022-02-22",
+    "store_url": "https://store.playstation.com/en-us/product/UP4040-PPSA03847_00-ACCOMPPS50000000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202006/1507/SScRMKKSGmAigr8ACpqXnofI.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4380f8a1-7399-4871-a124-65aa5b36b210",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/pfE5hzvt2W",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "acbefb16-0222-46ee-8e87-12c828e3117a",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA03847_Assetto_Corsa",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028a2",
+    "title_id": "PPSA02387",
+    "title": "A Plague Tale Innocence",
+    "version": "1.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 36646808453
+  },
+  "metadata": {
+    "description": "Follow the critically acclaimed tale of young Amicia and her little brother Hugo, in a heartrending journey through the darkest hours of history. Hunted by Inquisition soldiers and surrounded by unstoppable swarms of rats, Amicia and Hugo will come to know and trust each other. As they struggle to survive against overwhelming odds, they will fight to find purpose in this brutal, unforgiving world. Enjoy 4K resolution, 60FPS, highly improved visuals and fast loading on PlayStation®5.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & Dorukhan & SPX for the Files and Pkykzhack for DLCs",
+    "publisher": "Focus Entertainment",
+    "developer": "Asobo Studio and published by Focus Home Interactive",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2019-05-14",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202107/0610/slcId1I4mpJebPsOpITBEtHS.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "23a709a1-3c43-4472-933d-15ff49ad3494",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA02387_A_Plague_Tale_Innocence",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

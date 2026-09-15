@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3caded138661f6c610d4b9",
+    "title_id": "PPSA30568",
+    "title": "Invincible VS",
+    "version": "01.000",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 8912057139
+  },
+  "metadata": {
+    "description": "Invincible VS is a brutal superhero 3v3 tag fighting game set in the Invincible universe, where you can battle to the death as a team of fan-favorite characters in iconic locations. Unleash bone-breaking combos through fast combat and smart defensive tactics to leave a trail of blood and destruction. Land vicious Super moves and Ultimates to leave your opponents in a mess of blood. Invincible VS features a variety of game modes including a captivating cinematic story mode with an original narrative from a writer of the animated series. Jump into Arcade and battle with your team, hone your combos in Training mode, and test your skills against the world in competitive and casual multiplayer. Show, comic fans, and fighting game lovers will experience unparalleled heroic brutality, where every earth-shattering blow will leave you feeling... Invincible. This is the debut title from the newly formed Quarter Up™—the first in-house studio at Skybound—led by former members of the core Killer Instinct (2013) dev team.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files",
+    "publisher": "SKYBOUND INTERACTIVE LLC",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Fighting"
+    ],
+    "release_date": "2026-04-30",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202605/0901/b6f3a1acf9a4ac641e79c9a6131974d89053c247f97d9eae.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "fbb9f976-f9eb-428c-a37d-ddaf786b9464",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA30568-Invincible-VS",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

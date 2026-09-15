@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028c4",
+    "title_id": "PPSA25258",
+    "title": "Ninja Gaiden 4",
+    "version": "1.004",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 32555852104
+  },
+  "metadata": {
+    "description": "The definitive ninja hack & slash franchise returns with NINJA GAIDEN 4! Embark on a cutting-edge adventure where legacy meets innovation in this high-octane blend of style and no-holds-barred combat. Return of the Legend Experience a return to the intense, high-speed combat that established NINJA GAIDEN as a premier action game series. Prepare for a legacy reborn with captivating style for a new generation of players. Epic Hack and Slash Combat, Evolved NINJA GAIDEN 4 fuses Team NINJA’s tempered combat philosophy with the stylish, dynamic action gameplay of PlatinumGames. Engage in visually stunning combat that rewards precision and strategy. Use Bloodbind Ninjutsu to transform your weapons and unleash devastation upon your enemies, alongside legacy techniques like the Izuna Drop and Flying Swallow. The legendary Ryu Hayabusa also returns with a revamped yet familiar set of tools to master. With a customizable player experience, NINJA GAIDEN 4 will push action game veterans to their limits while allowing newcomers to enjoy a heart-pounding adventure full of twists and turns. An Ancient Enemy Returns An endless rain of miasma hangs over a near-future Tokyo in the wake of an ancient enemy’s resurrection. The fate of the city lies in the hands of young ninja prodigy, Yakumo. Fighting his way through cybernetic ninja soldiers and otherworldly creatures, Yakumo must reconcile a destiny he shares with the legendary Ryu Hayabusa himself and free Tokyo from the ancient curse that brought the city to its knees.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, Psykzhack for DLCs",
+    "publisher": "Microsoft Corporation",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-10-21",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202510/2023/1908a0d7063d2584b9bff5bd2331763e4fb60084a957e12b.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "594bcc30-f6ef-45b3-908d-7979c40fe513",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/04zuDONlc0",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "Jason",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "1df4d64c-4eb1-409e-b209-6839b63abcf5",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?ytmfuqe3hg4joq1sxk7n",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

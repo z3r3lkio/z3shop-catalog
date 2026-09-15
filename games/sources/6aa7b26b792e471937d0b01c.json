@@ -1,0 +1,52 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa7b26b792e471937d0b01c",
+    "title_id": "PPSA01746",
+    "title": "Kena Bridge of Spirits",
+    "version": "02.008",
+    "pack": "fpkg",
+    "region": "USA",
+    "size_bytes": 20712479785
+  },
+  "metadata": {
+    "description": "Kena: Bridge of Spirits is a story-driven action adventure set in a charming world rich with exploration and fast-paced combat. Players find and grow a team of tiny spirit companions called the Rot, enhancing their abilities and creating new ways to manipulate the environment. Kena, a young Spirit Guide, travels to an abandoned village in search of the sacred mountain shrine. She struggles to uncover the secrets of this forgotten community hidden in an overgrown forest where wandering spirits are trapped. Find the Rot Timid and illusive spirits scattered throughout the forest. They maintain balance by decomposing dead and rotting elements. Key Features • Build Your Team: Find and collect Rot to gain powerful abilities, make discoveries, and transform the environment. • Explore: A forgotten village and a strange curse. Draw on the power of the Spirit Realm to restore this once-majestic world. • Fast-Paced Combat: Spirits have become corrupt, trapped and unable to move on, challenging Kena at every turn.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, Pkykzhack for DLCs, bbaderlink for the BackPort and Drakmor for the FPKG Tool",
+    "publisher": "EMBER LAB",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2021-09-21",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202011/1120/ZaMlsKTPJY5wt2t0PdRPrkfs.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "f69557cd-febc-47dc-8c40-51ff8c495688",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/1bCBagCX5w",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

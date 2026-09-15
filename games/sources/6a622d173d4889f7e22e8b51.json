@@ -1,0 +1,68 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a622d173d4889f7e22e8b51",
+    "title_id": "PPSA17245",
+    "title": "Teenage Mutant Ninja Turtles Mutants Unleashed",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 11059540787
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4® version and the digital PS5® version of this game. Mutants and humans have been kickin’ it together in New York City. But then, Leonardo, Raphael, Michelangelo, and Donatello discovered several shipments of mutagenic ooze were scattered, contaminating areas of the City. It didn’t seem so bad until they realised new mutants, a.k.a. 'Mewbies', spawned from this mess. Not all these Mewbies are evil, but some have lost their way, and the citizens don't feel safe anymore. Join the legendary Turtle brothers straight from the sewer and slide into this new adventure of shell-shocking proportions. With the help of April’s insightful reports from the streets and Splinter’s sage guidance, gear up to fight crime and unravel an epic saga of justice and chaos! Embark on the adventure in single or co-op mode to change the minds of the citizens, get those pizzas delivered on time, and try not to eat them on the way. CHOOSE YOUR TURTLE AND MASTER YOUR NINJA SKILLS – Play as the legendary brothers, Raphael, Michelangelo, Leonardo, and Donatello. HANGOUT IN THE NEIGHBORHOOD AND SEWERS – Help the citizens, find the mewbies, deliver pizzas, and build your graffiti collection. RISE TO THE CHALLENGE TOGETHER - Team up with a friend in two-player couch co-op. INSPIRED BY THE MOVIE – Continue the mayhem in the search for mewbies. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Outright Games LLC",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Family",
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2024-10-18",
+    "store_url": "https://store.playstation.com/en-us/product/UP3824-PPSA17245_00-TMNTMU0000000001",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202410/1619/52db3a3df4ae53f54627551d6c609cb9bba332a06f2be117.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "d66fd98d-b594-4e20-8c66-ce9d56bdac05",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/qDXDQ1a9zX",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "86be24e6-37a0-4505-810a-6ec88030f6f7",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA17245_TMNT_Mutants_Unleashed",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

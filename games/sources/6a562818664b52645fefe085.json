@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a562818664b52645fefe085",
+    "title_id": "PPSA21704",
+    "title": "Kingdom Come Deliverance 2 Royal Edition",
+    "version": "01.052",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 150323855360
+  },
+  "metadata": {
+    "description": "Live a life medieval with the unforgettable RPG experience of Kingdom Come: Deliverance II. Immerse yourself in a thrilling adventure - through the eyes of Henry - as you embark on a quest of epic proportions. The Royal Edition includes the base game, all the exciting story DLC and additional expansion sets to make your Middle Ages journey truly unforgettable. Kingdom Come: Deliverance II Royal Edition contains: -Gallant Huntsman’s Kit -Shields of Seasons Passing -The Lion’s Crest - Brushes with Death - Legacy of the Forge - Mysteria Ecclesiae",
+    "notes": "DLCs won't work if the account you are launching the game from was never online before. You would need to run the payload np-fake-signin-ps5 before then.",
+    "credits": "Thanks to DUPLEX for the Files with DLCs",
+    "publisher": "Deep Silver",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2025-02-04",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202404/1818/a90510b90da22cfa16ae9ae6b8a96a085e9eaddb601871b3.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "b4397380-51c5-409a-9a19-c1c44c97f9a3",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA21704",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "9c14229f-bc50-47d8-8817-e0dc98803018",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?l2zl9tg8yaj1mu2nlmmy",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

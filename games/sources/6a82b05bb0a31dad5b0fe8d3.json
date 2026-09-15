@@ -1,0 +1,128 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a82b05bb0a31dad5b0fe8d3",
+    "title_id": "PPSA03683",
+    "title": "Gungrave GORE",
+    "version": "01.010",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 37044092928
+  },
+  "metadata": {
+    "description": "In Gungrave G.O.R.E, play the gun-wielding badass anti-hero of your dreams as you mow down tons of enemies in a gory ballet of bullets and experience a story of vengeance, love and loyalty, all in a beautiful third-person action shooter, combining the best that Eastern and Western game design have to offer. \"Gungrave G.O.R.E is a stylish third-person action shooter by South-Korean Studio IGGYMOB in which you take on the role of Grave, a gunslinger of resurrection and badass anti-hero of your dreams, mowing down tons of enemies in a gory ballet of bullets.\" G.O.R.E As the titular Gunslinger of Resurrection, you become the badass anti-hero of your dreams, an ultimate killing machine, brutalising your foes without mercy. Taking cover and retreating is not an option for Grave, he only ever goes full steam ahead, preferably right through his enemies. Style on your foes with gun-tastic stylish combat Stylish third-person shooting meets close-range martial arts, creating seamlessly flowing action as you crush your enemies in a gory ballet of bullets. Utilise your unlimited ammo Cerberus pistols and your transformable EVO-coffin to unleash devastating combos in pursuit of maximum damage and style. Let there be Vengeance Strap in for a wild ride, an epic & emotional story of vengeance, love and loyalty, with more than 12 hours of gameplay in the story mode, for Gungrave fans and newcomers alike. Enjoy the Scenery Go on an epic adventure across South-East Asia, based on real-life locations with a dark, futuristic twist.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, Pkykzhack for DLCs, DecKerr97 for the BackPort and Pippo for the exfat",
+    "publisher": "Prime Matter",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Unique",
+      "Action",
+      "Shooter"
+    ],
+    "release_date": "2022-11-22",
+    "store_url": "https://store.playstation.com/en-us/product/UP6714-PPSA03683_00-GGSTANDARDSIEA01",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202211/2110/6eGeKZxj1km7GRszm7wVBWVT.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "7b1df035-99d9-4b89-8ed7-c9cb6761cd8a",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/yAtl9tpcx3",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "596aab13-a9a8-40e1-885e-fb73524ec46c",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/wrJBOT9ku5",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "3f237008-77e1-44b3-a546-4c306b0fb770",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/qLQ36qXA1m19/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "a6c5ef65-e86a-43d0-bc0e-49d6dc645e12",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/gXeGOAela3Aa/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "4ef251ae-83fc-465c-82e6-07044e32d52b",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/N2p3DPdpV3Ma/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 3,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "2fe5dbd5-1543-4c4d-878e-a8cb575eca6b",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/Zvqzl7pVY3aD/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 4,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

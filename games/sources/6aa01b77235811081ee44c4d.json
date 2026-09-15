@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa01b77235811081ee44c4d",
+    "title_id": "PPSA19406",
+    "title": "Earth Defense Force World Brothers 2",
+    "version": "01.005",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 16642998272
+  },
+  "metadata": {
+    "description": "\"EARTH DEFENSE FORCE: WORLD BROTHERS 2\" will be released on 9/26/2024. Now's YOUR chance to enlist in the EDF and join the fight!! Purchase to get both the PS4™ and PS5™ versions of the game. - The Earth is in pieces...again! We've gotta do more to save the planet! --Loads and Loads of Giant Enemies-- The square Earth is under attack by giant enemies. Giant ants, giant spiders, giant bees, giant scorpions, giant UFOs, giant robots, giant monsters.... And if that weren't enough, there are also giant aliens, and even giant EDF soldiers. The situation seems hopeless! Still...there's nothing more satisfying than taking down these invading foes. --Create Your Own EDF Unit-- Teammates scattered around the world are waiting to be rescued. Select 4 teammates from among those you have collected and create your own team. Design the team perfect for your play style, select your equipment, and then deploy to battle. There are over 100 characters to collect! --Full Array of Soldiers from the History of the EDF Series-- In addition to soldiers from the mainline EDF series, this game also includes soldiers from the EDF spin-offs. Enjoy some familiar faces, as well as soldiers from the latest mainline release, \"EARTH DEFENSE FORCE 6.\" Includes over 600 equippable weapons and accessories. --Familiar Enemies are Back, Too!-- Enemies who ravaged the planet in previous releases have also crossed over into this world to join the fight. Enjoy fighting numerous enemies, including redesigned voxel versions of old favorites, as well as new enemies unique to this release. Includes over 100 missions and 5 difficulty levels. --Online Co-op & Offline Split-Screen Play Supported-- Up to 4-player online co-op supported. Also, as an exclusive feature for the PS4™ and PS5™ versions, split-screen play is supported, allowing you to defend the Earth with your friends and family. - ~The Story~ After Dark Tyrant was defeated, peace was restored on the square Earth—but now, it has been broken into pieces once again. We watched the skies, assuming any new enemies would come from above—which is why we were surprised when the supermassive \"Gaiarch\" emerged from below ground, shattering the Earth into pieces. YOU are the legendary Commander that once saved our planet. Now, we need you to lead another team to save our Earth again. The EDF never back away from defending the Earth, be it round or square—so let's go to the rescue!",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files, Pkykzhack for DLCs and DecKerr97 for the BackPort",
+    "publisher": "D3PUBLISHER",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2024-09-25",
+    "store_url": "https://store.playstation.com/en-gb/product/EP3036-PPSA15928_00-EDFWORLDBROTHER2",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "8b70897c-bf86-411b-9202-29de37aefb97",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/LK0G1b8Ddm91/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "befce5bb-2c4e-482e-bc26-54a3bea2deff",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/LK0G1b8oNm91/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "eb968777-e52e-4ea6-bef4-60bc9fd6f2e9",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA19406_EDF_World_Brothers_2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

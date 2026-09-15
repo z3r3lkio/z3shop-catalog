@@ -1,0 +1,127 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a853cc1b0a31dad5b0fe8e0",
+    "title_id": "PPSA04995",
+    "title": "One Piece Odyssey",
+    "version": "01.002.001",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 33285996544
+  },
+  "metadata": {
+    "description": "This product is a free demo version of ONE PIECE ODYSSEY that allows the Player to play the first part of the main game. The story progress of the demo version can be transferred to the full version. A new RPG from the hugely popular manga and anime series ONE PIECE, commemorating the 25th anniversary of the series! The famed pirate, Monkey.D.Luffy, better known as Straw Hat Luffy, and his Straw Hat Crew, are sailing across the New World in search of the next island and the next adventure that awaits them. But during their voyage they are caught in a storm and shipwrecked. They find themselves washed up on a lush tropical island surrounded by constantly raging storms... Separated from his crew, Luffy sets off on a grand, new adventure to find his friends and escape the island! Dangerous new enemies, terrifying forces of nature, and more await them! Play as various members of the Straw Hat Crew in a classic RPG set in the world of the popular ONE PIECE anime! *Please update system software to the latest version to play this game on PS5. This game can be played on PS5, but some features available on PS4 may not be available on PS5. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "",
+    "publisher": "BANDAI NAMCO ENTERTAINMENT EUROPE",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Role Playing Games"
+    ],
+    "release_date": "2023-01-10",
+    "store_url": "https://store.playstation.com/en-gb/product/EP0700-PPSA06197_00-KIZOKTRIAL000000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202209/2709/ANMaWDhMqWQyBnBnmElcS6sj.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "2245e176-6729-43c8-87c6-6bee9c517c28",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/JQDKjHghmM",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "8ce5f646-c389-421a-b079-60d58f45494f",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/0JgG75A783oY/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "c22c0535-c160-4e97-9dd1-93919068a437",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/0PdzyXJY63eA/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "ce0fb415-76e6-43da-aed9-d805dc6ef770",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/APVmab1wq3Xo/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 3,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "b2a2cef9-2b24-4180-a0b2-746f646a7bf8",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/LJlGn7KMem15/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 4,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "ad5232f3-9b70-4438-a739-63186ea1f165",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/k0embVY6VmVb/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

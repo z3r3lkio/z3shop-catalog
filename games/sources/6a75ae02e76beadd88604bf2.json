@@ -1,0 +1,68 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a75ae02e76beadd88604bf2",
+    "title_id": "PPSA15246",
+    "title": "Teardown",
+    "version": "01.070.100",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 3393024164
+  },
+  "metadata": {
+    "description": "Plan the perfect heist using creative problem solving, brute force, and everything around you. Teardown features a fully destructible and truly interactive environment where player freedom and emergent gameplay are the driving mechanics. Tear down walls with explosives or vehicles to create shortcuts no one thought was possible. Stack objects, build structures, or use floating objects to your advantage. Take your time to create an efficient path through each level, then execute your heist and make a daring escape. Run, jump, drive, boost. Do whatever you need to collect targets, avoid robots or steal whatever your clients ask for. But make sure not to get caught! CAMPAIGN With your company pressured by increasing debt, you start accepting work from some more or less shady individuals. Soon you are knee-deep in a murky soup of revenge, betrayal and insurance fraud. Beginning with some more or less legitimate assignments, you soon find yourself stealing cars, demolishing buildings, blowing up safes, avoiding trigger-happy robots and more. Upgrade your expanding arsenal of tools by searching for hidden valuables scattered around the environments. SANDBOX Play around in the various environments with the tools you have unlocked. In this mode you have unlimited resources and an abundance of vehicles, as well as a Creative Mode editor where you can build voxel creations from scratch. No pressure, just pleasure. CHALLENGES Test your skills in experimental game modes. New challenges unlock as you progress through the campaign. MODS Play the best community-created mods. Easily install new maps, mini games, tools, vehicles and more using the in-game Mod manager. FEATURES • Fully destructible voxel environments • Realistic physical simulation of objects, debris, vehicles, water, fire and smoke • Wide variety of tools ranging from a sledgehammer, blow torch and fire extinguisher to guns and explosives • Multiple campaigns with over 40 escalating missions • Sandbox mode for you build, explore and destroy various environments • Community created mods",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, DecKerr97 for the BackPort and Pippo for the exfat",
+    "publisher": "COFFEE STAIN PUBLISHING AB",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Action"
+    ],
+    "release_date": "2023-11-15",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202311/1416/d42fdc4726faee30495d8a723e9b06140459243776dc02e5.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "e93c9098-3955-479a-aab0-50307c991488",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA15246_Teardown",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "e234db9b-f52d-429a-9963-0fd38b8cf2c0",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/YbOR5U2561",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3ea5d9155384c8115a9afa",
+    "title_id": "PPSA21567",
+    "title": "ASTRO BOT Deluxe Edition",
+    "version": "01.018",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 47566762803
+  },
+  "metadata": {
+    "description": "JOIN ASTRO ON A SUPERSIZED SPACE ADVENTURE When the PS5® mothership is attacked by ASTRO’s long-standing galactic nemesis, scrambling its wires and scattering the crew throughout space, only ASTRO can make things right! Setting off on his biggest mission yet, he needs your help to rescue the stranded crew and rebuild the mothership. Make the most of ASTRO’s new power-ups, handcrafted to level up your immersion: from springy punches and rockets all the way to a giant sponge! Buckle up for some epic PlayStation® camaraderie, join forces with your favourite PlayStation icons and show the universe that small is mighty in this fresh new ASTRO adventure, exclusive to PS5 consoles! - Embark on a galactic quest and explore more than 50 planets in search of ASTRO’s lost crew. - Dash, swing, and rocket-punch your way through this journey, with all-new power-ups. - Feel the world come to life via your DualSense® wireless controller. - Team up with iconic PlayStation heroes to save the galaxy!",
+    "notes": "Totally converted into USA, progress will be no lost from v01.007 (No need anymore Garlic Saves Manager), enjoy.",
+    "credits": "Thanks to SiESPTA for the Files, romhunter for DLCs and ManwonHp for the BackPort",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Team Asobi",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2024-09-06",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202409/0409/669652cc45aaa167cc13ae6338c1183d64a7d6a09affc989.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "75529095-89e5-496a-b26d-8b57abb0a8f2",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA21567_ASTROBOT",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "7ba1eb54-6279-437f-aaf4-f9b90a89b011",
+      "provider": "Archive (Game + DLC) - 4.xx Backport",
+      "url": "https://archive.org/details/PPSA21567_ASTROBOT_4xx",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

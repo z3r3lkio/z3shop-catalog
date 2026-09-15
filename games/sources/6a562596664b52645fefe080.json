@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a562596664b52645fefe080",
+    "title_id": "PPSA22102",
+    "title": "Squirrel With A Gun",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 3414499000
+  },
+  "metadata": {
+    "description": "Squirrel, meet gun. As the neighborhood’s most obnoxious rodent, develop a knack (and a love?) for crime and mayhem in pursuit of golden acorns in this nutty sandbox shooter and puzzle platformer. Fight tooth, claw, and gun to escape a secret underground facility and defeat the Agents. Fight tooth, claw, and gun Discover what an erratic squirrel is capable of with a gun in its paws (or just its paws) and how far how far this fuzzy fiend will go to collect its acorns. Escape a secret underground facility and defeat the Agents. Upgrade your weapons and locate the other secret bunkers to take down elite bosses, even blow up a tank. Swap out weapons to try your paw at all 12 types of enemy takedowns. Solve Intricate Puzzle Rooms to Collect Golden Acorns Navigate unique puzzle challenges to collect all the golden acorns by getting creative with how you use your arsenal of weapons, using weapon recoil to give yourself a boost. Collect enough golden acorns to unlock hidden sections of the game. Have Some Nutty Sandbox Fun Explore the world from a squirrel’s eye view or cruise around in your toy car. Harass the neighborhood or ask for nice pets from curious passersby. Help them out in exchange for goodies (or simply mug them), and unlock cosmetics to create your squirrely style.",
+    "notes": "",
+    "credits": "Thanks @DUPLEX and SiESPta Team for the Files and DecKerr97 for the BackPort",
+    "publisher": "Maximum Entertainment France SAS",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2024-10-15",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202512/0416/0d3d85932414c79ce238f9c797ef473d3d9f73bcd974e142.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "442bc16c-f786-4985-9dcf-ef08fc38d14e",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA22102",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "011eec5e-1212-4286-85f9-4ec9fb3c2eff",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?5cn2m66h2g0bhyyrbxbp",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

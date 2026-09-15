@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028a8",
+    "title_id": "PPSA01285",
+    "title": "Returnal",
+    "version": "3.005",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 66453881487
+  },
+  "metadata": {
+    "description": "BREAK THE CYCLE After crash-landing on a shape-shifting alien planet, Selene finds herself fighting tooth and nail for survival. Again and again she’s defeated, forced to restart her journey every time she dies. In this roguelike shooter, both the planet and your equipment change with every cycle, forcing you to adapt your play style and take on evolving challenges. Choose to go solo through the shifting labyrinth of Atropos, or share your entire journey with another player in online Co-op Mode.¹ Then, when you’re ready, take on the Tower of Sisyphus – an ascending gauntlet of increasingly dangerous phases focused on putting your combat skills to the test.² Engage enemies in bullet hell-fuelled clashes. Scavenge alien tech for upgrades to your abilities. Forge a personal connection with the planet and piece together Selene’s story. PS5™ IN-GAME FEATURES: - Fast loading: near-instant loading speeds of the PS5 console get you rapidly back into the action. - Tempest 3D AudioTech: hear multidirectional 3D Audio – bullets flying past you, enemies circling overhead, or unseen foes creeping up behind you. - Adaptive triggers: switch between firing modes with a single adaptive trigger – go from aiming down sights to your gun’s alternative fire. - Haptic feedback: sense in-game actions – while exploring fragments of Selene’s memories, or when firing visceral alien weapons.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files and BestPig for the BackPort",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Housemarque Oy",
+    "players": "1",
+    "genres": [
+      "Shooter"
+    ],
+    "release_date": "2021-04-30",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202102/1518/4kw3IaUCGAkVWOAXJDdhZWRI.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "7d4d5f09-2380-4e1e-9731-210002305c16",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/sN01dJD3wv",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "T4MAGO",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "efd7b533-4da0-4712-a6c1-8d53465d9ad6",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?q4x9vw13uu6kgfx26eg9",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "bcb7787d-dd11-497b-90d0-7a1937db0e03",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01285_Returnal",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

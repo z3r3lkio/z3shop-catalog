@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5ba1d3664b52645fefe0bf",
+    "title_id": "PPSA21734",
+    "title": "STALKER Shadow of Chornobyl Enhanced Edition",
+    "version": "01.009",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 6367289016
+  },
+  "metadata": {
+    "description": "Back to where it all started — the S.T.A.L.K.E.R. Trilogy, one of the most visionary and groundbreaking survival first-person-shooters of all time returns. Now upscaled, enhanced must-play journey for a new generation. S.T.A.L.K.E.R.: Shadow of Chornobyl, the first chapter of the Legends of the Zone Trilogy, which started it all. Welcome to the former exclusion territory near the Chornobyl Nuclear Power Plant… the most dangerous place on Earth. Play as The Marked One, face sinister mysteries, radiation-soaked anomalous threats and moral dilemmas, as your decisions determine your destiny in this immersive dark sci-fi saga. EMBRACE THE DESOLATION Navigate the isolation and suspense of a harsh Eastern European wilderness, filled with hundreds of desperate vagabonds, mutant creatures, and lurking dangers unseen. EXPLORE ANOMALOUS WORLD Venture through realistic locations deeply rooted in the anomalous aftermath of the Chornobyl disaster. Each area holds its own grim secrets and discoveries, awaiting the bravest stalkers. SURVIVE AT ALL COSTS Treacherous anomalies, invisible radiation, starvation, and ruthless mutants will hunt you in the Zone. Carefully manage your resources and utilize an arsenal of over 30 weapons. Your choices pave a non-linear path toward multiple endings in your quest to uncover the Zone's darkest secrets. Enhanced Edition Features: ● Atmospheric visual enhancements including God Rays, Dynamic Screen Space Reflections, and Advanced Global Illumination effects. ● Redesigned water shaders, upgraded skyboxes, and wetness effects. ● Improved visuals with upscaled textures featuring more detailed NPCs and environment. ● Upgraded weapon Field of View and models. ● Multiple bugfixes and quality of life tweaks. Good Hunting, stalker. The features included in S.T.A.L.K.E.R.: Legends of the Zone – Enhanced Edition are exclusive to the PlayStation®5 platform. These graphic enhancements are not available on the PlayStation®4 version.",
+    "notes": "",
+    "credits": "",
+    "publisher": "GSC Game World Global LTD",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-05-20",
+    "store_url": "",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "fe4ce0b8-5354-4a1e-b3c0-47a57d2c6db5",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA21734-STALKER-Shadow-of-Chornobyl",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

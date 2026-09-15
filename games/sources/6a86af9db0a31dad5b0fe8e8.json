@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a86af9db0a31dad5b0fe8e8",
+    "title_id": "PPSA10887",
+    "title": "Weird West Definitive Edition",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 4402341478
+  },
+  "metadata": {
+    "description": "Survive and unveil the mysteries of the Weird West through the intertwined destinies of its unusual heroes in an Action RPG from the co-creators of Dishonored and Prey. Discover a dark fantasy reimagining of the Wild West where lawmen and gunslingers share the frontier with fantastical creatures. Journey through the story of a group of atypical heroes, written into legend by the decisions you make in an unforgiving land. Each journey is unique and tailored to the actions taken - a series of high-stakes adventures where everything counts and the world reacts to the choices you make. Form a posse or venture forth alone into the otherworldly confines of the Weird West and make each legend your own. Weird West: Dark Fantasy reimagining of the Wild West where lawmen and gunslingers share the frontier with fantastical creatures, each playing with their own rules and their own peculiar motives. Intertwined Destinies: Discover the world through origin stories of different characters, moving from one character's journey to the next until all converge in a final chapter. Bespoke Experience: Each playthrough is unique as the game tailors the story to the player's actions and past choices for an ideal dramatic arc. Immersive Sim: Weird West supports different styles of play in a simulated sandbox world where characters, factions, and even places react to a player's decisions. High Stakes: Players are faced with brutal choices and consequences that can't be undone - including death.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "Devolver Digital",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Role Playing Games"
+    ],
+    "release_date": "2023-05-08",
+    "store_url": "https://store.playstation.com/en-us/concept/234916",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202209/3023/eNqlPl0sXuQTZ4u0Kr19JEiY.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a8d0ad2e-ea7e-4f15-b4c0-664b48b5319b",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/gqFcNQuL5A",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "ec16a483-147d-4fd4-bc22-2827361002a6",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/QN9mEqRPxm6d/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

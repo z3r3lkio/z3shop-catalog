@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a769752e76beadd88604bfa",
+    "title_id": "PPSA03233",
+    "title": "Stranger of Paradise Final Fantasy Origin Deluxe Edition",
+    "version": "01.302",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 89120571392
+  },
+  "metadata": {
+    "description": "Product Contents • STRANGER OF PARADISE FINAL FANTASY ORIGIN (main game) • Season Pass (includes additional missions: \"\"Trials of the Dragon King,\"\" \"\"Wanderer of the Rift\"\" and \"\"DIFFERENT FUTURE\"\") • Digital art book • Digital mini soundtrack About the Game With the memory of their struggle buried deep in their hearts... In this hard-core action RPG, Jack must hazard numerous challenges to bring the light of the crystals back to Cornelia, a kingdom conquered by darkness. Fight your way through fierce battles with a variety of means to defeat your enemies. With multiple difficulty options and a wide selection of jobs and weapons available to customize your party, you can choose exactly how you want to play. Will restoring the crystals' light usher in peace or a new form of darkness? ...Or perhaps something else entirely? *Various game contents require an internet connection. *Online multiplayer requires purchase of PlayStation®Plus (additional fees). *This product is the Digital Deluxe Edition. The standard edition is a separate product. *If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost. *Certain Season Pass content only becomes accessible after the end of the main game story (Updated 03-03-2022)",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files with DLCs and Pippo for the dlc",
+    "publisher": "SQUARE ENIX CO. LTD.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2022-03-15",
+    "store_url": "https://store.playstation.com/en-us/product/UP0082-PPSA03232_00-SOPFFORIGIN00000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202308/0203/0a40193d831a4a8e1d3c9e898fdbedd16957089ddc356918.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "8ef70468-e85e-450f-9926-a3b177598332",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/vuCGA5yJml",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "2a8b01b8-310e-4c09-9fde-c2598888701d",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA03233_Stranger_of_Paradise",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

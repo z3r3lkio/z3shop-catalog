@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028bb",
+    "title_id": "PPSA07230",
+    "title": "Assassin's Creed® Mirage",
+    "version": "1.012",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 70330089472
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4® version and the digital PS5® version of this game. VALLEY OF MEMORY Enjoy 6 hours of new gameplay in Valley of Memory, a free major update that expands Basim’s story and introduces the breathtaking new region of AlUla, with gameplay improvements across the full game. THE ULTIMATE ASSASSIN Become the most versatile and resourceful Assassin in franchise history. Parkour seamlessly through the city and leverage the largest assortment of tools to date. Get contracts and upgrades at the Assassin’s bureaus, collect vital clues, and stealthily take down targets with more visceral assassinations than ever before. A TRIBUTE TO AN ORIGINAL Experience a modern take on the iconic features and gameplay that have defined the franchise. Journey to Alamut, the legendary home of the Assassins who laid the foundations of the Creed, in this heartfelt homage to the game that started it all. AN IMMERSIVE, REACTIVE CITY Explore an incredibly dense and vibrant city whose inhabitants react to your every move. Uncover the secrets of four unique districts, from the industrial Karkh to the lush gardens of the Round City. Discover surprising world events and interact with historical figures that shaped the Golden Age of Baghdad. A POWERFUL COMING-OF-AGE STORY Follow Basim’s journey in this tightly crafted, narrative-driven action-adventure experience. Witness his transformation from a defiant young thief to a Master Assassin as he meets allies, mentors, and foes who shape his destiny. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost. Internet connection, Ubisoft Account and PlayStation™Network account required to access online features.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files and BestPig for the BackPort",
+    "publisher": "Ubisoft",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2023-10-05",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202305/2618/e6a9dbf82517123a600f4d44a42b93dd18bbad9c11ffe742.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "627073f7-e42f-4619-9356-de67acd6063d",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/791R9wpH38",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "5d3a3a05-7e1a-4b46-9f9b-53f4a929ac7c",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA07230_AC_Mirage",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

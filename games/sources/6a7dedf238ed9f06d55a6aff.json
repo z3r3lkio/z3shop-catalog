@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7dedf238ed9f06d55a6aff",
+    "title_id": "PPSA04132",
+    "title": "Samurai Maiden Deluxe Edition",
+    "version": "01.060",
+    "pack": "unknown",
+    "region": "JPN",
+    "size_bytes": 9803262853
+  },
+  "metadata": {
+    "description": "● Early Purchase Bonus: Included until Jan. 13, 2023 at 23:59 · Tsumugi's Costume: Uniform (Cool) *This Early Purchase Bonus is only available to download by those who purchase this product during the above period. A temple in flames. Swirls of black smoke rise high into the sky. The angry shouts of soldiers can be heard all around. Before you stands a bearded old man... Wait, is that Nobunaga Oda?! A young woman from the 21st century with sharp swordsmanship skills finds herself in Honnō-ji during the Sengoku period! Together with a trio of newfound ninja friends, she races through the Underworld beneath Honnō-ji, confronted by enraged corpses at every turn! Nothing can stop this all-female powerhouse team, as the young woman turned samurai slashes up enemies while the ninja wipe them out with their fierce ninjutsu! And when things get tough, activate the Devoted Heart technique to have samurai and ninja lock lips to enhance their abilities! There are so many exhilarating, epic battles to take on! Slay the Demon Lord of the Sengoku period and forge everlasting bonds with your ninja friends! A brand-new female-led sword-fighting action game is here! *On purchasing this product, you will be able to download both the PS4™ and PS5™ versions. *This product is also included in the SAMURAI MAIDEN DELUXE EDITION. Please be careful not to purchase the same content twice.",
+    "notes": "",
+    "credits": "Thanks to DLPS Team for the Files, Pkykzhack for DLCs, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "D3PUBLISHER",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2022-12-08",
+    "store_url": "https://store.playstation.com/en-gb/concept/10001987/",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202210/0509/niiA3pethJXwAvV2T7fKLrsL.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "9cae3b38-7aa8-450e-b97c-f5f71f63c40a",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA04132_Samurai_Maiden",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "49d1b1c0-2705-41e5-8d5b-19997ad9b3c8",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/j7HUANhFye",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

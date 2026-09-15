@@ -1,0 +1,68 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a686e283d4889f7e22e8b6d",
+    "title_id": "PPSA16018",
+    "title": "Double Dragon Gaiden : Rise of the Dragons",
+    "version": "01.013",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 601295421
+  },
+  "metadata": {
+    "description": "Prepare to throw down the Double Dragon way in this fresh addition to the iconic beat ‘em up franchise. It’s the year 199X, and nuclear war has devastated New York City leaving its citizens to fight for survival as riots and crime engulf the streets. The city has been overtaken by criminal gangs who terrorize its ruins as they fight for total dominance. Unwilling to endure these conditions any longer, young Billy and Jimmy Lee take it upon themselves to drive the gangs out of their city. Explore the early beginnings of the young Double Dragon brothers as they take on both new and familiar enemies in this alternate story. In this fresh roguelite take, every playthrough is a brand new chance at new action. Featuring a unique and dynamic level structure, the difficulty of the missions you take on will change depending on the order you have selected them. Tag in and out as the classic duo Billy and Jimmy, switch it up with Marian and Uncle Matin, or experiment with 20 additional unlockable characters, each with their own special moves and unique playstyles. With 2-player online and local co-op, the action quadruples as you and a friend clean up the mean streets. Key Features: - TAG TEAM ACTION – Choose two fighters and seamlessly switch between them, giving you a multitude of strategies for devastating combos, defensive and offensive moves. - BEAT ‘EM UP WITH ROGUELITE ELEMENTS– Experience endless playthrough possibilities with a dynamic mission select function; the order in which you choose your mission will affect mission length, number of enemies, and overall difficulty. Choose where you improve with randomized purchasable upgrades for your characters at the end of each mission, or save your cash to revive your players in-mission. - 24 UNIQUE PLAYABLE CHARACTERS – Start the fight with Billy, Jimmy, Marian, and Uncle Matin. Earn tokens along the way to unlock a diverse roster of 20 more characters, each with their own playstyle and strengths. Strategically choose your fighting duo by taking into account each characters’ strengths and weaknesses. - SHAPE YOUR EXPERIENCE AND REWARDS – Adjust game difficulty to affect the amount of tokens earned per session and use those tokens to unlock content from the Token Shop including characters, tips, and more. Modifier can be used to enter permadeath or even infinite mode. - ONLINE & LOCAL CO-OP – Grab a friend and clean up the city streets together with online and local co-op that supports up to two players. - SURVIVAL MODE – Test your might against a barrage of enemies in this wave mode that increases in difficulty the further you progress. Use tokens to unlock this mode, as well as special backgrounds during runs. - VERSUS MODE – Select two characters and upgrades to battle against your friends to prove who is the ultimate Dragon Warrior. This mode and special backgrounds are unlocked via the token shop.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Maximum Entertainment",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Fighting",
+      "Arcade",
+      "Action"
+    ],
+    "release_date": "2023-07-27",
+    "store_url": "https://store.playstation.com/en-us/product/UP2080-PPSA16018_00-DDGBASEGAME00000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202307/2707/a02d088ed4a0d663f1783ce2c94981949d4be15877470bad.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "fc1cbe2f-7131-49d6-b474-4f6d4198faa1",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/2MyV034bRa",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "e06a4540-f0ad-42bd-8b78-0483b3e8b2a4",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA16018_Double_Dragon",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

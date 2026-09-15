@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028b2",
+    "title_id": "PPSA22327",
+    "title": "Forza Horizon 5",
+    "version": "1.685.672",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 175191716004
+  },
+  "metadata": {
+    "description": "Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world’s greatest cars.",
+    "notes": "How to Play (Ignore this if you already have an account with fake sign-in enabled): Download OffAct by ps5-payload-dev and activate the account (it is recommended to use a new account). Then download np-fake-signin by earthonion and send the .elf file to your PS5. Before restarting the console, set your connection DNS to 127.0.0.1 or disable the internet connection entirely.",
+    "credits": "Thanks to High-Speed007 for the Files with DLCs and BestPig for the BackPort",
+    "publisher": "Microsoft Corporation",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Driving/Racing"
+    ],
+    "release_date": "2025-04-29",
+    "store_url": "",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "5b80a958-5e9e-49e3-a63f-268af605b6f8",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA22327_Forza_Horizon_5",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "8dd22729-1139-4f72-98ae-81e556239716",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/uwfSU6G9eN#PPSA22327",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "DLPS Team",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

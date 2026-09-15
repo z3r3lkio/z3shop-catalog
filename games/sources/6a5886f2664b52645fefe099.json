@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5886f2664b52645fefe099",
+    "title_id": "PPSA24662",
+    "title": "F1 25",
+    "version": "01.018",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 75054553498
+  },
+  "metadata": {
+    "description": "This Story is Yours. Leave your mark on the world of racing in F1® 25, the official video game of the 2025 FIA Formula One World Championship™ ● My Team 2.0: Create your own F1® stories as you take control as the Owner of a Formula 1® team. The new gameplay systems allow you to specialize in your preferred areas of team Management, then get behind the wheel of either of your two F1® drivers on race weekends ● Braking Point 3: The legacy of Konnersport is at stake. Can you fight back and finally put yourself in contention for the World Championship? ● Konnersport's Legacy: For the first time ever, extend your Konnersport experience in Career & My Team Modes ● Design your own Team: Enhance both My Team and F1® World cars and create liveries that are more reflective of Formula One® as you customise driver numbers and move, scale, or rotate logos ● Accurate LIDAR Circuits: Experience 5 rebuilt tracks, including fan favourite Suzuka with laser scanned models of the real venues ● New Online Co-op Events: Brand new multiplayer mode in F1® World, where you and your friends race as a squad against AI drivers ● & More: New cinematics, updated podium scenes, and Reverse Tracks on select circuits This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX for the Files",
+    "publisher": "Electronic Arts Inc",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Driving/Racing"
+    ],
+    "release_date": "2025-05-30",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202606/0918/5f2b9ca849d718bdce131d0b66a7a9fb2d9276e14828d0f5.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a8993e15-105a-47a4-bc00-7a8052598c3f",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA24662-F1-25",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

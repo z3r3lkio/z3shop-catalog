@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4a76cf2860efac54e4aa7c",
+    "title_id": "PPSA01467",
+    "title": "Marvels Spider Man Remastered",
+    "version": "01.008.001",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 75709536010
+  },
+  "metadata": {
+    "description": "This unmissable bundle includes Marvel’s Spider-Man Remastered – the complete award-winning game, including all three DLC chapters in the Marvel’s Spider-Man: The City That Never Sleeps adventure – remastered and enhanced for the PS5™ system.",
+    "notes": "If no Speech in-game change your console language into English, French etc..",
+    "credits": "Thanks to High-Speed007 for the Files",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Insomniac Games, Inc",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2023-05-04",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202011/1217/zAuzDhzJnqUv7UJLcuieCKAW.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "16e9f35d-7b12-4226-88d9-6b18a970acbe",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/XrMoCOWZGl",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "T4MAGO",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "48bb1dbd-e954-4fc5-80b7-4f31881a44e4",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01467_Spiderman_Remastered",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

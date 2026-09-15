@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a6f6b2ea80b138b911d68d8",
+    "title_id": "PPSA03603",
+    "title": "Marvels Midnight Suns Enhanced Edition",
+    "version": "01.013",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 47459388621
+  },
+  "metadata": {
+    "description": "DARKNESS FALLS. RISE UP! Fight the legions of Lilith in style with the Marvel’s Midnight Suns Enhanced Edition! The Enhanced Edition includes: - Marvel’s Midnight Suns base game - 5 Premium Skins Premium Skins include: - Captain America (Future Soldier) - Captain Marvel (Mar-Vell) - Magik (Phoenix Five) - Nico Minoru (Sister Grimm) - Wolverine (X-Force) Note: Premium skins must be used with the equivalent in-game character. Characters may require unlocking through gameplay. Premium skins will be automatically delivered in-game by 1 December 2022. Terms apply. UNLEASH THE DARKER SIDE OF MARVEL When the demonic Lilith and her fearsome horde unite with the evil armies of Hydra, it’s time to unleash Marvel’s dark side. As The Hunter, your mission is to lead an unlikely team of seasoned Super Heroes and dangerous supernatural warriors to victory. Can legends such as Doctor Strange, Iron Man, and Blade put aside their differences in the face of a growing apocalyptic threat? If you’re going to save the world, you'll have to forge alliances and lead the team into battle as the legendary Midnight Suns. With an array of upgradeable characters and skills allowing you to build your own unique version of The Hunter, you will choose how to send Lilith’s army back to the underworld.",
+    "notes": "",
+    "credits": "",
+    "publisher": "2K",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "2022-12-02",
+    "store_url": "https://store.playstation.com/en-us/product/UP1001-PPSA02621_00-MMSENHANCED00000",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a7802a25-bb27-463a-9609-68cefd01e72c",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/GqWhjnwxcw",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "e8fe38ec-7416-4674-9e4f-afd2150ec9e1",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA03603_Marvels_Midnight_Suns",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

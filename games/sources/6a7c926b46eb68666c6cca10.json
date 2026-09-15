@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7c926b46eb68666c6cca10",
+    "title_id": "PPSA19644",
+    "title": "Farming Simulator 25",
+    "version": "01.310",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 20508468838
+  },
+  "metadata": {
+    "description": "Farming Simulator 25 invites you to join the rewarding farm life. Whether you build your legacy single-handedly or cooperatively in multiplayer - you decide: This Farm is Your Farm! New features include: * Three maps in North America, East Asia & Central Europe * Crops: Rice, spinach, peas & green beans * Animals: Goats, water buffalo & baby animals * 400+ machines from 150+ agricultural brands * Weather events (Twister & Hail) and improved effects * Ground deformation & GPS-assisted steering * New production chains & farm shops & constructions * Many quality-of-farming improvements",
+    "notes": "40% FOV is recommended for playing or maybe can be laggy sometimes, this can be applied on Settings.",
+    "credits": "Thanks to MettMowgli & DLPS Team for the Files, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "GIANTS Software",
+    "developer": "GIANTS Software",
+    "players": "1",
+    "genres": [
+      "Simulator"
+    ],
+    "release_date": "2024-11-12",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202411/1510/27ac756d4e8e229ab0f54e58b03d97945e961885ade04997.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "5e07ae69-d586-485d-afbe-153101697a59",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA19644_Farming_Simulator_25",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "02e735de-412d-442f-bc9b-171a2d25c24b",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/0gBbnLuDZa",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

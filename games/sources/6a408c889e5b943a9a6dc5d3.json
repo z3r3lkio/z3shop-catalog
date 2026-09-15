@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a408c889e5b943a9a6dc5d3",
+    "title_id": "PPSA02868",
+    "title": "Mortal Shell Enhanced Edition",
+    "version": "01.000.008",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 5261334938
+  },
+  "metadata": {
+    "description": "Mortal Shell is a ruthless and deep action-RPG that tests your sanity and resilience in a shattered world. As the remains of humanity wither and rot, zealous foes fester in the ruins. They spare no mercy, with survival demanding superior awareness, precision, and instincts. Track down hidden sanctums of devout followers and discover your true purpose. Experience the superior way to play the award-winning Mortal Shell. Uncompromised 60fps gameplay, 4K resolution, and ultra high-quality textures. Upgrade for free. Witness your struggle in detail like never before.* *If you already own a PS4🄬 digital version of Mortal Shell, you are eligible to receive a free PS5® digital version of Mortal Shell: Enhanced Edition if you already either (i) own a PS4🄬 digital version of the game or (ii) own a PS4🄬 disc version of the game and also own a PS5® console with a disc drive (you must insert the disc each time you wish you to download or play the PS5® digital version of the game). New purchases of the PS4🄬 version of Mortal Shell are eligible for the PS5® Enhanced Edition upgrade. Notwithstanding the foregoing, if you obtained Mortal Shell via PlayStation®Plus Monthly Game then (a) you are not eligible for the free upgrade to PS5® but (b) you are eligible to purchase Mortal Shell: Enhanced Edition. Some additional restrictions may apply.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Playstack Limited",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games",
+      "Action"
+    ],
+    "release_date": "2021-03-04",
+    "store_url": "https://store.playstation.com/en-us/product/UP3639-PPSA02868_00-6737177636262712",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202008/1815/Ko2DfZV938nvvW4gTuQe3O7d.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "2f62b048-d25c-4ce9-b057-112a4f4bf87e",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/I7RdHF0cut",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "f8870580-be73-4be3-8d8f-35e8d71923fc",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA02868_Mortal_Shell_Enhanced_Edition",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

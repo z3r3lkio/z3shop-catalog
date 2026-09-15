@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028c2",
+    "title_id": "PPSA24701",
+    "title": "Digimon Story Time Stranger",
+    "version": "1.011",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 23418309181
+  },
+  "metadata": {
+    "description": "Digimon Story Time Stranger is an RPG with monster-taming elements that explores the deep bond between humans and Digimon in an epic story that unravels the mystery of the world’s collapse. Embark on an adventure that spans across the human world and Digital World, collecting and raising a diverse array of Digimon to fight in turn-based battles. An Epic Story of Connection Tokyo, Japan – An agent of a secret organization encounters an unknown creature shortly before a city-leveling explosion. They then reawaken eight years in the past... Take on a mission to uncover the mystery of the world’s collapse, where chance encounters with unique characters will shape your journey across time and parallel worlds - and change fate itself. Adventure Between Worlds and Time Journey between the parallel human world and the Digital World: Iliad where Digimon reside. See the Digital World and its intricately detailed realms like never before, with interactive elements and special quests to explore. Strategic Turn-Based Battles Enjoy dynamic turn-based combat that combines strategic elements with evolved battle components. More than 450 Digimon and deep customization options provide limitless ways to approach the challenges of battle and reveal the strength of the bonds formed with your Digimon. *This product is the Standard Edition. A Deluxe Edition and Ultimate Edition are also available. Please be careful of duplicate purchases.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files and BestPig for the BackPort",
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2025-10-03",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202502/1820/d02f034a7f3d1b3cc9a2cde4a58afd04454a985b733ae1f7.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "eea9cffc-4931-4db4-bb6e-7de5c6d28464",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/RfPAyDagNi#PPSA24701",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "Roy Choo",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "8e62a322-a282-4c45-b6f1-96d2b5a166f9",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?rkvu0eizgyzxet0bxui0",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "4afc36fd-e636-4c33-9b69-2d7cd83f349b",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA24701_Digimon_Story_Time_Stranger",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a8539c8b0a31dad5b0fe8dd",
+    "title_id": "PPSA26311",
+    "title": "Blades of Fire Deluxe Edition",
+    "version": "01.004.001",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 47566762803
+  },
+  "metadata": {
+    "description": "Blades of Fire is a dark fantasy adventure built on a single, uncompromising idea: Steel is Destiny. You are Aran de Lira, the last warrior capable of forging true steel in a world where metal turns to stone. Your journey is not about collecting weapons, but about forging them through intent, sacrifice, and consequence, and surviving long enough to master their weight. Combat is deliberate and unforgiving. Every strike commits you. Every mistake costs you. Victory is earned through patience, positioning, and understanding both your enemy and the blade you forged to face them. Includes Version 2.0 of the game, featuring major updates and improvements. In addition to that, the Adventurer Pack will now be available for free for everyone. At the heart of Blades of Fire lies a forging system that is not crafting — it is commitment. Weapons are forged at the anvil through deliberate choices that permanently shape their behaviour, balance, and purpose. There is no endless loot. No disposable gear. EVERY BLADE REFLECTS: •The materials you chose. •The enemies you prepare to face. •The kind of warrior you decide to become. COMBAT WITH WEIGHT AND CONSEQUENCE •Timing, spacing, stamina, and defense matter more than aggression. •Enemies punish recklessness and reward observation. •Weapon choice is tactical, not cosmetic. You do not overpower your foes. You outlast them. A WORLD THAT REWARDS CURIOSITY The world of Blades of Fire does not unfold through constant exposition. Much of its history, myths, and meaning resides in Adso, Aran’s companion. He writes down everything and speaks when spoken to. •Story is discovered through dialogue and reading, not through cutscenes. •Knowledge comes from interest, not obligation. •The world reveals itself only to those who ask. A GAME FOR PLAYERS WHO SEEK MASTERY Blades of Fire is designed for players who value: •Deliberate pacing. •Meaningful progression. •Difficulty rooted in understanding, not reflexes.",
+    "notes": "",
+    "credits": "Thanks to SiESPta for the Files, Pkykzhack for DLCs, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "505 GAMES S.R.L.",
+    "developer": "Mercury Steam Entertainment S",
+    "players": "1",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "2025-05-22",
+    "store_url": "https://store.playstation.com/en-gb/product/EP4040-PPSA26311_00-0000BLADESOFFIRE",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202505/2820/c5ec5ac079a11a4fee334589005f7ff7f0fa541e96af8477.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "922907ef-146c-4f96-adfc-da34c577d53f",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/5T9nm1tPQp",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "e5552417-29f9-40e6-a390-a556ef2ac0cf",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/b5OzdVA9lmB8/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "565b336b-c8f4-423a-bfc5-bfe9188ad193",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/obj3j7KLrzDx/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "7fe31785-5594-4b3b-b9ba-242d98ea3d44",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/0rpmvpgBgzRg/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 3,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "d92090b3-d46c-4b59-b573-9de4ce471d45",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/RMKGJK06Vm1o/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 4,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "2b88f285-4253-451b-bc50-64ce15fdd06f",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/0JgG75ApK3oY/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 5,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

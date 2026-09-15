@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a412ef7d73bf7de7d8ab9a6",
+    "title_id": "PPSA03541",
+    "title": "UFC 5",
+    "version": "01.031",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 53901839565
+  },
+  "metadata": {
+    "description": "EA SPORTS™ UFC® 5 is as real as it gets. Powered by Frostbite™ engine’s advanced rendering capabilities, your favorite fighters now have unparalleled character likenesses to complement next-level environment fidelity that’ll make their walk to the Octagon feel like a PPV main event. The all-new authentic damage system brings the intensity and strategy of a fight to life, as cuts and strikes absorbed can affect mobility, defense, stamina, and more. Take too much damage, and the doctor will check to see if you’re able to continue. For lovers of the ground game, the new Transition-Based Submissions make grappling feel more fluid and realistic than ever before. And if you like to admire your handiwork, new Cinematic K.O. Replays capture your fight-ending finishes in all their punishing glory. Plus, a completely revamped live service schedule builds exciting challenges around all PPV fight weeks. Bring the next evolution of the fight game home with UFC 5. This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Electronic Arts Inc",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Fighting"
+    ],
+    "release_date": "2023-10-26",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202310/0521/43b5eb7163074daf64a007bb4b8cffcbb8e67d07151139f1.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "9a11cfe1-00fb-4a94-9ce9-48bf84aa5645",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?86qly1fa9mv8ral57dto",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "d4337f9d-c405-412e-9dd4-c1317690ba2d",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA03541_UFC_5",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

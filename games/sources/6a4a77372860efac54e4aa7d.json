@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4a77372860efac54e4aa7d",
+    "title_id": "PPSA02343",
+    "title": "It Takes Two",
+    "version": "01.200.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 45440753992
+  },
+  "metadata": {
+    "description": "Buy It Takes Two once and get both the PS4™ and the enhanced PS5™ version. Embark on the craziest journey of your life in It Takes Two, a genre-bending platform adventure created purely for co-op. Invite a friend to join for free with Friend’s Pass** and work together across a huge variety of gleefully disruptive gameplay challenges. Master unique and connected character abilities in every new level. Help each other through unexpected obstacles and laugh-out-loud moments. Embrace the heartfelt story of a fractured relationship. It Takes Two is developed by Hazelight, the industry-leader of cooperative play. KEY FEATURES: PURE CO-OP PERFECTION – Invite a friend to join for free with Friend’s Pass** GLEEFULLY DISRUPTIVE GAMEPLAY – From rampaging vacuum cleaners to suave love gurus – with It Takes Two, you never know what you’re up against next. A UNIVERSAL TALE OF RELATIONSHIPS – Discover a touching and heartfelt story you’ll treasure – together!",
+    "notes": "",
+    "credits": "Thanks DUPLEX & Dorukhan & SuperPSX for the game files",
+    "publisher": "Electronic Arts Inc",
+    "developer": "Hazelight, the industry-leader of cooperative play",
+    "players": "2",
+    "genres": [
+      "Unique"
+    ],
+    "release_date": "2021-03-26",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202103/1120/syt3LiLf0yEOZI0w7xp7xWtC.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "d2a11793-31ea-423f-8af2-9514eddedbf3",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/U2CBFjbgBe",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "T4MAGO",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

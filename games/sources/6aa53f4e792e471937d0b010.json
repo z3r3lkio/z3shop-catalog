@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa53f4e792e471937d0b010",
+    "title_id": "PPSA21349",
+    "title": "HOTEL BARCELONA",
+    "version": "02.000.000",
+    "pack": "lz4",
+    "region": "EUR",
+    "size_bytes": 7516192768
+  },
+  "metadata": {
+    "description": "Justine, a rookie U.S. Marshal, thought this was just another routine case. But when her car crashes in a freak accident at the edge of nowhere, she finds herself trapped in a twisted new world: HOTEL BARCELONA. Seven serial killers. One haunted hotel. And a second personality living inside her head… Meet Dr. Carnival: murderer, psychopath, devastating ancient monster. THIS FALL… DEATH HAS A ROOM KEY In this blood-soaked 2.5D sidescroller straight from your nightmares: Battle through insane horror-themed floors! Face killers inspired by the nastiest corners of your local video store! Every time you die, your past self fights beside you - like a ghost with a grudge! BLOOD IS POWER The more you kill, the stronger you become. But let the blood stop flowing... and you're next. CARNIVAL’S AWAKENING Unleash the brutal power of the serial killer in your mind. Turn the tide of battle. Become a legend. Not recommended for: Individuals with weak stomachs Fans of quiet indie puzzle games People afraid of mirrors Anyone still emotionally recovering from Twin Peaks: Fire Walk With Me",
+    "notes": "",
+    "credits": "Thanks to DLPS Team for the files and Drakmor for the lz4 tool and apr emu",
+    "publisher": "Dark Product",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-09-26",
+    "store_url": "https://store.playstation.com/en-us/product/JP3918-PPSA21349_00-0703449023643973",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202603/0500/acd5581fba44d7206c6bf0ffa4f137673d1617e89583f646.mp4",
+    "available_at": "2026-09-12T16:00:00.000Z",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "c8417f20-c44a-4a3e-ab66-420dbf68af05",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/RrzpkeZ9vC#LIZARD",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

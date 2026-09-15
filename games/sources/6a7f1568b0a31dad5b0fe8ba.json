@@ -1,0 +1,113 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7f1568b0a31dad5b0fe8ba",
+    "title_id": "PPSA06981",
+    "title": "Naruto X Boruto Ultimate Ninja Storm Connections Deluxe Edition",
+    "version": "01.006",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 44667659878
+  },
+  "metadata": {
+    "description": "*This product includes both the PS4™ and PS5® versions. * This product is the Deluxe Edition. Please note that there are also set products that include additional content, so please be careful not to make duplicate purchases. *Included set are also available as standalone purchases. *Content is subject to change without prior notice. *Bonus download content may be distributed again at a later date. The Deluxe Edition includes: • Main Game • Season Pass • Naruto Uzumaki (The Great Ninja War: End) • Kakashi Hatake (Maskless) Legendary ninjas reunite in the next exciting entry of the STORM series! NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS is an action/fighting game with fast-paced ninja battles and two different story modes. • New playable characters join all past characters of the STORM series for the largest roster of ninjas ever! Select from more than 130 playable characters to fight in powerful ninja battles! In addition to an improved network battle experience, the new Simple mode option allows players to more easily perform various ninjutsu combos. Whether players are beginners or experts, everyone can enjoy heated battles with their favorite ninjas. • For the first time ever, the history of Naruto and Sasuke’s rivalry has been recut and combined into one game! Combining original scenes from the Naruto anime with the high-quality battle experience expected of the STORM series development team, this game contains highlights from the beginning of Naruto’s story up to the final battle of the series. Relive the paths of two legendary ninjas! • Experience a special next generation story! Play a new, original story where Boruto Uzumaki, the son of 7th Hokage and ninja of the new era, is drawn into a great battle involving the entire ninja world after meeting a girl in a popular online game.",
+    "notes": "",
+    "credits": "Thanks to DLPS Team for the Files, Pippo for DLCs & exfat file and DecKerr97 for the BackPort",
+    "publisher": "Bandai Namco Entertainment Inc.",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Fighting",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2023-11-15",
+    "store_url": "https://store.playstation.com/en-sg/product/JP0700-PPSA06978_00-NARUTOUNSADX0000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202307/2101/7427790ae33a4c38c78d913785d7f7f36c34b83791e03dd6.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "e420abfa-11d2-4f1f-8ae5-b7fadfab0003",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA06981_Naruto_X_Boruto_Ultimate_Ninja",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "8e75dc24-764b-43df-bad6-c8fc6320ba2b",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/gxx3hEOrsX",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "0fcd3f41-3aec-43fb-916c-518a8e57d342",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/2WVGrd8q93kx/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "64ee5ce5-6100-4591-be72-e707c4f4b0e6",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/RMKGJKQXlm1o/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "12de50da-6d40-4c45-8dd4-38648ed15bf2",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/vgKGxXQO6G8Q/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 3,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a902294b0a31dad5b0fe914",
+    "title_id": "PPSA26893",
+    "title": "SpongeBob SquarePants: Titans of the Tide",
+    "version": "01.400",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 10007273800
+  },
+  "metadata": {
+    "description": "How do you stop the two biggest egos of the Seven Seas from fighting? A clash between the Flying Dutchman and King Neptune has unleashed ghostly mayhem all over Bikini Bottom. SpongeBob and Patrick will need all their skills, bravery and - dare I say - wit, to return life to what passes for normal in their undersea home. Join Bikini Bottom's most notorious duo on their ghostliest adventure yet! Switch seamlessly between SpongeBob and Patrick Combine SpongeBob and Patrick's unique platforming skills Master Patrick's brand-new skills like grappling and burrowing Experience a new ghostly story Fully voiced by the original cast of the show Visit iconic locations like Neptune's Palace and Mount Bikini Battle epic bosses like the Flying Dutchman, King Neptune and Hibernation Sandy",
+    "notes": "",
+    "credits": "Thanks to DLPS Team for the Files, Pippo for DLCs and DecKerr97 for the BackPort",
+    "publisher": "THQ NORDIC GMBH",
+    "developer": "Purple Lamp GmbH, Austria",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-11-18",
+    "store_url": "https://store.playstation.com/en-gb/product/EP4389-PPSA26893_00-SPONGEBOBGOO00WW",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202507/3013/7bc0030d57cdf47c565f96df2ad9da45b8b0448134a44388.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "2201e3a4-9e71-4a17-9411-c3b152e0ddc4",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/OmZhB3xlVy",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "JMCworkz",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

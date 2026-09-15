@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3b9fbfb1fb2bb0ceadd014",
+    "title_id": "PPSA28420",
+    "title": "NBA 2K26",
+    "version": "01.017",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 124940598641
+  },
+  "metadata": {
+    "description": "This edition includes a digital copy of NBA 2K26 for PS5® and PS4®. Bragging rights are on the line in NBA 2K26. Build your legend in MyCAREER, collect and compete with stars in MyTEAM, and make executive decisions in MyNBA on PS5® or MyLEAGUE on PS4®. POWERED BY ProPLAY™ Dominate every possession with immersive technology that directly translates NBA footage into realistic gameplay on PS5®. Feel more connected to every dribble and crossover, and move with freedom as you unleash dynamic playmaking using all-new features. SQUAD UP AND WIN Build a MyPLAYER that transcends the game in MyCAREER and rise from a budding prospect to a global superstar. Take over stunning environments where you can team up with friends and challenge rival squads for bragging rights. UNITE STARS IN MyTEAM Collect and compete with NBA and WNBA superstars in MyTEAM. Assemble a star-studded roster, test your dream team in single-player and multiplayer modes, and acquire new cards to make your MyTEAM fantasy a reality. YOUR TEAM, YOUR STORY Write the next chapter of an NBA franchise as a General Manager in MyNBA on PS5®, or MyLEAGUE on PS4®. Influence the future of the sport and leave an indelible mark on the league. Play Now, MyNBA, The W, and MyLEAGUE are available offline. All other game modes and features require Internet connection and may require online account registration (varies 13+). Purchase grants a license to the digital product subject to the Terms of Service (“ToS”) and Privacy Policy in game and at www.take2games.com/legal and www.take2games.com/privacy. Access to special/bonus/online features, content, services, or functions (“Special Features”), may require single-use serial code, additional fee, online account registration, and/or may not be accessible by accounts registered to users below the age of 13 (minimum age varies). Special Features may require internet connection, may not be available to all users or at all times, and may be terminated, modified, or offered under different terms in accordance with the ToS. See https://bit.ly/2K-Online-Services-Status for availability of certain Special Features. Violation of the ToS may result in restriction or termination of access to game or online account.",
+    "notes": "",
+    "credits": "",
+    "publisher": "2K",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Sport"
+    ],
+    "release_date": "2025-09-05",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202509/0523/48391968534db65ec9e0df42257cace6df30f1c5c6c0d41d.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "1ddca52a-8d04-46bf-a98a-ec1c907260b3",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA28420_NBA_2K26",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "774ecd6d-6bb5-4325-af21-c451b8d2521f",
+      "provider": "1fichier- 5.xx Backport",
+      "url": "https://1fichier.com/?evh8jics6lcz4pur9q4c",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

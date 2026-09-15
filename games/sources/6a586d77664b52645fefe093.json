@@ -1,0 +1,68 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a586d77664b52645fefe093",
+    "title_id": "PPSA06084",
+    "title": "Superliminal",
+    "version": "1.010",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 5798205850
+  },
+  "metadata": {
+    "description": "Falling asleep at 3AM, you close your eyes to the cheesy commercial of Dr. Pierce's dream therapy program. You wake up in an unfamiliar environment, only to realize that you're stuck in a dream - a dream where perception is reality. Welcome to Superliminal. Superliminal is a first-person puzzle game inspired perspective and optical illusions. Players tackle impossible puzzles by thinking outside the box and learning to expect the unexpected. This game features a wonderfully subdued world, an intriguingly voiced narrative, and things that are really weird.",
+    "notes": "",
+    "credits": "Thanks to Amiibohound for the Files and DecKerr97 for the BackPort",
+    "publisher": "PILLOW CASTLE LLC",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Puzzle",
+      "Puzzle",
+      "Shooter"
+    ],
+    "release_date": "2022-11-21",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/cfn/11307OBqEXCji_GuTp2kIS0vrzvfBsTQseEMiwTzpkXqZa9Qzpr9hnNMXC4q_OGIWXfJtfSeISMSb3X8Ib6W8ymxulEwgYVM.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "cb727708-e085-4c76-a9a5-a82ddf7afe92",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/szFgH3e18i",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "gh0st",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "bbf56403-c763-49fd-872c-c3cdd56bbc97",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA06084_Superliminal",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

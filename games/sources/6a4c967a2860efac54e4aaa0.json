@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4c967a2860efac54e4aaa0",
+    "title_id": "PPSA20800",
+    "title": "Metaphor ReFantazio",
+    "version": "01.013",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 47996259533
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4® version and the digital PS5® version of this game. From the creative minds behind Persona 3, 4, and 5 comes Metaphor: ReFantazio, a unique fantasy world, where your protagonist will journey alongside his fairy companion, Gallica, to lift the curse from the kingdom’s lost prince. Control your destiny, face your fears and awaken magical \"Archetype\" powers that lie dormant in your heart. By awakening to an “Archetype,” you will unlock the power to channel and combine the abilities of unique job classes. Strengthen your bonds and build your party to take down powerful foes and discover the kingdom’s true nature. Key Features: -Go on quests, dungeon dive, & hunt for treasures by day. Strengthen relationships, build bonds, & increase virtues by night. Choose your actions wisely, time management is key to achieving your goal. -Ride your “gauntlet runner” to faraway dungeons & towns across an expansive world. Discover beautiful landscapes accompanied by captivating music, immersive UI, & anime cutscenes. -A unique battle system combining turn based & real time action grants strategy & exhilaration at every turn. Party customization through “Archetypes” provides freedom to personalize your adventure. -A mysterious & exciting story unfolds in a world where people must fight their own anxiety. Join the high-stakes Royal Tournament that promises hours of captivating exploration and discovery. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files",
+    "publisher": "SEGA of America, Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2024-10-11",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202412/2402/eebdcde1fabd70d971e5378e90c7c563b909a32da65d312d.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a604d9f1-a024-45ab-a565-8682ddae5e6a",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?td1azcn0yy3yl9com5fz",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "a197c386-a3be-44c1-9fe4-0184e8ee6d97",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA20800-Metaphor-ReFantazio",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a57ac54664b52645fefe089",
+    "title_id": "PPSA07421",
+    "title": "Fate/Samurai Remnant",
+    "version": "01.302",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 31890132173
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4® version and the digital PS5® version of this game. “Your wish shall perish...” A Holy Grail War begins in Edo Japan. The curtain rises on a new Fate, presented by TYPE-MOON and KOEI TECMO GAMES. The 4th year of the Keian Era, Edo Period. It has been several decades since the end of a turbulent, blood-soaked era. People were enjoying peace and tranquility. But, a battle between seven pairs of Masters and Servants is about to begin, as the \"Waxing Moon Ritual\" unfolds in the shadows. Miyamoto Iori, a young man in Asakusa, finds himself caught in the violence of a Holy Grail War. - A brand new Fate set in Edo, mid-17th century Japan In the Waxing Moon Ritual, seven pairs of Masters and Servants, historical Heroic Spirits that possess overwhelming power, vie for the omnipotent wish granter — the Waxing Moon. Only one can emerge victorious from the Ritual. Join the fierce battle in Edo from the perspective of Miyamoto Iori, a ronin who studied the Niten Ichiryu style of swordsmanship, and his Servant Saber who suddenly appeared before him. - An Action RPG where you can explore the towns of Edo Feel the bustling atmosphere of Edo where traditional houses, samurai residences, and brothels can be seen. Progress through the story centered around the Waxing Moon Ritual, meet various characters, explore different towns, and take on a wide variety of quests. - Master and Servant fight as one Switch between controlling a Master and a Servant to fight against enemy Servants and giant monsters. Unleash Link Strikes and Affinity Techniques to turn the tide of battle and survive the Ritual. Supervision: Kinoko Nasu / TYPE-MOON Character Design: Rei Wataru Story Supervisors: Hikaru Sakurai, Yuichiro Higashide Development: KOEI TECMO GAMES In Cooperation with ANIPLEX Opening Animation Production: CloverWorks Genre: Action RPG Other editions featuring this product are also available for purchase. Please avoid making redundant purchases. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files",
+    "publisher": "KOEI TECMO America",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Role Playing Games"
+    ],
+    "release_date": "2023-09-29",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202309/2801/1095f4b29589c00d051a191a2e0cb4b9b44253cacc084698.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "6ab395c4-0d64-40e2-add0-1cb3fa12e448",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA07421-FateSamurai-Remnant",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "5debe0f9-c95c-4037-b02e-1a12eee43bf1",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?ahhrmbj4kvfenuo2fdzk",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

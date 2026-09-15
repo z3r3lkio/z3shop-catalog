@@ -1,0 +1,52 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3f27a6fa8a56c45083b189",
+    "title_id": "PPSA04451",
+    "title": "Warhammer 40000 Space Marine 2",
+    "version": "01.010.002",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 68504728371
+  },
+  "metadata": {
+    "description": "Your Craft is Death. Embody the superhuman skill and brutality of a Space Marine, the greatest of the Emperor’s warriors. Hold at bay the horrors of the galaxy in epic battles on far-flung planets with your deadly abilities and devastating weaponry. Uncover dark secrets to drive back the everlasting night and prove your ultimate loyalty to humanity. Crush the Tyranid swarms. Defend humanity. ● Purge the relentless Tyranid swarms as legendary Space Marine Titus in a spectacular new campaign. Play solo or with up to 2 friends in 3 player co-op. ● Enjoy intense, gory and fast-paced third-person action with hundreds of enemies on screen, from the creators of blockbuster co-op shooter World War Z. ● Defend the Imperium as your own Space Marine in an endlessly brutal and replayable PvE missions up to 3 players featuring 7 classes, unlocking new skills and cosmetics. ● Wage eternal war on your enemies in ferocious 6v6 PvP matches and bring glory to your faction!",
+    "notes": "Pause k-stuff for at least 120 seconds, or open and force close the game 4 times, k-stuff will automatically adjust the timing itself",
+    "credits": "Thanks to SiESPTA for the Files and kerrdec97 for the BackPort.",
+    "publisher": "Focus Entertainment",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Action"
+    ],
+    "release_date": "2024-09-09",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202607/2814/fe2138ae4a5f6643ad76cb5d947f978206eebb02a8668b37.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "0ce77e28-eefa-436d-9d3a-06aeb65d538a",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA04451_Warhammer_40000",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

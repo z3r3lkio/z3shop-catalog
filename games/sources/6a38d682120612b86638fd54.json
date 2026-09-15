@@ -1,0 +1,82 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a38d682120612b86638fd54",
+    "title_id": "PPSA10621",
+    "title": "Lies of P: Overture",
+    "version": "1.012.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 55898999357
+  },
+  "metadata": {
+    "description": "Lies of P: Overture is a dramatic prequel to the acclaimed soulslike action RPG, Lies of P. It transports you to the city of Krat in its final days of haunting, late-19th-century Belle Époque beauty. On the brink of the Puppet Frenzy massacre, you follow a legendary Stalker—a mysterious guide—through untold stories and chilling secrets. As Geppetto’s deadly puppet, you’ll journey through Krat and its surroundings, uncover hidden backstories, and face epic battles that shape the past and future of Lies of P. “Geppetto’s puppet… We need your help.” Return to the City of Krat. Discover Its Unexplored Horror and Splendor. Venture into a past Krat when its Belle Époque elegance faces impending ruin. Explore majestic, never-before-seen locations, from extravagant landmarks on its outskirts to opulent mansions and eerie, haunted ruins. Confront formidable new enemies and uncover secrets hidden within the city’s decaying grandeur. Travel Back in Time. Meet the Legendary Stalker. Before the awakening lies the truth. Join Lea, the Legendary Stalker, on her relentless path of vengeance. A veil is lifted to reveal a hidden chapter of Krat's dark past. Discover untold stories behind both new and familiar characters as you explore the gripping drama and mysteries that shape this rich and haunting world. Forge New Weapons. Master New Combat Styles. Cunning enemies lurk within unfamiliar labyrinths and treacherous terrain, waiting to end your story. Ruthless, punishing, and even majestic, these adversaries will test your mettle. Only the most resourceful, doughty, and daring will prevail. As you delve deeper into its expanded world you'll unlock powerful new armaments, including a brand-new arsenal of weapon combinations and Legion Arms, giving you unprecedented freedom to forge a combat style uniquely yours. Overcome Treacherous Odds. Face intense, high-stakes encounters through Krat’s labyrinths and various surroundings. Confront powerful new bosses and enemies as you fight to uncover the mysteries of a world teetering on the edge of collapse.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files with DLCs and BestPig for the BackPort",
+    "publisher": "NEOWIZ",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games",
+      "Action"
+    ],
+    "release_date": "2025-06-06",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202306/2008/96359b778fbf5ac8a5fcf4cb698969f3a1e6bc40da3870aa.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "8431801e-976d-4866-b13e-5a4e2225c222",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/Pbe3P8pkY3lX/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "9c41166a-f843-4718-93fc-2eb03cccc1d9",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?9f88ew826s2xuvuu9t01",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "20440415-a5bd-4c6e-9a5e-b081e0a49836",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA10621-Lies-of-P",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

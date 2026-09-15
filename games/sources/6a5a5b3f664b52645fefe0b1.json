@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5a5b3f664b52645fefe0b1",
+    "title_id": "PPSA28329",
+    "title": "RoboCop Rogue City Unfinished Business",
+    "version": "01.005",
+    "pack": "pfs",
+    "region": "EUR",
+    "size_bytes": 39191576576
+  },
+  "metadata": {
+    "description": "Unfinished Business is a standalone mission related to RoboCop: Rogue City. They’ve made OmniTower their fortress, and violence is their language. Battle elite mercenaries all the way to the top of the tower, and enforce the law amidst the chaos! ROBOCOP IS BACK ON DUTY TO SETTLE UNFINISHED BUSINESS FIGHT YOUR WAY TO THE TOP FLOOR Following RoboCop's decisive victory over Detroit's gangs, a new chapter unfolds in this standalone extension set after the events of RoboCop: Rogue City. The New Guy in Town has been defeated, but the streets are still riddled with crime. A spark of hope comes from OCP’s latest project: OmniTower – a massive housing complex designed specifically to provide for the needs of the residents of Old Detroit. But when a group of highly trained mercenaries armed with cutting-edge weapons takes control of the building and turns it into their deadly fortress, RoboCop must take action to put a stop to their plans and uphold the law. FACE A DEADLIER CLASS OF CRIMINALS Prepare to take on a new breed of enemies: OmniTower is packed with high-tech threats. From flying drones to exploding bots and anti-personnel turrets, every floor is riddled with deadly traps, and heavily armed elite troops. Expect to face minigun-toting armoured squads, special forces equipped with jet packs or even katana-wielding foes who look more machine than man. RESTORE ORDER WITH JUSTICE SERVED COLD When it’s too late to shout \"\"freeze\"\", you can rely on RoboCop’s arsenal to to cool down enemies' ambitions. Choose from a wide range of powerful weapons to serve Justice, including the iconic Auto-9 or the all-new Cryo Cannon. Unleash RoboCop's unmatched strength to deliver devastating finishing moves – whether smashing an opponent’s skull against a concrete wall or into the nearest drinks vending machine. PLAY AS ALEX MURPHY AND ED-209 Experience unique missions with familiar faces which reveal more of the storyline of Unfinished Business. Before becoming RoboCop, he was plain old police officer Alex Murphy, brave and resolute, but all too vulnerable on the beat in Old Detroit. Discover a different side of the legendary law enforcer, voiced by Peter Weller. Step into the big boots of ED-209 and make the mercs know the efficiency of the iconic urban pacifier in action. This time, criminals won’t have 20 seconds to comply.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX and SiESPta Team for the files and BestPig for the backport",
+    "publisher": "NACON SA",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-07-17",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202506/0414/e5e0e7d0ef8cb5fea849e94c21646200137a496a2118557e.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "8a5eab78-ddab-4deb-9354-6743565f43cb",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA28329-RoboCop-Rogue-City-Unfinished-Business",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "34a79346-943e-43be-a15b-d1ba8b1e3375",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/5BiVPr4qMo",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

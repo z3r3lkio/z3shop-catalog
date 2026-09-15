@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a6f6c74a80b138b911d68dc",
+    "title_id": "PPSA02213",
+    "title": "The King of Fighters XV",
+    "version": "02.004.002",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 92019674317
+  },
+  "metadata": {
+    "description": "*This product is available to download for both PS4™ and PS5™ systems. *In order to use this content, the Base Game (sold separately) is required. You may need to apply the latest patch before using this product. *This character is also bundled together in the available KOF XV Fighter Pass DLC character set. Please be careful not to make duplicate purchases. [Product Contents] \"SYLVIE PAULA PAULA\" can be used in THE KING OF FIGHTERS XV.",
+    "notes": "MATURE & VICE DLC is not included.",
+    "credits": "",
+    "publisher": "Prime Matter",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Fighting"
+    ],
+    "release_date": "2023-05-16",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202202/1700/1dW3SEIB7ziPBsHh9yT6w6Ie.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "f573274f-b163-4197-bb8c-1f723399de12",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/clb96kYh4k",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "f73965fe-9be4-4653-a979-8b689f051ff9",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/tKuTdpnmLr",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "93ee6b02-ed94-41a4-a8c5-08cf0bb8ff1d",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA02213_The_King_of_Fighters_XV",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

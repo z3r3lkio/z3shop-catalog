@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a75ae3be76beadd88604bf3",
+    "title_id": "PPSA08427",
+    "title": "Killing Floor 3",
+    "version": "02.011",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 34574486733
+  },
+  "metadata": {
+    "description": "It’s 2091. Join up with Nightfall, the last line of defense against megacorp Horzine’s inhuman army of monstrous zeds. The future is in your hands… if you can survive long enough to reach it. Killing Floor 3 is the next installment in the legendary action/horror series. This intense FPS puts you in the boots of a Nightfall specialist joining forces with up to five teammates to battle waves of Zeds, earn dosh, unlock skills, and build the ultimate arsenal. KILLER CO-OP Assemble the ultimate zed extermination squad for frenzied 6-player co-op. You can also brave the battlefield alone in tense single-player mode. RELENTLESS ZEDS Brace yourself for the most lethal zeds yet. Every enemy has been redesigned and retuned with smarter AI; making them faster, deadlier, and more strategic than ever. SURVIVAL TECH From flamethrowers to shotguns to katanas, you’ll have an expansive arsenal at your disposal. Customize your own unique brand of bloodletting with hundreds of mods, gadgets, and skills to choose from. DANGEROUS LOCATIONS Drop into a variety of treacherous hot zones where you’ll have to contain the further spread of the Outbreak. Thankfully, you can use the environment to your advantage by activating turrets, fans, and other devastating traps. MORE GORE Our MEAT System returns to deliver even more realistic carnage. Featuring additional points of dismemberment and persistent blood, the game responds to your attacks with gruesome authenticity.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "Tripwire Interactive",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Shooter",
+      "Horror"
+    ],
+    "release_date": "2025-07-24",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202607/2313/b7f47692f060333a3f05b0c4973a5ca9d748c07bc2e88585.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "91970af3-f5d6-42c1-98c9-84078b429bcd",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA08427_Killing_Floor_3",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "e024a262-30cb-45df-8a8d-78018959d72a",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/vLLF0XH0DH",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

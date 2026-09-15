@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a965d95b0a31dad5b0fe91d",
+    "title_id": "PPSA32239",
+    "title": "Mega Man Star Force Legacy Collection",
+    "version": "01.001",
+    "pack": "unknown",
+    "region": "JPN",
+    "size_bytes": 4090956349
+  },
+  "metadata": {
+    "description": "The Mega Man Star Force series, which expanded into an anime, is back in the Mega Man Star Force Legacy Collection! This collection includes seven games and additional features like a gallery of illustrations and music! Online play is also supported! The following titles are included in the collection: Mega Man Star Force Pegasus Mega Man Star Force Leo Mega Man Star Force Dragon Mega Man Star Force 2 Zerker x Ninja Mega Man Star Force 2 Zerker x Saurian Mega Man Star Force 3 Black Ace Mega Man Star Force 3 Red Joker It is the year 220X, and the world has seen rapid advancements in Wave technology. Our protagonist, 11-year-old Geo Stelar, refuses to go to school as he mourns the disappearance of his astronaut father. One night, Geo is at the observatory gazing at stars as he usually does. Suddenly, his Transer picks up a signal from space and he is hit with a powerful electric shock! When he finally comes to, an alien with an electromagnetic wave body called Omega-Xis is standing over him... Note: The toy link features found in the original versions are not supported.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "Capcom U.S.A., Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games",
+      "Action"
+    ],
+    "release_date": "2026-03-27",
+    "store_url": "https://store.playstation.com/en-us/concept/10016383",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202510/2208/303b5cc7c5df626a9be83d371c81b7e428b0e2db04d218d9.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "f647fc7e-3fcc-4f61-9eaa-d8d6864562a3",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/gXeGOAOLN3Aa/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "3f245cc7-e715-4438-a55a-e38ed2f15e03",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/tagaTIdakQ",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

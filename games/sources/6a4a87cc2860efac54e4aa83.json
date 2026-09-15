@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4a87cc2860efac54e4aa83",
+    "title_id": "PPSA11541",
+    "title": "STORY OF SEASONS A Wonderful Life",
+    "version": "01.002",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 1052266988
+  },
+  "metadata": {
+    "description": "Put down roots on your new farm in the peaceful town of Forgotten Valley. Forge precious memories as you weave your own generation-spanning tale of friendship, family, and farming. Bring life to the land by cultivating crops and raising animals, find love among the town's friendly folk, and make lasting memories with a family of your very own in this reimagining of a beloved farming classic. Establish your homestead Live a carefree life on the farm growing an abundance of crops and nurturing the land to improve your yield. Raise cute animals that reward your affection with handy produce that is perfect for recipes, as gifts or sold for a profit at your very own market stall. Discover new animals, create hybrid crops, and build upgradeable facilities to help you on your way to a dream life in Forgotten Valley. Befriend the residents of Forgotten Valley Find new friends among the charming cast of characters in the tranquil town of Forgotten Valley, and get to know them through all-new events! In this close-knit community, there’s an abundance of memorable personalities, from the mischievous Nature Sprites to the nutty scientist Daryl, that make Forgotten Valley… unforgettable! Tell your story your way Play as male, female, or non-binary, and customise your look as you start your new story in Forgotten Valley. Regardless of how you choose to play, all of the eight eligible bachelors and bachelorettes have romantic potential, so you can truly be who you want to be and fall in love with your heart’s desire. Fall in love, start a family, and build precious memories Once you’ve found your one true love, it’s time to settle down and start a family. Watch your child grow into adulthood as the years pass! Will they inherit the farm? Or will they find their calling somewhere else? Help your family thrive across the decades in Forgotten Valley, guiding your child on the path to finding a future that’s right for them. A Wonderful Life for a new generation! Revisit a beloved story as never before, with updated visuals, additional marriage candidates, new animals, seasonal events, and a wide array of gameplay improvements. This reimagined version of A Wonderful Life brings all of the heart and charm of the original to a new generation as the definitive experience of one of the most cherished entries in the long-running farming series.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files, Pkykzhack for DLCs",
+    "publisher": "Marvelous USA (XSEED)",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Simulation"
+    ],
+    "release_date": "2023-06-27",
+    "store_url": "https://store.playstation.com/en-us/product/UP1023-PPSA11540_00-WONDERFULLIFE000",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "c1ec0c7d-85b5-44f7-a049-8d66351ef9b9",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?0fzwq26m240oozmna7cn",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "6c6b2864-d818-46a4-904b-412ec4dcbc0d",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/FStbJEKazk",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "5b5ec469-e2c5-470f-a7c9-28fc61d97194",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA11541_Story_of_Seasons",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

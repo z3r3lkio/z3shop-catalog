@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a408b3d9e5b943a9a6dc5d2",
+    "title_id": "PPSA08448",
+    "title": "Asterix and Obelix XXXL The Ram From Hibernia",
+    "version": "",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 5046586573
+  },
+  "metadata": {
+    "description": "The year is 50 B.C. Gaul is entirely occupied by the Romans. Well, not entirely. One small village of indomitable Gauls still holds out against the invaders… Meanwhile, in Hibernia (today known as Ireland) Keratine, cheif Irishcoffix’s daughter, is calling Asterix and Obelix to the rescue as they need help to overcome the Roman invasion and bring back her father’s beloved golden ram. For this mission, you’ll control your favorite heroes and use your fists and any surrounding objects to make your way while throwing Romans in the air! To progress in this pure action-adventure game, travel around the 6 new worlds and use objects around you to unlock access to hidden paths and, as usual, smash Romans that cross your way. 6 new worlds to explore from Gaul to Hibernia (Ireland) in an original story respectfully inspired by the iconic universe of our Gaulish heroes! For the first time ever, play Asterix and Obelix in local cooperation up to 4 players on the same screen. We offer you a new game experience by using a wide range of objects founds during your journey, but of course, you can still grab Romans ! New stylish combos and finish moves are available to beat them all! This game has a high replay value due to challenges in each levels demanding skills to get success and rewards . Series fans and casual gamers will also be delighted to get back to Asterix and Obelix world through this 3D game (top-down view) with stunning graphics and universal humour.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Microids",
+    "developer": "Osome Studio",
+    "players": "4",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "2022-11-04",
+    "store_url": "https://store.playstation.com/en-us/product/UP1475-PPSA08449_00-ADOXXXLPS50000US",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "046b5085-b207-4cce-9eab-24d0f8430cdf",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA08448_Asterix_Obelix_XXXL",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

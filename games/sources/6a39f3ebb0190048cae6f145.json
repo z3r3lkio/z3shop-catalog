@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a39f3ebb0190048cae6f145",
+    "title_id": "PPSA08804",
+    "title": "Sonic Racing CrossWorlds Deluxe Edition",
+    "version": "1.012",
+    "pack": "unknown",
+    "region": "JPN",
+    "size_bytes": 13851269530
+  },
+  "metadata": {
+    "description": "Purchase the Sonic Racing: CrossWorlds Digital Deluxe Edition and receive 3 Sonic Prime playable characters and the Season Pass. This bundle includes: • Base game ​ • Season Pass: - Sonic Prime Character Pack - Rusty Rose, Tails Nine, Knuckles the Dread (Available at launch) - 6 Content Packs, which include guest characters, vehicles, tracks, emotes, and more from some of your favorite pop culture franchises. * Additional content will be released sequentially after the game is released. * Please check the official website for product details and release schedule. Race across land, sea, air, and space in Sonic Racing: CrossWorlds! Warp through Travel Rings into new dimensions where something new awaits around every twist and turn. Speed to victory solo or as a team in a variety of offline and online modes and compete against players from around the world. Build the ultimate vehicle to match your racing style, unlock gadgets to gain the upper hand, and unleash power-up items to bring home the win! Ready, Set, Warp! Race across 24 tracks and warp to 15 CrossWorlds with Travel Rings, a unique gameplay mechanic that transports the iconic characters from the Sonic and SEGA universes into new dimensions. Use unpredictability to your advantage as you change the landscape of each race! Race With the Best! Choose from 23 iconic Sonic characters, the largest roster of any Sonic racing game! Make It Yours Mix and match between 45 unique original vehicles and 70 different gadgets to trick out your ride, level up your kart, and create the ultimate machine to match your racing style. Gain the Advantage with Powerful Items! Dominate your opponents with 23 different items including returning favorites and all-new items like the Monster Truck! Multiple Ways to Play Gather with friends and play local split-screen in Grand Prix and the new party mode Race Park, compete against players from around the world and increase your rank in World Match, play against friends online in 12-player lobbies with custom rules in Friend Match, or test your driving skills in Time Trials. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "",
+    "publisher": "SEGA of America, Inc.",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Driving/Racing"
+    ],
+    "release_date": "2025-09-22",
+    "store_url": "https://store.playstation.com/en-us/product/JP0177-PPSA08804_00-DDXEDITION000000",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4307d88c-e7bb-4409-84cf-60c27941b3c0",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/YquWkNtPyo",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "11742473-aa5c-46c2-a28e-dbe03380d715",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/AfMcvce2Fl",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "bc2693a4-0804-407d-9c22-7ad2c0639a9b",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA08804_Sonic_Racing",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a719410a80b138b911d68ea",
+    "title_id": "PPSA06693",
+    "title": "Remnant II®",
+    "version": "01.039",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 90086939034
+  },
+  "metadata": {
+    "description": "UNIMAGINABLE WORLDS. UNRELENTING ODDS REMNANT II® is the sequel to the best-selling game REMNANT: FROM THE ASHES that pits survivors of humanity against new deadly creatures and god-like bosses across terrifying worlds. Play solo or co-op with two other friends to explore the depths of the unknown to stop an evil from destroying reality itself. To succeed, players will need to rely on their own skills and those of their team to overcome the toughest challenges and to stave off humanity’s extinction. Features: Intense Remnant Combat Experience A mix of methodical and frenetic ranged/melee combat returns with cunning enemies and large scale boss battles. Choose specific gear and weapons to optimize for the different biomes and battles ahead. Bosses will bring high-level players to team up to overcome the challenge and try to obtain the biggest rewards New Worlds to Explore Players can travel alone or with friends as a team through strange new worlds and beyond, overrun by mythical creatures and deadly foes while trying to stay alive. There are multiple worlds to explore with different types of creatures, weapons, and items. Utilize and upgrade discovered items to take on tougher challenges Endless Replayability Branching quest lines, augments, crafting, and loot rewards will test the resolve of even the most hardened players in dynamically generated dungeons and areas. Playthroughs will feel challenging, varied, and rewarding as players succeed against unrelenting odds. Various stories are woven throughout the different worlds, encouraging exploration and multiple revisits New Archetypical Progression Expanded Archetype system provides players with unique passive bonuses and stunning powers. Multiple Archetypes can be unlocked during play, leveled up, and equipped together for a variety of play styles",
+    "notes": "",
+    "credits": "",
+    "publisher": "THQ Nordic",
+    "developer": "Gunfire Games",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Role Playing Games"
+    ],
+    "release_date": "2023-07-25",
+    "store_url": "https://store.playstation.com/en-us/product/UP1980-PPSA06693_00-REM2STDPREORDER0",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202307/2518/7890bc04e829c692cbcd7adde534687769192633b2fffdc4.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "15e9a497-46fc-4b17-a022-69975e82c92a",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA06693_Remnant_2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "67e38d58-baea-4657-baf2-a0087f474fb6",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/JSDbWfwPt5",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

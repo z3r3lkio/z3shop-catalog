@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a913009b0a31dad5b0fe917",
+    "title_id": "PPSA09232",
+    "title": "Ghost Song",
+    "version": "01.005",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 1342177280
+  },
+  "metadata": {
+    "description": "On the desolate moon of Lorian, a long-dormant Deadsuit awakens from slumber—armed and combat-ready, memory clear of purpose. But something new is stirring… Strike out beneath the surface in search of answers in Ghost Song, an atmospheric 2D adventure of self-discovery, ancient mysteries, and cosmic terror. Explore winding caverns lit only by bioluminescent flora, battle strange and powerful creatures, and acquire new abilities to help you unearth this alien world’s long-buried secrets. Descend deep into the darkness—only then will you learn (or is it remember?) the truth. FEATURES Discover what lies below Explore the twisting alien tunnels and long-abandoned labs of an expansive, beautifully illustrated Metroidvania-inspired 2D world filled with secret chambers and a haunting history. Power up and progress Acquire potent weapons and game-changing new abilities in the depths, unlocking access to new strata of the moon and optional hidden areas. Face challenging foes Combat the fungal aliens and metal husks of Lorian with responsiveness and precision. Level up your power, and customize your suit and blaster with an arsenal of modules. Blast and smash Master the distinctive rhythm of Deadsuit’s core combat. Pummel enemies with your rapid-fire blaster, building up barrel heat that empowers your melee attacks. You are not alone You’re not the only entity trapped in this unfamiliar place. Encounter a cast of voiced characters and discover their own tales of survival, courage, abandonment, and redemption.",
+    "notes": "",
+    "credits": "Thanks to DecKerr97 for the Files with BackPort",
+    "publisher": "Good Games Group, Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2022-11-03",
+    "store_url": "https://store.playstation.com/en-us/concept/10005004/",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202211/0316/xevg0NQHspRh84HcudtiMoOU.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "3ca97011-b239-4388-90c4-9f335f487cb0",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/EL73g7gA839B/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "220f172e-5af1-4567-80f3-0e7b3f9014e3",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA09232_Ghost_Song",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

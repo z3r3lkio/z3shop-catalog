@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028c3",
+    "title_id": "PPSA01576",
+    "title": "Avatar: Frontiers of Pandora",
+    "version": "1.020",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 110187385979
+  },
+  "metadata": {
+    "description": "Get the Aranahe Warrior Pack for free when you play on PlayStation®5. Avatar: Frontiers of Pandora™ is a third and first-person action-adventure game set in the never-before-seen Western Frontier of Pandora. Abducted by the human militaristic corporation known as the RDA, you, a Na’vi, were trained and molded to serve their purpose. Fifteen years later, you are free, but find yourself a stranger in your birthplace. Reconnect with your lost heritage, discover what it truly means to be Na’vi, and join other clans to protect Pandora from the RDA. EXPLORE A WORLD OF WONDER AND DANGER Experience the epic wonders of the Western Frontier, a never-before-seen continent of Pandora. Journey through beautiful yet unpredictable open world regions, where lowering your guard can lead to deadly mistakes. BECOME NA’VI Harness your incredible strength and agility while customizing your character, crafting new gear, and upgrading skills and weapons to fit your playstyle. SOAR THE SKIES Bond with your own personal banshee that will give you an edge in aerial combat and can be used for traveling across the vast Western Frontier. MASTER MULTIPLE COMBAT STYLES Fight off the dangers of Pandora as you embrace the precision of traditional Na’vi weapons, including your bow and spear-thrower, or leverage your human training with more destructive weapons, such as an assault rifle or a shotgun. AN IMMERSIVE NEXT-GEN EXPERIENCE Developed to maximize the power of PS5®, Avatar: Frontiers of Pandora will push the limits of immersion with extraordinary levels of detail, rendering, density, and immersive audio. SHARE YOUR ADVENTURE IN FULL CAMPAIGN CO-OP Play the full story campaign in single-player or with a friend online in two-player co-op. Internet connection, Ubisoft Account, PlayStation™Network account, and PlayStation®Plus subscription (sold separately) required to access online multiplayer/features.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Ubisoft",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Unique"
+    ],
+    "release_date": "2023-12-07",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202511/2614/1219aa0cac4a0062f21bbda6fef8433881920d36d269ba59.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4729fc96-1b88-49ae-b087-218c1d86b19a",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/VRV99QmoAb#PPSA01576",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "Roy Choo",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "55917c01-ef9e-4adb-909f-519602e10266",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01576_Avatar_Frontiers_of_Pandora",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa6b019792e471937d0b013",
+    "title_id": "PPSA03016",
+    "title": "Marvel's Spider-Man 2",
+    "version": "01.004.003",
+    "pack": "fpkg",
+    "region": "USA",
+    "size_bytes": 114342766838
+  },
+  "metadata": {
+    "description": "Spider-Men Peter Parker and Miles Morales face the ultimate test of strength inside and outside the mask as they fight to save the city, each other and the ones they love, from the monstrous Venom and the dangerous new symbiote threat. Explore an expansive Marvel’s New York with faster web-swinging and the all-new Web Wings, quickly switching between Peter and Miles to experience different stories, epic new abilities and high-tech gear. Wield Peter’s symbiote abilities and Miles’ explosive bio-electric powers in battle against new and iconic Marvel Super Villains – including an original take on a symbiote-infused Venom, the ruthless Kraven the Hunter, the volatile Lizard, and more from the Marvel Rogues’ Gallery. Feel the true power of Spider-Man in your hands! - Haptic feedback: experience the full force of Peter’s and Miles’ new abilities at your fingertips with responsive vibrations. - Adaptive triggers: master acrobatic moves, execute thrilling combos, and discover the breathtaking excitement of web-swinging traversal. Live the Super-Hero life! - Tempest 3D AudioTech: pinpoint the sounds of webs, bio-electric powers, bustling traffic, responsive New Yorkers, and dangerous enemy attacks.* - Stunning visuals: explore beautifully vibrant new environments and locations, including Brooklyn and Queens – as well as locations like Coney Island. *3D Audio via built-in TV speakers or analogue/USB stereo headphones.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 and DLPS Team for the files, BestPig for the BackPort and Drakmor for the fpkg tool and @kaiftaufiq & @Ape for the pkg file",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Insomniac Games, Inc",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2023-10-20",
+    "store_url": "https://store.playstation.com/en-us/product/UP9000-PPSA03016_00-MARVELSPIDERMAN2",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202310/1911/581f17941d507be4a206e2a44d4d96ff57f98ad78204be58.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "09d17b45-39e2-4b3f-b63e-5e78f0093bc4",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/Kl0CxvJh8Y",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "4849b787-ec9a-410e-b61c-2ad1bfd32f09",
+      "provider": "Archive",
+      "url": "https://archive.org/details/SM2_FPKG",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

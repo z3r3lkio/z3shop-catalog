@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a41daba943e0bf514569235",
+    "title_id": "PPSA08260",
+    "title": "Star Wars Outlaws",
+    "version": "01.007",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 81604378624
+  },
+  "metadata": {
+    "description": "Experience the first-ever open world Star Wars™ action-adventure game and explore distinct locations across the galaxy, both iconic and new. Risk it all as scoundrel Kay Vess, seeking freedom and the means to start a new life. Fight, steal, and outwit your way through the galaxy’s crime syndicates as you join the galaxy’s most wanted. If you’re willing to take the risk, the galaxy is full of opportunity. DISCOVER A GALAXY OF OPPORTUNITY Explore distinct locations with bustling cities and cantinas. Race across sprawling outdoor landscapes on your speeder. Each location brings new adventures, unique challenges, and enticing rewards if you’re willing to take the risk. EXPERIENCE AN ORIGINAL SCOUNDREL STORY Live the high-stakes lifestyle of an outlaw. Turn any situation to your advantage with Nix by your side: fight with your blaster, overcome enemies with stealth and gadgets, or find the right moments to distract enemies and gain the upper hand. EMBARK ON HIGH-STAKES MISSIONS Take on high-risk, high-reward missions from the galaxy’s crime syndicates. Steal valuable goods, infiltrate secret locations, and outwit enemies as one of the galaxy’s most wanted. Every choice you make influences your ever-changing reputation. JUMP INTO THE PILOT SEAT Pilot your ship, the Trailblazer, as you engage in thrilling dogfights with the Empire and other foes. Find the right opportunities to chase, evade, and attack to get the upper hand. Offer, content, and dates subject to change. Internet connection, Ubisoft Account, PlayStation™Network account, and PlayStation®Plus subscription (sold separately) required to access online multiplayer/features.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Ubisoft",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "2024-08-30",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202306/1409/f3b5191207f4f1d904de5c217882b594e21b15424126b0b8.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a0ddd2ec-42f1-4814-80d6-8c96508b6e9d",
+      "provider": "Akirabox - DLC (DUPLEX )",
+      "url": "https://akirabox.to/APVmapLQjGXo/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "70e750b8-845b-4b71-90b9-4a7714347451",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/ZZxCk3jqy7",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "49ad72e1-f6f8-42a1-907e-88097da6dec3",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA08260_Star_Wars_Outlaws",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

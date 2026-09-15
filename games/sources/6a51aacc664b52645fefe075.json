@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a51aacc664b52645fefe075",
+    "title_id": "PPSA05132",
+    "title": "SIFU",
+    "version": "01.024",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 10844792422
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. Itching for some more good ol' Kung Fu action? The Arenas Expansion, features 15 dynamic locations packed with enemies, 5 game modes and 120 challenges in an explosive mix of film action. Face ever more intense combat moments, engage with the environment in an advanced way and push your Kung Fu training to its limits. Is one life enough to have Kung Fu? Whether you choose to play as a male or a female character, in Sifu, you will ponder that question on your path for revenge, hunting down your family’s assassins. One against all, you have no allies, countless enemies, and a mysterious amulet to bring you back to life every time you die. Yet, be warned! Your secret weapon comes with a hefty price to pay: aging and its consequences. Learning by fire Your enemies don’t wait their turn, and they don’t broadcast their intent. Dodge, parry, strike, use combos and be like water making its way through captivating environments. Learn how to master your art, whether by fighting through the underbelly of a nightclub, scrambling through a refined gallery to avoid getting surrounded, or vertically navigating a towering office building. Adaptation is survival Careful positioning and clever use of the environment to your advantage are key to your survival. Use everything at your disposal: throwable objects, makeshift weapons, windows and ledges... The odds are stacked against you, and you will be offered no mercy. Training never ends Kung Fu is mastery through practice, a path for both the body and the mind. Learn from your errors, unlock unique skills, and find the strength to master the devastating techniques of Pak Mei Kung Fu. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to C4our20 for the Files",
+    "publisher": "SLOCLAP S.A.S",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2022-02-06",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202205/1900/Np3MmgGyU5294HaHqyAnqHza.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4ae31719-3fe3-4b7e-b22d-4ce1454cb877",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?so1v48zey25mryv2v5ld",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "36fad770-b8de-4e11-97f3-f4b718916680",
+      "provider": "Archive",
+      "url": "https://archive.org/details/ppsa-05132-sifu",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

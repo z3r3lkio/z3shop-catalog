@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a78176ee7c8326e373b5177",
+    "title_id": "PPSA17732",
+    "title": "The Precinct",
+    "version": "01.011",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 5390183956
+  },
+  "metadata": {
+    "description": "You are Officer Nick Cordell Jr. As a rookie beat cop fresh out of the Academy, you’re on the front line of defence for Averno’s citizens. Dive into a world of thrilling car chases, sandbox crimes, and a healthy dose of 1980s noir as you protect the populace and solve the mystery of your father’s murder in the line of duty. Take to the Streets A love letter to classic cop movies, The Precinct combines police sim with action sandbox spectacle. Patrol the streets and respond to callouts to fight criminals petty and powerful. Choose your own tactics in thrilling chases and shootouts. Feel the shifting power struggles of Averno's gangs in a living city full of sandbox crimes, from parking infractions to bank heists, street racing to drug deals. Hot Pursuit Speed through the city in intense car and helicopter chases and pursue your mark through twisting alleyways before bringing them to justice. There's no need to be a lone wolf: You've got Averno's Finest backing you up, with an in-depth support system that allows you to call in squad cars, roadblocks, spike strips, and more. A Sleepless City Explore the ever-shifting criminal underbelly of Averno City. Deal with yuppies, bums, street vendors and furious taxi drivers from the Projects to the Financial District. Chase perps through neon-lit alleys, rain-soaked streets, and grand, decaying parklands, all subject to a day/night cycle and dynamic weather. This is the 1980s East Coast in all its neon-noir glory. Key Features - Explore a vibrant, living city by foot, squad car and helicopter - Respond to sandbox crimes ranging from parking violations to gang shootouts - Engage in intense vehicle chases through destructible environments - Go it alone or call in backup with an in-depth support system - Investigate the gangs who rule the city and the dark conspiracies keeping them in control - Day/night cycle with dynamic weather To play this game and access all of its features you must accept Kwalee’s End-User Licence Agreement and Privacy Policy, which can be accessed here: www.kwalee.com/eula-pcc/ www.kwalee.com/pp-pcc/",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, DecKerr97 for the BackPort and Pippo for the exfat",
+    "publisher": "Kwalee Ltd",
+    "developer": "Fallen Tree Games, and exclusively licensed to Kwalee Ltd",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-05-13",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202603/2514/10cf8d945f7e808160d5a87b858285c37474ced5ab5b428c.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4416e249-abe1-498f-8012-789ae47e15e7",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA17732_The_Precinct",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "e0327fcf-9a52-4310-b330-3833f535cf3c",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/KXIQptz4gR",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

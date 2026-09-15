@@ -1,0 +1,112 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a82af48b0a31dad5b0fe8d2",
+    "title_id": "PPSA03639",
+    "title": "BLEACH Rebirth of Souls Ultimate Edition",
+    "version": "01.040.003",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 36292473651
+  },
+  "metadata": {
+    "description": "The Ultimate Edition includes: • BLEACH Rebirth of Souls • 4 additional playable characters • 7-day Early Access for DLC characters • Two-Type Soul Crystal Set 1 - Attack Soul Crystal (Light Scratch), Defense Soul Crystal (Endure) • Two-Type Soul Crystal Set 2 - Spiritual Pressure Soul Crystal (Informal), Special Soul Crystal (Tailwind) • Thousand-Year Blood War Costume Set • Rebirth of Souls Costume Set • Two-Type Soul Crystal Set 3 - Attack Soul Crystal (Flawless), Defense Soul Crystal (Perfection) Awaken the blade within you and reverse your fate in BLEACH Rebirth of Souls! Engage in thrilling battles with powerful sword abilities and characters from this legendary anime franchise. • Unleash Your Sword Choose your favorite character and unleash their unique sword abilities! Take advantage of each character's unique abilities and command the flow of battle to find an opening that spells defeat for your enemies. • Defeat Enemies with a Single Strike In BLEACH Rebirth of Souls, a single strike can spell defeat for your opponent. Change the situation dramatically with the swing of your blade! • Reverse Fate and Awaken Your Power The more desperate the situation, the more powerful you become. Overturn the tide of battle and unlock new forms and new blades in the heat of battle to bring victory from the edge of defeat! • Experience the BLEACH Story from the Beginning Relive the main story of BLEACH from Ichigo's rise as a Soul Reaper in the Substitute Soul Reaper Arc to the climactic battle against Sosuke Aizen in the Arrancar Arc. Unlock deeper insights into the characters of BLEACH with Secret Story mode, revealing the moments that shaped their personalities. *There are also Standard Edition and Deluxe Edition products available. Please be careful not to purchase the same content twice. *The DLC included in Season Pass will be available by 03/21/2026. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product.",
+    "notes": "",
+    "credits": "Thanks to DLPS Team for the Files, Pippo for DLCs & exfat file and DecKerr97 for the BackPort",
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Fighting",
+      "Action"
+    ],
+    "release_date": "2025-03-21",
+    "store_url": "https://store.playstation.com/en-us/product/UP0700-PPSA03639_00-BROS0ULTEDITION0",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202408/0817/406d17c1dcbb463fa690fbcec5bdea218776407865279313.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "b0e39db7-06c6-4ef8-a620-2268c1b912bc",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/oXQMuo5HqJ",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "16091900-a3e0-4def-800e-b84f4fc68052",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/LK0G1bXBNm91/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "fb646d6a-5b96-47c0-98f2-038ed485335e",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/2bJG8bXk73OB/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "a9d92657-2688-4f6f-85bc-672886195e72",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/dkD3YwDNAGLQ/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 3,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "d45db856-faa2-4e29-9534-dacd7880d113",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/vgKGxX76rG8Q/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 4,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

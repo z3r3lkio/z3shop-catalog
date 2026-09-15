@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028ac",
+    "title_id": "PPSA01532",
+    "title": "Assassins Creed Valhalla Complete Edition",
+    "version": "01.070",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 175019917312
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4® version and the digital PS5® version of this game. The Complete Edition includes: - The base game - Dawn of Ragnarök major expansion - Season Pass: 2 expansions (Wrath of the Druids, The Siege of Paris) and 1 quest (Legend of Beowulf) - Berserker Pack: gear, settlement, longship packs, and a set of runes Play as a Viking warrior in this action-adventure game set in England’s Dark Ages. Explore a dynamic open world, raid your enemies, and grow your settlement to earn your place among the gods in Valhalla... BUILD YOUR OWN VIKING LEGEND Become Eivor, a mighty Viking raider, and lead your clan. Advanced RPG mechanics allow you to influence the world around you. With every choice you make, from political alliances and combat strategy, to dialogue and gear progression, carve your path to glory! EXPLORE A DARK AGE WORLD Sail from Norway’s icy coasts to England’s lush kingdoms. Roam a vast open world, hunt legendary beasts, and lay bare the secrets of a fractured land. EXPERIENCE VISCERAL COMBAT Unleash the ruthless fighting style of a Viking warrior and dual wield axes, swords, or even shields against fierce, relentless foes. Choose your tactics and dismember opponents in close-quarters combat, riddle them with arrows, or assassinate them with your Hidden Blade. GROW YOUR SETTLEMENT Construct and upgrade buildings that allow for deep customization, including a barracks, a smithy, a tattoo parlor, and more. Recruit new members to your clan and personalize your Viking experience. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to Alterr87 for the Files with DLCs",
+    "publisher": "Ubisoft",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2022-03-10",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202011/1301/A7KO8O9pwyod3ikyz4J3aBoK.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "b90c49b9-915e-4145-aa74-b596e1c50759",
+      "provider": "Archive",
+      "url": "https://archive.org/details/ppsa-01532-ac-valhalla",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

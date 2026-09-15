@@ -1,0 +1,82 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a8c6324b0a31dad5b0fe903",
+    "title_id": "PPSA07191",
+    "title": "Super Bomberman R 2",
+    "version": "01.003.001",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 11059540787
+  },
+  "metadata": {
+    "description": "The latest title of the party battle games series SUPER BOMBERMAN R! With new adventures and game modes, it has the largest content volume in the series' history! The game features not only offline battles that can be played with family and friends, but also online battles that connect players from all over the world, as well as a single player mode. In addition to the well-known \"Standard\", \"Grand Prix\" and \"Battle 64\" a new battle mode called \"Castle\" in which players are divided into Attack side and Castle side to battle for the treasure! A \"Stage Editor\" function has also been added, allowing players to create their own stages for \"Castle\" and share them online with players around the globe. Let's have fun together in \"SUPER BOMBERMAN R 2\"! • Battle Mode Enjoy 4 battle modes, including the new \"Castle\"! “Castle”: Asymmetrical battle between the Castle side, which protects the treasure chest, and the Attack side, which aims to win the treasure chest! “Standard”: The classic battle mode loved by fans! “Grand Prix”: Battle of two teams! Work with your allies to defeat the opposing team! “Battle 64”: Battle for survival with up to 64 players! Aim for Bomber One! • Grade Match Battles between users with similar abilities! Fight online with players from all over the world! • Room Match Set freely battle modes and rules! Get your friends together online and have a good time! • Offline Battle With one console you can enjoy Bomberman! Connect additional controllers and play with family and friends! *Controllers for the number of persons are required. • Stage Editor Customized stages with blocks and gimmicks can be shared online! Create, play, share, and explore various stages with the Stage Editor! • Story Mode Enjoy the Story Mode that has been enhanced! Visit new planets with Bombermans new friends “Ellons” and face the threat of the universe! If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™-game-disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & VanBuuren for the Files, BestPig for the BackPort and Pippo for the exfat file",
+    "publisher": "KONAMI",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Party",
+      "Action"
+    ],
+    "release_date": "2023-09-13",
+    "store_url": "https://store.playstation.com/en-us/concept/10004838",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202505/2709/ae2779bf60412a8af1621a82146b84cd9b382f0c6cb7d6ef.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "e49b7e9b-49b9-4ffd-9665-a9d15f5beb0a",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA07191_Super_Bomberman_R2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "41fdbc58-b92e-47fa-a2c2-d046252e0c88",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/APVmabWdd3Xo/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "e57a74a1-6056-43e4-a0bf-b4f64a5791bb",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/SIyFnLksbu",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

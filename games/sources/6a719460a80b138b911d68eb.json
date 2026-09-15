@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a719460a80b138b911d68eb",
+    "title_id": "PPSA04987",
+    "title": "Powerwash Simulator",
+    "version": "01.018",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 14173392077
+  },
+  "metadata": {
+    "description": "Release the Pressure with PowerWash Simulator! Wash away your worries with the soothing sounds of high-pressure water. Fire up your power washer and blast away every speck of dirt and grime you can find. Build your own power-washing business and unlock new tools, upgrades and more – all with the simple satisfaction of power-washing to a sparkling finish. TIME TO CLEAN UP THE NEIGHBOURHOOD Build up your business in Career Mode and complete a variety of dirty jobs across the dusty town of Muckingham. There's no right or wrong; no time pressure or final score, just you and the tools you need to soak away your stress. Want a clean start? Chill out and replay your favourite jobs in Free Play. POWERWASH AND CHILL Relax, unwind, and play with friends in Online Co-Op! Lend a helping hand to your closest pal in Career Mode, or up to 6 friends can splash around in Free Play, tackling any job the host has already completed. KEEP IT CLEAN For those looking for a little more pressure, beat your best scores in Challenge Mode! Fight grime in different scenarios; wash against the clock in Time Challenge or test your accuracy by using as little water as possible in Water Challenge. GOOD CLEAN FUN Graffiti, grime, moss, and mould, no dirt is too tough for your range of washers, nozzles, cleaners, and extensions. Different dirt types have different levels of toughness, so make sure you're getting tactical with your equipment. Feeling fancy? Then customise your look with washer skins and gloves! RELAXATION, SATISFACTION GUARANTEED From casual, clean freaks to players looking to get into the nitty-gritty, everyone can pick up and play to feel immersed. Absorb the relaxing atmosphere and stress-free pace as you strip dirt from patios, pavements, vehicles, and public parks. Stress gets to us all, so sit back, relax, and wash your worries down the drain. THE WORLD IS YOUR CANVAS Create art by cleaning the way you want. Your nozzles are your brushes; the neighbourhood is your canvas. Unleash your creative talents and transform ordinary dirt into exceptional artwork. Share your techniques and showcase your power-washing prowess and mud-caked masterpieces!",
+    "notes": "",
+    "credits": "",
+    "publisher": "FuturLab Limited",
+    "developer": "FuturLab Limited",
+    "players": "1",
+    "genres": [
+      "Simulator"
+    ],
+    "release_date": "2023-01-31",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202301/3015/2N4IV11f42PNVNAoHmW2aCkX.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4112dc66-46a4-4cdc-a4f7-4c8a68a593cf",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA04987_PowerWash_Simulator",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "28ca8e07-4970-4b2a-ac6e-8bd99a04f798",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/ScGbb7v7uT",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

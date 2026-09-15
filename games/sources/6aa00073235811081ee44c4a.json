@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa00073235811081ee44c4a",
+    "title_id": "PPSA31327",
+    "title": "Yakuza 0 Director's Cut",
+    "version": "01.015",
+    "pack": "pfs",
+    "region": "JPN",
+    "size_bytes": 49488760668
+  },
+  "metadata": {
+    "description": "Yakuza 0 Director's Cut is the definitive edition of the critically acclaimed prequel to the Yakuza series. Fight like hell through Tokyo and Osaka entertainment districts as yakuza Kazuma Kiryu and cabaret club manager Goro Majima in an epic crime drama of intertwined fates that created legends. Kiryu and Majima each have three unique fighting styles to dynamically switch between to creatively crack skulls with your fists, makeshift weapons and more. Anyone can enjoy exhilarating brawler action with easy-to-pick-up controls and a high skill ceiling. Director's Cut content gives deeper insight into key incidents and character backstories with never-before-seen cutscenes. Plus, the Red Light Raid online multiplayer mode lets you join forces with friends and choose from 60 playable characters to take down hordes of enemies. *The Red Light Raid online multiplayer mode will become playable in a post-launch update. *Save data from Yakuza 0 on PlayStation®4 does not carry over to Yakuza 0 Director's Cut. *Yakuza 0 on PlayStation®4 cannot be upgraded to Yakuza 0 Director's Cut.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX for the Files and DecKerr97 for the BackPort",
+    "publisher": "SEGA CORPORATION",
+    "developer": "RGG",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-12-07",
+    "store_url": "https://store.playstation.com/en-my/concept/10015829",
+    "trailer": "https://www.youtube.com/watch?v=yWmwdpNywh8",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "de906b96-7258-493f-9626-6cf006d4f6e4",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/OcaZzqdzOL#PPSA31327",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "6a42905bcd61e0bcf63ddeca"
+    }
+  ]
+}

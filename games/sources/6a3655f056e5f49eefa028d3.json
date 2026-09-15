@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028d3",
+    "title_id": "PPSA16384",
+    "title": "Directive 8020 Deluxe Edition",
+    "version": "1.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 38386270208
+  },
+  "metadata": {
+    "description": "From the creators of UNTIL DAWN and THE QUARRY, an all-new cinematic sci-fi horror adventure that blends intense survival gameplay with meaningful choices and a branching storyline. Earth is dying and humanity is running out of time. 12 light years from home, Tau Ceti f offers a small sliver of hope. When the colony ship Cassiopeia crash lands on the planet, its crew soon realize they are far from being alone. Hunted by an alien organism capable of mimicking its prey, the crew of the Cassiopeia must outwit their pursuers to make it home alive. As they battle to survive, they are confronted with the hardest choice of all: to save themselves, they must risk the lives of everyone on Earth. NEXT-GEN CINEMATIC SURVIVAL HORROR Featuring Hollywood actor, Lashana Lynch (Bob Marley: One Love, The Woman King) as the ground-breaking astronaut, ‘Young’, experience immersive cinematic storytelling and edge-of-your-seat horror on a deep space mission to save humanity. REAL-TIME ALIEN THREATS Evade a deadly alien threat that roams the dark corridors of the ship, intent on eradicating human life. Overcome your enemies using improvised weapons, lightning reflexes, and stealth. TRUST NO ONE Encounter an alien lifeform that perfectly imitates its prey. Years of training and trust are lost among the crew when their enemy hides in plain sight. Who is human and who is not? Your choices are now more important than ever! REWIND DECISIONS Rewrite your destiny and change the course of your story with our new Turning Points story tree. Uncover multiple endings, unlock hidden paths, and save your crew from their fateful deaths. DON’T PLAY ALONE Recruit up to five players to join you on your mission in couch-co-op movie night mode. Choose which crew members to control and work together with your friends to survive alien infiltrators, deadly dilemmas, and catastrophic system failures. In space, death takes many forms.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & SiESPta for the Files and BestPig for the BackPort",
+    "publisher": "Supermassive Games Ltd",
+    "developer": "",
+    "players": "5",
+    "genres": [
+      "Horror",
+      "Adventure"
+    ],
+    "release_date": "2026-05-12",
+    "store_url": "https://store.playstation.com/en-us/product/EP8253-PPSA16384_00-SMGDARKPICTURESE",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202605/1206/039273dcc2323cb20d0e0f3cb41245520c70a8286ddd23e5.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "c5971a62-0c70-4437-94ce-b9297dbc4139",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/Ewa2WS53OK",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "Arjay",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "f7b4158b-1f11-41e6-a14f-794a747edfb5",
+      "provider": "Data",
+      "url": "https://datanodes.to/901nju5cbrp2/DLC_DUPLEX.rar",
+      "mode": "archive",
+      "direct": false,
+      "archive": true,
+      "extension": ".rar",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

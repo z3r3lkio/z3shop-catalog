@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a719362a80b138b911d68e8",
+    "title_id": "PPSA04379",
+    "title": "Construction Simulator Gold Edition",
+    "version": "01.040",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 11703785882
+  },
+  "metadata": {
+    "description": "Are you interested in becoming a construction entrepreneur, but you want it all and you want it now? Then say no more and get your hands on the Construction Simulator – Gold Edition! This bundle includes not only the base game Construction Simulator, which already offers over 100 contracts, a selection of more than 90 machines by 24 licensed manufactures and more construction-related fun, but also a lot of additional content that has been released before the Gold Edition. The Year 1 Season Pass is also part of this cool bundle, so you can look forward to machines by SANY and JCB, the exclusive campaigns of the Airfield and the Spaceport DLC and two Cosmetic Packs, along with a special helmet for further customization. Besides, you also get to enjoy the Kramer Pack introducing three new vehicles into the game. Besides, you also get to enjoy DLCs such as the Customization Kit with its colorful helmet designs, the Kramer Pack introducing three new vehicles into the game, as well as the merits of the Car & Bobblehead Pack. The Gold Edition includes: • Construction Simulator – Main Game • Kramer Pack • Construction Simulator – Year 1 Season Pass o Year 1 Season Pass Helmet o JCB Pack o Cosmetic Pack #1 o Airfield Expansion o SANY Pack o Spaceport Expansion o Cosmetic Pack #2",
+    "notes": "",
+    "credits": "",
+    "publisher": "astragon Entertainment GmbH",
+    "developer": "weltenbauer",
+    "players": "1",
+    "genres": [
+      "Simulation"
+    ],
+    "release_date": "2024-04-04",
+    "store_url": "https://store.playstation.com/en-us/product/UP2565-PPSA04379_00-8001017598364664",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202206/2307/GRXnDSjetBsxPJKjFdSYQGSB.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "69cfd684-71d7-40f5-91f7-0d67a8ccd8ca",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA04379_Construction_Simulator",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "1872ccc7-5171-419d-9530-a1a967763a50",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/WjbzNwZhxm",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

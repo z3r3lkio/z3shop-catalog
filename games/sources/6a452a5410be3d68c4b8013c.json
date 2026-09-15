@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a452a5410be3d68c4b8013c",
+    "title_id": "PPSA15645",
+    "title": "Castlevania Dominus Collection",
+    "version": "01.003",
+    "pack": "unknown",
+    "region": "JPN",
+    "size_bytes": 1148903752
+  },
+  "metadata": {
+    "description": "In addition to the three action adventure games from the Castlevania series, Haunted Castle Revisited, an redesigned version of the very first Castlevania arcade game, makes its debut! And you can also play it in its original format! Experience the world of Castlevania like never before, with never-before-seen art and handy new features such as rewind, quick saves and much more! - Titles Castlevania: Dawn of Sorrow The adventures of Soma continue! Discover a completely new way to create countless weapons by combining souls, in stunning 2D graphics. One year after the events of Castlevania: Aria of Sorrow, a boy named Soma Cruz is once again put at the center of a plot to resurrect Dracula led by a mysterious cult.. Will he finally be able to face his own destiny and put an end to all this? Castlevania: Portrait of Ruin Not one but two heroes join their forces to fight the evil this time! Switch between Jonathan and Charlotte with a single button press and make the best use of their unique abilities. Dracula's Castle has suddenly resurfaced, but something doesn't add up. Jonathan Morris and Charlotte Aulin make their way in to investigate, they soon discover that the mind behind all this is not who they thought... Castlevania Order of Ecclesia The enigmatic Shanoa is the only human capable of using the glyphs, symbols full of magic. Gather glyphs by exploring the Castle and its surroundings and absorb the power of the mighty foes you fight! The three most powerful glyphs, thought to be able to even defeat Dracula himself, have been stolen. Can Shanoa bring them back to the Order, and finally destroy the Dark Lord? Haunted Castle Haunted Castle Revisited, an redesigned version of the very first Castlevania arcade game, makes its debut! And you can also play it in its original format!",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files, ManwonHp for the BackPort and Pippo for the exfat file",
+    "publisher": "KONAMI",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Role Playing Games"
+    ],
+    "release_date": "2024-08-27",
+    "store_url": "https://store.playstation.com/en-us/product/JP0101-PPSA15645_00-DOMINUSCOLLECTIO",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202408/0913/dd96cb5364aaa71fda0f31eb5ec517b27fa3c45c738f45da.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "f40b9877-ce76-446f-a2e5-8014b429b695",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA15645_Castlevania_Dominus_Collection",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "9156d829-8ebd-4584-b59a-91d8b8b66174",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/VlPwCCHV54",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

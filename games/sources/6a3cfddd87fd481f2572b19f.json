@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3cfddd87fd481f2572b19f",
+    "title_id": "PPSA10112",
+    "title": "SILENT HILL The Short Message",
+    "version": "01.001",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 13099650253
+  },
+  "metadata": {
+    "description": "Following messages from her friend Maya, Anita finds herself at a crumbling apartment block, infamous for rumors of suicides. Drawn inside, Anita soon finds her sense of reality shattered as she encounters bizarre, otherworldly spaces, haunted by a twisted monster. Maya's message was clear — \"can't leave til you find it\" — but what is it that Anita is really looking for? An all-new, modern SILENT HILL experience, powered by the latest in game technology, now available free to play exclusively on PlayStation® 5.",
+    "notes": "",
+    "credits": "",
+    "publisher": "KONAMI",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Horror"
+    ],
+    "release_date": "2024-01-31",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202401/1910/a2af546805a707f4bc7a303e90a33ac1973609e10a564185.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "e85de2a9-c6fe-4134-b789-7cf1508567bc",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA10112_SILENT_HILL_The_Short_Message",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "d1cebfd7-1f13-4399-8b68-0c4d15597f91",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/xDo8WaeHVI",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

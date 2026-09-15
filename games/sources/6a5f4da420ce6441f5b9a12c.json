@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5f4da420ce6441f5b9a12c",
+    "title_id": "PPSA23012",
+    "title": "Yooka Replaylee",
+    "version": "02.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 11703785882
+  },
+  "metadata": {
+    "description": "Embark on an epic 3D platforming collectathon adventure with Yooka and Laylee! Yooka-Replaylee is packed with new moves, more story, exciting challenges, hidden secrets, and more than double the collectibles to uncover. Can you help them rescue the world’s biggest treasure? Two unlikely treasure hunters retell the story of their greatest adventure; how they crashed their ship, discovered perhaps the most valuable book in the universe only for its Pagies to be stolen by a greedy capitalist, Capital B. Step into a wacky adventure across many fantastical and imaginative worlds, full of colourful characters and vault-loads of shiny collectibles, and save the world! FEATURES: THE STORY RETOLD – Here come the cheeky embellishments as Yooka and Laylee recall the story of their adventure! The story is unravelled in a brand-new story book style presentation with new sequences introduced throughout the game! DOUBLE THE CHALLENGES & PAGIES – New areas have been added; brand-new challenges have been introduced and old ones improved or replaced completely. Collectibles have been rearranged across all levels and the number of discoverable Pagies has been doubled! GAMEPLAY OVERHAUL – The moveset has been tweaked, sharpened and upgraded, including all new moves and combos for a flowing, expressive style of platforming. New camera features and refinements make framing the action a breeze too. REXTRO BYTES BACK – 2 games in 1! Take control of Rextro in his very own isometric platforming game for shiny rewards! Find hidden arcade games throughout the adventure and take on the puzzles, platforms and pests that he must overcome to become a video game hero himself! NEW COLLECTIBLE CURRENCY – Introducing Q.U.I.D.S! Capital B's inept minions have dropped their hard-earned coins all over the place. Collect the official currency of the Hivory Towers to spend on video games' most beloved sentient vending machine. Or undertake one of Coinelius’ many mini-challenges! NAVIGATING THE WORLD –The all-new adventurers’ notebook will help you hunt down EVERYTHING hidden in the game. Plus find bookmarks to fast-travel around and never get lost! Use your Q.U.I.D.S to buy hints to the whereabouts of more challenges – can you find all 300 magical Pagies!? VENDI HAS PLENTY TO OFFER – Tonics are back with all new flavours! With the option to equip multiple game-changing enhancements, you can truly customise and perk your playstyle. And as if that wasn't enough you can dress to impress! Vendi has new lines of merchandise for the modern fashionable adventurer too. A DREAMY ORCHESTRAL SOUNDTRACK – The original score from famed video game composers David Wise, Grant Kirkhope and Steve Burke returns, but as a beautifully arranged orchestral score with some new tracks from Dan Murdoch and Matt Griffin. Now seriously, clean out those ears.",
+    "notes": "",
+    "credits": "",
+    "publisher": "PM Studios, Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "2025-10-09",
+    "store_url": "https://store.playstation.com/en-us/product/EP1053-PPSA26097_00-0454227768983271",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202509/1108/4426b663b86b9eb079bbb5191a10ff2a44a9073039f7194a.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "2b12b22f-ac28-4f14-95ad-68efd7e84ae2",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/4uR2ynk8gr",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "1ed5c6be-c339-43b5-bcae-8da4d891eac8",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA26097_Yooka-Replaylee",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

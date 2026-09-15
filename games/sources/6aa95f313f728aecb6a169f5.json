@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa95f313f728aecb6a169f5",
+    "title_id": "PPSA30803",
+    "title": "Resident Evil Requiem",
+    "version": "01.200",
+    "pack": "fpkg",
+    "region": "USA",
+    "size_bytes": 81604378624
+  },
+  "metadata": {
+    "description": "A new era of survival horror arrives with Resident Evil Requiem, the latest and most immersive entry yet in the iconic Resident Evil series. Experience terrifying survival horror with FBI analyst Grace Ashcroft, and dive into pulse-pounding action with legendary agent Leon S. Kennedy. Both of their journeys and unique gameplay styles intertwine into a heart-stopping, emotional experience that will chill you to your core. *There are other bundles that include this product. Please be careful of duplicate purchases.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for game files, BestPig for backport and yengress for the fpkg file",
+    "publisher": "Capcom U.S.A., Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2026-02-27",
+    "store_url": "https://store.playstation.com/en-us/product/UP0102-PPSA30803_00-REREQUIEM0000000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202512/1207/9cc3d41bf5f9ae706bbe58e3431d05bd071e9c3f82afbe90.mp4",
+    "available_at": "",
+    "uploading": true
+  },
+  "sources": [
+    {
+      "id": "d8ab3d31-531b-492c-8e8f-483b26ea3c9d",
+      "provider": "Gofile",
+      "url": "https://gofile.io/d/BlPuufU0",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

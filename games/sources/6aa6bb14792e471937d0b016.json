@@ -1,0 +1,82 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa6bb14792e471937d0b016",
+    "title_id": "PPSA06509",
+    "title": "Zorro The Chronicles",
+    "version": "01.001.000",
+    "pack": "lz4",
+    "region": "USA",
+    "size_bytes": 10737418240
+  },
+  "metadata": {
+    "description": "Play as Zorro or his sister, Ines, in this action and stealth game inspired by the animated series Zorro The Chronicles. Free the people, restore justice and mock Sergeant Garcia by signing your name with the tip of your sword! Adventure awaits! Zorro The Chronicles is an exciting and humorous action game that includes combat and exploration scenarios inspired by the TV series. The epic adventure immerses you in the world of the successful animated series Zorro The Chronicles. Protect vulnerable and innocent people from the evil general and his army. Restore justice in 19th century Spanish California. Play as a true hero and fight for justice. You can play as Zorro or his sister, Ines. Level up your heroes' skills by unlocking new moves. Become a master sword fighter! Throw your opponents off balance with your sword skills, disarm them with a whip lash or sword strike, and pull off spectacular moves! Use your acrobatic prowess and reflexes to dodge their attacks. Then leave your mark on them by drawing a \"\"Z\"\" with the tip of your sword! Make the right choices! Explore 18 levels and adapt your approach according to the situation and enemies. Use cunning to surprise your opponents, sneak around them and explore the surroundings, or take them on in action-filled sword fights. Colourful characters Encounter a wide variety of prominent characters from the animated series Zorro The Chronicles. Some of them will get in your way and be formidable enemies, while others will help you in your fight for justice.",
+    "notes": "",
+    "credits": "Thanks to DLPS Team for the files and Drakmor for the lz4 tool and apr emu",
+    "publisher": "NACON SA",
+    "developer": "BKOM STUDIOS",
+    "players": "1",
+    "genres": [
+      "Family",
+      "Action"
+    ],
+    "release_date": "2022-06-16",
+    "store_url": "https://store.playstation.com/en-us/concept/10004407",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202206/1608/xbmJfmm2jKF0Vzktuvq0DXzH.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "430cea7f-4c1c-4cd4-a86b-05f579710646",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/f5kfZTjehn",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "a68a7dff-3779-4635-b0ca-758ac7236816",
+      "provider": "Gofile",
+      "url": "https://gofile.io/d/K1Y9FJn0",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "0fc6af64-2215-4be6-8596-56226d15ca72",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?4m79oyzcav59faxu1ucz",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

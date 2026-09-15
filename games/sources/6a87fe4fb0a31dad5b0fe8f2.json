@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a87fe4fb0a31dad5b0fe8f2",
+    "title_id": "PPSA15319",
+    "title": "The Plucky Squire",
+    "version": "PPSA15319",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 18253611008
+  },
+  "metadata": {
+    "description": "The Plucky Squire follows the magical adventures of Jot and his friends - storybook characters who discover a three-dimensional world outside the pages of their book. When the malevolent Humgrump realises he's the villain of the book - destined to lose his battle against the forces of good for all eternity - he kicks the heroic Jot out of its pages and changes the story forever. Jot must face challenges unlike anything he's ever seen if he is to save his friends from Humgrump's dark forces and restore the book's happy ending. Jump between 2D and 3D worlds in this charming action adventure - solving puzzles, boxing badgers, flying with a jetpack, and enjoying many more delightful and surprising mini challenges as you become the hero of a living storybook.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "Devolver Digital",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2024-09-17",
+    "store_url": "https://store.playstation.com/en-us/product/UP3643-PPSA15319_00-PLUCKYSQUIREPS5A",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202311/0719/a402d65ed1a93fd4cec92e66f49318d24dc87b2b8cbf28c5.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "79610736-9ebd-4926-b59e-4f872ee25e3b",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/AIUUTZEf2H",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "faaa8968-a31a-492f-9002-9e9650340c3d",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/N2p3DPNMV3Ma/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

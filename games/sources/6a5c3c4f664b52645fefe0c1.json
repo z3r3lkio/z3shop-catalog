@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5c3c4f664b52645fefe0c1",
+    "title_id": "PPSA01968",
+    "title": "Death Stranding Directors Cut",
+    "version": "01.004",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 76450417869
+  },
+  "metadata": {
+    "description": "Edition includes: - Full game. From legendary game creator Hideo Kojima comes a genre-defying experience, now expanded and remastered in this definitive Director’s Cut. - Remastered for the PlayStation®5 console – enjoy advanced combat and a new competitive ranking system.* - Expanded content – use additional weapons and vehicles, take on new enemies and explore new locations with extra missions and minigames. - New discoveries – experience an extended storyline in an expanded area. - Social Strand System – stay connected with players around the globe.* PS5™ features: - Experience environment effects with the DualSense™ wireless controller’s haptic feedback. - Get closer to the world of DEATH STRANDING with bespoke adaptive trigger resistance. - Hear sound effects come to life in 3D Audio with stereo headphones (analogue or USB). - Get into the action quickly with the PS5 console’s ultra-fast SSD and near-instant load times. - Choose from two picture modes – Performance Mode with scaled 4K and up to 60FPS or Fidelity Mode in native 4K – both with HDR support, so you can enjoy stunningly clear graphics and advanced texture streaming.** *Internet and account for PlayStation™Network required. **4K and HDR require a 4K & HDR compatible TV or display.",
+    "notes": "Change kstuff pause to 100s",
+    "credits": "",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "KOJIMA PRODUCTIONS",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2021-09-24",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/cfn/11307n7Feh6-ynm9V61V7ZGGDt2-TdXr8U6i4hX89yVW79Cckoe2ErozJiXaV-BlYjtr30ZvGZclp2kNNpVRBLC4IvUpL35j.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "e954778c-e559-451c-a5bd-0ab147049b7b",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01968-Death-Stranding",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

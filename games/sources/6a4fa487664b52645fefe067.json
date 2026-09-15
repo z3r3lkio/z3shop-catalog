@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4fa487664b52645fefe067",
+    "title_id": "PPSA15304",
+    "title": "Metal Gear Solid Delta Snake Eater Deluxe Edition",
+    "version": "01.001.004",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 99643241267
+  },
+  "metadata": {
+    "description": "【METAL GEAR SOLID Δ: SNAKE EATER】 The Beginning of it All. A remake of the 2004 game METAL GEAR SOLID 3: SNAKE EATER, with the same gripping story and engrossing world, now with all new graphics and 3D audio that enhance the jungle atmosphere. Get ready for the ultimate survival stealth action experience. *The game and Sneaking DLC Pack included in this edition are also offered separately. Please take care to avoid unintended duplicate transactions.",
+    "notes": "Turn on 3d Audio to fix no sound",
+    "credits": "Thanks to DUPLEX and SiESPta Team for the game files",
+    "publisher": "KONAMI",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-08-28",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202511/0410/39bf463ced40d154806cf052b45539bfd9b2709077877b16.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "92e7d9e1-a2da-4456-a2e2-9ae9dcea54c4",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?j5bpdtjzncxa6ee4hulv",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "0b0bb82c-b20d-4e72-a319-2b7edf1a09c8",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA15304_Metal_Gear_Solid_Delta",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

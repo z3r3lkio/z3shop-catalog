@@ -1,0 +1,52 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028cf",
+    "title_id": "PPSA0724",
+    "title": "Valkyrie Elysium",
+    "version": "1.00",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 15784004813
+  },
+  "metadata": {
+    "description": "*To download the digital version of \"VALKYRIE PROFILE: LENNETH\", please visit the product page for \"VALKYRIE PROFILE: LENNETH\" in the PlayStation™ Store. Digital Deluxe Edition Contents: -VALKYRIE ELYSIUM (Full Game) -Valkyrie equipment \"\"Svartaljr: Sword of the Goddess of the Underworld\"\" -Digital version of VALKYRIE PROFILE: LENNETH (English only) *The digital version of \"\"VALKYRIE PROFILE: LENNETH\"\" is a port of the PSP™ (PlayStation®Portable) version. It is also sold separately The latest title in the VALKYRIE series is finally here! This action RPG incorporates the series' signature Einherjar and combo systems, allowing players to enjoy speedy, three-dimensional combat. The game's unique art style beautifully depicts a collapsing world as Ragnarok looms, with series veteran Motoi Sakuraba returning to enrich the title with an unforgettable soundtrack. ◆Story Long ago, Ragnarok—the End Times—loomed upon the realms. The All-Father Odin, with the last of his strength, created an emissary of redemption, Valkyrie; her sole task being the salvation of a doomed world. ◆High-Speed Action RPG Effortlessly soar through the battlefield and perform high-speed actions with the new Soul Chain system. Utilize a wide array of abilities and skills at the Valkyrie’s disposal to unleash devastating combos. ◆Einherjar Summon Einherjar – strong warrior spirits selected by the Valkyrie – to aid you in battle! Summoning Einherjar imbues the Valkyrie with elemental bonuses, giving players a tactical advantage in battle. ◆Combo & Divine Arts System The “Arts Gauge” fills as players perform a J19continuous stream of attacks and maintain combos. Consuming the Arts Gauge enables the Valkyrie to perform powerful, special techniques known as Divine Arts. ◆Upgrade and Customization Features Upgrade your weapons, skills, and Einherjar/Divine Arts combos to customize your playstyle. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks @José Carrión for the game files",
+    "publisher": "SQUARE ENIX CO. LTD.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Role Playing Games"
+    ],
+    "release_date": "2022-09-26",
+    "store_url": "https://store.playstation.com/en-us/product/UP0082-PPSA07274_00-VEPS5DDXUP000001",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202209/2807/jzx7fQCi1oBcKifsKFo25aZD.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "609628d8-7d2f-4b74-bfd2-30c92c68cf0d",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/ZWm42yNlic",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "Jmc",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

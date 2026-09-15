@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a59a35f664b52645fefe0a3",
+    "title_id": "PPSA24191",
+    "title": "Monster Hunter Wilds Premium Edition",
+    "version": "01.041.040",
+    "pack": "pfs",
+    "region": "ASIA",
+    "size_bytes": 71296457114
+  },
+  "metadata": {
+    "description": "*Content in this set can be purchased individually. Please be careful not to purchase the same item twice. *You may need to update to the latest version of the game to use this content. Enjoy Monster Hunter Wilds bundled with the Monster Hunter Wilds Cosmetic DLC Collection, which includes additional DLC packs and other extra content! Please check the official Monster Hunter Wilds website for details about the content. https://www.monsterhunter.com/wilds/en-us/product/dlc/ Includes: ● Monster Hunter Wilds (main game) ● Monster Hunter Wilds Cosmetic DLC Collection ・Monster Hunter Wilds Deluxe Pack ・Monster Hunter Wilds Cosmetic DLC Pack 1/2/3/4 ・Blossomdance DLC Pack/Flamefete DLC Pack/Dreamspell DLC Pack/Lumenhymn DLC Pack ・Monster Hunter Wilds Extras Cosmetic DLC Pack 【Premium Bonus】 ・Hunter Layered Armor: Wyverian Ears ・Premium Bonus Hunter Profile Set ・BGM: Proof of a Hero (2025 Recording)",
+    "notes": "",
+    "credits": "Thanks to DecKerr97 for the Files with BackPort and DUPLEX for DLCs",
+    "publisher": "Capcom U.S.A., Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2026-08-04",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202405/3102/a8e9c8053fbc71467aba6e0a9b41f98cb1061a76cca3ece2.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "cc354136-6dd1-42b6-a19c-3f27012941ae",
+      "provider": "Archive - 9.xx",
+      "url": "https://archive.org/details/PPSA24191-Monster-Hunter-Wilds",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "0a4d3afe-43ac-4226-8eb3-788a9b9e5d82",
+      "provider": "Archive - 4.xx Backport",
+      "url": "https://archive.org/details/PPSA24191",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "1d79ca65-efaf-4155-9093-ff5ac1cdc349",
+      "provider": "Data",
+      "url": "https://datanodes.to/hadlhdwa21jp/DUPLEX_178DLCs.rar",
+      "mode": "archive",
+      "direct": false,
+      "archive": true,
+      "extension": ".rar",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

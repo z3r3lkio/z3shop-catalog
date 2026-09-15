@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5c45f5664b52645fefe0c3",
+    "title_id": "PPSA01556",
+    "title": "Resident Evil Village Gold Edition",
+    "version": "01.210",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 44345537331
+  },
+  "metadata": {
+    "description": "Experience survival horror like never before in the eighth major installment in the storied Resident Evil franchise - Resident Evil Village. The Gold Edition includes: - Resident Evil Village main game - Winters' Expansion additional content - Trauma Pack DLC - Resident Evil Village VR Mode The Village of Shadows unlock included in the Trauma Pack provides access to content which is otherwise unlockable through gameplay progress. Set a few years after the horrifying events in the critically acclaimed Resident Evil 7 biohazard, the all-new storyline begins with Ethan Winters and his wife Mia living peacefully in a new location, free from their past nightmares. Just as they are building their new life together, tragedy befalls them once again. FEATURES • First-Person Action – Players will assume the role of Ethan Winters and experience every up-close battle and terrifying pursuit through a first-person perspective. • Familiar Faces and New Foes – Chris Redfield has typically been a hero in the Resident Evil series, but his appearance in Resident Evil Village seemingly shrouds him in sinister motives. A host of new adversaries inhabiting the enigmatic village will relentlessly hunt Ethan and hinder his every move as he attempts to make sense of the new nightmare he finds himself in. • A Living, Breathing Village – More than just a mysterious backdrop for the horrifying events that unfold in the game, the village is a character in its own right with mysteries for Ethan to uncover and terrors to escape from.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Capcom U.S.A., Inc.",
+    "developer": "",
+    "players": "",
+    "genres": [
+      "Horror",
+      "Action"
+    ],
+    "release_date": "2022-10-28",
+    "store_url": "https://store.playstation.com/en-us/product/UP0102-PPSA01556_00-VILLAGEFULLGAMEX",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202207/1918/MQJlSv8JDS1sG4Ot7MxOgQCI.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a3eede27-4dbd-4410-b684-788660604c61",
+      "provider": "Buzzheavier",
+      "url": "https://buzzheavier.com/keaq42ofv3d5",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "76751888-210e-4594-b86e-34a2041ee33a",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01556_Resident_Evil_Village",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

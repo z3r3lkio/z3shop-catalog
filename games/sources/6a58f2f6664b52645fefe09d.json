@@ -1,0 +1,52 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a58f2f6664b52645fefe09d",
+    "title_id": "PPSA26528",
+    "title": "Code Violet",
+    "version": "01.028",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 41446434406
+  },
+  "metadata": {
+    "description": "Code Violet: Survive the Horror, Unravel the Truth Dive into Code Violet, an exhilarating third-person action horror game from TeamKill Media. In the 25th century, a cataclysm has left Earth uninhabitable, driving humanity’s survivors to Trappist 1-E. Facing extinction due to sterility, the Aion colony harnesses cutting-edge time-travel technology to abduct women from the past to be surrogates in a dark yet desperate bid to save mankind. But their mission conceals a sinister conspiracy. As Violet Sinclair, torn from your time, you awaken in the Aion Bioengineering Complex, swarming with ferocious prehistoric dinosaurs and hostile forces. Carefully manage your inventory, uncover Aion’s dark secrets, fight to survive, and escape during a chaotic evacuation protocol. Can you save those you care for and make it out alive? Features: • Heart-Stopping Survival Gameplay: Feel the panic as you outmaneuver relentless dinosaurs with scarce resources and stealth, delivering the intense panic horror you crave. • Strategic Inventory Management: Master limited inventory slots to prioritize weapons, healing items, and puzzle-solving tools, making every choice critical to surviving the complex’s deadly threats. • Explosive Action Horror Combat: Dive into thrilling third-person battles against savage dinosaurs, blending melee and ranged tactics for adrenaline-pumping encounters. • Stunning Ray-Traced Visuals with Unreal Engine’s Megalights: Lose yourself in haunting jungles and neon-lit facilities, where dynamic lighting, shadows, and reflections heighten the terrifying atmosphere. • Sony’s 3D Audio: Immerse yourself in a vivid soundscape where every rustle, roar, and echo brings jungles and facilities to life, amplifying tension with pinpoint directional audio. • Adaptive Triggers and Haptic Feedback: Experience every action—weapon recoil, evasion struggles, puzzle interactions, and combat impacts—through dynamic triggers and tactile feedback, making every move and solution visceral and impactful. • Gripping Conspiracy Narrative: Unravel a tale of betrayal tied to Aion’s time-travel tech and surrogate program, with Violet’s journey revealing shocking twists that keep you hooked. • Mind-Bending Puzzles: Solve intricate environmental and mechanical puzzles to unlock paths and secrets, adding depth and rewarding critical thinking for a satisfying challenge. • Terrifying Prehistoric Creatures: Confront intelligently designed beasts and classic dinosaurs that stalk unpredictably, blending nostalgia with cutting-edge AI for unforgettable chases. Immerse yourself in a visually spectacular, heart-racing, panic filled adventure packed with survival horror, strategic inventory management, explosive action, and brain-teasing puzzles. Perfect for thrill-seekers and fans of dino-driven chaos.",
+    "notes": "",
+    "credits": "Thanks @DLPS Team for the files",
+    "publisher": "TeamKill Media LLC",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Horror",
+      "Action"
+    ],
+    "release_date": "2026-01-10",
+    "store_url": "",
+    "trailer": "",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4f9484e3-884d-4050-8e70-6a11ac4ce1e0",
+      "provider": "Archive",
+      "url": "https://archive.org/details/Code-Violet-PPSA26528",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

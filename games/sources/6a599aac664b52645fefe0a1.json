@@ -1,0 +1,52 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a599aac664b52645fefe0a1",
+    "title_id": "PPSA02279",
+    "title": "Nickelodeon All Star Brawl",
+    "version": "01.000",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 4617089843
+  },
+  "metadata": {
+    "description": "Brawl it out as your favorite Nickelodeon characters in bombastic platform battles! With a power-packed cast of heroes from the Nickelodeon universe, face-off with all-stars from SpongeBob Squarepants, Teenage Mutant Ninja Turtles, The Loud House, Danny Phantom, Aaahh!!! Real Monsters, The Wild Thornberrys, Hey Arnold!, Rugrats, and more to determine ultimate animation dominance. With unique move sets and attacks inspired by their personalities, each character has an individual style of play enabling endless action for Nickelodeon’s legion of fans. Select your favorite and then let the intense brawls begin with online and local multiplayer action. • Playable characters include SpongeBob, Lincoln Loud, Ninja Turtles Michelangelo and Leonardo, Oblina from Aaahh!!! Real Monsters, Invader Zim, and many more! • 20 themed levels like Jellyfish Field from the Spongebob Squarepants series, Technodrome from Teenage Mutant Ninja Turtles series, plus many more! • Each character offers a completely different and innovative playstyle and move set drawn from their lovable personalities • Battle your friends locally with up to 4 players simultaneously or in online competitive multiplayer",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files",
+    "publisher": "GAMEMILL ENTERTAINMENT",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Fighting",
+      "Fighting"
+    ],
+    "release_date": "2021-10-05",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202110/2522/iBP3XeBfmxvPzRoNhLUb7x4M.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "baa339c3-68f5-4d5d-9a27-c70cc5bbc2d8",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA02279-Nickelodeon-All-Star-Brawl",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

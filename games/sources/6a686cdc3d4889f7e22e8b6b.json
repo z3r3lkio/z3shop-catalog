@@ -1,0 +1,82 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a686cdc3d4889f7e22e8b6b",
+    "title_id": "PPSA07064",
+    "title": "Lords of the Fallen",
+    "version": "01.100",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 36399847834
+  },
+  "metadata": {
+    "description": "Lords of the Fallen introduces an all-new, epic RPG adventure in a vast, interconnected world. Aeons after his defeat by the hands of man, the demon God Adyr’s resurrection draws nigh. As a fabled Dark Crusader, journey through the realms of the living and the dead in this expansive RPG experience to overthrow Adyr once and for all. Featuring colossal boss battles, fast challenging combat, and deep, immersive storytelling. Explore A Vast, Interconnected World Journey across two expansive, parallel worlds - the world of the living and the dead - with each harbouring its own pathways, secrets, treasures… and foes. Master Fast, Challenging Combat Choose from 100s of unique weapons, from heavy-hitting flails to rapid-fire crossbows, or forgo metal for magic with devastating attacks of the arcane. Define Your Legend Personalise your character’s appearance before selecting one of nine varied character classes. Whichever starting path you take, develop your own playstyle by upgrading stats and weapons. Unite in Online Multiplayer Experience the campaign alone, or unite with other players in online co-op. You’re free to journey together for as long as you desire, with the option of both casual and full shared progression sessions - where both players save all progress. Alternatively, use your Free Friends Pass to invite anyone to join your game regardless of whether they own a copy themselves. 70+ Post-Launch Updates Includes over 70 updates, including the widely acclaimed version 2.0, vastly improving the overall experience with a fully revamped combat system, significant performance enhancements, rigorous difficulty balancing multiple new questlines and modes, and an array of new Quality-of-Life features.",
+    "notes": "",
+    "credits": "",
+    "publisher": "CI Games S.A.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games",
+      "Action"
+    ],
+    "release_date": "2023-10-13",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202512/1209/b5b0c180b33e817b2ccb8bca05f37e71e46f694b08157616.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "d18a7131-3dbb-4179-99e1-4a466e728fb0",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/9Wji5IAONl",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "dadd1bf9-ac9a-49ae-a0d7-26f9d219b1fe",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/yyZ0Tb117d",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "8754ca85-d8d0-48b0-9418-4b6ccd9d47f5",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA07064_Lords_of_the_Fallen",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

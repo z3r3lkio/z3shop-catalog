@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7b0b4c15892f8818a051fa",
+    "title_id": "PPSA07783",
+    "title": "Star Wars Jedi Survivor",
+    "version": "01.013",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 175019917312
+  },
+  "metadata": {
+    "description": "The story of Cal Kestis continues in Star Wars Jedi: Survivor™, a third person galaxy-spanning action-adventure game from Respawn Entertainment, developed in collaboration with Lucasfilm Games. This narratively-driven, single player title picks up five years after the events of Star Wars Jedi: Fallen Order™ and follows Cal’s increasingly desperate fight as the galaxy descends further into darkness. Pushed to the edges of the galaxy by the Empire, Cal will find himself surrounded by threats new and familiar. As one of the last surviving Jedi Knights, Cal is driven to make a stand during the galaxy’s darkest times - but how far is he willing to go to protect himself, his crew, and the legacy of the Jedi Order? • Continue Cal’s Journey – No longer a Padawan, Cal has come into his own and grown into a powerful Jedi Knight. Carrying the memories and expectations of the Jedi Order with him, his crusade against the Empire has only become more perilous. The Dark Times are closing in - with enemies new and familiar surrounding him, Cal will need to decide how far he’s willing to go to save those closest to him. • Go Beyond Your Training – The cinematic combat system returns with additional Force abilities and new lightsaber fighting styles. Creatively leverage all these abilities and weapons to strategically take on an expanded host of enemies, sizing up strengths and weaknesses while cleverly utilizing your training to overcome your opponents and solve the mysteries that lay in your path. • Explore an Untamed Galaxy – Discover new planets and familiar frontiers in the Star Wars galaxy, each with unique biomes, challenges, and enemies. Master new skills, equipment, and abilities that will augment the ways you explore, fight, and roam.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, BestPig for the BackPort and Pippo for the exfat file",
+    "publisher": "Electronic Arts Inc",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2023-04-28",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202304/1912/442c4d06aceb98f990192c058a278e2fc756fe31c31d7df9.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "82cbfe9b-1dad-48e2-965e-b464ae197377",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/a6dY5XglvA",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "89fd58c1-e252-4737-8697-40ddf506274a",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA07783_Star_Wars_Jedi_Survivor",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

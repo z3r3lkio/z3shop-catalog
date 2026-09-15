@@ -1,0 +1,113 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4788172860efac54e4aa6f",
+    "title_id": "PPSA02262",
+    "title": "Dying Light 2 Stay Human Ultimate Edition",
+    "version": "01.090",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 55619826483
+  },
+  "metadata": {
+    "description": "Get the full Dying Light 2 Stay Human experience and more with the Digital Extras Edition! Dying Light 2 Stay Human: Digital Extras Edition includes: Dying Light 2 Stay Human: Reloaded Edition, which contains the ‘Bloody Ties’ DLC* Digital Soundtrack** Digital Artbook** Wallpaper** Digital Comic Book** *Please note: DLC must be downloaded separately **Go to the Pilgrim Outpost website (Special Edition subpage in Goodies) to claim digital extras It’s been 20 years since the events of the original game. The virus won, and humanity is slowly dying. You play as Aiden Caldwell, a wandering Pilgrim who delivers goods, brings news, and connects the few remaining survivor settlements in barren lands devastated by the zombie virus. However, your true goal is to find your little sister Mia, who you left behind as a kid to escape Dr. Waltz's torturous experiments. Haunted by the past, you eventually make the decision to confront it when you learn that Mia may still be alive in Villedor — the last city standing on Earth. You quickly find yourself in a settlement torn by conflict. You’ll need to engage in creative and gory combat, so hone your skills to defeat hordes of zombies and make allies. Roam the city, free run across Villedor’s buildings and rooftops in search of loot in remote areas, and be wary of the night. With every sunset, monsters take control of the streets. A WORLD AFTER THE APOCALYPSE Fifteen years ago, humanity was devastated by the Fall — a catastrophic event that would change the world forever. With the Harran virus spreading around the globe, people quickly found out that all hope for tomorrow is lost. By 2036, only a few settlements remain, and humanity is slowly dying, making way for the new species out there — a horde of relentless zombies. DAY’S FOR THE LIVING, NIGHT’S FOR THE INFECTED Welcome to Villedor, one of the last bastions of humanity. During the day, survivors still try to have a life here and find a false sense of normalcy. Relationships are formed, dreams are dreamed, and life carries on. On the surface, everything seems… fine. Until sunset, that is. With the last ray of light dying out, other, more dreadful, dwellers of The City crawl out of their gloomy interiors, taking over the streets. If you are not vigilant and stay out too long in the dark, you may never return. YOU HAVE TO MOVE TO SURVIVE Not all fights can be won. Sometimes it’s best to run and, thankfully, you have the skills for it. Parkour lets you escape when odds are not in your favor. Jump from rooftop to rooftop, swing across the cityscape, ride ziplines, and much more. Whatever you do, experience a unique sense of freedom as you freerun across Villedor’s buildings and rooftops in search of loot or while running away from the dangers of the night. GET BRUTAL AND BE CREATIVE ABOUT IT In a world as dangerous as this one, only the strongest survive. Whether you prefer to smash, slice or dismember those who stand in your way, you have to be creative about it to make it through. And who says you need weapons? Utilize the entirety of your parkour moveset to get the jump on your enemies. Learn the ways of combat and parkour to feel the crunch of skulls and slices of flesh as you swing weapons or use your moves to fend off any forms of danger. And let’s not forget that Villedor has weapons that put the most advanced post-apocalyptic armories to shame. FOUR PILGRIMS ARE BETTER THAN ONE Surviving in Villedor is easier with friends. Team up with up to 3 other players and increase your chances out there. Unravel the story together, take on Pilgrim Outpost challenges, or simply wreak havoc on the city streets.",
+    "notes": "",
+    "credits": "Thanks to DecKerr97 for the Files with BackPort and Pippo for DLCs & exfat file",
+    "publisher": "TECHLAND PUBLISHING",
+    "developer": "Techland S",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Horror",
+      "Adventure"
+    ],
+    "release_date": "2024-09-29",
+    "store_url": "https://store.playstation.com/en-us/product/UP3050-PPSA02261_00-DL2GAME0000000US",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202202/0401/TIQXycc0xSyMYFoGSw4PIznR.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "05b650cc-09b8-432b-92ee-a9b2afb099dc",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA02262_Dying_Light_2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "da00192d-12b1-40ab-a453-90fe3ba91852",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/I2qOabRA0j",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "e5a713d8-8321-4c78-84ca-cc6e1a38d3f8",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/M2BGwPPebmj4/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "0f3a7ad0-d6d6-4554-ac43-5aee868a6d00",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/qw1zebbvZGXy/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "616a0a32-1dbf-4545-8bda-6315e9ccb7f8",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/9QWmpAAPg3EB/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 3,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

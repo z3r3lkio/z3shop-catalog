@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a586db1664b52645fefe094",
+    "title_id": "PPSA03952",
+    "title": "Resident Evil 3",
+    "version": "1.004",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 23085449216
+  },
+  "metadata": {
+    "description": "If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™-game-disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost. Note: When upgrading the content in this bundle, each item must be upgraded on an individual basis. Note: Resident Evil Resistance is not eligible for an upgrade. Jill Valentine is one of the last remaining people in Raccoon City to witness the atrocities Umbrella performed. To stop her, Umbrella unleashes their ultimate secret weapon； Nemesis! Also includes Resident Evil Resistance (PS4™ version), a new 1 vs 4 online multiplayer game set in the Resident Evil universe where four survivors face-off against a sinister Mastermind.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files",
+    "publisher": "Capcom U.S.A., Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2022-06-13",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202206/0602/l5BzMVxsi7VlPCjIc2ZGwfuG.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "cd051fba-7e27-4cc0-af43-2e9966289115",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/KMeh5zHho1",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "gh0st",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "2e88b138-9107-4df1-9d86-df81c1169766",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA03952_RE3R_CE",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7c921646eb68666c6cca0f",
+    "title_id": "PPSA15421",
+    "title": "Until Dawn",
+    "version": "01.005",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 62921270886
+  },
+  "metadata": {
+    "description": "Rebuilt and enhanced for PS5® consoles – Until Dawn invites you to relive the nightmare, and immerse yourself in a gripping slasher horror where every decision can make the difference between life and death. Game Overview When eight friends return to the isolated lodge where two of their group vanished a year prior, fear tightens its icy grip, and their mountain retreat descends into a nightmare with no escape. Face your fears and determine who survives Until Dawn in this seminal horror classic, rebuilt and enhanced for PS5® consoles. Cult horror remade Immerse yourself in a gripping slasher horror rebuilt from the ground up with stunning visuals in Unreal Engine 5. Enhanced by movie-like cinematography, refined gameplay mechanics and more, venture into a thrilling exploration of an isolated mountain where nothing is as it seems. Their fate in your hands Create your own gripping tale as you control a group of unique characters portrayed by an all-star cast, including Hayden Panettiere, Brett Dalton, and more, and decide their fate through your choices. Through dynamic animations and nuanced facial-capture performances, learn what makes each character tick, and who among the group has what it takes to survive. Terror never looked so good Explore a rich and detailed environment that will leave you breathless with every step. With new visual enhancements for PS5® consoles, the original game has been rebuilt from the ground up – utilizing cutting-edge visual technology to bring the nightmare to life. Rebuilt for a new generation Discover new collectibles, all-new environments to investigate, and re-cut narrative sequences that deepen the mystery further. Through the DualSense® wireless controller, interact with the world like never before, and get closer to the action with an all-new, immersive third-person camera. Plus, enjoy a brand-new musical score and reauthored audio that’ll keep you on the edge of your seat throughout the journey.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, Kira for the BackPort and Pippo for the exfat file",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Horror"
+    ],
+    "release_date": "2024-10-04",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202408/1311/ea83a845e66dac9a91e3f52991bc6505cfae6ca4a6ed8d5d.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "e5917ae7-aae7-4786-a296-07ffea73fc0c",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA15421_Until_Dawn",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "3b283863-f162-4ea1-a5c6-dd36039a46c8",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/yO1h5Fmu3t",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

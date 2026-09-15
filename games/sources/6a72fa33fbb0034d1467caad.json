@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a72fa33fbb0034d1467caad",
+    "title_id": "PPSA29343",
+    "title": "Beast of Reincarnation Digital Deluxe Edition",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 34252364186
+  },
+  "metadata": {
+    "description": "Beast of Reincarnation Digital Deluxe Edition The Digital Deluxe Edition includes Black and Brown Shiba Skins for Koo, “Oni’s Hat” for Emma, Emma’s sword “Big Dipper”, 100,000 Amber (in-game currency), plus a number of vegetable seedlings! Set in a post-apocalyptic Japan, humanity's only hope lies with Emma, an outcast shunned from society for her affliction, and Koo, the blighted dog. Together, they embark on this expansive adventure in this one-person, one-dog action RPG. Experience a journey where you feel moments of loneliness, and also the reliability and comfort of your companion. Savor a world of impermanence, where forests suddenly burst forth amidst the wasteland. As Emma and Koo travel through this beautiful yet harsh world, their bond and abilities blossom. Customize your playstyle with unique skill trees, gear, and spirit stones to survive this beautiful yet brutal world. Define your own playstyle through your preferred loadout, including ranged, stealthy, and aggressive combat. In this world ravaged by blight... What will you find at the end of your journey? Key Features: Emma and Koo’s Synergy Emma and Koo create a revolutionary action RPG experience. Fight as a unit, using Emma's sword abilities while giving Koo commands to unleash various techniques in a hybrid combat system that combines elements of action and turn-based RPGs. Japan: Year 4026 Travel through a beautiful yet harsh post-apocalyptic world. Experience the ever-changing scenery, in the blighted forest, and the Bosses that rule this world. Emma and Koo, who met in the far east, are tasked with battling Bosses from all over the world and capturing their powers in order to defeat the Beast of Reincarnation. A story filled with secrets Dive into a brutal narrative where every character hides a dangerous truth. Uncover the intertwined fates of Emma and Koo in this profound story.",
+    "notes": "Pre-Order Contents are included.",
+    "credits": "",
+    "publisher": "Fictions",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2026-08-04",
+    "store_url": "https://store.playstation.com/en-us/product/UB1599-PPSA29343_00-DELBUNDLESIEA000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202608/0400/3efec4981901fb880319ce0b0e9519d7e07b4a5cfab5d0f7.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "2bdaa945-bc95-457d-9e59-2c33baf0b2ff",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA29343_Beast_of_Reincarnation",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "1a3e3f3f-e402-4127-a77b-e1fd4fcfe3d6",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/cHD0WbV8kB",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

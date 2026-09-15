@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a57ab95664b52645fefe088",
+    "title_id": "PPSA15209",
+    "title": "SPY X ANYA Operation Memories Deluxe Edition",
+    "version": "01.001",
+    "pack": "unknown",
+    "region": "ASIA to JPN Langs",
+    "size_bytes": 9878424781
+  },
+  "metadata": {
+    "description": "Based on the popular anime & manga series! Anya Forger has received a new assignment from school: create a photo diary of memories. On weekdays, head to class in the morning, then enjoy family time in the evening. On weekends, visit all sorts of exciting places, like the beach or art museums, in search of subjects worthy of photographing! What kind of photo diary will you help Anya create? • Take pictures when Anya finds something interesting! • There are many peculiar things that can catch Anya's attention, like butterflies, swings, and fun sights during outings! Take great photos to complete her diary. • There are a total of 10 outings to unique destinations for making memories! SPY×ANYA also features over 15 minigames! Enjoy over 15 minigames, including ones inspired by the anime series and those created originally for the game! Fight to stay in sync with Yor's special training, ride Bond as you play spy, and use Anya's telepathic powers to read opponents' cards in Tycoon. Bring out your inner fashionista with rich customization! Have fun dressing up Anya, Loid, Yor, and Bond in a wardrobe of over 80 unique outfits, accessories, and hairstyles! Purchase outfits from the in-game store with points earned from minigames. Play to your heart's content and unlock all kinds of clothes to wear on outings! Spend time with your favorite characters based on the manga series! In addition to Anya, Loid, Yor, and Bond; Damian and Becky from Eden College will also join the fun—not to mention Yor's brother, Yuri, and WISE agent Nightfall! Play at school together, get help with homework, and create countless precious memories with Anya's friends and family. *Custom outfits will not be displayed during certain minigames and cutscenes. *Some content included in the Deluxe Edition will be available for individual purchase. Please take care to not make duplicate purchases. *Bonus content may be distributed at a later date.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files and Pippo for DLCs",
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "2024-06-28",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202407/2220/ce585be7cb8f87d7f222e8f409954f2a43ee61c387dd0db2.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "24653f85-d165-40ed-87f3-c1dc44d8bb9b",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA15209-SPY-X-ANYA-Operation-Memories",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "9b9af9ce-f68b-4872-98ff-4067ac7a296b",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?h8cu9m49vb5eq9v72rge",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

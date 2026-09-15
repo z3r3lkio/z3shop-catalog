@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3a5da0671735371f2c24c5",
+    "title_id": "PPSA34299",
+    "title": "WWE 2K26",
+    "version": "01.006",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 142807662592
+  },
+  "metadata": {
+    "description": "THE SHOW NEVER STOPS Run the world’s greatest show your way and live out your WWE fandom to the fullest. Experience the most expansive gameplay to date with rebellious Legends of the Attitude Era and Superstars of today. MORE SUPERSTARS THAN EVER BEFORE Featuring the most stacked lineup in franchise history with 400+ playable WWE Superstars and Legends including The Rock, Triple H, John Cena, Rhea Ripley, and fan-favorites like Rey Fénix, Rusev, and Blake Monroe. 2K SHOWCASE Rewrite wrestling history and relive CM Punk’s greatest rivalries in a world where The Voice of the Voiceless never left, including fantasy historical scenarios. Punk’s rise, rebellion, and return make this the most personal Showcase yet. NEW MATCH TYPES AND MORE Bring the chaos to every corner of the ring with new match types, including I Quit, Inferno, and Dumpster. Plus, take the fight to The Island in the new Scrapyard Brawl arena, experience an updated progression system, and test your skills in MyFACTION with Quick Swap, a fast-paced, team-based mode. Enjoy interactive entrances, new crowd interactions, and fresh commentary from Booker T and Wade Barrett. CONTROL YOUR UNIVERSE The WWE Draft finally arrives in WWE 2K’s sandbox mode Universe in WWE 2K26. Create your own WWE Universe where you control weekly shows and PLEs, Superstar rivalries, and outcomes. Other new introductions include Universe Creation Wizard, Watch Show mode, improved Money in the Bank cash-ins, and additional Promo types.",
+    "notes": "Ringside Pass DLCs require Internet Connection instead all other DLCs are unlocked, included Pre-Order. Commentary now is working with v01.006+.",
+    "credits": "Thanks to High-Speed007 for the Files with DLCs and DecKerr97 for the BackPort",
+    "publisher": "2K",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Sport"
+    ],
+    "release_date": "2026-03-13",
+    "store_url": "https://store.playstation.com/en-us/product/UP1001-PPSA34299_00-WWE2K26000000000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202603/1310/aaa85348477ece8d52459746b75a314518ce17cf1ab06048.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "7f4ca900-8f97-4de1-ae4f-83728e8618dc",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA34299_WWE2k26",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "bbe3f225-fc37-471f-8eee-94a767a7e8b3",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/pLz6C0P2ZK",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "0bd6d10e-6366-4ff7-b08e-7d511f1fb5fa",
+      "provider": "Filekeeper",
+      "url": "https://filekeeper.net/v15m6vm6lgo8/PPSA34299WWE2k26.ffpfsc",
+      "mode": "direct-file",
+      "direct": true,
+      "archive": false,
+      "extension": ".ffpfsc",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3d3b1c1833c663555e187e",
+    "title_id": "PPSA04029",
+    "title": "Cyberpunk 2077 Ultimate Edition",
+    "version": "02.120",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 156014687027
+  },
+  "metadata": {
+    "description": "Previous special offer price valid from 17-11-2023 to 27-11-2023 was (£46.39 / €N/A / AU $N/A / BGN 111.92 / CZK 1479.2 / DKK N/A / HUF 19192 / NZ $N/A / NOK N/A / PLN 207.2 / SEK N/A / USD $51.19 / ZAR 999.2 / HRK N/A / INR 3443 / TRY 916 / ILS 223.2) Cyberpunk 2077: Ultimate Edition is only playable on PlayStation 5 as it contains content not available on PlayStation 4. ABOUT THE GAME Cyberpunk 2077 is an open-world, action-adventure RPG set in Night City, a megalopolis obsessed with power, glamour, and body modification. Play as V, a cyberpunk mercenary, and take on the most powerful forces of the city in a fight for glory and survival. Legends will be made here. What will yours be? DISCOVER PLAYSTATION®5 PRO ENHANCEMENTS All PS5®Pro owners can now access a free update for their consoles and experience optimized performance, enhanced visual fidelity with PlayStation Spectral Super Resolution (PSSR), advanced ray tracing features, and more. The Night City experience can be tailored to players’ needs with three graphics modes: Performance, Ray Tracing, and Ray Tracing Pro. THE ULTIMATE CYBERPUNK 2077 EXPERIENCE In the Ultimate Edition, immerse yourself in every story the world of the dark future has to offer, featuring every gameplay update and all previously released content in one package — including the acclaimed spy-thriller expansion Phantom Liberty. CREATE YOUR OWN CYBERPUNK Become an urban outlaw equipped with cybernetic enhancements and build your legend on the streets of Night City. EXPLORE THE CITY OF THE FUTURE Night City is packed to the brim with things to do, places to see, and people to meet. And it’s up to you where to go, when to go, and how to get there. BUILD YOUR LEGEND Go on daring adventures and build relationships with unforgettable characters whose fates are shaped by the choices you make. DECIDE HOW THE STORY ENDS Your choices in the base game and the spy-thriller adventure Phantom Liberty create interweaving webs of consequences, ones that shape the fate of the characters around you — and your own. CLAIM EXCLUSIVE ITEMS Claim in-game swag & digital goodies inspired by CD PROJEKT RED games as part of the My Rewards program. IMPORTANT: While Cyberpunk 2077 base game is available on PlayStation 4, this version of the game received its last patch on November 8th, 2022 and is no longer supported. A PlayStation 5 is required in order to download and apply Cyberpunk 2077 patches released after that date — as well as to buy and play the Phantom Liberty expansion pack.",
+    "notes": "Phantom liberty DLC has been merged with game",
+    "credits": "Thanks @DUPLEX and @SiESPta Team for the game files",
+    "publisher": "CD PROJEKT SA",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2023-06-11",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202012/0315/c0oODh1ZVMGnVti4A2wm5ZQn.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "be5c8ff0-2598-41de-ae65-ab5ed6aa26b5",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA04029-Cyberpunk-2077",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

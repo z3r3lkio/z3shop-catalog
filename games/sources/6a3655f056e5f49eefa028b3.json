@@ -1,0 +1,82 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028b3",
+    "title_id": "PPSA25286",
+    "title": "Crimson Desert Deluxe Edition",
+    "version": "1.000.151",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 95187212698
+  },
+  "metadata": {
+    "description": "■ EXPLORE A WORLD OF DISCOVERY Welcome to Pywel. Here you'll find stretches of natural beauty and wilderness—from green plains and woods to arid deserts and rugged mountains. Between destinations, you will come across landmarks, ancient ruins, hidden treasures, and other points of interest that will draw your curisoity to wander. Your journey will also inevitably take you skyward to the mysterious realm known as the Abyss, where a mystical imbalance endangering the world must be restored. The world is yours to explore as you will and there are many paths for you to uncover. Experience the continent's stories and tales through quests, encounters, challenges, and battles. Roam the lands on various mounts from horses to even a dragon and mechs, and scale cliffsides and walls which you can leap from to glide. ■ FORGE YOUR OWN COMBAT On the unforgiving battlefields of Crimson Desert, there is no single path to victory.​ Grow your arsenal of skills, weapons, and equipment—and decide how you want to use them. Wield weapons like swords, spears, greatswords, axes, dual wields, various ranged weapons, and more, and unleash powerful abilities and elemental enhancements through lethal combinations. With every strike and move, forge your own way in a world where a split second can decide your fate in fast-paced, visceral battles. From ruthless warriors to fearsome beasts, there are those in Pywel who will seek your downfall. Encounter a diverse array of challenging enemies and bosses in brutal one-on-one duels, large-scale battle clashes, and quick skirmishes, and prevail against the threats that stand in your way. ■ LIFE IN PYWEL In Pywel, many of the smaller moments also shape your journey and make up your day-to-day life. Gather resources, cook, fish, hunt, and partake in the other various activities of Pywel for stat replenishment, making your equipment stronger, and more. Along the way, enjoy some leisure time by playing minigames with the locals. And shaping your daily life also extends to customization. Adjust hairstyles, tattoos, outfits, and more using dyes you brew or pick up along your journey.",
+    "notes": "How to play: Press START/Options - Add-on right after starting a new game. You can equip them after the prologue.",
+    "credits": "",
+    "publisher": "Pearl Abyss",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2026-03-19",
+    "store_url": "https://store.playstation.com/en-us/product/UP4162-PPSA25286_00-0527386153670087",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202509/2511/d8792a7f2962dad1c7e1527ac49a07d2b9cef6f384263d63.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "1e7bca1e-6615-4b96-80b5-13be47fcadf4",
+      "provider": "Vikingfile - 4.xx Backport",
+      "url": "https://vikingfile.com/f/t8SVZNWlhb",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "402eeba6-cde0-4f7e-b431-d12368f6f0e7",
+      "provider": "Vikingfile",
+      "url": "https://vikingfile.com/f/3EgKtd0rPm",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "3f436736-9290-4b44-8dca-38affa22ee6a",
+      "provider": "Archive - 5xx (Game + DLC)",
+      "url": "https://archive.org/details/PPSA25286_Crimson_Desert",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a6c906ea80b138b911d68d2",
+    "title_id": "PPSA17313",
+    "title": "Choo-Choo Charles",
+    "version": "02.000",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 1760936591
+  },
+  "metadata": {
+    "description": "Charles is a bloodthirsty train, and you need to destroy him. Navigate a massive play area in your trusty old engine. These winding tracks are treacherous, so you'll need to plan each mission carefully. Be wary when traveling on foot, or switching the track's direction; Charles might be waiting for you. Upgrade your train to fit your needs. Go looting or complete missions to find \"Scraps\", which can be used to turn your train into a death machine on wheels. Get help from the townspeople. Help out the settlers in return for high powered weapons, and other items vital to Charles' destruction. Fight Charles to the death. Complete the main questline, and summon Charles to a mortal duel. If you’ve gained enough strength, firepower, and skill, Charles may finally meet his match.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Two Star Games LLC",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Horror"
+    ],
+    "release_date": "2023-12-21",
+    "store_url": "https://store.playstation.com/en-us/product/UB0022-PPSA17313_00-CHOOCHOOCHARLES0",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202311/1419/62ab477da85859fdd19bc618b41dbbd00be07c3bf74383a9.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "4cf01f15-76eb-4549-80de-069e43e87177",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA17313_Choo_Choo_Charles",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "812cbb37-38b4-4118-bb6b-104dabf92bf1",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/EWL1BzQ3sd",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

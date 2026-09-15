@@ -1,0 +1,142 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7f1683b0a31dad5b0fe8bb",
+    "title_id": "PPSA03984",
+    "title": "Forspoken",
+    "version": "01.020",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 100824357274
+  },
+  "metadata": {
+    "description": "Forspoken follows the journey of Frey, a young New Yorker transported to the beautiful and cruel land of Athia. In search of a way home, Frey must use her newfound magical abilities to traverse sprawling landscapes and battle monstrous creatures. A Beautiful and Cruel Open-World - Explore the sprawling realms of Athia, a striking land of remarkable vistas and otherworldly creatures brought to life through stunning graphics and cutting-edge technology. Customizable Arsenal of Spells - Take on twisted monsters in magical combat with a wide range of powerful abilities catering to a variety of playstyles – from fast-paced and exhilarating to strategic and methodical. Intuitive, Magic-Enhanced Parkour - Scale walls, vault across canyons, leap from dizzying heights, and dash through vast landscapes. Frey's unique abilities allow her to fluidly traverse the open world with ease.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "SQUARE ENIX CO., LTD.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Role Playing Games"
+    ],
+    "release_date": "2023-01-23",
+    "store_url": "https://store.playstation.com/en-sg/product/HP0082-PPSA03985_00-ATHIA00000000003",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202212/0903/1nI3L6INvl1l0sfsdZF6iuz7.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "58c96954-ef84-454b-8d9d-aae0681acf1f",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA03984_Forspoken",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "42dcf7bf-5c98-46f7-a0b4-6642facfd081",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/xXp8I54vY0",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "c763ca5b-ee59-4b95-baed-f8ecae481415",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/2WVGrd8ME3kx/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "bcf07bf4-233e-47f9-bd8c-4300c8471d95",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/vgKGxXQb4G8Q/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "283bd799-8f69-473e-976b-191a8c7901f5",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/RMKGJKQ8Pm1o/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 3,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "116c33a4-d4a4-4b1e-8193-81f5a016fd8f",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/b5OzdV2Z4mB8/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 4,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "3e074f56-91ce-4464-b98e-91aa483bb799",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/APVmab0Zq3Xo/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 5,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

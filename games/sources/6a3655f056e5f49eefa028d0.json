@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028d0",
+    "title_id": "PPSA23372",
+    "title": "REANIMAL",
+    "version": "1.06",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 12906376724
+  },
+  "metadata": {
+    "description": "WHAT IS REANIMAL? The original creators of Little Nightmares™ & Little Nightmares™ II have returned to take you on a more terrifying journey than ever before. In this co-op horror adventure game, you play as a brother & sister who go through hell to rescue their missing friends. Exploring by boat and on land, you must use your wits to survive, work together to escape the hellish island, and the dark secret that haunts you. HORROR WITH HOPE In this unsettling tale, the emphasis is on tension and thick atmosphere, as you join the two orphans on a desperate search for hope and redemption in the direst of circumstances. ACROSS A DARK AND TWISTED WORLD Traverse an intriguing but terrifying world, where the main path is only one part of the fragmented story. Discover all sorts of mysterious locations on your perilous journey, each with its own story to tell. A DREAD-FILLED ADVENTURE Tarsier Studios is bringing their unique visual style to bear on a whole host of new twisted monsters and broken, yet resilient, child characters. Fragments of the children's troubled past have been used as inspiration for their character design, and for the monsters that now torment them. SHARE THE SCARE Nobody should be forced to go through hell alone! Fully playable in single player and local & online co-op, REANIMAL has a shared, directed camera, designed to maximise claustrophobia and tension. FRIEND'S PASS Download the Trial and play the entire game with your bestie FOR FREE! REANIMAL's Trial feature is your Friend's Pass. As long as one of you owns the full game, you can share the scare together in both Online AND Couch Co-op! So grab someone you love, turn the lights down low, and go through hell together!",
+    "notes": "",
+    "credits": "Thanks to DUPLEX for the Files with DLCs and BestPig for the BackPort",
+    "publisher": "THQ NORDIC GMBH",
+    "developer": "TARSIER STUDIOS™ AB and published by THQ Nordic™ GmbH",
+    "players": "2",
+    "genres": [
+      "Horror"
+    ],
+    "release_date": "2026-02-13",
+    "store_url": "https://store.playstation.com/en-us/product/EP4389-PPSA23372_00-ANIMALGAMEGLOBAL",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202508/0118/c26441f4d4adf20c5023c5f01327c919dda3ba406b272a4d.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "0921e689-b687-43ef-b8bf-6b245c873e9a",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/iH2T0rDCbL#REANIMAL",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "Jmc",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "2af9f3dc-93a8-4dc6-bab6-714ac2f56304",
+      "provider": "Archive",
+      "url": "https://archive.org/details/REANIMAL_PPSA23372",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

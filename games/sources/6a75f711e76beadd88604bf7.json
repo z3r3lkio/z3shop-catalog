@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a75f711e76beadd88604bf7",
+    "title_id": "PPSA24179",
+    "title": "Predator Hunting Grounds",
+    "version": "01.017",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 27273042330
+  },
+  "metadata": {
+    "description": "Hunt or be hunted in this asymmetrical multiplayer* shooter that pits man against Predator. As part of a Fireteam, complete missions before the Predator finds you. Or be the Predator and hunt your prey. • Be the Predator – hunt down the opposing Fireteam, using deadly alien weaponry to stalk your prey. • Get to the chopper – complete challenging missions as part of a four-person Fireteam to escape. • Wield human and alien weaponry – fight with a state-of-the-art arsenal as the Fireteam, and deadly tech like the shoulder-mounted Plasma Caster, Combistick and more as the Predator. Predator: Hunting Grounds - Feral Predator A titan of hunting down the most challenging and brutal prey on any planet it discovers. Through exploration and discovery, this Predator has fashioned a unique set of armor and weaponry to become a truly elite hunter.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "IllFonic Inc.",
+    "developer": "IllFonic, Inc",
+    "players": "",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2024-10-01",
+    "store_url": "https://store.playstation.com/en-us/product/UP9000-CUSA15400_00-PREDATORHUNTGAME",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202410/0116/87b7f3f0215e606fa7ac1c022fe50d3ad244d05464a44ff7.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "c691ced6-bd76-4cd3-8bfb-2746d7e79308",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA24179_Predator_Hunting_Grounds",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "ac80a214-ab1a-41ca-a465-5b7a91b77935",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/8pbgyr2Czc",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

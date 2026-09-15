@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a599460664b52645fefe0a0",
+    "title_id": "PPSA01494",
+    "title": "Borderlands 4",
+    "version": "01.003.001",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 46815143526
+  },
+  "metadata": {
+    "description": "Explore all-new regions of Kairos with two additional Vault Hunters with the post-launch content of the Borderlands 4 Vault Hunter Pack.* Experience all new story and side missions, and take on new challenges and fearsome foes! Full details will be revealed at a later date. The Vault Hunter Pack is included with Borderlands 4 Super Deluxe Edition. Vault Hunter Pack contains: - 2 new playable Vault Hunters - 2 new story scenarios, featuring all new Main Story Missions - 2 new Map Zones - New Side missions - New Legendary Gear - New Vault Hunter Cosmetics - New ECHO-4 Cosmetics - New Vehicle Cosmetics • Ornate Order Pack - 4 Vault Hunter Skins - 4 Vault Hunter Heads - 4 Vault Hunter Bodies *Borderlands 4 Vault Hunter Pack consists of 2 separate post-launch DLC packs. The Vault Hunter Pack is included with Borderlands 4 Super Deluxe Edition. The Vault Hunter Pack, and the individual DLC packs that make up the bundle, will also be available for separate purchase at launch (base game required). Exact release timings of each DLC pack to be announced at a later date and will be subject to change. Terms apply.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files",
+    "publisher": "2K",
+    "developer": "Gearbox",
+    "players": "2",
+    "genres": [
+      "Shooter"
+    ],
+    "release_date": "2025-09-12",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202602/2617/a067fda9b5d00428a98be50ffdf5d46a7c66aaf57575ffeb.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "d7d514a5-201c-40cd-b5ac-5baa21ef22bb",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA01494-Borderlands4",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

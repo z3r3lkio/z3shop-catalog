@@ -1,0 +1,68 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a40005564f9bbe84b1fc58e",
+    "title_id": "PPSA23226",
+    "title": "Black Myth: Wukong Deluxe Edition",
+    "version": "01.021",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 117037858816
+  },
+  "metadata": {
+    "description": "Included in the edition: Black Myth: Wukong full game for PS5®. Black Myth: Wukong is an action RPG rooted in Chinese mythology. The story is based on Journey to the West, one of the Four Great Classical Novels of Chinese literature. You shall set out as the Destined One to venture into the challenges and marvels ahead, to uncover the obscured truth beneath the veil of a glorious legend from the past. • Explore a Land of Vast Wonders \"A world unseen, where wonders gleam, And with each stride, a new scene streams.\" Enter a fascinating realm filled with the wonders and discoveries of ancient Chinese mythology! As the Destined One, you shall traverse an array of breathtaking and distinctive landscapes from the classic tale, composing an epic of adventure that is seen anew. • Confront Mighty Foes, Old and New \"Heroic Monkey, might and fame, Adversaries rise, to test his name. \" One of the major highlights of Journey to the West is its diverse cast of adversaries, each with their unique strengths. As the Destined One, you will encounter powerful foes and worthy rivals throughout your journey. Fearlessly engage them in epic battles where surrender is not an option. • Temper Your Mastery of Varied Spells \"Spells unbound, talents in play, Unleashed abilities seize the day.\" Spells, transformations, and magic vessels of all manifestations, in which some counteract while others amplify, have long been iconic combat elements of Chinese mythology. As the Destined One, aside from mastering various staff techniques, you can also freely combine different spells, abilities, weapons, and equipment to find a winning strategy that best suits your combat style. • Discover Heartfelt Tales Behind Every Facade \"Within all souls, both wild and tame, There thrives a tale of life's fierce flame.\" Beneath the ferocity and craftiness of your foes lies an engaging tapestry of their origins, personalities, and motivations waiting to be revealed. As the Destined One, you will uncover the stories behind a variety of characters, delving beyond your battles with them to taste the love, hate, greed, and fury they once held and still carry within.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files, Pippo for DLCs and ManwonHp for the BackPort",
+    "publisher": "Game Science Interactive Technology Co., Ltd.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games",
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2024-08-20",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202410/1507/3d55921e9371790074aba55df244ac2c448600d9c055e538.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "6b8690e8-90a5-467f-8512-53ea41acf20d",
+      "provider": "Archive - 4.xx Backport",
+      "url": "https://archive.org/details/PPSA23226_Black_Myth_Wukong_4xx",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "2bbea2f0-d7fb-4566-a9fb-73b6338ed1f1",
+      "provider": "Archive - 9.xx",
+      "url": "https://archive.org/details/PPSA23226_Wukong_9xx",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

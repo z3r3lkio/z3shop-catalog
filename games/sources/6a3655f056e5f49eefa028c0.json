@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028c0",
+    "title_id": "PPSA07631",
+    "title": "SAROS",
+    "version": "1.000.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 88293790188
+  },
+  "metadata": {
+    "description": "Edition includes: -SAROS Beneath the shadow of an ominous eclipse, Arjun Devraj (Rahul Kohli) is a Soltari enforcer who will stop at nothing to pursue answers on the shape-shifting Carcosa, a world of dark secrets and hostile inhabitants. Master electrifying bullet ballet combat – intense projectile-focused gameplay with a unique, neon-infused esthetic – to overcome ferocious enemies and spectacular boss fights. Housemarque returns With decades of experience crafting adrenaline-fueled, arcade-inspired mechanics, Housemarque is back with the next evolution of the award-winning, third-person action seen in Returnal. Bullet Ballet Unleash a high-tech arsenal as you dodge, shield and parry enemy attacks in a fluid, flow-state-inducing dance. Combine abilities and learn enemy bullet patterns to gain the upper hand when the odds seem stacked against you. Permanent Progression Augment your loadout using an evolving set of weapons and upgrades. After every run you’ll face a changed world, but the resources you gain will ensure Carcosa yields to you. With Second Chance you’ll be revived instantly on your first death, getting you straight back into the action. Lost Carcosa Fight through mysterious biomes and dreamlike landscapes littered with ancient ruins and alien technology. Come back stronger after every death to break free of the shackles of your past as you uncover the true cost of your power. Otherworldly sound design and musical score Carcosa is brought to life by atmospheric, sci-fi-inspired 3D audio soundscapes – all punctuated by a dark, electronic-meets-drone-metal musical score from multi award-winning composer, Sam Slater.1 Who can you trust? Between runs, return to the Passage to track your progression and meet the crew of Echelon IV. But beware: the Eclipse distorts more than physical spaces. As hallucinations and paranoia take hold, even your closest allies may become your greatest threat… PS5® features - Thrive in the chaos of Carcosa’s Eclipse with near-instant loading speeds of the PS5® console letting you rapidly start over. - Track threats and more with precision Tempest 3D Audio.1 - Seize control of Arjun’s fate; feel every texture in your hands with the detailed input of haptic feedback. - Feel the influence of the Eclipse on Arjun’s suit and weaponry via adaptive triggers, as capabilities augment and evolve… 1 3D Audio via built-in TV speakers or analog/USB stereo headphones. Setup required.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX for the Files and BestPig & Zhwenx for the BackPort",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Housemarque Oy",
+    "players": "1",
+    "genres": [
+      "Shooter"
+    ],
+    "release_date": "2026-04-30",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202510/2111/6e3e1472fd031a5bd1974f5d0c27b4d63d61b1dbbd6f1bc1.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "76c36a43-aee2-4e6b-8201-4a3dffb906bd",
+      "provider": "1fichier - 5.xx",
+      "url": "https://1fichier.com/?jdhratvh197mi4zajcva",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "9f1a0c3b-0bee-4c8c-8d4c-903d0232b70d",
+      "provider": "FileKeeper - 5.xx",
+      "url": "https://filekeeper.net/533q3cn7vdrm/Saros_PPSA07631.ffpfsc",
+      "mode": "direct-file",
+      "direct": true,
+      "archive": false,
+      "extension": ".ffpfsc",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "cd156bd3-e645-464f-aeea-fc9d1ae90b70",
+      "provider": "Archive - 4.xx BackPort",
+      "url": "https://archive.org/details/Saros-4.xx",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": ".xx",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

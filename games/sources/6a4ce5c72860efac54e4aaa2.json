@@ -1,0 +1,82 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4ce5c72860efac54e4aaa2",
+    "title_id": "PPSA05684",
+    "title": "Uncharted Legacy of Thieves Collection",
+    "version": "01.002",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 93200790323
+  },
+  "metadata": {
+    "description": "Players who purchased UNCHARTED 4: A Thief’s End, UNCHARTED: The Lost Legacy, or UNCHARTED 4: A Thief’s End & UNCHARTED: The Lost Legacy Digital Bundle have the option to pay $10 USD to upgrade to UNCHARTED: Legacy of Thieves Collection. The upgrade will be available starting at launch on 28 January 2022. Leave your mark on the map in UNCHARTED: Legacy of Thieves Collection. In an experience delivered by award winning developer Naughty Dog, UNCHARTED: Legacy of Thieves Collection includes the two critically acclaimed, single player adventures: UNCHARTED 4: A Thief’s End and UNCHARTED: The Lost Legacy. Discover lost history with the charismatic yet complex thieves, Nathan Drake and Chloe Frazer, as they travel the world with a sense of wonder, pursuing extraordinary adventures and lost lore – remastered in stunning detail for the PS5™ console with improved visuals and frame rate. Unmissable PlayStation®5 console features: • DualSense™ wireless controller features: Feel the action unfold with the DualSense™ wireless controller's haptic feedback through punches, vaults, and vehicular traversal. Experience the tension in rope swings via dynamic adaptive triggers. • Fast loading: Jump back into the adventure quickly with the PS5™ console’s ultra-high speed SSD and near-instant load times. • 3D Audio: Hear the world of UNCHARTED™: Legacy of Thieves Collection come to life around you with 3D Audio.¹ • Fidelity mode: Play in a super sharp native 4K resolution with a 30fps target frame rate.² • Performance mode: Play with a smooth 60fps target frame rate. o 4K TV players will experience a 4K resolution upscaled from a 1440p base resolution. o 1080p HD TV players will experience a 1080p resolution super sampled from a 1440p base with improved anti-aliasing. • Performance+ mode: Play with a high impact 120fps target frame rate³ and a 1080p resolution. Owners of PS4 disc copies must insert them into the PS5 every time they want to download or play the PS5 digital versions. PS4 game disc owners who buy the PS5 Digital Edition disc-free console will not be able to get the PS5 version for the discounted price. PlayStation®Plus members who claimed UNCHARTED 4: A Thief’s End via their PlayStation Plus subscription are not eligible for the $10 digital PS5 upgrade. ¹ 3D Audio via built-in TV speakers (setup and update to the latest system software required) or analogue/USB stereo headphones. ² Requires a 4K compatible TV or display. ³ Requires a compatible 120hz display.",
+    "notes": "",
+    "credits": "Thanks to SAMAR-KSA for the Files with BackPort Thanks to DUPLEX & VanBuuren",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Naughty Dog LLC",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2022-01-28",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202202/0221/IS68pZKjvUDS3xmYhbr0xk1O.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "bcfbe77f-e6a3-4cbe-9758-4aa22e2dcdf9",
+      "provider": "Archive - 10.xx +",
+      "url": "https://archive.org/details/PPSA05389_Uncharted",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "23d30c66-2241-4bae-9b60-cff1383edd76",
+      "provider": "Viki - 4.xx",
+      "url": "https://vikingfile.com/f/bQIv5TqZm5",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "DK Ricasa",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "8639460c-3b51-4212-908a-69a46e01e897",
+      "provider": "Archive - 4.xx",
+      "url": "https://archive.org/details/UnchartedLOTC_4xx",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

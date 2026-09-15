@@ -1,0 +1,112 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a99965c2b5ffe3a179eba43",
+    "title_id": "PPSA04539",
+    "title": "Rise of The Ronin",
+    "version": "01.009",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 120259084288
+  },
+  "metadata": {
+    "description": "Japan, 1863. After three centuries of the Tokugawa Shogunate’s oppressive rule, the Black Ships of the West descend upon the nation’s borders and the country falls into a state of turmoil. Amidst the chaos of war, disease and political unrest, a nameless warrior forges their own path, holding the very fate of Japan in their hands. Shape a dynamic story As a masterless warrior – a Ronin, your destiny is your own. See the story unfold in different ways depending on the choices you make and the characters you ally with along the way. Face critical mission decisions – like whether to assassinate or protect key figures, and shape the course of history through a rich multi-choice system. Engage in deep accessible combat From the veteran developers of Nioh and Ninja Gaiden – Rise of the Ronin offers deeply engaging yet accessible combat, with layers of complexity suitable for any playstyle. Face your foes with a selection of close-quarters weaponry or engage from afar with authentic period firearms. Explore a historically-inspired world The “Bakumatsu” period heralds the end of the Shogunate as a new era begins and East and West collide. Experience this cultural revolution across an open world where you’ll meet the key figures who’ll shape the course of history, and the ordinary citizens seeking a guiding light in the darkness. Immerse yourself in 19th-century Japan with PlayStation®5 console features. Feel the impact of combat with haptic feedback through the DualSense™ wireless controller. Experience the click of your matchlock rifle’s trigger and more through the DualSense wireless controller’s adaptive triggers. Hear the world around you – from the bustle of the capital’s streets to the tranquil sounds of the countryside with 3D spatial audio.* Get straight to the heart of the action with the PlayStation®5 console’s lightning-fast load times. Explore a beautifully-rendered recreation of 19th-century Japan in stunning detail. *3D Audio via built-in TV speakers or analogue/USB stereo headphones.",
+    "notes": "",
+    "credits": "Thank @DUPLEX for the game files and DLPS Team",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2024-03-22",
+    "store_url": "https://store.playstation.com/en-us/concept/10003386",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202403/0504/a7379f2f011c7f32e583312e095605fb2dbe9af0f186d019.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "34416908-f336-4c2b-b48e-b21a5ed603d4",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/yjkHMVBuLy",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "b7f4e818-c27b-46ef-8cc1-e755572164f9",
+      "provider": "Data",
+      "url": "https://datanodes.to/gd1457oetxd6",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "62e14624-6e2e-4dcf-b013-9d648bf4e8b2",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/eC7CCFZSp7",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "9857b9c6-1a12-4052-a5b4-29539ebaa10c",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA04539_Rise_of_the_Ronin",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "b26c2978-8939-43e9-9f3e-5cd199631d24",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/RB861Je0v2#PPSA04539",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "DLPS Team",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

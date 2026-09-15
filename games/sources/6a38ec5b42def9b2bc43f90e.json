@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a38ec5b42def9b2bc43f90e",
+    "title_id": "PPSA01619",
+    "title": "Mortal Kombat 11 Ultimate",
+    "version": "1.000.004",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 90602335109
+  },
+  "metadata": {
+    "description": "MK11 required. New players can purchase Mortal Kombat 11 Ultimate. Includes newly added Kombat Pack 2, along with previously released Aftermath Expansion & Kombat Pack 1. Kombat Pack 2 • 3 New Playable Fighters - Mileena, Rain & Rambo Aftermath Expansion Aftermath features a brand-new cinematic story. Fire God Liu Kang, the new keeper of time and protector of Earthrealm, looks to secure the future he envisions. In order to do so, he is forced to enlist the help of some unlikely allies & familiar foes. Players will have to decide who they can trust and who they must defeat with fate on the line. Forge a new history. • All-New Cinematic Story • 3 New Playable Fighters - Sheeva, Fujin & RoboCop • 3 New Skin Packs Kombat Pack 1 • 6 New Playable Characters feat. Shang Tsung, Nightwolf, Terminator T-800, Sindel, The Joker & Spawn • 6 Skin Packs & 7 Excl. Skins",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & Dorukhan for the Files with DLCs.",
+    "publisher": "Warner Bros. Interactive",
+    "developer": "NetherRealm Studios",
+    "players": "2",
+    "genres": [
+      "Unique",
+      "Fighting"
+    ],
+    "release_date": "2020-11-17",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202006/0923/NTu9kWeFPu6u55aa3JsSLe8j.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "1e11a516-d123-4083-8387-1138ae78ad39",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?h3f25wjvo9e00zm7g6g8",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "f1d2be1f-253a-4b7a-a682-72638620d888",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01619_MK11",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

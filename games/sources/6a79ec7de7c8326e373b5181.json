@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a79ec7de7c8326e373b5181",
+    "title_id": "PPSA31334",
+    "title": "Yakuza Kiwami",
+    "version": "01.010",
+    "pack": "unknown",
+    "region": "JPN",
+    "size_bytes": 20293720474
+  },
+  "metadata": {
+    "description": "Take the fall for a murder and emerge from prison 10 years later to yakuza clans on the brink of a war that hurtles you on an intense journey of love, humanity, and betrayal, fueled by your fists and unyielding resolve, set against a bustling red-light district in modern-day Japan. Dynamically switch between 4 fighting styles (brutal \"Brawler\", speedy \"Rush\", overpowering \"Beast\", legendary \"Dragon\"), while utilizing makeshift weapons scattered around the streets to takedown hordes of enemies in realistic fights that are exhilarating and fun for anyone to pick up and play. After breaking some faces, take a break from the main story to enjoy the immersive nightlife activities scattered throughout the city like karaoke, the casino, cabaret club, arcade, batting cages and more as you encounter colorful characters from all walks of life. *If you have the PS4® digital download version of Yakuza Kiwami, you can get the PS5® digital download version of Yakuza Kiwami at a discounted price. This offer does not apply to the PlayStation Plus PS4® digital download or physical versions of Yakuza Kiwami. *The PS5® version of Yakuza Kiwami adds additional text languages not supported in the PS4® version of Yakuza Kiwami. There are no other differences in the basic game content or specifications. *The PS4® version of Yakuza Kiwami only supports Japanese voice and English and Japanese text. *Save data from Yakuza Kiwami for PS4® does not carry over to Yakuza Kiwami for PS5®.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "SEGA CORPORATION",
+    "developer": "",
+    "players": "",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2025-12-08",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202009/2900/VSCHe0lOdrs58pnKuBscKgH0.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "bd72af6d-bcb0-45ba-9c38-346387840882",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/ElyLezDpdE",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "5bee1ac7-195b-486f-93f2-a508370ebcff",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA31334_Yakuza_Kiwami",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

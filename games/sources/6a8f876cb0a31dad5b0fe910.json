@@ -1,0 +1,82 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a8f876cb0a31dad5b0fe910",
+    "title_id": "PPSA04159",
+    "title": "Goat Simulator 3",
+    "version": "01.002.100",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 8192650117
+  },
+  "metadata": {
+    "description": "Pilgor’s baaack! Gather your herd and venture forth into Goat Simulator 3; an all-new, totally realistic, sandbox farmyard experience that puts you back in the hooves of no one's favourite female protagonist. That’s right – we’re doing this again. The baa has been raised, and Pilgor is joined by other goats too. You can invite up to three friends in local or online co-op, create carnage as a team, or compete in mini-games and then not be friends anymore. Get ready for another round of udder mayhem. Lick, headbutt, and ruin your way through a brand new open world in the biggest waste of your time since Goat Simulator! We won’t tell you how to play (except in the tutorial), but merely provide the means to be the goats of your dreams. KEY FEATURES: - You can be a goat - Three of your friends can be goats too, and join you in local or online co-op - No really, there are so many goats. If you want to be fancy you can wear the skins of tall goats, stripey goats, and many more. There’s a goat for everyone! - Or dress up your goat in all kinds of nonsense, from toilet rolls to tea trays. Put on a jetpack for all we care - This time we actually hired ‘game designers’ and we’re told they’ve added ‘an ok amount of content’; events, NPCs to mess with, physics, status effects, collectables, easter eggs, lies, betrayal, heartbreak - They’ve added mini-games too, lots of mini-games (seven is a lot, right?) - Who said anything about a musical? - You can be Keanu Ree... (jk, wanted to check you were still reading) - But you can be a goldfish (true story) Cross-ownership Goat Simulator 3 features cross-ownership integration, which means that purchasing this content will grant access to it on both PlayStation 4 and PlayStation 5. DISCLAIMER: PS5 Supports 1-4 players co-op PS4 Supports 1-2 players co-op DISCLAIMER 2: Goat Simulator 3 is another completely stupid game. Will this game teach you how to become one with your local herd? Probably not. Learning about real goats with David Attenborough or something would absolutely be the smarter thing to do.",
+    "notes": "",
+    "credits": "",
+    "publisher": "COFFEE STAIN PUBLISHING AB",
+    "developer": "Coffee Stain North AB and published by Coffee Stain Publishing AB",
+    "players": "4",
+    "genres": [
+      "Simulation",
+      "Adventure"
+    ],
+    "release_date": "2022-11-17",
+    "store_url": "https://store.playstation.com/en-us/product/UP4664-PPSA04159_00-GS3MAINGAMEPACK0",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202211/1623/14HERvAnjYndjia2PShpEvP3.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "32728704-0f3f-4cb3-8c59-c1d78a453a72",
+      "provider": "vikingfile.com",
+      "url": "https://vikingfile.com/f/1cVNJHKUge",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "19dfde7a-4003-4a30-8d32-0a56ae80be50",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/9AqGQZ9nEmMn/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "ff5c3e34-88e5-488f-bd90-98abe43ad57d",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA04159_Goat_Simulator_3",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

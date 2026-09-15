@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a526095664b52645fefe079",
+    "title_id": "PPSA32785",
+    "title": "Nioh 3 Deluxe Edition",
+    "version": "01.040.020",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 87939455386
+  },
+  "metadata": {
+    "description": "Conquer the Crucible, Become Shogun Nioh 3 is the eagerly anticipated continuation of the dark samurai action RPG series Nioh. A deadly struggle unfolds amidst the devastation of an alternate Warring States period where bandits run rampant and yokai skulk about. Nioh 3 Digital Deluxe Edition includes the following content: - Nioh 3 base game - Nioh 3 season pass - Nioh 3 season pass bonus Chijiko Netsuke Charm (accessory) Digital Deluxe Edition bonus: - Infernal Weapons Set (14 types) - Kodama Netsuke Charm (accessory) Notes: - The season pass is a set including add-on DLC. The DLC include new stories, enemies, yokai, boss characters, and equipment. - The player must progress to certain points in game to make the season pass content available. - Please be aware that bonuses may become available for purchase or for free as add-on content for this title at a later date. - The details and release dates of content may change without notice. - The season pass bonus will be released on the same date as the base game. Add-on DLC 1 is set to become available by the end of September 2026, and add-on DLC 2 is set to become available by the end of February 2027. Please see the official site (https://teamninja-studio.com/nioh3/) for more details. - The standard edition of Nioh 3 is also being sold. Please confirm that you have selected the correct product before making your purchase. - The base game and season pass are included in this product. Please be careful not to make duplicate purchases. - Demo save data will be automatically carried over upon launching the full game. (The demo save data must be saved on the same device used to play the full game.) - If the full game is started even once and save data is created, you will no longer be able to play the demo. - The demo completion bonus Twin-Snake Helmet, which can be obtained upon completing the demo by February 15, 2026, can also be obtained as a guaranteed item drop upon defeating Jakotsu-baba in the full game by February 15, 2026. Starting February 16, 2026, the item will become a rare drop from Jakotsu-baba.",
+    "notes": "Game will take 5-10mins before it opens Some loading screen will also take 5-10mins",
+    "credits": "Thanks to SiESPTA & DUPLEX for the Files, Pkykzhack for DLCs and ManwonHp for the BackPort DLPS Team for Links",
+    "publisher": "KOEI TECMO America",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games",
+      "Action"
+    ],
+    "release_date": "2026-02-06",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202505/2904/5509d5bf42bf36901a846f1805dda6d349935e8475ca3a3d.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "5ee2f07c-6d97-4e6e-9973-b5b1c5e0c152",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?kuqip4o76d5itubtf6ce",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "04bf4710-9031-435b-a4e8-87ab9fc8b5a1",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/Kn8MyIgSOg#PPSA32785",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "DLPS Team",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

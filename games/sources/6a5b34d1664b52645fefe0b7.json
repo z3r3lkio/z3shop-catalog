@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5b34d1664b52645fefe0b7",
+    "title_id": "PPSA20447",
+    "title": "The First Berserker Khazan",
+    "version": "01.020",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 24588687770
+  },
+  "metadata": {
+    "description": "[DELUXE EDITION Bonus] The First Berserker: Khazan DELUXE EDITION includes the following content: 1. The First Berserker: Khazan (main game) 2. Hero's Weapon Set 3. Hero's Armor Set 4. Digital Artbook ・ The digital artbook features concept art from The First Berserker: Khazan. It can be accessed from the in-game main menu screen. * Clear Mission 2 and open the reward barrel in the Crevice to obtain the Hero's Weapon and Armor Sets. * Updating to the latest version of the game may be required to access this content. [About this Game Section] Experience the brutal action of The First Berserker: Khazan, a hardcore Action RPG adventure set 800 years before the events of the Dungeon Fighter Online (DNF) Universe. You will experience the vast universe and journey to the continent of Arad and discover the untold story of General Khazan. Master deep and immersive combat mechanics while you engage in strategic battles against a diverse array of foes and bosses. Will you embrace the path of the First Berserker and embark on Khazan's path of revenge? [BERSERKER BARRAGE] Unlock a variety of unique skills by utilizing Skill Points, unleash Khazan’s inner berserker and harness his full potential in battle. Want to change things up? Reset and respec Khazan’s skills at any time and from anywhere. Find the ultimate attack combo or improve your survivability during intense boss encounters by stacking various skills. [EMBRACE DEATH/BATTLE-HARDENED GENERAL] Don’t let death hold you back! For Khazan, falling in battle is one step on the path towards revenge. Return to the place where Khazan was defeated to recover lost Lacrima to regain experience to continue leveling up. Focus on mastering combat, instead of grinding! Forge ahead in your quest, ready to face whatever challenges lie ahead. [GEAR UP, FIGHT ON!] Collect an armory of weapons and gear on Khazan's quest for revenge. Equip a complete set of gear to unlock unique attributes and skills that can turn the tide of battle or mix and match different sets to create a personalized loadout that perfectly aligns with your playstyle. [LEGENDARY BOSSES] Khazan engages in unforgettable boss battles, where each foe presents distinct attack patterns, exploitable weaknesses, and unique abilities. These battles require strategic thinking, precise timing, and a deep understanding of the combat system, encouraging players to adapt and learn quickly. By mastering Khazan's versatile weapons and skills, players can effectively customize their tactics to conquer various boss types and navigate diverse combat scenarios. [ANIME MEETS AAA] The First Berserker: Khazan’s striking 3D cel-shaded graphics bring the world of Arad to life with the vibrant look of animated films. The essence of the Dungeon and Fighter Universe is captured and reimagined with a unique blend of bold, cel-shaded art and realistic textures, creating an immersive visual experience. [TOMORROW NEVER DIES] The journey continues after your first playthrough! Unlock the Ultimate Challenge along with New Game+, hone your skills and continue your path to mastery. Battle against Khazan’s formidable bosses in two modes – Great General’s Crucible and Berserker’s Bloodshed. In the Ultimate Challenge, your stats and equipment are reset, and in each mode you will experience a new progression system. Fight against a gauntlet of themed boss groups in the Great General’s Crucible or take on all 16 bosses in a row in Berserker’s Bloodshed to become a true champion. Claim battle tokens to earn special gears, powerful new weapons, and the ultimate badge of honor to be amongst the best of the best!",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files and Pkykzhack for the DLC",
+    "publisher": "NEXON",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Role Playing Games"
+    ],
+    "release_date": "2025-03-27",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202505/2006/5c0e615f53af1ebe932208f7cd36ec6b8a924c160f5a6300.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "6f459baf-6cee-4c96-888b-17955ed152e5",
+      "provider": "Archive",
+      "url": "https://archive.org/details/The-First-Berserker-Khazan",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "41dbeddb-c6bf-416c-805e-6e5f3ebf5d59",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/wgWGq7NV634o/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

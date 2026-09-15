@@ -1,0 +1,83 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a60a77d20ce6441f5b9a139",
+    "title_id": "PPSA02199",
+    "title": "Star Wars Jedi Fallen Order",
+    "version": "01.006",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 57982058496
+  },
+  "metadata": {
+    "description": "Buy the digital PS4™ version of STAR WARS Jedi: Fallen Order™ from PlayStation™Store and download the PS5™ version at no extra cost. If you already own the PS4™ digital version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Playstation.com/help A galaxy-spanning adventure awaits in STAR WARS Jedi: Fallen Order, a 3rd person action-adventure title from Respawn Entertainment. An abandoned Padawan must complete his training, develop new powerful Force abilities, and master the art of the lightsaber - all while staying one step ahead of the Empire.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Electronic Arts Inc",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Unique"
+    ],
+    "release_date": "2021-06-11",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202105/2718/P4iTB9AApXKb4X8BwMhdN2yB.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "8be5d994-e339-4568-af36-45429ba60205",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/6Goclbv71k",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "06b64d78-e3df-46ba-a3dd-64148fa8024d",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/obUq2qwKXN",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "37e70f89-31ff-4bda-b022-d6b601a0109e",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA02199_STAR_WARS_Jedi_Fallen_Order",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

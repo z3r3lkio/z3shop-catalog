@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a5624ed664b52645fefe07f",
+    "title_id": "PPSA09259",
+    "title": "Hell Is Us",
+    "version": "01.006",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 24588687770
+  },
+  "metadata": {
+    "description": "If war is the closest we get to hell on earth, it's because Earth harbours the worst of demons: humankind. In an isolated country ravaged by infighting, discover the secrets of your past and deal with the repercussions of a mysterious calamity. Hell is Us is a 3rd-person action-adventure game that combines intense melee combat with the thrill of exploration. Explore a semi-open world to find answers to your questions and face mysterious creatures all along your journey. A HOSTILE WORLD As well as the civil war dividing the country, the region is suffering from a mysterious calamity, which has given rise to supernatural creatures that no modern weapon can defeat. Your drone and sword from a different age are your faithful allies as you cut a path through lands infested with terrifying chimeras and try to unravel the mystery of their appearance. A UNIQUE EXPLORATION SYSTEM No map, no compass, no quest markers: following your instincts is part of the adventure. Enjoy a unique experience that uses innovative writing and level design to let you make your own decisions and follow your instincts as you explore. Your discoveries are yours alone. COMBAT AGAINST ORIGINAL CREATURES Swords, spears and axes: a wide range of weapons forged specially for fighting these supernatural creatures is available. You will need to learn how to fight these monsters and use your drone wisely to stay alive. ''The central theme of Hell is Us is that human violence is a perpetual cycle fueled by human emotions and passions.'' – Jonathan Jacques-Belletête, Creative Director",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files and Kira for the BackPort",
+    "publisher": "NACON SA",
+    "developer": "Rogue Factor",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2025-09-04",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202509/0408/9a2f0747f777dd2439043776de380a310647f0943a7838de.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "69362605-3218-4443-9eca-eb3100f51c95",
+      "provider": "1fichier",
+      "url": "https://1fichier.com/?bjrfkfaonyz364md9e31",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "c004aaf4-025a-41b2-80e2-532b1052d010",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA09259-Hell-is-Us",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

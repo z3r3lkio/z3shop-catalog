@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4b21062860efac54e4aa97",
+    "title_id": "PPSA25153",
+    "title": "Jurassic World Evolution 3",
+    "version": "01.002.006",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 17501991731
+  },
+  "metadata": {
+    "description": "The next entry in the award-winning series, Jurassic World Evolution 3 puts you in control of building and running your very own Jurassic World. Help life find a way by synthesising, breeding, and nurturing prehistoric species. Manage each species and allow them to thrive, while helping your dinosaurs raise families and pass their genes onto future generations. Create incredible havens for your dinosaurs to help them flourish, build exciting new attractions to amaze guests, and maintain control when disaster inevitably strikes. Nurture Generations of Dinosaurs With over 85 awe-inspiring pre-historic species, 75 of which allow you to manage, breed and nurture families of dinosaurs across entire generations. Rear them from playful juveniles into awe-inspiring adults, each with distinct female, male, and juvenile variants. Manage unique social needs and observe brand new behaviours, with semi-aquatic dinosaurs venturing into deep water and pterosaurs walking on land. Creativity Evolved Create jaw-dropping parks with new creative tools never before seen in the Jurassic World Evolution series! From groundbreaking terrain editing to modular scenery customisation – build and tweak every aspect of your park from the ground up or, generate a custom map which is unique every time with the Island Generator. The choice is in your hands! Build your sites with naturalistic enclosures using steep slopes and scenery, introduce stunning new attractions such as the Balloon Tour, a close-up attraction that let guests see and touch prehistoric animals with the Dinosaur Encounter or the iconic Cretaceous Cruise where guests can view dinosaurs from a new watery perspective! Create, upload and share cross-platform community creations using the Frontier Workshop. Browse the very best creations from the community, place them in your own game or craft your own custom parks, buildings and enclosures before sharing for other players to use. Epic Globetrotting Campaign Join familiar faces from the Jurassic franchise, including Dr. Ian Malcolm (voiced by Jeff Goldblum) and embark on a non-linear campaign across a sprawling world map filled with iconic locations such as the Montana Badlands, and new locations such as Japan—each offering thrilling new challenges. Every decision will test your park management skills as you balance competing human interests with the delicate integration of dinosaurs into a modern world. But be warned: not everyone wants to see the dinosaurs thrive. Control the Chaos Set your site up to run as efficiently as possible with powerful and accessible park management tools. Prepare for disaster using new security cameras that will help automate the response to escaped dinosaurs and deploy your Maintenance team to keep threats contained by delivering critical repairs across the site.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Frontier Developments PLC",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Strategy",
+      "Simulation"
+    ],
+    "release_date": "2025-10-21",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202511/0314/d343639e7ebdd79c06fb2e8295d383b3401f9b5bb242d450.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "7a194db2-a543-46a4-a754-a315243eb924",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA25153_Jurassic_World_Evolution_3",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "72be0b03-520a-4e6a-92d2-8fd9e5181bbc",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/QswG3Gj6qY",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

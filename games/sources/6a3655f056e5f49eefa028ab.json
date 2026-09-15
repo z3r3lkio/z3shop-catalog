@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028ab",
+    "title_id": "PPSA27360",
+    "title": "EA SPORTS FC 26",
+    "version": "01.000.018",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 86973087744
+  },
+  "metadata": {
+    "description": "The Club is Yours to preview with EA SPORTS FC™ 26 Showcase. Offering a taste of what’s new in The World’s Game, EA SPORTS FC™ 26 Showcase contains a rotating selection of content, features, and modes for players to experience including Kick-Off, Clubs Live Events, and more. Create your own player, team up with friends, and enjoy the thrill of 5-a-side football with the introduction of new, dynamic Live Events to the Clubs experience in EA SPORTS FC™ 26 Showcase. Additionally, play with a selection of the world’s biggest clubs in Kick-Off or sharpen your skills in Learn to Play.",
+    "notes": "DLC Unlock must be installed to play. This is mandatory.",
+    "credits": "",
+    "publisher": "Electronic Arts Inc",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Sport"
+    ],
+    "release_date": "2025-12-02",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202509/2512/5791cba66c92a5c93a8362c3f0b3a9810585f025cd29a42b.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a8403f57-b80d-4453-a351-8aaa93b50e29",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA27360_EA_Sports_FC_26",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "929022d4-85c6-446a-9c53-6f91833f792f",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/1HaDGkHQ9S",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "110bbce1-e3b1-4535-8b87-317aef9eb49d",
+      "provider": "Data",
+      "url": "https://datanodes.to/ly1itpmh7thz/DLC_DUPLEX.rar",
+      "mode": "archive",
+      "direct": false,
+      "archive": true,
+      "extension": ".rar",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

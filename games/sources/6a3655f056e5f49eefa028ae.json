@@ -1,0 +1,52 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028ae",
+    "title_id": "PPSA07580",
+    "title": "WRC Generations",
+    "version": "1.004",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 40480066765
+  },
+  "metadata": {
+    "description": "Get the most complete WRC Generations experience with the Fully Loaded Edition! The Fully Loaded Edition includes: - Sébastien Loeb's Citroën C4 WRC (2010) - The \"\"Career Starter Pack\"\" with 6 extra crew members - 2 Porsche 911 GT3 RS RGT liveries - A pack of 36 stickers for the Livery Editor - Free access to WRC+ for 3 months* Buying this edition before August 31, 2023grants 3 months of free access to WRC + All Live, the official streaming video platform of the FIA World Rally Championship. Visit https://www.wrcthegame.com/ for more details about this offer.",
+    "notes": "",
+    "credits": "",
+    "publisher": "NACON SA",
+    "developer": "KT Racing",
+    "players": "2",
+    "genres": [
+      "Simulation",
+      "Driving/Racing"
+    ],
+    "release_date": "2022-11-03",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202211/0309/vziHmBvhyCklEvaEFOisOEOK.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "cfd834a0-77be-4a43-97e0-5511a3283ea8",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA07580_WRC_Generations",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

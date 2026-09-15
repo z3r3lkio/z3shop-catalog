@@ -1,0 +1,141 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028c8",
+    "title_id": "PPSA02100",
+    "title": "Banishers Ghosts of New Eden",
+    "version": "1.005.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 59442347377
+  },
+  "metadata": {
+    "description": "New Eden, 1695. Antea Duarte and Red mac Raith are lovers and Banishers, ghost-hunters who vowed to protect the living from the threat of lingering ghosts and specters. Following a disastrous last mission, Antea is fatally wounded, becoming one of the spirits she loathes. In the haunted wilds of North America, the couple desperately searches for a way to liberate Antea from her new plight. Immerse yourself in a beautiful, intimate and powerful story between two fated lovers. As Banishers, enter the lives of New Eden’s communities and solve haunting cases in a mystical, lore-rich world plagued with supernatural creatures and ancient secrets. Use your wits or combine Antea’s spiritual powers and Red’s arsenal to defeat and banish the souls tormenting the living. Challenging decisions will lay on your path, dramatically impacting your story and the fate of New Eden’s inhabitants—be they living people or wandering souls. How much will you compromise your ghost-hunting vow for the sake of your lover who became one of such spirits? • Play as both Antea and Red, and battle supernatural forces with magic, weapons and spiritual powers • Unlock new gear and abilities to unleash the full power of the Banishers • Uncover the ancient secrets and hidden mysteries of a mystical, lore-rich world • Characteristic of renowned studio DON’T NOD, make meaningful and morally ambiguous choices that affect the story, the world and the fate of all characters, dead or alive",
+    "notes": "",
+    "credits": "",
+    "publisher": "Focus Entertainment",
+    "developer": "Don’t Nod Entertainment and published by Focus Entertainment",
+    "players": "1",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "2024-02-13",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202402/1613/7da5abda840e48b09a876958805c514c21e93f2d3f50053e.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "5a3ec4ac-4194-4e90-b6d4-1706af5f8a93",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/iRVrH1mpY3#PPSA10053%20Banishers%20Ghosts%20of%20New%20Eden%20(01.005.000).ffpfsc",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "Jason",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "ac544dda-5591-4455-b111-1b7762d6ea79",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/dZxG5oX963Vj/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "ee14f788-beb1-42ff-a924-1d2ddc2e4817",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/LJlGn7Z8Am15/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "8e2804f3-5141-4abb-af0d-4302523762b0",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/APVmabM8v3Xo/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 3,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "489e81c2-765d-48e0-8403-09b572145099",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/0JgG75a9g3oY/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 4,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "835993f5-6b9e-4e96-8389-f6098b8d8c80",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/5pVzNAovd37w/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 5,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "06d3be2c-349c-4b13-b49b-d74b07034ab7",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/2bJG8bXok3OB/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 6,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

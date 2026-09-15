@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a735aa9ad740911cff8917b",
+    "title_id": "PPSA28465",
+    "title": "Trails in The Sky 1st Chapter",
+    "version": "01.006",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 13174812180
+  },
+  "metadata": {
+    "description": "The Legend of Heroes: Trails in the Sky, a story-driven RPG that took off as the landmark first installment of the beloved Trails series, is receiving a full remake! The Liberl Kingdom, where the adventure takes place, is brought to life in stunning 3D, with refined designs for all characters including the headstrong and charming Estelle and the cool-headed and mysterious Joshua. Enjoy seamless transitions between two battle modes: field action and turn-based combat. The remake also features dynamic showcases of each character's special abilities (Crafts) and elemental magic (Arts), delivering exhilarating battle experiences. While retaining the picturesque charm of Liberl, the game offers various quests and extensive side content, allowing players to immerse themselves in the journey through the kingdom from a fresh perspective. Estelle and Joshua embark on a journey across the Liberl Kingdom, spurred by the mysterious disappearance of their father, Cassius. Meet new allies, experience heartfelt farewells, and uncover the fate that awaits the two at the end of their journey...",
+    "notes": "",
+    "credits": "Thanks to DLPS team for the Dump",
+    "publisher": "GungHo Online Entertainment,Inc.",
+    "developer": "Falcom",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2025-09-19",
+    "store_url": "",
+    "trailer": "https://www.youtube.com/watch?v=CLAYxiAXad0",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "5b39da06-5738-4c5b-8330-c29daeb231bb",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/nT34l4iU68",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "PapaYas",
+      "firmware": "",
+      "created_by": "6a42905bcd61e0bcf63ddeca"
+    },
+    {
+      "id": "95f0037f-2de6-4bb5-8e16-8e699cff3615",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA28465_Trails_FC",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

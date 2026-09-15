@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3cff2c87fd481f2572b1a0",
+    "title_id": "PPSA08709",
+    "title": "SILENT HILL 2",
+    "version": "0.1.006",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 55941949030
+  },
+  "metadata": {
+    "description": "Having received a letter from his deceased wife, James heads to where they shared so many memories, in the hope of seeing her one more time: Silent Hill. There, by the lake, he finds a woman eerily similar to her... \"My name...is Maria,\" the woman smiles. Her face, her voice... She's just like her. Experience a master-class in psychological survival horror―lauded as the best in the series―on the latest hardware with chilling visuals and visceral sounds. High-end Graphics and Sound With ray tracing and other cutting-edge technical enhancements, the world of SILENT HILL and its unsettling ambiance is even realer than before. And with the inclusion of new, immersive soundscapes, you'll feel like you're standing in the thick of it. Larger Environments Explore locations and buildings that were once inaccessible, or are newly added in the remake. Enjoy the same acclaimed story, even while you experience the town of Silent Hill with fresh eyes across an expanded map. Over-the-shoulder Camera The remake moves from the original's fixed-camera viewpoints to an over-the-shoulder perspective, putting you closer to what James sees, for a more thrilling, more immersive experience as you explore the town and come face-to-face with monsters. Evolved Combat Gameplay Familiar weapons like the steel pipe and handgun make their return, but now with an updated combat system. Avoid attacks with carefully timed dodges, aim down sights, and more, making monster encounters more engaging and nerve-wracking then ever.",
+    "notes": "",
+    "credits": "",
+    "publisher": "KONAMI",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Horror"
+    ],
+    "release_date": "2024-10-08",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202405/3022/b81192b30fabdbd8d02840503329165b936b64e59d7360aa.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "1260fef9-f7b2-4210-afad-2bc9bbbe4aac",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA08709_SILENT_HILL_2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a8fd882b0a31dad5b0fe913",
+    "title_id": "PPSA10664",
+    "title": "FINAL FANTASY XVI",
+    "version": "01.003.004",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 118884694753
+  },
+  "metadata": {
+    "description": "An epic dark fantasy world where the fate of the land is decided by the mighty Eikons and the Dominants who wield them. This is the tale of Clive Rosfield, a warrior granted the title “First Shield of Rosaria” and sworn to protect his younger brother Joshua, the dominant of the Phoenix. Before long, Clive will be caught up in a great tragedy and swear revenge on the Dark Eikon Ifrit, a mysterious entity that brings calamity in its wake.",
+    "notes": "",
+    "credits": "",
+    "publisher": "SQUARE ENIX CO. LTD.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Role Playing Games"
+    ],
+    "release_date": "2023-06-22",
+    "store_url": "https://store.playstation.com/en-us/product/UP0082-PPSA10664_00-FF16SIEA00000002",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202312/0804/9c5edd1301f69c3366287aba17d5ae9ffcb23c26a53e06c4.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "7d8c44ba-e936-4c60-9abc-8aeb849b2340",
+      "provider": "Download",
+      "url": "https://vikingfile.com/f/gDA9ZRU0yN",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "JMCWorkz",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

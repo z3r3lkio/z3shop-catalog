@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028cb",
+    "title_id": "PPSA13579",
+    "title": "Blasphemous 2",
+    "version": "1.007.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 2673617142
+  },
+  "metadata": {
+    "description": "The second scripture in the Blasphemous series portends the return of The Penitent One, with a story that continues from the free Wounds of Eventide DLC for the original game, where The Heart in the sky heralded the return of The Miracle and foretold the birth of a new miracle child. Awakened in a strange new land, and displaced from his final resting place, The Penitent One is thrust back into the endless cycle of life, death, and resurrection, with no other option than to explore this perilous new world and uncover its long-forgotten secrets. Hordes of grotesque enemies stand in your way, awaiting final judgement by the brutal hand of the Penitent One, with titanic twisted bosses also lurking in the darkness, waiting for their chance to return you to the grave from whence you came. Taking them down won’t be easy, but with Blasphemous 2 offering more chances to customise and improve your skill set, along with several new unique weapons to wield with righteous zeal and unending fury, victory might just be within grasp. Ultimately, only one thing is certain… Penance Never Ends Explore a fuller Non-Linear world Having awoken in a strange new land, your journey starts anew in a series of enchantingly grotesque landscapes, oozing Gothic charm and littered with unforgiving traps. How you tackle the labyrinthian world remains at your discretion, there is no wrong turn to be made, only scores to settle Savage Combat The Penitent One shows no mercy, and with a series of new weapons offering new moves, brutal executions, and expanded combos, destruction will rain on any that stand in his way Customize your playthrough your way Blasphemous 2 offers up new ways to play, with the ability to customise and improve your base skillset, alongside several new unique weapons to unleash devastating attacks on enemies Grand Intense Boss Battles Hordes of monstrous foes stand between you and your goal; twisted bosses with unique attack patters and sundering abilities will put your skills to the test as you fight to stand triumphant when the dust settles Explore a deep new world A whole new world awaits, bustling with mysterious new NPCs to interact with, some will offer aid, some will ask for it, and others will send you on death defying missions to obtain long forgotten items. With so much to see and do, the stories and myths you encounter will help you unpick the games myriad of secrets, granting you a deeper understanding of this strange new world",
+    "notes": "",
+    "credits": "Thanks to DUPLEX & SiESPta for the Files with DLCs and DecKerr97 for the BackPort",
+    "publisher": "Team17 Software Ltd.",
+    "developer": "The Game Kitchen",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2023-08-24",
+    "store_url": "https://store.playstation.com/en-us/product/UP4064-PPSA13580_00-BLASPHEMOUS20000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202606/0620/0f264d97737b6dfb75712162ee57eb4db7bf0b8e2efca012.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "28ec584f-7983-4d82-a3b4-856d0c98efb0",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/NSdKVbYDjz#PPSA13579",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "Jmc",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

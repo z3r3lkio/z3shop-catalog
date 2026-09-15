@@ -1,0 +1,96 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7f36a5b0a31dad5b0fe8bc",
+    "title_id": "PPSA32557",
+    "title": "MotoGP 26",
+    "version": "01.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 22441204122
+  },
+  "metadata": {
+    "description": "The Official 2026 Championship Experience the full intensity of the 2026 MotoGP™ Championship with all the official riders, teams, bikes and tracks in a more authentic way: for the first time, the real-world results dynamically update Riders Ratings, directly influencing in-game performance throughout the season. Step into the spotlight and track your journey with dazzling Collectible Cards celebrating your progress. Renewed Physics for Total Control Jump straight into action with the Arcade Experience or dive into pure simulation with the Pro Experience, both supported by tutorials, adaptive difficulty and Neural Aids. Enjoy a renewed physics system built around a new rider-based handling model: your body movement on the bike matters more than ever, delivering greater control and a more authentic riding feel. A Deeper Career Build your legacy from Rookie to Legend with a custom rider or relive and reshape the career of an official MotoGP™ star. Your journey evolves season after season through contract negotiations, rider market dynamics and press conferences that shape your future. Your words to the media influence upcoming challenges, while your collaboration with teams drives bike development. Every decision becomes part of your story. Train and Experiment Step away from the paddock and explore new ways to ride. Train with the Motard, Flat Track and Minibike disciplines, or hit the circuit with Production Bikes, models featured in single-brand events with dedicated physics. Race Together Compete online with full cross-play* and race on a full grid of up to 22 riders in new online lobbies. Customise your look with advanced graphic editors and share your creations! *Nintendo platforms excluded",
+    "notes": "",
+    "credits": "Thanks to DLPS Team for the Files, DecKerr97 for the BackPort and Pippo for the exfat file",
+    "publisher": "Milestone S.r.l.",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Driving/Racing"
+    ],
+    "release_date": "2026-04-28",
+    "store_url": "https://store.playstation.com/en-sg/product/EP4356-PPSA32557_00-MOTOGP26FULLGAME",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202604/2909/9514839d1c6894269ed08053eacd5ccb246563907ffba6a0.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a09c5aed-2a3e-405d-8984-3d6561c0ab72",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA32557_MotoGP_26",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "ef3ac933-6cc8-4799-891e-d21ca072ef98",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/SEtaRfaRzQ",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "e3acadec-127b-4f20-ba3f-760691b45bba",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/wgWGq7MDx34o/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 1,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "2b888c81-6580-4e6c-96cf-b78f0116447e",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/LJlGn7WKlm15/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "Akirabox",
+      "part": 2,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

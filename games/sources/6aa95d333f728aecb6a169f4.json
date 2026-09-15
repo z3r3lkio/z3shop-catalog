@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa95d333f728aecb6a169f4",
+    "title_id": "PPSA03274",
+    "title": "Unbound: Worlds Apart",
+    "version": "01.000",
+    "pack": "fpkg",
+    "region": "EUR",
+    "size_bytes": 1535450808
+  },
+  "metadata": {
+    "description": "Summon portals to overcome vicious beasts, devious puzzles and fiendish platforming challenges. Master the unique powers of each portal to stop the collapse of reality, while exploring lush, hand-drawn worlds and unraveling a deep narrative full of mysteries. Unbound: Worlds Apart is a challenging, atmospheric and hand-drawn puzzle-platformer set in a universe where all worlds are connected by portals. You control Soli, a gifted young mage who has the power to open portals and control the unique properties of each world - such as inverse gravity, time manipulation, super strength and more. Using these newfound skills, Soli must journey across dangerous and mysterious worlds, each brimming with secrets and challenges. You must use every skill Soli has to defeat a ruthless evil that is tearing reality apart, while learning the shocking truth behind your world’s collapse. Your reflexes and twitch platforming skills will be put to the ultimate test in Unbound: Worlds Apart. As Soli you can explore large worlds full of hidden secrets and unlockable skills that open up even more of the map as you progress. Along the way you will meet many weird, wonderful and devious characters, each with rich backstories and dialogue. By completing their quests or listening to their tales of hope and sorrow, you will learn more about Unbound’s grand universe of worlds and the portals that connect them. Key Features: 10 different portals with unique mechanics Vibrant and detailed hand-drawn artwork Twitch platforming with new skills to unlock Challenging puzzles, traps, monsters and bosses A rich narrative, world lore and cast of NPCs Hidden secrets, quests and collectibles If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks @DUPLEX & Dorukhan and ismut for the fpkg file",
+    "publisher": "Digerati Distribution",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "2022-02-09",
+    "store_url": "https://store.playstation.com/en-us/product/UP2187-PPSA03273_00-3937104574291168",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202201/0514/PeYmglEzRXDbOI69kL0lHNf0.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "998ec411-8ddd-4376-a3df-575aad421283",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/wkoH81CXFD",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

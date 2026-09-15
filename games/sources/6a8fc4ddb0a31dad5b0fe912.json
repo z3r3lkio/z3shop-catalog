@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a8fc4ddb0a31dad5b0fe912",
+    "title_id": "PPSA07587",
+    "title": "Sea of Stars",
+    "version": "01.013",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 4756676280
+  },
+  "metadata": {
+    "description": "Promising the Sabotage touch in every system, Sea of Stars aims to modernize the classic RPG in terms of turn-based combat, storytelling, exploration and interactions with the environment, while still offering a hearty slice of nostalgia and good old, simple fun.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files and DecKerr97 for the BackPort",
+    "publisher": "SABOTAGE STUDIO INC",
+    "developer": "",
+    "players": "3",
+    "genres": [
+      "Role Playing Games",
+      "Adventure"
+    ],
+    "release_date": "2023-08-29",
+    "store_url": "https://store.playstation.com/en-us/product/UP3463-PPSA07586_00-8119804844737273",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202411/1215/2f406eafa3ccbd93622454d8d937198c28c99745b5dbb9a6.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "3e165367-4401-40d1-af6f-35c78dfbab44",
+      "provider": "Akirabox",
+      "url": "https://akirabox.com/0JgG75rD13oY/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "ece31318-3f2d-48c3-8202-b4bbac503d95",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA07587_Sea_of_Stars",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

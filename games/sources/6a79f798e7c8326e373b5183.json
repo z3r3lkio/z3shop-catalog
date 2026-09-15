@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a79f798e7c8326e373b5183",
+    "title_id": "PPSA21914",
+    "title": "Undisputed Championship Edition",
+    "version": "02.005",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 16535624090
+  },
+  "metadata": {
+    "description": "Champions are not born; they are forged. Rule the ring with Undisputed: The Championship Edition, featuring your new cover star Terence “Bud” Crawford. The Championship Edition includes a packed roster of over 100 fighters, more than 25 venues and extra apparel. With 4 mega DLC’s - The WBC Pack; The Iron & Steel Pack; The Mexican Monster Pack and brand-new The Senator Pack the Championship Edition is a true celebration of boxing. The WBC Pack includes: Jaime Munguia, Regis Prograis, Jesse ‘Bam’ Rodriguez, Dmitry Bivol, Caleb Plant and Julio Cesar Chavez, along with alternate right attire for each. This also includes The Era Pack, featuring younger versions of Tyson Fury ’09, Canelo Alverez ’11 and Muhammad Ali ’64. This pack also includes alternate ring attire for Claressa Shields, Canelo Alvarez, Oleksandr Usyk, Katie Taylor, Tyson Fury and Amir Khan. The Iron & Steel Pack includes: Wladimir Klitschko, Vitali Klitschko, Jai Opetaia, Román ‘Chocolatito’ González, Juan Francisco Estrada, Shannon ‘The Cannon’ Briggs, and Eric ‘Butterbean’ Esch, along with alternate right attire for each. This pack also includes The Mexican Monster Pack includes: David Benavidez, Andy Ruiz, Charles Martin, Robert Helenius, Fernando Vargas Sr., Hector Camacho and Sugar Ray Leonard ’87, along with alternate ring attire for each. The Senator Pack includes: Manny Pacquiao, Sergey Kovalev, Egidijus Kavaliauskas, Evgeny Gradovich, Edgar Berlanga, Ricardo Mayorga and Vinny Paz, along with alternate ring attire for each.",
+    "notes": "",
+    "credits": "Thanks to DecKerr97 for the Files with BackPort and Pippo for DLCs and exfat file",
+    "publisher": "Deep Silver",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Fighting"
+    ],
+    "release_date": "2025-10-28",
+    "store_url": "https://store.playstation.com/en-us/product/UP2047-PPSA21915_00-UNDCHMPEDITIONNA",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202405/0209/d5afce38ab8348f0068a2eee52731e312e20d1dab8c11e61.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "79822df9-a0f9-443c-a3a3-c0347088f844",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/v0BeZ6BVwZ",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "97dbe4bb-5161-4728-8b7b-c58fce26c64e",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA21914_Undisputedv2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

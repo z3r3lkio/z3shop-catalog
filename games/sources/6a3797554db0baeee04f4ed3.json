@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3797554db0baeee04f4ed3",
+    "title_id": "PPSA16306",
+    "title": "WWE 2K24 Forty Years of WrestleMania Edition",
+    "version": "1.023",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 90698971873
+  },
+  "metadata": {
+    "description": "FORTY YEARS OF WRESTLEMANIA WrestleMania is the biggest event in sports entertainment, where Superstars become WWE Legends. Experience a gripping retelling of WrestleMania’s greatest moments in 2K Showcase of the Immortals, where you can relive a collection of some of the most unforgettable, career-defining matches. AN ICONIC ROSTER WWE 2K24 boasts a star-studded roster featuring WWE Legends like “Stone Cold” Steve Austin, Undertaker, and Andre the Giant, alongside current WWE Superstars like “The American Nightmare” Cody Rhodes, John Cena, Rhea Ripley, and Roman Reigns, whose larger-than-life entrances and signature moves are heightened by ultra-realistic graphics. NEW MATCH TYPES From Guest Referee to Casket, Gauntlet, and Ambulance matches, there are a bevy of new match types to experience in WWE 2K24, including support for multiple Superstars in Backstage Brawl. PROVE YOURSELF IN MyRISE Unleash your raw talent and become the undisputed champ in MyRISE, featuring two thrilling career arcs and original storylines chronicling your ascent to WWE stardom from the men's and women’s divisions. BUILD YOUR FACTION Assemble your favorite WWE Superstars and Legends in MyFACTION. Acquire cards, build a dominant faction, compete in online multiplayer and the all-new ranked quickplay. Plus, earn exciting promotional and final rank rewards as you climb the new seasonal leaderboard! CONTROL THE WWE UNIVERSE Develop feuds, weekly shows, and more in Universe mode, WWE 2K24’s ultimate sandbox, with expanded rivalry actions, all-new cutscenes, and support for double-title matches! CALL THE SHOTS IN MyGM Oversee the biggest brands and Superstars in sports entertainment as you challenge rival general managers for the top spot in MyGM. Explore more match types, more brands, and new general managers. Trade Superstars between brands, make executive decisions on contracts, and amp up the drama.",
+    "notes": "",
+    "credits": "",
+    "publisher": "2K",
+    "developer": "",
+    "players": "4",
+    "genres": [
+      "Sport"
+    ],
+    "release_date": "2025-06-25",
+    "store_url": "https://store.playstation.com/en-us/concept/10007978",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202503/1404/65b4e8a05422d60bcb3fd7281ad8e5008982c13210058354.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "76a0cf31-64bb-439b-9c25-47ab3653c16c",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/bmqDaTJ0lL",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "Dk Ricasa",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "1af834b6-55a7-45ba-8d7b-511fc403a04d",
+      "provider": "Archive",
+      "url": "https://archive.org/details/WWE2K24_40YearsWrestEdition_4xx",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

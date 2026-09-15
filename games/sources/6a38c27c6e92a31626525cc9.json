@@ -1,0 +1,68 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a38c27c6e92a31626525cc9",
+    "title_id": "PPSA01500",
+    "title": "Watch Dogs Legion",
+    "version": "1.190",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 85147726643
+  },
+  "metadata": {
+    "description": "Play for free from 25/03 to 28/03!* Your progression is saved if you decide to buy the game. To access the Free Trial Weekend, you need to manually switch to the PS4 page by selecting the three dot icon, then \"PS4 | Full | Watch Dogs: Legion\". *Limitations apply Requires internet connection. Build a resistance from virtually anyone you see as you hack, infiltrate, and fight to take back a near-future London that is facing its downfall. Welcome to the Resistance. Recruit and play as anyone in the city. Everyone you see has a unique backstory, personality, and skill set. Hack armed drones, deploy spider-bots, and take down enemies using an Augmented Reality Cloak. Explore a massive urban open world featuring London’s many iconic landmarks and fun side activities. Take the resistance one step further and fight with your friends in new missions in Online mode. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to Alterr87 for the Files with DLCs",
+    "publisher": "Ubisoft",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Unique"
+    ],
+    "release_date": "2020-11-12",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202011/1320/IDECNxXGO44AtMXkAlRyznhE.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "bd82fa70-ae60-4712-923f-2fcc790cff84",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01500-Watchdogs-Legion",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "50eddedd-c4ca-40b4-b2df-026f134be05d",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/8dBVG2mL1t",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

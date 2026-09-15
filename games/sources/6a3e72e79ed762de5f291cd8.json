@@ -1,0 +1,52 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3e72e79ed762de5f291cd8",
+    "title_id": "PPSA01337",
+    "title": "Ghostwire Tokyo",
+    "version": "01.009",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 21689584845
+  },
+  "metadata": {
+    "description": "The Ghostwire: Tokyo Deluxe Edition includes: - Ghostwire: Tokyo Game - Streetwear Outfit Pack - Shinobi Outfit & Kunai Weapon Get the updated version of Ghostwire: Tokyo experience available now free for all players. Explore new areas, encounter mysterious new enemies, wield new combat skills and enjoy many other additions, including a completely new game mode! Explore New Areas and Go Deeper into the Story Solve the spooky mystery in the all-new Middle School area, complete with the added “School Ghost” and “Spirit Photo” side missions, plus gain more insight into the main story of Ghostwire: Tokyo with extended cutscenes. Test Your Skills in “The Spider’s Thread” Roguelite Mode This update also includes a new game mode called “The Spider’s Thread,” separate from the main game and selectable from the main menu. Challenge yourself to solving the mystery of the Tatariya by clearing 30 randomly selected stages from over 120 tailored challenges to conquer! This mode will even test veteran players, so be sure to level up by completing challenges such as collecting spirits or locating prized Nekomata Koban as you descend deeper and deeper down the Spider’s Thread. As you clear each stage, you will be rewarded with items such as emotes, figures and stamps which are also useable in the main game! Expand Your New Spirit Skills to Battle New Foes Your arsenal in combat grows with the new Perfect Guard Counter Attack and Quick Dodge maneuvers. Also added to the game are Charge Rush skills – powerful, short-range elemental attacks powered by your Ethereal Weaving. You’ll need powered up skills to face new enemies terrorizing Tokyo like the Retribution that can “swim” underground, the invisible Silent Gaze and the high-flying Sanguine Dancer. And More! Capture memorable photos with the expanded features of the Photo Mode. Find graffiti in the city to acquire stamps and unlock figures by using in-game currency called Meika in the new activity “Capsule Machines”. For those who really don’t like spooky games, you can replace certain spiritual effects with adorable SHIIBUYA♡HACHI stickers by utilizing the “Reduced Horror Effects” setting. Whether you are a newcomer to Ghostwire: Tokyo or a fan looking for something new to do in Shibuya’s haunted streets, we hope you enjoy the Ghostwire: Tokyo Spider’s Thread update!",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files",
+    "publisher": "Bethesda Softworks",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "release_date": "2022-03-22",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202203/2217/swAOXy4feiiGRmEzio86AqW8.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "3dc44f57-f8e6-4d99-87ba-1872a93236b0",
+      "provider": "Archive",
+      "url": "https://archive.org/details/ppsa-01337-ghostwire-tokyo",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a75aef9e76beadd88604bf4",
+    "title_id": "PPSA08587",
+    "title": "Dragon Ball Xenoverse 2",
+    "version": "01.004.002",
+    "pack": "unknown",
+    "region": "USA to EUR Langs",
+    "size_bytes": 25769803776
+  },
+  "metadata": {
+    "description": "YOUR STORY, YOUR AVATAR, YOUR DRAGON BALL WORLD Dragon Ball Xenoverse 2 is the ultimate Dragon Ball gaming experience, packed with thrilling action, epic battles, and endless customization options. Create your own character, explore Conton City and team up with iconic characters from the series as a teacher to train and be ready to battle against formidable enemies to rescue the flow of History! As you progress through the game, you can customize your character's appearance, abilities, and moveset, allowing you to create a truly unique and powerful fighter. The fun doesn't stop there! Dragon Ball Xenoverse 2 also features online multiplayer modes, where you can battle against other players from around the world in epic showdowns or participate in Raid Battles to face gigantic foes with other players. With 7 years worth of DLC packs, there's always something new to discover and experience in Conton City! THE FIGHTER YOU ALWAYS WANTED TO BE. With a vast array of customization options, you can create a character that truly fits your style and personality. From race and appearance to abilities and moveset, you have complete control over your fighter. AN INFINITE ONLINE EXPERIENCE. With several online multiplayer modes and in-game events, battles never stop! Face against other players from around the world in epic showdowns or team up with them against gigantic threats in Raid Battles. LET YOUR FIGHTING SPIRIT BURN! Dive into the intense and action-packed battles typical of Dragon Ball. Whether it's during one-on-one fights or massive battles against multiple enemies, let yourself go in the thrill of the fight! THE WHOLE DRAGON BALL UNIVERSE AWAITS. Jump into different locations and timelines of Dragon Ball! Battle in iconic locations from the Dragon Ball universe and interact with famous characters to protect history. EVERYTHING DRAGON BALL, ALL HERE. Dragon Ball Xenoverse 2 is packed with fan service, featuring all iconic characters, locations, and moments from the series that fans will love to see and experience in-game. 7 YEARS OF EXPANSIONS! Dragon Ball Xenoverse 2 is bigger than ever! After 7 years of regular releases of new DLC content, discover more than 40 new characters, storylines, and much more from Dragon Ball Z, Dragon Ball Super and even Dragon Ball movies. Stay tuned and enjoy the free updates as well! *Disclaimer : Animated images displayed on this page are a combination of contents, some of which are part of DLC (Downloadable Content) available for purchase separately from the main game",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, DecKerr97 for the BackPort and Pippo for the exfat files",
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Fighting",
+      "Casual",
+      "Action"
+    ],
+    "release_date": "2024-05-24",
+    "store_url": "",
+    "trailer": "https://apollo2.dl.playstation.net/cdn/UP0700/CUSA05350_00/FREE_CONTENTOYHdz4fpxijWD7dxHzR2/PREVIEW_GAMEPLAY_VIDEO_128961.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "b2b4ce8b-5629-42dd-a0ab-196792cec188",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA08587_Dragon_Ball_Xenoverse_2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "3e8836bc-d50a-46f4-adb0-5dc54f1e4619",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/lJrU80PqwY",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

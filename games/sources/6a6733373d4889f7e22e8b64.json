@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a6733373d4889f7e22e8b64",
+    "title_id": "PPSA21840",
+    "title": "GreedFall The Dying World",
+    "version": "01.004",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 40480066765
+  },
+  "metadata": {
+    "description": "WRITE YOUR OWN LEGEND GreedFall: The Dying World is a narrative-driven RPG. The story takes you to the far reaches of a vast fantasy world, inspired by 17th century Europe. Create your character: appearance, attributes, talents, abilities. Then dive into a rich adventure, meeting many allies who will prove vital in overcoming the dangers that await you. As you progress, every choice you make influences the course of events, every alliance you forge has real consequences, and every decision can change the fate of the world. Force is far from your only option in successfully overcoming the traps and challenges you encounter along the way. Use diplomacy to persuade your opponents, craft your own equipment, find hidden treasures, and access forbidden places with cunning tricks and disguises. You are the master of your own destiny. DISCOVER THE CONTINENT OF GACANE Return to the lands of Gacane in this new adventure. The story begins 3 years before the events of the first title, far beyond the previously encountered city of Sérène. Originally from Teer Fradee, a small island steeped in magic and lush nature, you complete your initiation and become a “Doneigad”: a sage who serves the clan. But your destiny is upended when “renaigsa” (foreigners) from the Old Continent capture you and threaten your people with extermination. Escaping your captors, you explore this foreign land, which is home to some powerful nations plagued by war and a mysterious disease. Journey across the Old Continent; visit Olima, the City of Stars, and its scientific observatory, set sail for the shores of Uxantis, the port capital of the Nauts, and make your way along the perilous roads of Thynea, lined with ancient ruins. As you explore this vast world, you can rely on the Constanzia: a sturdy ship you’ll acquire during your adventure, which will quickly become your headquarters. RECRUIT ALLIES Along the way, you’ll meet 8 memorable companions. Each has their own story, beliefs and secrets. Choose their equipment and outfits, their attributes and combat specialities, building a team that reflects your style, and benefit from their support, or control them during battles. They are also invaluable off the battlefield, providing you with knowledge on the continent’s different factions, and using their influence with them, which can open closed doors. From simple ally to soul mate, your futures are linked, and each of your decisions affects how they see you. Forge lasting friendships, or even find true love, but be careful! Your actions will affect the strength of your bond, or be their reason for leaving. BECOME A MASTER STRATEGIST When faced with belligerent men and ferocious creatures, sometimes violence is the only way. Use your strategic mind in real-time combat by activating tactical pause. This allows you to plan your actions, exploit enemy weaknesses and adapt your strategy to each situation. Prefer to stay at the heart of the action? If you prefer a more direct style, you can use your skills in battles to triumph over your opponents. Choose the combat profile that suits you best: “Tactical” gives you full control of the camera and your companions; “Focused” focuses on your character and allows your companions to act independently; “Hybrid” offers a middle ground. Additional configuration options enable you to fine-tune your experience and have the sort of adventure you prefer: from Story mode where you can fully enjoy the narrative, to Tactician mode, for those who love a real challenge.",
+    "notes": "",
+    "credits": "",
+    "publisher": "NACON SA",
+    "developer": "Spiders",
+    "players": "1",
+    "genres": [
+      "Role Playing Games",
+      "Action"
+    ],
+    "release_date": "2026-03-12",
+    "store_url": "https://store.playstation.com/en-us/product/EP6665-PPSA21840_00-GF20000000000000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202603/1211/5545bc1565a63c0cdf9d372c3fe88cd76a82d3418557513c.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "c66352d0-f65f-4961-9b17-78bc69a5c290",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/ZsmYh52MCE",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "df898b7a-9509-4b62-b2d3-92f96bb8b223",
+      "provider": "Data",
+      "url": "https://datanodes.to/7fl4dhwwzunp/DLC_Psykzhack.rar",
+      "mode": "archive",
+      "direct": false,
+      "archive": true,
+      "extension": ".rar",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

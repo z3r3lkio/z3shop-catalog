@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028d5",
+    "title_id": "PPSA02530",
+    "title": "PRAGMATA Deluxe Edition",
+    "version": "1.200",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 38504381809
+  },
+  "metadata": {
+    "description": "*The items in this set can be purchased individually. Please be careful not to purchase the same item twice. The Deluxe Edition is a bundle that includes the main game and the Shelter Variety Pack. Shelter Variety Pack Contents: ・Hugh Outfit - Heavy Lifter ・Hugh Outfit - Lunar Cat ・Diana Outfit - Mecha Builder ・Diana Outfit - Fluffy ・Weapon Skin - Grip Gun DS ・Shelter BGM - Memories Are You (Lo-fi Ver.) ・Shelter BGM - Dawn (EDM Ver.) ・Shelter BGM - Shelter (Jazz Ver.) ・Diana Gesture - Drowsy ・Diana Gesture - Pumped Up ・Diana Gesture - Stepping ・Data Library - Artwork \"Wherever you go, I'll be there.\" Pragmata is a unique, sci-fi action-adventure game from Capcom. Follow Hugh, a member of an ill-fated investigation team, and Diana, a young android, as they navigate a lunar facility taken over by rogue AI in search of a way to Earth. ONE TRAGIC ACCIDENT. AN UNLIKELY DUO. At a remote lunar research facility, humanity discovers a new ore—one that, when properly refined, can be used to create almost anything using 3D printers. When the facility suddenly falls silent, Hugh and his team are dispatched to investigate...but then disaster strikes. Hugh is saved by Diana, a lone android wandering the complex. The two of them must join forces to find a way off the moon while working their way through an AI-controlled facility bent on stopping them. Half-realized replicas of human civilization sprawl across the lunar surface, while inside, only scattered traces of the facility's vanished inhabitants remain. What buried truth awaits at the end of Hugh and Diana's journey? TAKE CONTROL OF TWO CHARACTERS—AT THE SAME TIME. Guide both Hugh as he moves, shoots, and jumps, and Diana, who hacks at the same time. Enjoy a fresh, new blend of gameplay in this truly unique system that will push your brain to its limits.",
+    "notes": "",
+    "credits": "SiESPTA & DUPLEX; Backport: BestPig & rocknard",
+    "publisher": "Capcom U.S.A., Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2026-04-17",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202506/0423/290062a47bfdfb2e91706a61cc9ecb58cea858e6be905a9f.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "17a0a90c-db12-4ecd-9b42-347cfbd54770",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/ovs0IpAw63",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "fe7d0675-6f3c-4b6c-8f09-9c859cd7354a",
+      "provider": "FileKeeper",
+      "url": "https://filekeeper.net/xkkbtrio681e/PPSA02530_-_Pragmata.ffpfsc",
+      "mode": "direct-file",
+      "direct": true,
+      "archive": false,
+      "extension": ".ffpfsc",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "8aa4d194-3550-4b3c-82c0-d340832bff2c",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/2WVGrVEEAGkx/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

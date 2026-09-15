@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028bd",
+    "title_id": "PPSA04609",
+    "title": "ELDEN RING Shadow of the Erdtree Edition",
+    "version": "1.017",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 96883724780
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. ELDEN RING can be played immediately. The Shadow of the Erdtree Edition includes: • ELDEN RING • ELDEN RING Shadow of the Erdtree expansion Shadow of the Erdtree is an expansion to ELDEN RING, the 2022 Game of the Year. Dark and intense, Shadow of the Erdtree has players continue their quest with the freedom to explore and experience the adventure at their own pace. • New immersive areas rich with secrets The Realm of Shadow has been kept apart from the Lands Between since its creation. Now, in pursuit of Miquella, the Tarnished are among the first souls to set foot here in unknown ages. Traverse new open field areas to reach dense new legacy dungeons full of hazards and undiscovered mysteries. • Powerful and challenging enemies Dangers both great and small will provide a formidable challenge for any player in the Realm of Shadow. New enemies roam the open areas and horrifying new monsters lurk in caverns and hollows, waiting to ambush the unaware. Anyone capable of surviving these intense battles will know the rush of true victory. • New weapons, spells, and armor to enhance your unique character Many new powers can be found in this scorched realm: weapons and armor, sorceries and incantations, and spirits and skills. You may find something unexpected to surprise an enemy, such as Thrusting Shields that combine offense and defense. Or, you may find something to complement your combat style, like hand-to-hand combat that combine palm strikes and kicks without a weapon. • Learn the untold story of an unseen war as you follow in Miquella’s footsteps You aren’t the only one tracking Miquella through the Realm of Shadow, and as you press deeper and deeper into the mystery, you’ll find a complex interplay of personalities and motivations to navigate, giving you new insight into Miquella’s history and Marika’s hidden past. *Shadow of the Erdtree content requires the base game product. *Other base game editions containing this content are also available. Be careful of duplicate purchases. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to SiESPTA for the Files",
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2024-06-21",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202212/1918/azoZirNKKAkUq3CQ3IPpiv4I.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "9b017840-bc17-4e93-9a9c-cd8c1ce0723a",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/6s7SuokKZR",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "TeamPHU",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "fb80bf06-60da-4d55-8e48-d50937e0e84c",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA04609-Elden_Ring",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

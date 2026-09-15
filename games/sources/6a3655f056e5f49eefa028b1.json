@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028b1",
+    "title_id": "PPSA01443",
+    "title": "Devil May Cry 5 Special Edition",
+    "version": "1.000",
+    "pack": "unknown",
+    "region": "EUR",
+    "size_bytes": 46600395162
+  },
+  "metadata": {
+    "description": "DEVIL MAY CRY IS BACK, BABY!! The legendary stylish action game is better than ever in the ultimate version of this multi-award winning hit. New features: - New playable character - Dante's brother and arch-rival, Vergil - Legendary Dark Knight mode - an extremely challenging horde mode featuring huge numbers of enemies - Turbo mode - make the game even more intense by playing at 1.2x speed - Ray-tracing support - this next-generation graphics technology brings the already near-photorealistic world of DMC5 to a new level of unparalleled visual splendour - High Frame-Rate mode - experience super-smooth action These new features and modes utilise the power of PlayStation®5 to bring you the craziest, sexiest, most stylish Devil May Cry experience ever!! Note: Certain trophies cannot be acquired while playing as Vergil.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Capcom U.S.A., Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2020-11-12",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202012/1701/bY4xsOXpRkLJXN5FMcLGBLiS.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "07996892-380c-4ab0-a5ec-716dad54faf1",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/jqhkHgEQL0",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "7b72724a-bf93-4418-b467-4c9e748aa543",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA01443_DMC5",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

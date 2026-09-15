@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3655f056e5f49eefa028b4",
+    "title_id": "PPSA20396",
+    "title": "Assassins Creed Shadows",
+    "version": "1.019.076",
+    "pack": "pfs",
+    "region": "USA",
+    "size_bytes": 170724950016
+  },
+  "metadata": {
+    "description": "MASTER THE DEEPEST STEALTH MECHANISMS OF THE SERIES & FIGHT IN VISCERAL COMBAT “Shadows is some of the most fun I’ve had with a stealth game in a decade” —PC Gamer Play as Naoe, a quick-witted shinobi, and use light, sound, and shadows to evade detection. Infiltrate enemy strongholds with many parkour options including the new grappling hook, distract guards with shuriken or smoke bombs, and assassinate your targets with your Hidden Blade. As the samurai Yasuke, use silent bow takedowns or unleash devastating melee combos with your katana or naginata. DEEP-DIVE INTO THE CAPTIVATING WORLD OF ASSASSIN'S CREED SHADOWS “Assassin’s Creed Shadows creates one of the best versions of the open-world style.” —IGN Step into feudal Japan like never before! From majestic castle towns to serene shrines and sweeping countryside, Assassin’s Creed Shadows offers a breathtaking open world where dynamic seasons, shifting weather, and environmental destruction affect your tactical approach. DISCOVER THE MOST TECHNICALLY ADVANCED ASSASSIN’S CREED GAME YET “It leads to one of the most dynamic, fun, and best-looking open-world games I’ve played this generation.” —Kotaku Experience a true next-gen leap with Assassin’s Creed Shadows, powered by the updated Anvil engine. From the shimmer of lantern light on rain-slick rooftops to the rustle of cherry blossoms in the wind, every detail is crafted to immerse you deeper into feudal Japan. A GLOBAL HIT Whether you are a veteran Assassin’s Creed player or new to the franchise, feudal Japan awaits you! Join a community of millions of players and discover a title GameSpot describes as \"an absolute blast to play,\" Eurogamer.es as \"the best Assassin's Creed of the modern era\" and GamingTrend as “the new benchmark for the series.” PlayStation players also elected Assassin's Creed Shadows \"PlayStation Player's choice\" for March 2025. Internet connection, Ubisoft Account and PlayStation™Network account required to access online features.",
+    "notes": "Audio 3D must be off for avoid the crash on Initial Settings.",
+    "credits": "Thanks to DUPLEX & VanBuuren for the Files with DLCs and DecKerr97 for the BackPort",
+    "publisher": "Ubisoft",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2025-03-20",
+    "store_url": "https://store.playstation.com/en-us/product/UP0001-PPSA20396_00-GAME000000000000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202510/0818/60492ca418daeec0be9031957bf25568673c7295f87d1154.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "9a18ac32-699f-4bf6-aa6c-9e1ee7a42ba9",
+      "provider": "Data",
+      "url": "https://datanodes.to/ftbgwrowjlhc/All_6DLCs_DUPLEX.rar",
+      "mode": "archive",
+      "direct": false,
+      "archive": true,
+      "extension": ".rar",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "c1d7198e-ebbc-4604-91e7-95c7e08d8fa7",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/i5jW8SMMVh#PPSA20397",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "DLPS Team",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "aede91e5-e2eb-4bb0-a46d-07fbc34149e0",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA20397_AC_Shadows",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

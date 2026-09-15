@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a84634eb0a31dad5b0fe8d8",
+    "title_id": "PPSA10595",
+    "title": "Tekken 8",
+    "version": "03.000.001",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 112742891520
+  },
+  "metadata": {
+    "description": "TEKKEN 8 is the latest addition to the TEKKEN series, which celebrated its 30th anniversary in 2025, and has now sold over 59 million units worldwide. The game features a rich roster of over 32 characters with meticulously detailed high-resolution models that push modern hardware to its limits. Experience exciting battles with new battle features like Heat, or get yourself out of tough situations with powerful ultimate moves known as Rage Arts. With the new control system, Special Style, you can perform powerful combos with just a simple button, making the game even more accessible to newcomers. There are many ways to enjoy TEKKEN 8. Become immersed in the longest ongoing storyline in video game history with single-player story mode or fully express yourself with character customization. Create your avatar and take on various arcade challenges or visit the interactive online lobby to face off against players from around the world. And with online battle modes like Ranked Match, you can jump straight into the action. Want to improve your skills? You can fight against your own or other players' Ghosts that learn a player's fighting style using AI technology. Plus, you can check out battle replays to receive tips and develop new tactics. *In addition to this edition, Advanced Edition, Season 2 Deluxe Edition, and Season 2 Ultimate Edition are also available. Be careful of duplicate purchases.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files with DLCs and DecKerr97 for the BackPort",
+    "publisher": "BANDAI NAMCO ENTERTAINMENT EUROPE",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "release_date": "2024-01-25",
+    "store_url": "https://store.playstation.com/en-gb/concept/10006270/",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202309/2507/306e8d5925da9b3a03dcfd9ddd67c670a8bf6939ba9dbba7.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "b63168d1-58f4-4a64-a77e-d82c09447954",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/hC34Xv1JM2",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "DK Ricasa",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "aa7ba1e6-1b89-48e8-9920-b588dd631801",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/MOUkBrcPDO",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

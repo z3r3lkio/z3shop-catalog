@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a3ca2d399d94569f61cdd70",
+    "title_id": "PPSA18463",
+    "title": "Baldur's Gate 3",
+    "version": "01.000.000",
+    "pack": "unknown",
+    "region": "JPN",
+    "size_bytes": 109918950523
+  },
+  "metadata": {
+    "description": "Abducted, infected, lost. You are turning into a monster, but as the corruption inside you grows, so does your power. Forge a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power. Caught in a conflict between devils, deities, and sinister otherworldly forces, you and your party will determine the fate of the Forgotten Realms. THE ULTIMATE D&D EXPERIENCE Choose from a wide selection of D&D races and classes, or play as an origin character with a hand-crafted background. Adventure, loot, battle, and romance as you journey through the Forgotten Realms and beyond. Play alone or as a party of up to four in multiplayer – and select your companions carefully. SEAMLESSLY SWITCH BETWEEN SINGLE AND MULTIPLAYER Each character weaves their own story, alone or in a party. Combine your forces in combat and split your party to follow your own quests and agendas. Concoct the perfect plan together… or introduce an element of chaos when your friends least expect it. With split-screen co-op for up to two players on one PlayStation®5, or as up to four players online, Baldur's Gate 3 is an adventure made to be played alone, or shared with friends. NO ADVENTURE WILL BE THE SAME The Forgotten Realms are a vast, detailed, and diverse world, and there are secrets to be discovered all around you – verticality is a vital part of exploration. Sneak, dip, shove, climb, and jump as you journey from the depths of the Underdark to the glittering rooftops of the Upper City. How you survive, and the mark you leave on the world, is up to you. A CINEMATIC STORYTELLING EPIC Forged with the new Divinity 4.0 engine, Baldur’s Gate 3 gives you unprecedented freedom to explore, experiment, and interact with a world that reacts to your choices. A grand, cinematic narrative brings you closer to your characters than ever before, as you venture through our biggest world yet. Romance, deceive, aid, obstruct, and grow alongside your friends thanks to Larian's next-generation RPG engine.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Larian Studios Games Ltd",
+    "developer": "",
+    "players": "2",
+    "genres": [
+      "Role Playing Games"
+    ],
+    "release_date": "2023-09-06",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202309/0923/3612dff4979efb4783510e35f62ea5e0a3c5a2f6a9ee7032.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "6c9ffcf2-f139-424f-85b5-44388e4fa2aa",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/kLOFVP4fxA#PPSA18463.ffpfsc",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "TeamPHU",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "8e30358e-70a9-4880-a928-be170258c412",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA18463_Baldurs_Gate_3",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

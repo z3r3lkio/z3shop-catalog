@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a7b097515892f8818a051f7",
+    "title_id": "PPSA07576",
+    "title": "No More Heroes 3",
+    "version": "01.004",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 25662429594
+  },
+  "metadata": {
+    "description": "No More Heroes 3 follows the otaku assassin Travis Touchdown as he takes up his trusty beam katana once more and slashes his way through ten of the deadliest fighters in the galaxy. ■Story The legendary assassin Travis Touchdown returns to the Garden of Madness! Now he must make it to the top of the Galactic Superhero Rankings in order to stop the evil Prince FU and his ten alien underlings from taking over Earth. ■Experience the Action in Full HD No More Heroes 3 has never looked better, now at 4K and 60FPS on the PlayStation®5! ■Exhilarating Combat Rack up combos with Travis’ beam katana and experience hack-and-slash action like never before! ■Rise Through the Ranks Ranking battles return on a galactic scale! Out-of-this-world boss fights await Travis as he faces off against a slew of wicked alien “superheroes.” ■Explore an All-New Open World There’s more to see than just Santa Destroy this time around! Hop on Travis’s latest ride, the Demzamtiger, and burn rubber through four all-new locations. Each one is packed with battle and volunteer missions to help you save up for those pricey Galactic Ranking fights. *Customers who purchased a product that includes the main game from the PlayStation®Store can download it from the Library on both PlayStation®4 and PlayStation®5. *Save data and trophies do not carry over between the PlayStation®4 and PlayStation®5 versions.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files and Pippo for the exfat file",
+    "publisher": "Marvelous USA (XSEED)",
+    "developer": "Grasshopper Manufacture Inc",
+    "players": "1",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2022-10-11",
+    "store_url": "https://store.playstation.com/en-us/product/UP1023-PPSA07576_00-NOMOREHEROES3002",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202305/0518/ab9c67f302942a0ba10454869ce894e2c882beb6b9c73835.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "c7413da5-02c5-41ee-95d1-e5a96a1d0675",
+      "provider": "Archive",
+      "url": "https://archive.org/details/PPSA07576_No_More_Heroes_3",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "9c13fb0a-457a-42e0-acff-29d4dfba0405",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/13OIHwYEXe",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

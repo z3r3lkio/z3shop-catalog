@@ -1,0 +1,81 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a70603ca80b138b911d68e0",
+    "title_id": "PPSA01289",
+    "title": "Sackboy A Big Adventure",
+    "version": "01.024",
+    "pack": "unknown",
+    "region": "USA to EUR Languages",
+    "size_bytes": 34681860915
+  },
+  "metadata": {
+    "description": "It’s classy. It’s chic. It’s the height of fashion. It’s just the kind of finery Sackboy and his friends need for their ever-so-posh evening parties. Direct from Craftworld’s high street boutiques, this stunning collection includes a host of clothing options for the snappy dresser in Sackboy™: A Big Adventure. Looking good, Sackboy! Internet connection required to access downloadable content.",
+    "notes": "",
+    "credits": "",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Sumo Digital",
+    "players": "4",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2023-04-21",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202009/1720/RWnqChepb1v0kigYttZ6jsDX.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "a955b6b4-0a8d-4778-a54f-eca73822abb3",
+      "provider": "Archive (Game + DLC)",
+      "url": "https://archive.org/details/PPSA01289_Sackboy_A_Big_Adventure",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "bf4f9f74-5231-4768-b8a9-152d43ab8d0b",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/WKdbnFIL7Q",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "5d14d937-acc1-4866-b5e1-84aaa9343f42",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/B52SW0hkHA",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T16:49:00.615Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6a4a789d2860efac54e4aa7f",
+    "title_id": "PPSA05144",
+    "title": "Little Nightmares 3: Deluxe Edition",
+    "version": "01.002",
+    "pack": "unknown",
+    "region": "USA",
+    "size_bytes": 17501991731
+  },
+  "metadata": {
+    "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. Expand your eerie journey in The Spiral with the Deluxe Edition of Little Nightmares III! With this Edition, you will get access to the Secrets of The Spiral (Expansion Pass) and The Residents Costume Set. SECRETS OF THE SPIRAL - EXPANSION PASS: - 2 additional chapters to play - delve deeper into the eerie lands of The Spiral. These additional tales enrich the experience and let you uncover hidden secrets, new perspectives, and unexpected horrors. - Ferryman Costumes Set - exclusive to the Expansion Pass. A mysterious figure familiar to all children in The Nowhere. This costume set is suited for both characters Low and Alone. THE RESIDENTS COSTUMES SET: Conceal your identity in The Nowhere and embrace your dark side by wearing the costumes of some of The Residents of the two previous games: The Janitor, The Twin-Chefs, The Lady, The Hunter. Each costume goes in a set of two, suited for both characters Low and Alone. Prepare to enter a world where fear wears many faces. Two young friends, lost in a frightening world not made for children. If they cannot find a way out of this Nowhere place, they’ll be condemned to a fate worse than death. FACE YOUR CHILDHOOD FEARS TOGETHER You play as Low and Alone, best friends ever since they found each other in this lonely nightmare. They each possess their own iconic item: a bow for Low and a wrench for Alone. Working together, they’ve become adept at sneaking through hidden passages, hoisting each other over massive obstacles, and watching each other’s backs. Whether you’re playing with a friend or an A.I. companion, you’ll depend on each other's iconic items to create opportunities and to progress. The environment is full of clues and possibilities for imaginative children to exploit. Low’s arrows can reach high targets, cut through ropes, or down flying enemies, and Alone’s wrench is just the thing for crushing stunned enemies, smashing through barriers, or manipulating the workings of massive machines. EMBARK ON AN IMMERSIVE AND DISTURBING ADVENTURE No matter where you go, the Nowhere is home to horrific monsters. These Residents won't hesitate to go out of their way to capture any intrusive little Visitors that draw their attention. You might find yourself playing a terrifying game of hide and seek with Monster Baby in the sandy ruins of the Necropolis, struggling to avoid swarms of voracious Candy Weevils in an unsetling Candy Factory, or dodging heavy feet while running along the rain-soaked promenade of a filthy funfair. You'll need to be ready to run, hide, or even defend yourself at a moment's notice to stay in one piece. SINK INTO THE SPIRAL Don’t be too distracted by the desolate beauty of the Nowhere. There are dark mysteries waiting for you as Low and Alone follow their mirror path across the Spiral. As each new location will become more dangerous and disturbing than the last, traumatic flashes from the past will begin to emerge. Will Low and Alone finally escape from this unending nightmare? Only you can help them, little ones... If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to High-Speed007 for the Files, Pkykzhack for DLCs",
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "",
+    "players": "",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-10-10",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202309/0413/24b85dc739d35814e3e72a3a1ea699e8c8b08c0132a08248.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "9011771c-3c25-4e9c-a66d-66499fb5d8fa",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/EOzTxgBBf4",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "T4MAGO",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "6e27e419-c96f-4e78-a693-5614d6cd47eb",
+      "provider": "Akirabox",
+      "url": "https://akirabox.to/7d5GLvgNb3xR/file",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}
