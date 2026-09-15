@@ -1,6 +1,6 @@
 {
   "name": "Z3Shop",
-  "version": 6,
+  "version": 7,
   "packages": [
     {
       "id": "itemzflow-game-manager",
@@ -19,7 +19,11 @@
       "release_notes": "Discovered via nexgen-aio-pkg",
       "icon_source_url": "https://raw.githubusercontent.com/LightningMods/Itemzflow/main/App-Media-Assets/sce_sys/icon0.png",
       "icon_origin": "direct",
-      "icon_bytes": 64569
+      "icon_bytes": 64569,
+      "title_id": "ITEM00001",
+      "content_id": "IV0002-ITEM00001_00-STOREUPD00000000",
+      "package_version": "1.14",
+      "identity_origin": "param.sfo"
     },
     {
       "id": "ps5-homebrew-launcher",
@@ -38,7 +42,9 @@
       "release_notes": "v0.34",
       "icon_source_url": "https://raw.githubusercontent.com/ps5-payload-dev/websrv/master/icon0.png",
       "icon_origin": "direct",
-      "icon_bytes": 26391
+      "icon_bytes": 26391,
+      "title_id": "FAKE00000",
+      "identity_origin": "param.sfo"
     },
     {
       "id": "ps5-xplorer",
@@ -59,7 +65,11 @@
       "icon_origin": "pkg-entry:0x1200",
       "icon_bytes": 99958,
       "icon_pkg_entry_size": 202093,
-      "icon_pkg_container": "CNT"
+      "icon_pkg_container": "CNT",
+      "title_id": "LAPY20011",
+      "content_id": "ED1234-LAPY20011_00-PS4XPLORER200000",
+      "package_version": "01.05",
+      "identity_origin": "param.sfo"
     },
     {
       "id": "prospero-light",
@@ -78,7 +88,9 @@
       "release_notes": "ProsperoLight 01.000.060",
       "icon_source_url": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoLight/main/sce_sys/icon0.png",
       "icon_origin": "direct",
-      "icon_bytes": 24319
+      "icon_bytes": 24319,
+      "title_id": "PPSA99002",
+      "identity_origin": "asset-name"
     },
     {
       "id": "prospero-radio",
@@ -97,7 +109,9 @@
       "release_notes": "ProsperoRadio 01.000.005",
       "icon_source_url": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoRadio/main/sce_sys/icon0.png",
       "icon_origin": "direct",
-      "icon_bytes": 111027
+      "icon_bytes": 111027,
+      "title_id": "PPSA99001",
+      "identity_origin": "asset-name"
     },
     {
       "id": "prospero-tv",
@@ -116,7 +130,9 @@
       "release_notes": "ProsperoTV 01.000.002",
       "icon_source_url": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoTV/main/sce_sys/icon0.png",
       "icon_origin": "direct",
-      "icon_bytes": 22104
+      "icon_bytes": 22104,
+      "title_id": "PPSA99003",
+      "identity_origin": "asset-name"
     },
     {
       "id": "avatar-changer",
@@ -137,7 +153,11 @@
       "icon_origin": "pkg-entry:0x1200",
       "icon_bytes": 88138,
       "icon_pkg_entry_size": 157840,
-      "icon_pkg_container": "CNT"
+      "icon_pkg_container": "CNT",
+      "title_id": "LAPY20016",
+      "content_id": "ED1234-LAPY20016_00-0000000000000000",
+      "package_version": "01.00",
+      "identity_origin": "param.sfo"
     },
     {
       "id": "fpkgi",
@@ -156,7 +176,11 @@
       "release_notes": "Discovered via nexgen-aio-pkg",
       "icon_source_url": "https://raw.githubusercontent.com/ItsJokerZz/FPKGi/release/source/Assets/Images/App/Icon.png",
       "icon_origin": "direct",
-      "icon_bytes": 37759
+      "icon_bytes": 37759,
+      "title_id": "PKGI13337",
+      "content_id": "ED1633-PKGI13337_00-0000000000000000",
+      "package_version": "01.00",
+      "identity_origin": "param.sfo"
     },
     {
       "id": "homebrew-store-installer",
@@ -177,7 +201,11 @@
       "icon_origin": "pkg-entry:0x1200",
       "icon_bytes": 54243,
       "icon_pkg_entry_size": 218511,
-      "icon_pkg_container": "CNT"
+      "icon_pkg_container": "CNT",
+      "title_id": "NPXS39041",
+      "content_id": "IV0002-NPXS39041_00-STOREUPD00000000",
+      "package_version": "01.00",
+      "identity_origin": "param.sfo"
     },
     {
       "id": "internetbrowser-game-menu",
@@ -307,7 +335,9 @@
     "pkg_icons_extracted": 6,
     "pkg_icons_cnt": 3,
     "pkg_icons_fih": 3,
-    "icons_unresolved": 0
+    "icons_unresolved": 0,
+    "pkg_metadata_attempts": 10,
+    "pkg_metadata_resolved": 9
   },
   "_generated": "2026-09-15T00:35:24.970Z",
   "_discovery": {
