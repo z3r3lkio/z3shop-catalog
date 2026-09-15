@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T18:27:52.665Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa982033f728aecb6a169fc",
+    "title_id": "PPSA29629",
+    "title": "Marvel Cosmic Invasion",
+    "version": "02.002",
+    "pack": "fpkg",
+    "region": "EUR",
+    "size_bytes": 601295421
+  },
+  "metadata": {
+    "description": "Tribute Games and Dotemu are teaming up again, in collaboration with Marvel Games, to craft an original, fresh beat 'em up. Featuring dynamic combat combos and dazzling pixel art, this planet-hopping adventure stands as a love letter to the Marvel Universe. “THE COSMOS MUST FALL SO THAT I MIGHT LIVE!!” So swears Annihilus, the living death that walks! After an unprecedented attack is launched across the galaxy, all life hangs in the balance. From New York City to the depths of the Negative Zone, the future of the Universe will be fought for across the stars in MARVEL Cosmic Invasion! 15 PLAYABLE SUPER HEROES Spider-Man, Wolverine, She-Hulk, Captain America, Phoenix, Black Panther, Storm and Iron Man, some of the most powerful earth-born Marvel Super Heroes, are ready to face the threat. But they won't be alone! Galactic Super Heroes Rocket Raccoon, Beta Ray Bill, Venom, Cosmic Ghost Rider, Nova, Phyla-Vell and the Silver Surfer enter the battle as well to complete the relentless line-up. All will join forces in a star-spanning brawling adventure against the deadly Annihilation Wave. Whether you’re an old-school expert or a first-time fan, you’ll find familiar faces and discover new favorites in a captivating roster of characters from across the Marvel Universe! MASTER THE COSMIC SWAP TAG-TEAM SYSTEM With the Cosmic Swap tag-team system, choose two Super Heroes for each level and switch between them instantly. Create unique combos and powerful special attacks. Each character’s abilities encourage creative team-ups and a more tactical approach to the action. AMAZING RETRO ART DIRECTION MARVEL Cosmic Invasion is a tribute to one of Marvel’s most iconic eras, with stunning full-color pixel art designs. INTUITIVE, FUN MULTIPLAYER FOR EVERYONE Whether you're teaming up with friends or family, MARVEL Cosmic Invasion has you covered with local/online play and a drop-in/drop-out adaptive system. A cosmic battle awaits!",
+    "notes": "",
+    "credits": "Thanks to DLPS Team for the Files and DecKerr97 for the BackPort, Drakmor for the FPKG tool and ismut for the fpkg file",
+    "publisher": "DOTEMU",
+    "developer": "Tribute Games",
+    "players": "4",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2025-12-01",
+    "store_url": "https://store.playstation.com/en-us/concept/10012545",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202512/0116/408c0a51c37b172f3c7a7d3aaa637dd3002be4b78d006021.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "d0ab4619-5157-4afa-8432-79747515b292",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/261oHsGDUz",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

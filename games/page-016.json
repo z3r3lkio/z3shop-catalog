@@ -4,10 +4,156 @@
   "source": "gfs-pfs-library",
   "page": 16,
   "page_size": 24,
-  "total": 373,
+  "total": 377,
   "pages": 16,
-  "generated": "2026-09-15T16:49:00.615Z",
+  "generated": "2026-09-15T18:27:52.665Z",
   "games": [
+    {
+      "id": "6a3655f056e5f49eefa028a8",
+      "title_id": "PPSA01285",
+      "title": "Returnal",
+      "version": "3.005",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 66453881487,
+      "size_label": "61.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0415/FlDoLAOQRrIR6On9aIwBu3it.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0415/ICa83AzAlyjElV2O14PPMYrE.jpg",
+      "updated_at": "2026-06-20T10:10:22.625Z",
+      "source_count": 3,
+      "usable_source_count": 3,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 3,
+      "providers": [
+        "Viki",
+        "1fichier",
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028a8.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028a8-3fc7164b2dd4.png",
+      "icon_bytes": 77132
+    },
+    {
+      "id": "6a3655f056e5f49eefa028bb",
+      "title_id": "PPSA07230",
+      "title": "Assassin's Creed® Mirage",
+      "version": "1.012",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "9.xx+"
+      ],
+      "firmware_label": "9.xx+",
+      "firmware_raw": [
+        "9.xx +"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 70330089472,
+      "size_label": "65.5 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1718/NFf86jgU4AeVYgJBEoEKBpxW.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1718/1YHRDsi3voapHSwJfDMneZXV.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028bb.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028bb-8ffa4e185d8a.png",
+      "icon_bytes": 76697
+    },
+    {
+      "id": "6a3655f056e5f49eefa028b9",
+      "title_id": "PPSA21564",
+      "title": "ASTRO BOT",
+      "version": "1.007",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 48865990410,
+      "size_label": "45.5 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/0d05cb43413f28a641ac0c40fc272c70bbe194f6ade4b175.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/80ecf657918558eeef8da3ee4cef326e4517d34e6c69d950.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "source_count": 4,
+      "usable_source_count": 4,
+      "direct_source_count": 1,
+      "archive_source_count": 0,
+      "provider_page_count": 3,
+      "providers": [
+        "Viki",
+        "Viki (Backport 4.xx)",
+        "FileKeeper (Backport 4.xx)",
+        "1fichier (Backport 4.xx)"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028b9.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028b9-aa75855cdfcb.png",
+      "icon_bytes": 64212
+    },
+    {
+      "id": "6a3655f056e5f49eefa028cb",
+      "title_id": "PPSA13579",
+      "title": "Blasphemous 2",
+      "version": "1.007.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 2673617142,
+      "size_label": "2.5 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1714/1cf876354773c8b7b1aa710ebf69f7dd739769839beebf16.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1714/3c5f2ba6b4dd7de7ff8ce7eb77754bc74744fa1550c4b2b0.jpg",
+      "updated_at": "2026-06-20T08:57:20.000Z",
+      "source_count": 1,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028cb.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028cb-de83fffec617.png",
+      "icon_bytes": 35714
+    },
     {
       "id": "6a3655f056e5f49eefa028bc",
       "title_id": "PPSA28180",

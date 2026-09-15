@@ -4,10 +4,154 @@
   "source": "gfs-pfs-library",
   "page": 5,
   "page_size": 24,
-  "total": 373,
+  "total": 377,
   "pages": 16,
-  "generated": "2026-09-15T16:49:00.615Z",
+  "generated": "2026-09-15T18:27:52.665Z",
   "games": [
+    {
+      "id": "6a833657b0a31dad5b0fe8d5",
+      "title_id": "PPSA01903",
+      "title": "Final Fantasy VII Remake Intergrade",
+      "version": "01.003",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "2.xx+"
+      ],
+      "firmware_label": "2.xx+",
+      "firmware_raw": [
+        "2.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.3.3.1-test",
+      "dlcs_merged": false,
+      "size_bytes": 115964116992,
+      "size_label": "108 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1515/KvQytkiBiUJFGPughWMRpkk7.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1515/1OwdiTV0V6yupeqzDHMasf6y.jpg",
+      "updated_at": "2026-08-17T16:27:03.094Z",
+      "source_count": 8,
+      "usable_source_count": 7,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 7,
+      "providers": [
+        "Akirabox",
+        "Viki"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a833657b0a31dad5b0fe8d5.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a833657b0a31dad5b0fe8d5-a61e4abdebba.png",
+      "icon_bytes": 17634
+    },
+    {
+      "id": "6a82aeaab0a31dad5b0fe8d1",
+      "title_id": "PPSA17169",
+      "title": "Hi Fi RUSH Deluxe Edition",
+      "version": "01.004",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 17072495002,
+      "size_label": "15.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0615/6cec20ba3402f1d66526651a2b1dddc8cf91f757e5ccdf22.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0615/6182c834042e2348ff31af50866443f3282a22452032603f.jpg",
+      "updated_at": "2026-08-17T14:42:41.492Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a82aeaab0a31dad5b0fe8d1.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a82aeaab0a31dad5b0fe8d1-920b96c6f643.png",
+      "icon_bytes": 91863
+    },
+    {
+      "id": "6a82af48b0a31dad5b0fe8d2",
+      "title_id": "PPSA03639",
+      "title": "BLEACH Rebirth of Souls Ultimate Edition",
+      "version": "01.040.003",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 36292473651,
+      "size_label": "33.8 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2400/7ea4da6297b0c66b41b027658483ee1407cad547ef0f324b.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2400/14fa63b2b8c32fe2c6976ecc4f2ea53296e412de050957bf.png",
+      "updated_at": "2026-08-17T14:42:36.133Z",
+      "source_count": 5,
+      "usable_source_count": 5,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 5,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a82af48b0a31dad5b0fe8d2.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a82af48b0a31dad5b0fe8d2-357575478415.png",
+      "icon_bytes": 60168
+    },
+    {
+      "id": "6a82b05bb0a31dad5b0fe8d3",
+      "title_id": "PPSA03683",
+      "title": "Gungrave GORE",
+      "version": "01.010",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 37044092928,
+      "size_label": "34.5 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2412/ONCOIuti3vluMplexK2Jd65z.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2712/hnOG6shxp2HQKIXnHw40hJxj.png",
+      "updated_at": "2026-08-17T14:22:43.536Z",
+      "source_count": 6,
+      "usable_source_count": 5,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 5,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a82b05bb0a31dad5b0fe8d3.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a82b05bb0a31dad5b0fe8d3-670f42e054ae.png",
+      "icon_bytes": 85483
+    },
     {
       "id": "6a3655f056e5f49eefa028b0",
       "title_id": "PPSA17599",
@@ -742,149 +886,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7c9fabfe3be883510b9a35-7630c09ff008.png",
       "icon_bytes": 62855
-    },
-    {
-      "id": "6a5ba198664b52645fefe0be",
-      "title_id": "PPSA21733",
-      "title": "STALKER Clear Sky Enhanced Edition",
-      "version": "01.009",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx BackPork"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 5476083302,
-      "size_label": "5.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2215/94238e9daaf3516b7c947c851da50c68f4c712d3ce2cb5c6.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2215/6bc3fb99ee4b72218f30fa23422e6c0e1196b37f2c0713ba.png",
-      "updated_at": "2026-08-13T07:41:34.340Z",
-      "source_count": 1,
-      "usable_source_count": 1,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a5ba198664b52645fefe0be.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5ba198664b52645fefe0be-16970a2660c5.png",
-      "icon_bytes": 62829
-    },
-    {
-      "id": "6a7c9772751b3030b9e84bc9",
-      "title_id": "PPSA13197",
-      "title": "Stellar Blade™ Complete Edition",
-      "version": "01.014.001",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "9.xx+"
-      ],
-      "firmware_label": "9.xx+",
-      "firmware_raw": [
-        "9.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": true,
-      "size_bytes": 44130788966,
-      "size_label": "41.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/b06dff4ff09b4bd891adb354e9ca8562d1af31c6508334ad.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/e06c268b7f64c3f9760aba716211b24b01fb74783b5eda0e.jpg",
-      "updated_at": "2026-08-12T15:55:30.124Z",
-      "source_count": 2,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a7c9772751b3030b9e84bc9.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7c9772751b3030b9e84bc9-a982e409275d.png",
-      "icon_bytes": 40165
-    },
-    {
-      "id": "6a7c953af046eb99472538a6",
-      "title_id": "PPSA06433",
-      "title": "Like a Dragon Infinite Wealth",
-      "version": "01.020",
-      "pack": "unknown",
-      "region": "JPN",
-      "firmware": [
-        "7.xx+"
-      ],
-      "firmware_label": "7.xx+",
-      "firmware_raw": [
-        "7.xx"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 61632780698,
-      "size_label": "57.4 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2906/1d2b3a414ac4c6b05bca5083d8296219d6c0febd857a0d2e.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2906/47def08ae64cdb07b3ba7512f690ea5fa24ea47e060b8efe.png",
-      "updated_at": "2026-08-12T15:46:02.551Z",
-      "source_count": 2,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a7c953af046eb99472538a6.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7c953af046eb99472538a6-1fb76632d280.png",
-      "icon_bytes": 44459
-    },
-    {
-      "id": "6a7c943af046eb99472538a5",
-      "title_id": "PPSA02740",
-      "title": "Judgment",
-      "version": "01.001",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "2.xx+"
-      ],
-      "firmware_label": "2.xx+",
-      "firmware_raw": [
-        "2.xx"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 31031138714,
-      "size_label": "28.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202103/2619/dEjaVzI5ur7PZe8n0qeNIzRS.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/qUbwz5SArvwupY94spjUI5pW.png",
-      "updated_at": "2026-08-12T15:41:46.468Z",
-      "source_count": 2,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a7c943af046eb99472538a5.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7c943af046eb99472538a5-400e92625350.png",
-      "icon_bytes": 75248
     }
   ]
 }

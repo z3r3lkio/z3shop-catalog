@@ -4,10 +4,153 @@
   "source": "gfs-pfs-library",
   "page": 6,
   "page_size": 24,
-  "total": 373,
+  "total": 377,
   "pages": 16,
-  "generated": "2026-09-15T16:49:00.615Z",
+  "generated": "2026-09-15T18:27:52.665Z",
   "games": [
+    {
+      "id": "6a5ba198664b52645fefe0be",
+      "title_id": "PPSA21733",
+      "title": "STALKER Clear Sky Enhanced Edition",
+      "version": "01.009",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPork"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 5476083302,
+      "size_label": "5.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2215/94238e9daaf3516b7c947c851da50c68f4c712d3ce2cb5c6.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2215/6bc3fb99ee4b72218f30fa23422e6c0e1196b37f2c0713ba.png",
+      "updated_at": "2026-08-13T07:41:34.340Z",
+      "source_count": 1,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a5ba198664b52645fefe0be.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5ba198664b52645fefe0be-16970a2660c5.png",
+      "icon_bytes": 62829
+    },
+    {
+      "id": "6a7c9772751b3030b9e84bc9",
+      "title_id": "PPSA13197",
+      "title": "Stellar Blade™ Complete Edition",
+      "version": "01.014.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "9.xx+"
+      ],
+      "firmware_label": "9.xx+",
+      "firmware_raw": [
+        "9.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": true,
+      "size_bytes": 44130788966,
+      "size_label": "41.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/b06dff4ff09b4bd891adb354e9ca8562d1af31c6508334ad.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/e06c268b7f64c3f9760aba716211b24b01fb74783b5eda0e.jpg",
+      "updated_at": "2026-08-12T15:55:30.124Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a7c9772751b3030b9e84bc9.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7c9772751b3030b9e84bc9-a982e409275d.png",
+      "icon_bytes": 40165
+    },
+    {
+      "id": "6a7c953af046eb99472538a6",
+      "title_id": "PPSA06433",
+      "title": "Like a Dragon Infinite Wealth",
+      "version": "01.020",
+      "pack": "unknown",
+      "region": "JPN",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_label": "7.xx+",
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 61632780698,
+      "size_label": "57.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2906/1d2b3a414ac4c6b05bca5083d8296219d6c0febd857a0d2e.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2906/47def08ae64cdb07b3ba7512f690ea5fa24ea47e060b8efe.png",
+      "updated_at": "2026-08-12T15:46:02.551Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a7c953af046eb99472538a6.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7c953af046eb99472538a6-1fb76632d280.png",
+      "icon_bytes": 44459
+    },
+    {
+      "id": "6a7c943af046eb99472538a5",
+      "title_id": "PPSA02740",
+      "title": "Judgment",
+      "version": "01.001",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "2.xx+"
+      ],
+      "firmware_label": "2.xx+",
+      "firmware_raw": [
+        "2.xx"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 31031138714,
+      "size_label": "28.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202103/2619/dEjaVzI5ur7PZe8n0qeNIzRS.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/qUbwz5SArvwupY94spjUI5pW.png",
+      "updated_at": "2026-08-12T15:41:46.468Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a7c943af046eb99472538a5.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7c943af046eb99472538a5-400e92625350.png",
+      "icon_bytes": 75248
+    },
     {
       "id": "6a7c939746eb68666c6cca11",
       "title_id": "PPSA17181",
@@ -728,150 +871,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a78176ee7c8326e373b5177-2fedcb1a2ed0.png",
       "icon_bytes": 67175
-    },
-    {
-      "id": "6a7697c5e76beadd88604bfb",
-      "title_id": "PPSA01746",
-      "title": "Kena Bridge of Spirits",
-      "version": "02.008",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx Backport"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 24696061952,
-      "size_label": "23.0 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2307/5DwFII1MYsBn48HjmvUu0TEd.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2619/aEqpsWKWYe1dxn9zKs7HgLai.jpg",
-      "updated_at": "2026-08-08T02:43:17.298Z",
-      "source_count": 3,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Viki",
-        "Archive (Game + DLC)"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a7697c5e76beadd88604bfb.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7697c5e76beadd88604bfb-7e0fd617197f.png",
-      "icon_bytes": 72304
-    },
-    {
-      "id": "6a769752e76beadd88604bfa",
-      "title_id": "PPSA03233",
-      "title": "Stranger of Paradise Final Fantasy Origin Deluxe Edition",
-      "version": "01.302",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx and beyond"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 89120571392,
-      "size_label": "83.0 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202107/2909/pZjB6m1zWloH9cQaO3oF9mxD.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202303/1608/ba2adbd4aa6d61ee3b3fea041af438a86f10f725b16dd7ae.png",
-      "updated_at": "2026-08-08T02:41:22.939Z",
-      "source_count": 2,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a769752e76beadd88604bfa.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a769752e76beadd88604bfa-78397c595957.png",
-      "icon_bytes": 19776
-    },
-    {
-      "id": "6a765334e76beadd88604bf9",
-      "title_id": "PPSA27625",
-      "title": "Fantasy Life i The Girl Who Steals Time",
-      "version": "01.000",
-      "pack": "unknown",
-      "region": "JPN",
-      "firmware": [
-        "10.xx+"
-      ],
-      "firmware_label": "10.xx+",
-      "firmware_raw": [
-        "10.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": false,
-      "size_bytes": 10200547328,
-      "size_label": "9.5 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2305/a17eb98e3417af1ee7d1468cddc79145c9bf1da2b3ad85c3.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1607/b42d0084d64da3404fd3508ebb9489c8df407683335bfb7e.jpg",
-      "updated_at": "2026-08-07T21:50:44.074Z",
-      "source_count": 2,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a765334e76beadd88604bf9.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a765334e76beadd88604bf9-a45eba21c787.png",
-      "icon_bytes": 55612
-    },
-    {
-      "id": "6a4361712c7f0f3bd0848641",
-      "title_id": "PPSA04263",
-      "title": "Grand Theft Auto V",
-      "version": "01.010.002",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx Backport"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": false,
-      "size_bytes": 101898099098,
-      "size_label": "94.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/K6mmm89oNII1iI1aqaClO0wh.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0302/bZ1JTRXzoyl3hkcsloKcCgdB.jpg",
-      "updated_at": "2026-08-07T16:00:37.835Z",
-      "source_count": 2,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a4361712c7f0f3bd0848641.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4361712c7f0f3bd0848641-8d77da140cd2.png",
-      "icon_bytes": 89414
     }
   ]
 }

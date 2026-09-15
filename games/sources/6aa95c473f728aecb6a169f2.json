@@ -1,7 +1,7 @@
 {
   "name": "Z3Shop Game Sources",
   "version": 1,
-  "generated": "2026-09-15T16:49:00.615Z",
+  "generated": "2026-09-15T18:27:52.665Z",
   "source": {
     "id": "gfs-pfs-library",
     "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
@@ -30,14 +30,14 @@
     "store_url": "https://store.playstation.com/en-us/product/UP0082-PPSA10664_00-FF16SIEA00000002",
     "trailer": "https://vulcan.dl.playstation.net/img/rnd/202312/0804/9c5edd1301f69c3366287aba17d5ae9ffcb23c26a53e06c4.mp4",
     "available_at": "",
-    "uploading": true
+    "uploading": false
   },
   "sources": [
     {
       "id": "89b36376-ccde-44ec-8df8-ea3f1ef9ea3e",
       "provider": "Viki",
-      "url": "",
-      "mode": "unresolved",
+      "url": "https://vikingfile.com/f/1ekDmk9qcK",
+      "mode": "provider-page",
       "direct": false,
       "archive": false,
       "extension": "",

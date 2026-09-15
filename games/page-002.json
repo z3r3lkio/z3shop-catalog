@@ -4,10 +4,154 @@
   "source": "gfs-pfs-library",
   "page": 2,
   "page_size": 24,
-  "total": 373,
+  "total": 377,
   "pages": 16,
-  "generated": "2026-09-15T16:49:00.615Z",
+  "generated": "2026-09-15T18:27:52.665Z",
   "games": [
+    {
+      "id": "6aa78dd0792e471937d0b019",
+      "title_id": "PPSA13197",
+      "title": "Stellar Blade™ Complete Edition",
+      "version": "01.014.001",
+      "pack": "lz4",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.4.2.1",
+      "dlcs_merged": true,
+      "size_bytes": 64854006170,
+      "size_label": "60.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/b06dff4ff09b4bd891adb354e9ca8562d1af31c6508334ad.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/e06c268b7f64c3f9760aba716211b24b01fb74783b5eda0e.jpg",
+      "updated_at": "2026-09-14T06:01:52.602Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6aa78dd0792e471937d0b019.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa78dd0792e471937d0b019-a982e409275d.png",
+      "icon_bytes": 40165
+    },
+    {
+      "id": "6aa740ed792e471937d0b018",
+      "title_id": "PPSA29141",
+      "title": "LEGO® Party!",
+      "version": "01.000",
+      "pack": "fpkg",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 6947109601,
+      "size_label": "6.5 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0821/ade7404425c20a8c9dfddb1f6fec66f3fa1596046a450efa.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2217/9fc3bf3631e98ff7b5cc9c443f07d9a6c5ea6014e2dd3dc5.jpg",
+      "updated_at": "2026-09-14T00:33:49.089Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Viki",
+        "Rootz"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6aa740ed792e471937d0b018.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa740ed792e471937d0b018-864c74e06c22.png",
+      "icon_bytes": 99647
+    },
+    {
+      "id": "6aa6bb14792e471937d0b016",
+      "title_id": "PPSA06509",
+      "title": "Zorro The Chronicles",
+      "version": "01.001.000",
+      "pack": "lz4",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.4.2.1",
+      "dlcs_merged": false,
+      "size_bytes": 10737418240,
+      "size_label": "10.0 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202201/3114/KT3ytardSkj94Qf89W2FSu0s.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202201/3114/870X4HWfDGMg1WfH6hTzSQMz.jpg",
+      "updated_at": "2026-09-13T15:02:44.221Z",
+      "source_count": 3,
+      "usable_source_count": 3,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 3,
+      "providers": [
+        "Viki",
+        "Gofile",
+        "1fichier"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6aa6bb14792e471937d0b016.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa6bb14792e471937d0b016-51404f57c248.png",
+      "icon_bytes": 69452
+    },
+    {
+      "id": "6aa6b424792e471937d0b014",
+      "title_id": "PPSA04263",
+      "title": "Grand Theft Auto V",
+      "version": "01.010.002",
+      "pack": "fpkg",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 102982578340,
+      "size_label": "95.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/K6mmm89oNII1iI1aqaClO0wh.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0302/bZ1JTRXzoyl3hkcsloKcCgdB.jpg",
+      "updated_at": "2026-09-13T14:33:08.647Z",
+      "source_count": 1,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6aa6b424792e471937d0b014.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa6b424792e471937d0b014-8d77da140cd2.png",
+      "icon_bytes": 89414
+    },
     {
       "id": "6aa6b019792e471937d0b013",
       "title_id": "PPSA03016",
@@ -727,153 +871,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a967c99b0a31dad5b0fe922-dec64e5ef070.png",
       "icon_bytes": 74501
-    },
-    {
-      "id": "6a967c26b0a31dad5b0fe921",
-      "title_id": "PPSA05975",
-      "title": "BloodRayne 2: Revamped",
-      "version": "01.001.000",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.3.6.6",
-      "dlcs_merged": false,
-      "size_bytes": 8890582303,
-      "size_label": "8.3 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2619/pel1o6DcTzBf7VGyL6IOf43s.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2619/B4LpaegqGhRs9zNOLvN8jX8j.jpg",
-      "updated_at": "2026-09-01T07:17:58.722Z",
-      "source_count": 3,
-      "usable_source_count": 3,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 3,
-      "providers": [
-        "Viki",
-        "Akirabox",
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a967c26b0a31dad5b0fe921.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a967c26b0a31dad5b0fe921-48de9662831e.png",
-      "icon_bytes": 64852
-    },
-    {
-      "id": "6a967aa9b0a31dad5b0fe920",
-      "title_id": "PPSA11142",
-      "title": "Killzone: Liberation",
-      "version": "01.000.004",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "11.xx+"
-      ],
-      "firmware_label": "11.xx+",
-      "firmware_raw": [
-        "11.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 1728724337,
-      "size_label": "1.6 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2417/d0399217d9d02ae08e76585581f6647097d73a29a43e191d.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2417/5d5a2307eb76c536831f49fe7fbafb784c46c6091debadf8.png",
-      "updated_at": "2026-09-01T07:11:37.491Z",
-      "source_count": 3,
-      "usable_source_count": 3,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 3,
-      "providers": [
-        "Akirabox",
-        "Viki",
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a967aa9b0a31dad5b0fe920.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a967aa9b0a31dad5b0fe920-dd6d1b488855.png",
-      "icon_bytes": 79498
-    },
-    {
-      "id": "6a967a07b0a31dad5b0fe91f",
-      "title_id": "PPSA01913",
-      "title": "The Persistence Enhanced",
-      "version": "01.600.000",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 2491081032,
-      "size_label": "2.3 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1111/rNLrlrFAiHyoFwAN8Kpy0ysc.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1111/qM56rS2rdFuGljXTT2UpVkF5.jpg",
-      "updated_at": "2026-09-01T07:08:55.979Z",
-      "source_count": 3,
-      "usable_source_count": 3,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 3,
-      "providers": [
-        "Akirabox",
-        "Viki",
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a967a07b0a31dad5b0fe91f.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a967a07b0a31dad5b0fe91f-e096780676a3.png",
-      "icon_bytes": 69041
-    },
-    {
-      "id": "6a965e11b0a31dad5b0fe91e",
-      "title_id": "PPSA29141",
-      "title": "LEGO® Party!",
-      "version": "01.000",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 6947109601,
-      "size_label": "6.5 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0821/ade7404425c20a8c9dfddb1f6fec66f3fa1596046a450efa.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2217/9fc3bf3631e98ff7b5cc9c443f07d9a6c5ea6014e2dd3dc5.jpg",
-      "updated_at": "2026-09-01T05:09:37.333Z",
-      "source_count": 2,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Akirabox",
-        "Viki"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a965e11b0a31dad5b0fe91e.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a965e11b0a31dad5b0fe91e-864c74e06c22.png",
-      "icon_bytes": 99647
     }
   ]
 }

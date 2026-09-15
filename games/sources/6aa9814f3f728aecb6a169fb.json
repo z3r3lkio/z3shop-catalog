@@ -1,0 +1,67 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T18:27:52.665Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa9814f3f728aecb6a169fb",
+    "title_id": "PPSA26358",
+    "title": "Lost Soul Aside",
+    "version": "01.102",
+    "pack": "fpkg",
+    "region": "USA",
+    "size_bytes": 70534100419
+  },
+  "metadata": {
+    "description": "She’s gone?! How could this happen? We had plans, a future. Everything was going to be better. But… it’s over? No. We have to fight on, the rest of us cannot give up. And now I have an unlikely ally… I’m becoming more powerful. Can I save her? Can I bring back her soul? Embark on an epic odyssey to save your younger sister – and the whole of humanity – from mysterious dimensional invaders from beyond the starlit skies in Lost Soul Aside™. Run the gauntlet of formidable enemies and colossal bosses in this breathtakingly stylish action-adventure RPG; chaining weapon and spectacular attack combos in high-octane, dynamic combat. FIGHT FOR EVERYTHING Simple to grasp, challenging to perfect. You have total freedom to fight your way; switching weapons and mixing attack patterns in adrenaline-pumping battles charged with spectacular visual effects. Character evolution: Earn Experience Points to unlock and choose attributes from the character Skill Tree. Experiment with your picks and try different combinations to build, define and refine your personal playstyle for the challenges that lie ahead. Weapon skills: Unleash attack combos amplified by each weapon’s unique special stats. Vary the range and impact of each attack as you swiftly switch weapons, combining effects for maximum damage. Weapon customization: Enhance and customize your weapons by attaching special weapon fragments to transform their appearance, boost combat or healing capabilities, or upgrade your fighting style. Arena Power: Harness potent skills granted by the dragon-like creature, Arena. Unlock a variety of Arena Power abilities to boost attack damage, enhance healing, and generate protective shields. Burst Pursuit: Intensify and stylize your attacks with precise, high-impact bursts of strength by timing your button presses during weapon combos for devastating results. Fusion Merge/Fusion Blast: Charge the Fusion Gage through attack combos and abilities, summoning Arena’s claws to strike fiercely at enemies. This upgradeable skill unlocks new combat techniques as Kaser advances on his mission. Survival skills: Stay in the fight for longer by boosting your dodge reflexes, and honing the fine art of precision parry timing.",
+    "notes": "",
+    "credits": "Thanks to DUPLEX and SiESPta Team for the game files, DecKerr97 for the backport, Drakmor for the FPKG tool and ismut for the FPKG file",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Role Playing Games",
+      "Action"
+    ],
+    "release_date": "2025-08-29",
+    "store_url": "https://store.playstation.com/en-us/product/HP9000-PPSA26358_00-LOSTSOULASIDE000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202508/2907/13d29215bb8fcaf3cfd36a433072d70468faa52606199929.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "5f04ff8e-28a6-4ae7-8c83-188fd6caf731",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/6VbUakDCRS",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "d9686625-baae-468e-9934-088b65ef6689",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/7m5LPzqNS7",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": true,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

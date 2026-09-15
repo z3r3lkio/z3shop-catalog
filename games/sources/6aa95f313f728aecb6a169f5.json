@@ -1,7 +1,7 @@
 {
   "name": "Z3Shop Game Sources",
   "version": 1,
-  "generated": "2026-09-15T16:49:00.615Z",
+  "generated": "2026-09-15T18:27:52.665Z",
   "source": {
     "id": "gfs-pfs-library",
     "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
@@ -29,13 +29,28 @@
     "store_url": "https://store.playstation.com/en-us/product/UP0102-PPSA30803_00-REREQUIEM0000000",
     "trailer": "https://vulcan.dl.playstation.net/img/rnd/202512/1207/9cc3d41bf5f9ae706bbe58e3431d05bd071e9c3f82afbe90.mp4",
     "available_at": "",
-    "uploading": true
+    "uploading": false
   },
   "sources": [
     {
       "id": "d8ab3d31-531b-492c-8e8f-483b26ea3c9d",
       "provider": "Gofile",
       "url": "https://gofile.io/d/BlPuufU0",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    },
+    {
+      "id": "82debd77-2bf2-45c6-8113-d553fdc04b0f",
+      "provider": "Viki",
+      "url": "https://vikingfile.com/f/Sa3IGyuQLO",
       "mode": "provider-page",
       "direct": false,
       "archive": false,

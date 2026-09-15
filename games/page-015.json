@@ -4,10 +4,154 @@
   "source": "gfs-pfs-library",
   "page": 15,
   "page_size": 24,
-  "total": 373,
+  "total": 377,
   "pages": 16,
-  "generated": "2026-09-15T16:49:00.615Z",
+  "generated": "2026-09-15T18:27:52.665Z",
   "games": [
+    {
+      "id": "6a3ea5d9155384c8115a9afa",
+      "title_id": "PPSA21567",
+      "title": "ASTRO BOT Deluxe Edition",
+      "version": "01.018",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "9.xx-backport"
+      ],
+      "firmware_label": "9.xx-backport",
+      "firmware_raw": [
+        "9.xx +, 4.xx Backport"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.7.6",
+      "dlcs_merged": false,
+      "size_bytes": 47566762803,
+      "size_label": "44.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/0d05cb43413f28a641ac0c40fc272c70bbe194f6ade4b175.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/80ecf657918558eeef8da3ee4cef326e4517d34e6c69d950.jpg",
+      "updated_at": "2026-07-01T01:26:30.391Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Archive (Game + DLC)",
+        "Archive (Game + DLC) - 4.xx Backport"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3ea5d9155384c8115a9afa.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3ea5d9155384c8115a9afa-aa75855cdfcb.png",
+      "icon_bytes": 64212
+    },
+    {
+      "id": "6a3655f056e5f49eefa028d2",
+      "title_id": "PPSA10595",
+      "title": "TEKKEN 8",
+      "version": "2.006.001",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 108941845463,
+      "size_label": "101 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1621/GQslJe7nHdWS0VOadEbt0IPM.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0109/7b69b3eb2c874419e5d68cebc0d719fcf3eda21ae7afee5c.png",
+      "updated_at": "2026-06-29T00:42:26.393Z",
+      "source_count": 3,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox",
+        "Archive (Game + DLC)"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028d2.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028d2-006afd1cdd9d.png",
+      "icon_bytes": 60126
+    },
+    {
+      "id": "6a419b377f698a7315063eec",
+      "title_id": "PPSA03396",
+      "title": "The Last of Us Part I",
+      "version": "02.000",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 84288733184,
+      "size_label": "78.5 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/aZKLRcjaZ8HL03ODxYMZDfaH.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/JKqkaz5Sy6AvH2fZAVdjTxR8.png",
+      "updated_at": "2026-06-28T22:54:31.913Z",
+      "source_count": 1,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a419b377f698a7315063eec.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a419b377f698a7315063eec-79fcdb85115c.png",
+      "icon_bytes": 66102
+    },
+    {
+      "id": "6a412ef7d73bf7de7d8ab9a6",
+      "title_id": "PPSA03541",
+      "title": "UFC 5",
+      "version": "01.031",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "9.xx+"
+      ],
+      "firmware_label": "9.xx+",
+      "firmware_raw": [
+        "9.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.7.6",
+      "dlcs_merged": false,
+      "size_bytes": 53901839565,
+      "size_label": "50.2 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0421/0b3fe53ab2d54998602b41682ef1bd83e63e82d3f9ab8fff.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0421/8e258029459b8e7bb2e2f18cff54e8fcebdcc5a84833a767.png",
+      "updated_at": "2026-06-28T16:57:56.923Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "1fichier",
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a412ef7d73bf7de7d8ab9a6.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a412ef7d73bf7de7d8ab9a6-9fda0d1a1f8c.png",
+      "icon_bytes": 67918
+    },
     {
       "id": "6a3ca2d399d94569f61cdd70",
       "title_id": "PPSA18463",
@@ -724,152 +868,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028ad-1fafd54fe007.png",
       "icon_bytes": 35592
-    },
-    {
-      "id": "6a3655f056e5f49eefa028a8",
-      "title_id": "PPSA01285",
-      "title": "Returnal",
-      "version": "3.005",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 66453881487,
-      "size_label": "61.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0415/FlDoLAOQRrIR6On9aIwBu3it.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0415/ICa83AzAlyjElV2O14PPMYrE.jpg",
-      "updated_at": "2026-06-20T10:10:22.625Z",
-      "source_count": 3,
-      "usable_source_count": 3,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 3,
-      "providers": [
-        "Viki",
-        "1fichier",
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028a8.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028a8-3fc7164b2dd4.png",
-      "icon_bytes": 77132
-    },
-    {
-      "id": "6a3655f056e5f49eefa028bb",
-      "title_id": "PPSA07230",
-      "title": "Assassin's Creed® Mirage",
-      "version": "1.012",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "9.xx+"
-      ],
-      "firmware_label": "9.xx+",
-      "firmware_raw": [
-        "9.xx +"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 70330089472,
-      "size_label": "65.5 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1718/NFf86jgU4AeVYgJBEoEKBpxW.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1718/1YHRDsi3voapHSwJfDMneZXV.jpg",
-      "updated_at": "2026-06-20T08:57:20.000Z",
-      "source_count": 2,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028bb.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028bb-8ffa4e185d8a.png",
-      "icon_bytes": 76697
-    },
-    {
-      "id": "6a3655f056e5f49eefa028b9",
-      "title_id": "PPSA21564",
-      "title": "ASTRO BOT",
-      "version": "1.007",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 48865990410,
-      "size_label": "45.5 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/0d05cb43413f28a641ac0c40fc272c70bbe194f6ade4b175.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/80ecf657918558eeef8da3ee4cef326e4517d34e6c69d950.jpg",
-      "updated_at": "2026-06-20T08:57:20.000Z",
-      "source_count": 4,
-      "usable_source_count": 4,
-      "direct_source_count": 1,
-      "archive_source_count": 0,
-      "provider_page_count": 3,
-      "providers": [
-        "Viki",
-        "Viki (Backport 4.xx)",
-        "FileKeeper (Backport 4.xx)",
-        "1fichier (Backport 4.xx)"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028b9.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028b9-aa75855cdfcb.png",
-      "icon_bytes": 64212
-    },
-    {
-      "id": "6a3655f056e5f49eefa028cb",
-      "title_id": "PPSA13579",
-      "title": "Blasphemous 2",
-      "version": "1.007.000",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 2673617142,
-      "size_label": "2.5 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1714/1cf876354773c8b7b1aa710ebf69f7dd739769839beebf16.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1714/3c5f2ba6b4dd7de7ff8ce7eb77754bc74744fa1550c4b2b0.jpg",
-      "updated_at": "2026-06-20T08:57:20.000Z",
-      "source_count": 1,
-      "usable_source_count": 1,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 1,
-      "providers": [
-        "Viki"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028cb.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028cb-de83fffec617.png",
-      "icon_bytes": 35714
     }
   ]
 }

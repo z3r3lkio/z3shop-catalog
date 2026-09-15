@@ -4,10 +4,154 @@
   "source": "gfs-pfs-library",
   "page": 11,
   "page_size": 24,
-  "total": 373,
+  "total": 377,
   "pages": 16,
-  "generated": "2026-09-15T16:49:00.615Z",
+  "generated": "2026-09-15T18:27:52.665Z",
   "games": [
+    {
+      "id": "6a4ce5c72860efac54e4aaa2",
+      "title_id": "PPSA05684",
+      "title": "Uncharted Legacy of Thieves Collection",
+      "version": "01.002",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "10.xx+"
+      ],
+      "firmware_label": "10.xx+",
+      "firmware_raw": [
+        "10.xx, 4.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 93200790323,
+      "size_label": "86.8 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/wZ31G6ToIH9otXTVHbg3I2Wl.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/aEc6pYZPdLpbUXHR0BGTOAfH.png",
+      "updated_at": "2026-07-21T13:01:35.379Z",
+      "source_count": 3,
+      "usable_source_count": 3,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 3,
+      "providers": [
+        "Archive - 10.xx +",
+        "Viki - 4.xx",
+        "Archive - 4.xx"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a4ce5c72860efac54e4aaa2.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4ce5c72860efac54e4aaa2-a03de56ab213.png",
+      "icon_bytes": 72717
+    },
+    {
+      "id": "6a5f4d7c20ce6441f5b9a12b",
+      "title_id": "PPSA25646",
+      "title": "Tetris Forever",
+      "version": "01.007",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "10.xx+"
+      ],
+      "firmware_label": "10.xx+",
+      "firmware_raw": [
+        "10.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 5443871048,
+      "size_label": "5.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1415/64c83b989f07b3214bfb25eacb13b8afa56d6f45d1a8ed75.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1415/eb23082215d5fc7ac09d3f8c035c97d78211df493eecb101.jpg",
+      "updated_at": "2026-07-21T10:44:12.254Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a5f4d7c20ce6441f5b9a12b.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f4d7c20ce6441f5b9a12b-e4bcb94095eb.png",
+      "icon_bytes": 65815
+    },
+    {
+      "id": "6a5e34844f561247cd886626",
+      "title_id": "PPSA23012",
+      "title": "Call of Duty Modern Warfare 2",
+      "version": "01.001",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "9.xx+"
+      ],
+      "firmware_label": "9.xx+",
+      "firmware_raw": [
+        "9.xx and beyond"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 123480309760,
+      "size_label": "115 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2800/iQGgKYUg9YwjPVNM0kE8jeRN.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2718/95bb62536d827f18d0103a680bd2cd479a8e8e53247d8d81.png",
+      "updated_at": "2026-07-20T14:45:24.366Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Buzzheavier",
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a5e34844f561247cd886626.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5e34844f561247cd886626-e55580a8c7df.png",
+      "icon_bytes": 45245
+    },
+    {
+      "id": "6a3655f056e5f49eefa028c1",
+      "title_id": "PPSA15211",
+      "title": "Dragon Ball Sparking Zero",
+      "version": "2.017",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "9.xx+"
+      ],
+      "firmware_label": "9.xx+",
+      "firmware_raw": [
+        "9.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": true,
+      "size_bytes": 33500744909,
+      "size_label": "31.2 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2216/881aeea06b117a39f1724a4d7ebf66b152a088475e4467e4.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2216/881aeea06b117a39f1724a4d7ebf66b152a088475e4467e4.jpg",
+      "updated_at": "2026-07-20T01:16:49.509Z",
+      "source_count": 1,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028c1.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028c1-7b7ce53e08dd.png",
+      "icon_bytes": 61788
+    },
     {
       "id": "6a5c45f5664b52645fefe0c3",
       "title_id": "PPSA01556",
@@ -715,147 +859,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a59f675664b52645fefe0a6-ce24c266079e.png",
       "icon_bytes": 65205
-    },
-    {
-      "id": "6a59ff59664b52645fefe0aa",
-      "title_id": "PPSA09165",
-      "title": "Rez Infinite",
-      "version": "01.008.000",
-      "pack": "pfs",
-      "region": "ASIA",
-      "firmware": [
-        "5.xx+"
-      ],
-      "firmware_label": "5.xx+",
-      "firmware_raw": [
-        "5.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 730144440,
-      "size_label": "0.7 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2019/UUGRUNpeTSKdk3IJC6ES5E5R.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1507/9c81cb48e634ad6359111f50b462dceb6985df2173e940c0.png",
-      "updated_at": "2026-07-17T10:09:29.897Z",
-      "source_count": 1,
-      "usable_source_count": 1,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a59ff59664b52645fefe0aa.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a59ff59664b52645fefe0aa-da011dfd59f5.png",
-      "icon_bytes": 63792
-    },
-    {
-      "id": "6a424c2da3a3301e1ecd7b75",
-      "title_id": "PPSA24096",
-      "title": "Cronos The New Dawn",
-      "version": "01.010",
-      "pack": "pfs",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 21904333210,
-      "size_label": "20.4 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1511/b60b574c32546f9b5d263b1b38a541abe35e250797f18bde.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1513/6fd0970db121f173f887058a1c1d35f6bbd64f5540c1a10a.jpg",
-      "updated_at": "2026-07-17T06:39:52.443Z",
-      "source_count": 1,
-      "usable_source_count": 1,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a424c2da3a3301e1ecd7b75.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a424c2da3a3301e1ecd7b75-91352fd6088f.png",
-      "icon_bytes": 55813
-    },
-    {
-      "id": "6a59c07f664b52645fefe0a4",
-      "title_id": "PPSA01628",
-      "title": "Call of Duty Black Ops Cold War",
-      "version": "01.040",
-      "pack": "pfs",
-      "region": "USA",
-      "firmware": [
-        "2.xx+"
-      ],
-      "firmware_label": "2.xx+",
-      "firmware_raw": [
-        "2.xx"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 296578229207,
-      "size_label": "276 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/0618/epqD0ZAsuCMkSYVBRMUp5bYk.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1101/kG7wVsECFlr1lWXHbO7LZ0Nt.png",
-      "updated_at": "2026-07-17T05:41:19.930Z",
-      "source_count": 2,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a59c07f664b52645fefe0a4.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a59c07f664b52645fefe0a4-f498a808f598.png",
-      "icon_bytes": 77421
-    },
-    {
-      "id": "6a412ed6d73bf7de7d8ab9a5",
-      "title_id": "PPSA24478",
-      "title": "Like A Dragon: Pirate Yakuza in Hawaii",
-      "version": "01.014",
-      "pack": "pfs",
-      "region": "JPN",
-      "firmware": [
-        "10.xx+"
-      ],
-      "firmware_label": "10.xx+",
-      "firmware_raw": [
-        "10.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.7.6",
-      "dlcs_merged": true,
-      "size_bytes": 47459388621,
-      "size_label": "44.2 GiB",
-      "poster_url": "https://myhotposters.com/cdn/shop/files/mL7636_grande.jpg?v=1748530801",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1401/6191979186d9d577d49feaf368f836317a5b486a079778bb.jpg",
-      "updated_at": "2026-07-17T04:27:13.627Z",
-      "source_count": 1,
-      "usable_source_count": 1,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a412ed6d73bf7de7d8ab9a5.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a412ed6d73bf7de7d8ab9a5-f510109b63e3.png",
-      "icon_bytes": 62829
     }
   ]
 }

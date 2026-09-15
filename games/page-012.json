@@ -4,10 +4,151 @@
   "source": "gfs-pfs-library",
   "page": 12,
   "page_size": 24,
-  "total": 373,
+  "total": 377,
   "pages": 16,
-  "generated": "2026-09-15T16:49:00.615Z",
+  "generated": "2026-09-15T18:27:52.665Z",
   "games": [
+    {
+      "id": "6a59ff59664b52645fefe0aa",
+      "title_id": "PPSA09165",
+      "title": "Rez Infinite",
+      "version": "01.008.000",
+      "pack": "pfs",
+      "region": "ASIA",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_label": "5.xx+",
+      "firmware_raw": [
+        "5.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 730144440,
+      "size_label": "0.7 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2019/UUGRUNpeTSKdk3IJC6ES5E5R.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1507/9c81cb48e634ad6359111f50b462dceb6985df2173e940c0.png",
+      "updated_at": "2026-07-17T10:09:29.897Z",
+      "source_count": 1,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a59ff59664b52645fefe0aa.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a59ff59664b52645fefe0aa-da011dfd59f5.png",
+      "icon_bytes": 63792
+    },
+    {
+      "id": "6a424c2da3a3301e1ecd7b75",
+      "title_id": "PPSA24096",
+      "title": "Cronos The New Dawn",
+      "version": "01.010",
+      "pack": "pfs",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 21904333210,
+      "size_label": "20.4 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1511/b60b574c32546f9b5d263b1b38a541abe35e250797f18bde.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1513/6fd0970db121f173f887058a1c1d35f6bbd64f5540c1a10a.jpg",
+      "updated_at": "2026-07-17T06:39:52.443Z",
+      "source_count": 1,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a424c2da3a3301e1ecd7b75.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a424c2da3a3301e1ecd7b75-91352fd6088f.png",
+      "icon_bytes": 55813
+    },
+    {
+      "id": "6a59c07f664b52645fefe0a4",
+      "title_id": "PPSA01628",
+      "title": "Call of Duty Black Ops Cold War",
+      "version": "01.040",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "2.xx+"
+      ],
+      "firmware_label": "2.xx+",
+      "firmware_raw": [
+        "2.xx"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 296578229207,
+      "size_label": "276 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/0618/epqD0ZAsuCMkSYVBRMUp5bYk.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1101/kG7wVsECFlr1lWXHbO7LZ0Nt.png",
+      "updated_at": "2026-07-17T05:41:19.930Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a59c07f664b52645fefe0a4.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a59c07f664b52645fefe0a4-f498a808f598.png",
+      "icon_bytes": 77421
+    },
+    {
+      "id": "6a412ed6d73bf7de7d8ab9a5",
+      "title_id": "PPSA24478",
+      "title": "Like A Dragon: Pirate Yakuza in Hawaii",
+      "version": "01.014",
+      "pack": "pfs",
+      "region": "JPN",
+      "firmware": [
+        "10.xx+"
+      ],
+      "firmware_label": "10.xx+",
+      "firmware_raw": [
+        "10.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.7.6",
+      "dlcs_merged": true,
+      "size_bytes": 47459388621,
+      "size_label": "44.2 GiB",
+      "poster_url": "https://myhotposters.com/cdn/shop/files/mL7636_grande.jpg?v=1748530801",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1401/6191979186d9d577d49feaf368f836317a5b486a079778bb.jpg",
+      "updated_at": "2026-07-17T04:27:13.627Z",
+      "source_count": 1,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
+      "providers": [
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a412ed6d73bf7de7d8ab9a5.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a412ed6d73bf7de7d8ab9a5-f510109b63e3.png",
+      "icon_bytes": 62829
+    },
     {
       "id": "6a59a35f664b52645fefe0a3",
       "title_id": "PPSA24191",
@@ -719,150 +860,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a57ac54664b52645fefe089-f5b7e6212e96.png",
       "icon_bytes": 65713
-    },
-    {
-      "id": "6a57ab95664b52645fefe088",
-      "title_id": "PPSA15209",
-      "title": "SPY X ANYA Operation Memories Deluxe Edition",
-      "version": "01.001",
-      "pack": "unknown",
-      "region": "ASIA to JPN Langs",
-      "firmware": [
-        "6.xx+"
-      ],
-      "firmware_label": "6.xx+",
-      "firmware_raw": [
-        "6.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": true,
-      "size_bytes": 9878424781,
-      "size_label": "9.2 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1918/55ed0d762dbe49d8e2841cdc2b269cd653c954580e89b4b2.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1918/ab4b88255f5fa24988caf304adfc83fc97509c81dc6ac3a6.png",
-      "updated_at": "2026-07-15T15:47:33.271Z",
-      "source_count": 2,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Archive",
-        "1fichier"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a57ab95664b52645fefe088.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a57ab95664b52645fefe088-1547d97fbf34.png",
-      "icon_bytes": 80783
-    },
-    {
-      "id": "6a564e29664b52645fefe086",
-      "title_id": "PPSA17597",
-      "title": "Sonic X Shadow Generations Deluxe Edition",
-      "version": "01.012",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "9.xx+"
-      ],
-      "firmware_label": "9.xx+",
-      "firmware_raw": [
-        "9.xx and beyond"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": true,
-      "size_bytes": 31353261261,
-      "size_label": "29.2 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2708/3956cc20615cb1718ca01f70698107468003cc4193a56bb6.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2106/ba75eba8a60d3ad60c53ed3cb2e54e0b44f21cc0854c12f7.png",
-      "updated_at": "2026-07-14T14:56:41.057Z",
-      "source_count": 1,
-      "usable_source_count": 1,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a564e29664b52645fefe086.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a564e29664b52645fefe086-0a67fdbbd92c.png",
-      "icon_bytes": 60582
-    },
-    {
-      "id": "6a3655f056e5f49eefa028c0",
-      "title_id": "PPSA07631",
-      "title": "SAROS",
-      "version": "1.000.000",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "5.xx-backport"
-      ],
-      "firmware_label": "5.xx-backport",
-      "firmware_raw": [
-        "5.xx +, 4.xx BackPort"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 88293790188,
-      "size_label": "82.2 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2318/89c3538003fb34870e745493412408eeeed5f02b32c55d23.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2318/ca19e7b6909c03a0d64a84981109c0cdaa98e7fdb8820e36.png",
-      "updated_at": "2026-07-14T13:52:20.820Z",
-      "source_count": 3,
-      "usable_source_count": 3,
-      "direct_source_count": 1,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "1fichier - 5.xx",
-        "FileKeeper - 5.xx",
-        "Archive - 4.xx BackPort"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028c0.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028c0-93c6a6157380.png",
-      "icon_bytes": 58722
-    },
-    {
-      "id": "6a562818664b52645fefe085",
-      "title_id": "PPSA21704",
-      "title": "Kingdom Come Deliverance 2 Royal Edition",
-      "version": "01.052",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "9.xx+"
-      ],
-      "firmware_label": "9.xx+",
-      "firmware_raw": [
-        "9.xx"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 150323855360,
-      "size_label": "140 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1208/64318c72f8ee8197b057e027c8bb8edbe459ed05126851e1.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1209/1ccd8c6eb043c9c80a49c871ca64891055651141b55324c2.jpg",
-      "updated_at": "2026-07-14T12:14:16.855Z",
-      "source_count": 2,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Archive",
-        "1fichier"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a562818664b52645fefe085.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a562818664b52645fefe085-b466eba8268c.png",
-      "icon_bytes": 72538
     }
   ]
 }

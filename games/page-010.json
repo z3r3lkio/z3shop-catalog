@@ -4,10 +4,154 @@
   "source": "gfs-pfs-library",
   "page": 10,
   "page_size": 24,
-  "total": 373,
+  "total": 377,
   "pages": 16,
-  "generated": "2026-09-15T16:49:00.615Z",
+  "generated": "2026-09-15T18:27:52.665Z",
   "games": [
+    {
+      "id": "6a622d173d4889f7e22e8b51",
+      "title_id": "PPSA17245",
+      "title": "Teenage Mutant Ninja Turtles Mutants Unleashed",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPork"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 11059540787,
+      "size_label": "10.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2409/5bb43f8a40e54ff13a153c3e7a7f292f3f21db749e78dead.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2409/6f87a04048199ee676da0fd5b3d079b3c0bac313e148ce6b.jpg",
+      "updated_at": "2026-07-23T15:02:47.922Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a622d173d4889f7e22e8b51.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a622d173d4889f7e22e8b51-736dae833453.png",
+      "icon_bytes": 68180
+    },
+    {
+      "id": "6a622cea3d4889f7e22e8b50",
+      "title_id": "PPSA08772",
+      "title": "Wo Long Fallen Dynasty",
+      "version": "01.027",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx BackPort"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 56049323213,
+      "size_label": "52.2 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2609/qRntDn4UD9dyoGcfVJdQfIWQ.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1802/83cf96cfa9ddaddcb85b01f14f305a456a1b892104652795.png",
+      "updated_at": "2026-07-23T15:02:02.520Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a622cea3d4889f7e22e8b50.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a622cea3d4889f7e22e8b50-2997daefdeaf.png",
+      "icon_bytes": 71803
+    },
+    {
+      "id": "6a622cb43d4889f7e22e8b4f",
+      "title_id": "PPSA02494",
+      "title": "Doraemon Story OF Seasons Friends of The Great Kingdom",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "JPN to EUR Languages",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_label": "5.xx+",
+      "firmware_raw": [
+        "5.xx and beyond"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 1932735283,
+      "size_label": "1.8 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1821/0UpRkSbpjhCPfkKtjjSYJ5To.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1821/UaUjOskQKxX02QSjF3hs5grc.jpg",
+      "updated_at": "2026-07-23T15:01:08.340Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a622cb43d4889f7e22e8b4f.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a622cb43d4889f7e22e8b4f-5169d1293a66.png",
+      "icon_bytes": 85151
+    },
+    {
+      "id": "6a622c843d4889f7e22e8b4e",
+      "title_id": "PPSA02385",
+      "title": "Farming Simulator 22",
+      "version": "01.070",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx and beyond"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 12992276070,
+      "size_label": "12.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/img/rnd/202107/0508/dj0kCuLqtWdjGAKS9hoxdVKy.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202107/0508/ZFCbwcMpxmEP2WeIKaRWzNdt.png",
+      "updated_at": "2026-07-23T15:00:20.260Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a622c843d4889f7e22e8b4e.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a622c843d4889f7e22e8b4e-7574025afcaa.png",
+      "icon_bytes": 80827
+    },
     {
       "id": "6a36a3a813495ef5ae6db543",
       "title_id": "PPSA07257",
@@ -732,150 +876,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028b3-3f3da916df0b.png",
       "icon_bytes": 66982
-    },
-    {
-      "id": "6a4ce5c72860efac54e4aaa2",
-      "title_id": "PPSA05684",
-      "title": "Uncharted Legacy of Thieves Collection",
-      "version": "01.002",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "10.xx+"
-      ],
-      "firmware_label": "10.xx+",
-      "firmware_raw": [
-        "10.xx, 4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 93200790323,
-      "size_label": "86.8 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/wZ31G6ToIH9otXTVHbg3I2Wl.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/aEc6pYZPdLpbUXHR0BGTOAfH.png",
-      "updated_at": "2026-07-21T13:01:35.379Z",
-      "source_count": 3,
-      "usable_source_count": 3,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 3,
-      "providers": [
-        "Archive - 10.xx +",
-        "Viki - 4.xx",
-        "Archive - 4.xx"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a4ce5c72860efac54e4aaa2.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4ce5c72860efac54e4aaa2-a03de56ab213.png",
-      "icon_bytes": 72717
-    },
-    {
-      "id": "6a5f4d7c20ce6441f5b9a12b",
-      "title_id": "PPSA25646",
-      "title": "Tetris Forever",
-      "version": "01.007",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "10.xx+"
-      ],
-      "firmware_label": "10.xx+",
-      "firmware_raw": [
-        "10.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 5443871048,
-      "size_label": "5.1 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1415/64c83b989f07b3214bfb25eacb13b8afa56d6f45d1a8ed75.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1415/eb23082215d5fc7ac09d3f8c035c97d78211df493eecb101.jpg",
-      "updated_at": "2026-07-21T10:44:12.254Z",
-      "source_count": 2,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a5f4d7c20ce6441f5b9a12b.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f4d7c20ce6441f5b9a12b-e4bcb94095eb.png",
-      "icon_bytes": 65815
-    },
-    {
-      "id": "6a5e34844f561247cd886626",
-      "title_id": "PPSA23012",
-      "title": "Call of Duty Modern Warfare 2",
-      "version": "01.001",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "9.xx+"
-      ],
-      "firmware_label": "9.xx+",
-      "firmware_raw": [
-        "9.xx and beyond"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 123480309760,
-      "size_label": "115 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2800/iQGgKYUg9YwjPVNM0kE8jeRN.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2718/95bb62536d827f18d0103a680bd2cd479a8e8e53247d8d81.png",
-      "updated_at": "2026-07-20T14:45:24.366Z",
-      "source_count": 2,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Buzzheavier",
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a5e34844f561247cd886626.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5e34844f561247cd886626-e55580a8c7df.png",
-      "icon_bytes": 45245
-    },
-    {
-      "id": "6a3655f056e5f49eefa028c1",
-      "title_id": "PPSA15211",
-      "title": "Dragon Ball Sparking Zero",
-      "version": "2.017",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "9.xx+"
-      ],
-      "firmware_label": "9.xx+",
-      "firmware_raw": [
-        "9.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": true,
-      "size_bytes": 33500744909,
-      "size_label": "31.2 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2216/881aeea06b117a39f1724a4d7ebf66b152a088475e4467e4.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2216/881aeea06b117a39f1724a4d7ebf66b152a088475e4467e4.jpg",
-      "updated_at": "2026-07-20T01:16:49.509Z",
-      "source_count": 1,
-      "usable_source_count": 1,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028c1.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028c1-7b7ce53e08dd.png",
-      "icon_bytes": 61788
     }
   ]
 }

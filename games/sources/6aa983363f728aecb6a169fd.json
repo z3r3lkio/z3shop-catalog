@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-15T18:27:52.665Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa983363f728aecb6a169fd",
+    "title_id": "PPSA21159",
+    "title": "Silent Hill f",
+    "version": "01.001",
+    "pack": "fpkg",
+    "region": "JPN",
+    "size_bytes": 38407745044
+  },
+  "metadata": {
+    "description": "In 1960s Japan, Shimizu Hinako's secluded town of Ebisugaoka is consumed by a sudden fog, transforming her home into a haunting nightmare. As the town falls silent and the fog thickens, Hinako must navigate the twisted paths of Ebisugaoka, solving complex puzzles and confronting grotesque monsters to survive. Immerse yourself into Hinako's world imagined by renowned author Ryukishi07, with entrancing music, including pieces by Akira Yamaoka, and beautiful visuals in a gripping tale of doubt, regret, and inescapable choices. Will Hinako embrace the beauty hidden within terror, or succumb to the madness that lies ahead? Discover a new chapter in the SILENT HILL series, blending psychological horror with a haunting Japanese setting.",
+    "notes": "",
+    "credits": "Thanks @DUPLEX & VanBuuren for the Files and BestPig for the Backport, Drakmor for the FPKG tool and JMC for the FPKG file",
+    "publisher": "KONAMI",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Horror"
+    ],
+    "release_date": "2025-09-25",
+    "store_url": "",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202509/2215/6bc665c333c87dc033930069df4ebb656c0b63885ad29dbf.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "190f802a-938d-4c9c-9190-7539cd41e027",
+      "provider": "Viki",
+      "url": "https://vik1ngfile.site/f/dfj7hZqryF",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

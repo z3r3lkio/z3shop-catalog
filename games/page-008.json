@@ -4,10 +4,154 @@
   "source": "gfs-pfs-library",
   "page": 8,
   "page_size": 24,
-  "total": 373,
+  "total": 377,
   "pages": 16,
-  "generated": "2026-09-15T16:49:00.615Z",
+  "generated": "2026-09-15T18:27:52.665Z",
   "games": [
+    {
+      "id": "6a719519a80b138b911d68ed",
+      "title_id": "PPSA10595",
+      "title": "Tekken 8",
+      "version": "03.000.001",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_label": "7.xx+",
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 112742891520,
+      "size_label": "105 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0312/7d3a133bb2f995b7edf9fc74961637017cf02a688228c154.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0312/c7c8d6fcc443743f7e9a704319fc2e2c7883b95673ca4a5e.jpg",
+      "updated_at": "2026-08-04T07:59:35.197Z",
+      "source_count": 3,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Viki",
+        "Archive (Game + DLC)"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a719519a80b138b911d68ed.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a719519a80b138b911d68ed-e5b61bb5fc0e.png",
+      "icon_bytes": 59677
+    },
+    {
+      "id": "6a4e1cb7610db3f092622ff5",
+      "title_id": "PPSA21915",
+      "title": "Undisputed",
+      "version": "01.000",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "4.xx-backport"
+      ],
+      "firmware_label": "4.xx-backport",
+      "firmware_raw": [
+        "4.xx Backport"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 15676630630,
+      "size_label": "14.6 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2409/b9934de21d70f1b4f3b56dff838901eb46c32941a36ec4e6.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2715/4d10272187b5e905494bd02d95a3fa97bfca5921a6fe7e02.jpg",
+      "updated_at": "2026-08-04T07:59:30.040Z",
+      "source_count": 3,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Archive (Game + DLC)",
+        "Viki"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a4e1cb7610db3f092622ff5.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4e1cb7610db3f092622ff5-db9181d13891.png",
+      "icon_bytes": 47619
+    },
+    {
+      "id": "6a7194a4a80b138b911d68ec",
+      "title_id": "PPSA14632",
+      "title": "LEGO Horizon Adventures",
+      "version": "01.004",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "7.xx+"
+      ],
+      "firmware_label": "7.xx+",
+      "firmware_raw": [
+        "7.xx"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 15354508083,
+      "size_label": "14.3 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2013/19301ff6f9bf6236c2bc6bbadbb3867fa4b0134bbd31329c.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2013/19301ff6f9bf6236c2bc6bbadbb3867fa4b0134bbd31329c.jpg",
+      "updated_at": "2026-08-04T07:58:26.258Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a7194a4a80b138b911d68ec.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a7194a4a80b138b911d68ec-798627348514.png",
+      "icon_bytes": 68107
+    },
+    {
+      "id": "6a719460a80b138b911d68eb",
+      "title_id": "PPSA04987",
+      "title": "Powerwash Simulator",
+      "version": "01.018",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "6.xx+"
+      ],
+      "firmware_label": "6.xx+",
+      "firmware_raw": [
+        "6.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 14173392077,
+      "size_label": "13.2 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1117/SMOpSU39YJQ99GX2hg8u4ZW2.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0817/mpg63ASn1HZMe7igI065R7gq.jpg",
+      "updated_at": "2026-08-04T07:58:19.543Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a719460a80b138b911d68eb.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a719460a80b138b911d68eb-9b08ff89887a.png",
+      "icon_bytes": 76073
+    },
     {
       "id": "6a719410a80b138b911d68ea",
       "title_id": "PPSA06693",
@@ -729,149 +873,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028b6-357d1cf7b7fa.png",
       "icon_bytes": 54128
-    },
-    {
-      "id": "6a511f34664b52645fefe073",
-      "title_id": "PPSA10696",
-      "title": "Atomic Heart",
-      "version": "01.015.100",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx-backport"
-      ],
-      "firmware_label": "4.xx-backport",
-      "firmware_raw": [
-        "4.xx BackPort"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": false,
-      "size_bytes": 69685844378,
-      "size_label": "64.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2815/wQEe1u0VwuBPArynFWFpEHqZ.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2815/ghdxLSLpUl24o2Q1eq3yTaji.jpg",
-      "updated_at": "2026-07-29T15:24:22.751Z",
-      "source_count": 3,
-      "usable_source_count": 3,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 3,
-      "providers": [
-        "Archive",
-        "Viki",
-        "Filekeeper"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a511f34664b52645fefe073.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a511f34664b52645fefe073-ca38ab37ac08.png",
-      "icon_bytes": 74242
-    },
-    {
-      "id": "6a40dfa9a714e5ef72994a5d",
-      "title_id": "PPSA03131",
-      "title": "Sniper Ghost Warrior Contracts 2",
-      "version": "01.001",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx and beyond"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 14925011354,
-      "size_label": "13.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202105/0415/Shg6j0vaSbRMS2UqfyzlWXmF.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202105/0415/1B2rCHYyyw2oKFKolfqouf5u.jpg",
-      "updated_at": "2026-07-29T15:14:45.025Z",
-      "source_count": 1,
-      "usable_source_count": 1,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a40dfa9a714e5ef72994a5d.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a40dfa9a714e5ef72994a5d-c5aa37c48b4c.png",
-      "icon_bytes": 69003
-    },
-    {
-      "id": "6a69d5263d4889f7e22e8b74",
-      "title_id": "PPSA25319",
-      "title": "MotoGP 25",
-      "version": "01.013",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "10.xx+"
-      ],
-      "firmware_label": "10.xx+",
-      "firmware_raw": [
-        "10.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 21689584845,
-      "size_label": "20.2 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1416/fda6cce8681141fcb9230e27ce1c50816073ff342434805b.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1416/fda6cce8681141fcb9230e27ce1c50816073ff342434805b.jpg",
-      "updated_at": "2026-07-29T10:25:42.964Z",
-      "source_count": 2,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a69d5263d4889f7e22e8b74.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a69d5263d4889f7e22e8b74-de858cc4e3db.png",
-      "icon_bytes": 42690
-    },
-    {
-      "id": "6a4a79912860efac54e4aa82",
-      "title_id": "PPSA01949",
-      "title": "Control Ultimate Edition",
-      "version": "01.004",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 29420525978,
-      "size_label": "27.4 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0215/09dacbee60ad49d3c1b0857f6e682e9465aa530958fde2a6.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0215/09dacbee60ad49d3c1b0857f6e682e9465aa530958fde2a6.jpg",
-      "updated_at": "2026-07-29T06:19:35.170Z",
-      "source_count": 1,
-      "usable_source_count": 1,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a4a79912860efac54e4aa82.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a4a79912860efac54e4aa82-50cb79b026b7.png",
-      "icon_bytes": 43075
     }
   ]
 }
