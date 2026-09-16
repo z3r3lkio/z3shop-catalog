@@ -4,10 +4,80 @@
   "source": "gfs-pfs-library",
   "page": 1,
   "page_size": 24,
-  "total": 377,
+  "total": 378,
   "pages": 16,
-  "generated": "2026-09-15T18:27:52.665Z",
+  "generated": "2026-09-16T00:32:54.074Z",
   "games": [
+    {
+      "id": "6aa98d5c3f728aecb6a169ff",
+      "title_id": "PPSA09706",
+      "title": "Persona 5 Tactica",
+      "version": "01.001.000",
+      "pack": "fpkg",
+      "region": "JPN",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 26521423053,
+      "size_label": "24.7 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2807/f02fd98c805c78ff1c56aec62054d04fbecf1fc5ba9eeee5.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0516/996f36ddaec3215095425ca966f46a1990540f36f61069c8.png",
+      "updated_at": "2026-09-15T19:08:50.906Z",
+      "source_count": 1,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
+      "providers": [
+        "Gofile"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6aa98d5c3f728aecb6a169ff.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa98d5c3f728aecb6a169ff-ee4b5308c0e1.png",
+      "icon_bytes": 80670
+    },
+    {
+      "id": "6aa997163f728aecb6a16a00",
+      "title_id": "PPSA03530",
+      "title": "Grand Theft Auto Vice City The Definitive Edition",
+      "version": "01.007",
+      "pack": "fpkg",
+      "region": "USA",
+      "firmware": [
+        "3.xx+"
+      ],
+      "firmware_label": "3.xx+",
+      "firmware_raw": [
+        "3.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 11574936863,
+      "size_label": "10.8 GiB",
+      "poster_url": "https://cdn1.epicgames.com/offer/fd6a13a256014a22a83ff2aaacc30e00/EGS_GrandTheftAutoViceCityTheDefinitiveEdition_RockstarGames_S2_1200x1600-18ac3dd32143492b2650144da0cf0ca9",
+      "banner_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeQUqVBgUNG4lcZ3pXyMGIZiwDDEz04My-U4x03dfl44fwmmlq86DkZTkX&s=10",
+      "updated_at": "2026-09-15T19:05:58.236Z",
+      "source_count": 1,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6aa997163f728aecb6a16a00.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa997163f728aecb6a16a00-8e0d21d4fc5b.png",
+      "icon_bytes": 58745
+    },
     {
       "id": "6aa983363f728aecb6a169fd",
       "title_id": "PPSA21159",
@@ -781,77 +851,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa7b26b792e471937d0b01c-7e0fd617197f.png",
       "icon_bytes": 72304
-    },
-    {
-      "id": "6aa7add5792e471937d0b01b",
-      "title_id": "PPSA01411",
-      "title": "Marvel's Spider-Man Miles Morales",
-      "version": "01.015.001",
-      "pack": "fpkg",
-      "region": "EUR",
-      "firmware": [
-        "5.xx+"
-      ],
-      "firmware_label": "5.xx+",
-      "firmware_raw": [
-        "5.xx+"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 56371445760,
-      "size_label": "52.5 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1420/HcLcfeQBXd2RiQaCeWQDCIFN.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2417/tnCutdREPv6Pa7atqb8MTxGW.png",
-      "updated_at": "2026-09-14T08:18:29.454Z",
-      "source_count": 2,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6aa7add5792e471937d0b01b.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa7add5792e471937d0b01b-1fafd54fe007.png",
-      "icon_bytes": 35592
-    },
-    {
-      "id": "6aa7963e792e471937d0b01a",
-      "title_id": "PPSA19446",
-      "title": "Boti Byteland: Overclocked",
-      "version": "01.004",
-      "pack": "pfs",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx+"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 3113851290,
-      "size_label": "2.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0411/cd9b3667cf2a27dac2727218d6eac0209716a081cd241684.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2511/9839e6ff0f58194f28d5b3594953e539f01e6cb60b97ec19.jpg",
-      "updated_at": "2026-09-14T06:37:50.933Z",
-      "source_count": 1,
-      "usable_source_count": 1,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 1,
-      "providers": [
-        "Viki"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6aa7963e792e471937d0b01a.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa7963e792e471937d0b01a-dd1f9857673a.png",
-      "icon_bytes": 70506
     }
   ]
 }

@@ -6,28 +6,28 @@
     "api": "https://pfs-library.xetdy-am.workers.dev/api/packages",
     "mode": "full-source-manifests"
   },
-  "generated": "2026-09-15T18:27:52.665Z",
-  "total": 377,
+  "generated": "2026-09-16T00:32:54.074Z",
+  "total": 378,
   "page_size": 24,
   "pages": 16,
   "duplicates_dropped": 0,
-  "search_bytes": 44452,
-  "source_links": 901,
-  "decoded_source_links": 901,
+  "search_bytes": 44585,
+  "source_links": 902,
+  "decoded_source_links": 902,
   "unresolved_source_links": 0,
   "direct_source_links": 8,
   "archive_source_links": 13,
-  "provider_page_links": 880,
+  "provider_page_links": 881,
   "pack_counts": {
     "unknown": 299,
     "pfs": 48,
-    "fpkg": 20,
-    "lz4": 10
+    "fpkg": 22,
+    "lz4": 9
   },
   "region_counts": {
-    "USA": 179,
-    "EUR": 157,
-    "JPN": 23,
+    "USA": 180,
+    "EUR": 156,
+    "JPN": 24,
     "ASIA": 5,
     "USA to EUR Languages": 4,
     "USA to EUR Langs": 3,
@@ -36,7 +36,7 @@
     "ASIA to EUR Languages": 1,
     "ASIA to JPN Langs": 1
   },
-  "apr_enabled": 144,
+  "apr_enabled": 143,
   "dlcs_merged": 75,
   "search_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/search.json",
   "sources_base_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources",
@@ -118,7 +118,7 @@
     },
     {
       "page": 16,
-      "count": 17,
+      "count": 18,
       "url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/page-016.json"
     }
   ],
@@ -126,9 +126,9 @@
     "mode": "optimized-local-thumbnails",
     "directory": "game-art",
     "target_px": 256,
-    "ready": 377,
+    "ready": 378,
     "unresolved": 0,
-    "bytes": 25740390
+    "bytes": 25811855
   },
   "note": "Game pages contain compact metadata plus a per-game sources_url. Source manifests preserve and decode the upstream provider links instead of discarding them."
 }

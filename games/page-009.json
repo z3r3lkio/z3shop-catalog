@@ -4,10 +4,49 @@
   "source": "gfs-pfs-library",
   "page": 9,
   "page_size": 24,
-  "total": 377,
+  "total": 378,
   "pages": 16,
-  "generated": "2026-09-15T18:27:52.665Z",
+  "generated": "2026-09-16T00:32:54.074Z",
   "games": [
+    {
+      "id": "6a3655f056e5f49eefa028b6",
+      "title_id": "PPSA26344",
+      "title": "Ghost of Yotei: Deluxe Edition",
+      "version": "1.008.000",
+      "pack": "pfs",
+      "region": "USA",
+      "firmware": [
+        "4.xx+",
+        "11.xx+"
+      ],
+      "firmware_label": "4.xx+, 11.xx+",
+      "firmware_raw": [
+        "4.xx+",
+        "11.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 102961103503,
+      "size_label": "95.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/49934c62a922417e86bd3fc61a59b116cf7ae51e91d9a9de.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/49934c62a922417e86bd3fc61a59b116cf7ae51e91d9a9de.jpg",
+      "updated_at": "2026-07-30T05:44:03.383Z",
+      "source_count": 4,
+      "usable_source_count": 3,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 3,
+      "providers": [
+        "Viki",
+        "Akira",
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028b6.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028b6-357d1cf7b7fa.png",
+      "icon_bytes": 54128
+    },
     {
       "id": "6a511f34664b52645fefe073",
       "title_id": "PPSA10696",
@@ -832,42 +871,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028a4-32f6dd3da730.png",
       "icon_bytes": 84219
-    },
-    {
-      "id": "6a622d4f3d4889f7e22e8b52",
-      "title_id": "PPSA22999",
-      "title": "Love is all around",
-      "version": "01.000.002",
-      "pack": "unknown",
-      "region": "ASIA",
-      "firmware": [
-        "7.xx-backport"
-      ],
-      "firmware_label": "7.xx-backport",
-      "firmware_raw": [
-        "7.xx BackPort"
-      ],
-      "apr": true,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 19971597926,
-      "size_label": "18.6 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1012/61e94ce1eca97d5c684887bff9eb34ca25c2900fd9ff5c06.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1104/d934be605c0042ddbc8a8f5e199c62a17c398dec563090d8.jpg",
-      "updated_at": "2026-07-23T15:03:43.427Z",
-      "source_count": 2,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Viki",
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a622d4f3d4889f7e22e8b52.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a622d4f3d4889f7e22e8b52-3318ca701e99.png",
-      "icon_bytes": 64979
     }
   ]
 }

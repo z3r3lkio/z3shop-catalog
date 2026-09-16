@@ -1,0 +1,51 @@
+{
+  "name": "Z3Shop Game Sources",
+  "version": 1,
+  "generated": "2026-09-16T00:32:54.074Z",
+  "source": {
+    "id": "gfs-pfs-library",
+    "api": "https://pfs-library.xetdy-am.workers.dev/api/packages"
+  },
+  "game": {
+    "id": "6aa98d5c3f728aecb6a169ff",
+    "title_id": "PPSA09706",
+    "title": "Persona 5 Tactica",
+    "version": "01.001.000",
+    "pack": "fpkg",
+    "region": "JPN",
+    "size_bytes": 26521423053
+  },
+  "metadata": {
+    "description": "After a strange incident, the Phantom Thieves wander into a bizarre realm where its citizens are living under tyrannical oppression. Surrounded by a military group named Legionnaires, they find themselves in grave danger until a mysterious revolutionary named Erina rescues them and offers an enticing deal in exchange for their help. What truth lies behind Erina and the deal she offers to the Phantom Thieves? Persona 5 Tactica features an all-new story, the return of fan-favorite characters, and brand-new allies and foes. Join the group as they lead an emotional revolution in this thrilling combat adventure! If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.",
+    "notes": "",
+    "credits": "Thanks to SiESPta Team for the Files, and @kerrdec97 for the BackPort and @AnNormalGuy1999 for the PKG",
+    "publisher": "SEGA of America, Inc.",
+    "developer": "",
+    "players": "1",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "2023-11-17",
+    "store_url": "https://store.playstation.com/en-us/product/UP0177-PPSA16195_00-P5TPS5NA00000000",
+    "trailer": "https://vulcan.dl.playstation.net/img/rnd/202311/2718/2895098d0f545372c6c010e776df400c94f7f562a306f12f.mp4",
+    "available_at": "",
+    "uploading": false
+  },
+  "sources": [
+    {
+      "id": "59b04f89-0e88-4090-b3b2-7bbaaafd8826",
+      "provider": "Gofile",
+      "url": "https://gofile.io/d/UTtIKdWF",
+      "mode": "provider-page",
+      "direct": false,
+      "archive": false,
+      "extension": "",
+      "group": "",
+      "part": 0,
+      "dlc": false,
+      "credit": "",
+      "firmware": "",
+      "created_by": "admin"
+    }
+  ]
+}

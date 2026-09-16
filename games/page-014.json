@@ -4,10 +4,46 @@
   "source": "gfs-pfs-library",
   "page": 14,
   "page_size": 24,
-  "total": 377,
+  "total": 378,
   "pages": 16,
-  "generated": "2026-09-15T18:27:52.665Z",
+  "generated": "2026-09-16T00:32:54.074Z",
   "games": [
+    {
+      "id": "6a3655f056e5f49eefa028a1",
+      "title_id": "PPSA05366",
+      "title": "A Plague Tale Requiem",
+      "version": "1.005",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx +"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 51421495951,
+      "size_label": "47.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1717/5fJ3kW3Q3iEfNP9NpJybaKsq.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1717/KJvdh38WMEDQQJFEUnmqwSt0.jpg",
+      "updated_at": "2026-07-10T06:24:23.739Z",
+      "source_count": 2,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
+      "providers": [
+        "Archive",
+        "Viki"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028a1.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028a1-ed4b8c403a65.png",
+      "icon_bytes": 62889
+    },
     {
       "id": "6a3655f056e5f49eefa028a2",
       "title_id": "PPSA02387",
@@ -835,42 +871,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028ac-72e904b0f967.png",
       "icon_bytes": 76634
-    },
-    {
-      "id": "6a40005564f9bbe84b1fc58e",
-      "title_id": "PPSA23226",
-      "title": "Black Myth: Wukong Deluxe Edition",
-      "version": "01.021",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "9.xx-backport"
-      ],
-      "firmware_label": "9.xx-backport",
-      "firmware_raw": [
-        "9.xx+, 4.xx Backport"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.7.6",
-      "dlcs_merged": true,
-      "size_bytes": 117037858816,
-      "size_label": "109 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2117/59be402814be4dbf2ba860689f76895fc81510e615c925bd.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2117/98954d14c0d9c88ef33f74d4734ab5da03fab034ae37fcd1.png",
-      "updated_at": "2026-07-01T15:27:43.329Z",
-      "source_count": 2,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Archive - 4.xx Backport",
-        "Archive - 9.xx"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a40005564f9bbe84b1fc58e.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a40005564f9bbe84b1fc58e-189e10341414.png",
-      "icon_bytes": 70414
     }
   ]
 }

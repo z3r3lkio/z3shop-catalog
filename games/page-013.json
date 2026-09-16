@@ -4,10 +4,46 @@
   "source": "gfs-pfs-library",
   "page": 13,
   "page_size": 24,
-  "total": 377,
+  "total": 378,
   "pages": 16,
-  "generated": "2026-09-15T18:27:52.665Z",
+  "generated": "2026-09-16T00:32:54.074Z",
   "games": [
+    {
+      "id": "6a57ac54664b52645fefe089",
+      "title_id": "PPSA07421",
+      "title": "Fate/Samurai Remnant",
+      "version": "01.302",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "6.xx+"
+      ],
+      "firmware_label": "6.xx+",
+      "firmware_raw": [
+        "6.xx +"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 31890132173,
+      "size_label": "29.7 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1001/e52fe635f4280276845944ebdfc812dbaceedadf99ac66ee.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1001/302907087fcb64c32b77539de17630e7855945184b94a0be.png",
+      "updated_at": "2026-07-15T15:50:44.210Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Archive",
+        "1fichier"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a57ac54664b52645fefe089.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a57ac54664b52645fefe089-f5b7e6212e96.png",
+      "icon_bytes": 65713
+    },
     {
       "id": "6a57ab95664b52645fefe088",
       "title_id": "PPSA15209",
@@ -837,42 +873,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a38c27c6e92a31626525cc9-819839eb87c6.png",
       "icon_bytes": 62440
-    },
-    {
-      "id": "6a3655f056e5f49eefa028a1",
-      "title_id": "PPSA05366",
-      "title": "A Plague Tale Requiem",
-      "version": "1.005",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 51421495951,
-      "size_label": "47.9 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1717/5fJ3kW3Q3iEfNP9NpJybaKsq.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1717/KJvdh38WMEDQQJFEUnmqwSt0.jpg",
-      "updated_at": "2026-07-10T06:24:23.739Z",
-      "source_count": 2,
-      "usable_source_count": 1,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 1,
-      "providers": [
-        "Archive",
-        "Viki"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028a1.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028a1-ed4b8c403a65.png",
-      "icon_bytes": 62889
     }
   ]
 }

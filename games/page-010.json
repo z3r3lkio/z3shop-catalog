@@ -4,10 +4,46 @@
   "source": "gfs-pfs-library",
   "page": 10,
   "page_size": 24,
-  "total": 377,
+  "total": 378,
   "pages": 16,
-  "generated": "2026-09-15T18:27:52.665Z",
+  "generated": "2026-09-16T00:32:54.074Z",
   "games": [
+    {
+      "id": "6a622d4f3d4889f7e22e8b52",
+      "title_id": "PPSA22999",
+      "title": "Love is all around",
+      "version": "01.000.002",
+      "pack": "unknown",
+      "region": "ASIA",
+      "firmware": [
+        "7.xx-backport"
+      ],
+      "firmware_label": "7.xx-backport",
+      "firmware_raw": [
+        "7.xx BackPort"
+      ],
+      "apr": true,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 19971597926,
+      "size_label": "18.6 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1012/61e94ce1eca97d5c684887bff9eb34ca25c2900fd9ff5c06.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1104/d934be605c0042ddbc8a8f5e199c62a17c398dec563090d8.jpg",
+      "updated_at": "2026-07-23T15:03:43.427Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a622d4f3d4889f7e22e8b52.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a622d4f3d4889f7e22e8b52-3318ca701e99.png",
+      "icon_bytes": 64979
+    },
     {
       "id": "6a622d173d4889f7e22e8b51",
       "title_id": "PPSA17245",
@@ -839,43 +875,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a5f4c4c20ce6441f5b9a129-02ee20986481.png",
       "icon_bytes": 58382
-    },
-    {
-      "id": "6a3655f056e5f49eefa028b3",
-      "title_id": "PPSA25286",
-      "title": "Crimson Desert Deluxe Edition",
-      "version": "1.000.151",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "5.xx-backport"
-      ],
-      "firmware_label": "5.xx-backport",
-      "firmware_raw": [
-        "5.xx Backport, 4.xx Backport"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 95187212698,
-      "size_label": "88.7 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2905/4014211b4c4e8a33b54c01bb91359842a511f535a076e415.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2905/e1904307aca2aa40bce189aae6399ec67bce47e50a25ff43.jpg",
-      "updated_at": "2026-07-21T13:03:02.180Z",
-      "source_count": 3,
-      "usable_source_count": 2,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 2,
-      "providers": [
-        "Vikingfile - 4.xx Backport",
-        "Vikingfile",
-        "Archive - 5xx (Game + DLC)"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028b3.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028b3-3f3da916df0b.png",
-      "icon_bytes": 66982
     }
   ]
 }

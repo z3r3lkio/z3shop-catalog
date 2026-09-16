@@ -4,10 +4,46 @@
   "source": "gfs-pfs-library",
   "page": 15,
   "page_size": 24,
-  "total": 377,
+  "total": 378,
   "pages": 16,
-  "generated": "2026-09-15T18:27:52.665Z",
+  "generated": "2026-09-16T00:32:54.074Z",
   "games": [
+    {
+      "id": "6a40005564f9bbe84b1fc58e",
+      "title_id": "PPSA23226",
+      "title": "Black Myth: Wukong Deluxe Edition",
+      "version": "01.021",
+      "pack": "unknown",
+      "region": "EUR",
+      "firmware": [
+        "9.xx-backport"
+      ],
+      "firmware_label": "9.xx-backport",
+      "firmware_raw": [
+        "9.xx+, 4.xx Backport"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.7.6",
+      "dlcs_merged": true,
+      "size_bytes": 117037858816,
+      "size_label": "109 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2117/59be402814be4dbf2ba860689f76895fc81510e615c925bd.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2117/98954d14c0d9c88ef33f74d4734ab5da03fab034ae37fcd1.png",
+      "updated_at": "2026-07-01T15:27:43.329Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Archive - 4.xx Backport",
+        "Archive - 9.xx"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a40005564f9bbe84b1fc58e.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a40005564f9bbe84b1fc58e-189e10341414.png",
+      "icon_bytes": 70414
+    },
     {
       "id": "6a3ea5d9155384c8115a9afa",
       "title_id": "PPSA21567",
@@ -833,41 +869,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028af-8a00b1ce4c83.png",
       "icon_bytes": 75346
-    },
-    {
-      "id": "6a3655f056e5f49eefa028ad",
-      "title_id": "PPSA01417",
-      "title": "Marvel's Spider-Man Miles Morales",
-      "version": "1.013.002",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx +"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.2.6.3",
-      "dlcs_merged": false,
-      "size_bytes": 56371445760,
-      "size_label": "52.5 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1420/HcLcfeQBXd2RiQaCeWQDCIFN.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2417/tnCutdREPv6Pa7atqb8MTxGW.png",
-      "updated_at": "2026-06-20T10:10:40.809Z",
-      "source_count": 1,
-      "usable_source_count": 1,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028ad.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028ad-1fafd54fe007.png",
-      "icon_bytes": 35592
     }
   ]
 }

@@ -4,10 +4,81 @@
   "source": "gfs-pfs-library",
   "page": 2,
   "page_size": 24,
-  "total": 377,
+  "total": 378,
   "pages": 16,
-  "generated": "2026-09-15T18:27:52.665Z",
+  "generated": "2026-09-16T00:32:54.074Z",
   "games": [
+    {
+      "id": "6aa7add5792e471937d0b01b",
+      "title_id": "PPSA01411",
+      "title": "Marvel's Spider-Man Miles Morales",
+      "version": "01.015.001",
+      "pack": "fpkg",
+      "region": "EUR",
+      "firmware": [
+        "5.xx+"
+      ],
+      "firmware_label": "5.xx+",
+      "firmware_raw": [
+        "5.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 56371445760,
+      "size_label": "52.5 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1420/HcLcfeQBXd2RiQaCeWQDCIFN.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2417/tnCutdREPv6Pa7atqb8MTxGW.png",
+      "updated_at": "2026-09-14T08:18:29.454Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Viki",
+        "Archive"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6aa7add5792e471937d0b01b.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa7add5792e471937d0b01b-1fafd54fe007.png",
+      "icon_bytes": 35592
+    },
+    {
+      "id": "6aa7963e792e471937d0b01a",
+      "title_id": "PPSA19446",
+      "title": "Boti Byteland: Overclocked",
+      "version": "01.004",
+      "pack": "pfs",
+      "region": "EUR",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx+"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 3113851290,
+      "size_label": "2.9 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0411/cd9b3667cf2a27dac2727218d6eac0209716a081cd241684.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2511/9839e6ff0f58194f28d5b3594953e539f01e6cb60b97ec19.jpg",
+      "updated_at": "2026-09-14T06:37:50.933Z",
+      "source_count": 1,
+      "usable_source_count": 1,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 1,
+      "providers": [
+        "Viki"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6aa7963e792e471937d0b01a.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa7963e792e471937d0b01a-dd1f9857673a.png",
+      "icon_bytes": 70506
+    },
     {
       "id": "6aa78dd0792e471937d0b019",
       "title_id": "PPSA13197",
@@ -327,41 +398,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa52c80b67d2ea2148cd775-aa75855cdfcb.png",
       "icon_bytes": 64212
-    },
-    {
-      "id": "6aa52b60b67d2ea2148cd774",
-      "title_id": "PPSA24884",
-      "title": "Startfield Premium Edition",
-      "version": "01.000.002",
-      "pack": "lz4",
-      "region": "EUR",
-      "firmware": [
-        "11.xx+"
-      ],
-      "firmware_label": "11.xx+",
-      "firmware_raw": [
-        "11.xx+"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.4.2.1",
-      "dlcs_merged": false,
-      "size_bytes": 186831077376,
-      "size_label": "174 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/0401/684c5b80f300383037e55dc15bf2ad90f1753bed86e519ee.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/0401/79a18f39494627fd6bfc30841c8f0e5097d66453624893ee.jpg",
-      "updated_at": "2026-09-12T10:37:20.299Z",
-      "source_count": 1,
-      "usable_source_count": 1,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 1,
-      "providers": [
-        "Viki"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6aa52b60b67d2ea2148cd774.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6aa52b60b67d2ea2148cd774-005bf133d403.png",
-      "icon_bytes": 67950
     },
     {
       "id": "6a3655f056e5f49eefa028b4",
@@ -834,43 +870,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a967d51b0a31dad5b0fe923-368c98208c6a.png",
       "icon_bytes": 64331
-    },
-    {
-      "id": "6a967c99b0a31dad5b0fe922",
-      "title_id": "PPSA05916",
-      "title": "BloodRayne: Revamped",
-      "version": "01.001.000",
-      "pack": "unknown",
-      "region": "EUR",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.3.6.6",
-      "dlcs_merged": false,
-      "size_bytes": 4681514353,
-      "size_label": "4.4 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2619/L7XHOsnDiAXRX6UNLPWSNMH3.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2619/nlnY9BT1MXAOwEyqIx9I9Rtu.jpg",
-      "updated_at": "2026-09-01T07:19:53.515Z",
-      "source_count": 3,
-      "usable_source_count": 3,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 3,
-      "providers": [
-        "Akirabox",
-        "Viki",
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a967c99b0a31dad5b0fe922.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a967c99b0a31dad5b0fe922-dec64e5ef070.png",
-      "icon_bytes": 74501
     }
   ]
 }

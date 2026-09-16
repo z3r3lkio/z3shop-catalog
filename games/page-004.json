@@ -4,10 +4,46 @@
   "source": "gfs-pfs-library",
   "page": 4,
   "page_size": 24,
-  "total": 377,
+  "total": 378,
   "pages": 16,
-  "generated": "2026-09-15T18:27:52.665Z",
+  "generated": "2026-09-16T00:32:54.074Z",
   "games": [
+    {
+      "id": "6a8bfa73b0a31dad5b0fe901",
+      "title_id": "PPSA22520",
+      "title": "Animal Well",
+      "version": "01.000.011",
+      "pack": "unknown",
+      "region": "JPN",
+      "firmware": [
+        "4.xx+"
+      ],
+      "firmware_label": "4.xx+",
+      "firmware_raw": [
+        "4.xx"
+      ],
+      "apr": true,
+      "apr_version": "apr-emu-v0.2.6.3",
+      "dlcs_merged": false,
+      "size_bytes": 101275329,
+      "size_label": "0.1 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0222/ifoK4Np4B75vGqJnPUoBTkmQ.png",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0222/NGRSvX4mKD1NvZpCwudRrqGJ.png",
+      "updated_at": "2026-08-24T08:01:55.288Z",
+      "source_count": 2,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Viki",
+        "Akirabox"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a8bfa73b0a31dad5b0fe901.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a8bfa73b0a31dad5b0fe901-1886043d9daa.png",
+      "icon_bytes": 65352
+    },
     {
       "id": "6a887890b0a31dad5b0fe8f7",
       "title_id": "PPSA01695",
@@ -834,42 +870,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a84634eb0a31dad5b0fe8d8-e5b61bb5fc0e.png",
       "icon_bytes": 59677
-    },
-    {
-      "id": "6a3655f056e5f49eefa028a5",
-      "title_id": "PPSA07809",
-      "title": "Crisis Core Final Fantasy VII Reunion",
-      "version": "1.004",
-      "pack": "unknown",
-      "region": "USA",
-      "firmware": [
-        "4.xx+"
-      ],
-      "firmware_label": "4.xx+",
-      "firmware_raw": [
-        "4.xx"
-      ],
-      "apr": true,
-      "apr_version": "apr-emu-v0.3.3.1-test",
-      "dlcs_merged": false,
-      "size_bytes": 23407571763,
-      "size_label": "21.8 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2505/7GhpNUWSPdoNFdMLroXaPXm8.png",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2505/Cv2pVnIqJwmosTYRmjsxgQbV.jpg",
-      "updated_at": "2026-08-17T23:35:15.423Z",
-      "source_count": 4,
-      "usable_source_count": 4,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 4,
-      "providers": [
-        "Viki",
-        "Akirabox"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028a5.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028a5-0c21adc9e80d.png",
-      "icon_bytes": 71388
     }
   ]
 }

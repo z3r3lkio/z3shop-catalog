@@ -4,10 +4,47 @@
   "source": "gfs-pfs-library",
   "page": 11,
   "page_size": 24,
-  "total": 377,
+  "total": 378,
   "pages": 16,
-  "generated": "2026-09-15T18:27:52.665Z",
+  "generated": "2026-09-16T00:32:54.074Z",
   "games": [
+    {
+      "id": "6a3655f056e5f49eefa028b3",
+      "title_id": "PPSA25286",
+      "title": "Crimson Desert Deluxe Edition",
+      "version": "1.000.151",
+      "pack": "unknown",
+      "region": "USA",
+      "firmware": [
+        "5.xx-backport"
+      ],
+      "firmware_label": "5.xx-backport",
+      "firmware_raw": [
+        "5.xx Backport, 4.xx Backport"
+      ],
+      "apr": false,
+      "apr_version": "",
+      "dlcs_merged": false,
+      "size_bytes": 95187212698,
+      "size_label": "88.7 GiB",
+      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2905/4014211b4c4e8a33b54c01bb91359842a511f535a076e415.jpg",
+      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2905/e1904307aca2aa40bce189aae6399ec67bce47e50a25ff43.jpg",
+      "updated_at": "2026-07-21T13:03:02.180Z",
+      "source_count": 3,
+      "usable_source_count": 2,
+      "direct_source_count": 0,
+      "archive_source_count": 0,
+      "provider_page_count": 2,
+      "providers": [
+        "Vikingfile - 4.xx Backport",
+        "Vikingfile",
+        "Archive - 5xx (Game + DLC)"
+      ],
+      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a3655f056e5f49eefa028b3.json",
+      "source": "gfs-pfs-library",
+      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a3655f056e5f49eefa028b3-3f3da916df0b.png",
+      "icon_bytes": 66982
+    },
     {
       "id": "6a4ce5c72860efac54e4aaa2",
       "title_id": "PPSA05684",
@@ -824,41 +861,6 @@
       "source": "gfs-pfs-library",
       "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a59f72b664b52645fefe0a8-d4fe8a20d088.png",
       "icon_bytes": 79019
-    },
-    {
-      "id": "6a59f675664b52645fefe0a6",
-      "title_id": "PPSA15368",
-      "title": "Contra Operation Galuga",
-      "version": "01.003",
-      "pack": "pfs",
-      "region": "EUR",
-      "firmware": [
-        "7.xx+"
-      ],
-      "firmware_label": "7.xx+",
-      "firmware_raw": [
-        "7.xx"
-      ],
-      "apr": false,
-      "apr_version": "",
-      "dlcs_merged": false,
-      "size_bytes": 9631464161,
-      "size_label": "9.0 GiB",
-      "poster_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2809/285844cbe09f0e435f48cd346b915dafad613d4d6b6416d3.jpg",
-      "banner_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2809/285844cbe09f0e435f48cd346b915dafad613d4d6b6416d3.jpg",
-      "updated_at": "2026-07-17T10:13:26.447Z",
-      "source_count": 1,
-      "usable_source_count": 1,
-      "direct_source_count": 0,
-      "archive_source_count": 0,
-      "provider_page_count": 1,
-      "providers": [
-        "Archive"
-      ],
-      "sources_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/games/sources/6a59f675664b52645fefe0a6.json",
-      "source": "gfs-pfs-library",
-      "icon_url": "https://raw.githubusercontent.com/z3r3lkio/z3shop-catalog/main/game-art/6a59f675664b52645fefe0a6-ce24c266079e.png",
-      "icon_bytes": 65205
     }
   ]
 }
